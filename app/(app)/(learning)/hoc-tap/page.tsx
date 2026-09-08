@@ -71,6 +71,20 @@ export default async function HocTapPage() {
             }
           ];
         }
+        const hasToeic = gradeSubjects.some((s: any) => s.slug === 'toeic-thay-long');
+        if (!hasToeic) {
+          gradeSubjects = [
+            ...gradeSubjects,
+            {
+              id: 'toeic-thay-long-id-123',
+              slug: 'toeic-thay-long',
+              name_vi: 'Lớp TOEIC Thầy Long',
+              name_en: 'TOEIC Thầy Long',
+              description: 'Thực hành TOEIC qua video',
+              icon: '🎓'
+            }
+          ];
+        }
       } else {
         // Prevent Cambridge subjects leaking into grade categories
         gradeSubjects = gradeSubjects.filter((s: any) => !['pre-a1-starter', 'mindset-ielts'].includes(s.slug));
@@ -96,6 +110,7 @@ export default async function HocTapPage() {
         case 'mindset-ielts': return <GraduationCap className={className} />;
         case 'pre-a1-starter': return <Star className={className} />;
         case 'practical-english': return <Globe2 className={className} />;
+        case 'toeic-thay-long': return <GraduationCap className={className} />;
         default: return <BookOpen className={className} />;
     }
   };
@@ -104,6 +119,7 @@ export default async function HocTapPage() {
     if (slug === 'mindset-ielts') return `/hoc-tap/mindset-ielts`;
     if (slug === 'pre-a1-starter') return `/hoc-tap/pre-a1-starter`;
     if (slug === 'practical-english') return `/hoc-tap/practical-english`;
+    if (slug === 'toeic-thay-long') return `/hoc-tap/toeic-thay-long`;
     if (slug === 'tieng_viet') return `/hoc-tap/tieng_viet`;
     const nodeSlug = grade === 0 ? (slug === 'mindset-ielts' ? 'ielts-foundation' : 'global') : `lop-${grade}`;
     return `/learn/${slug}/${nodeSlug}`;
