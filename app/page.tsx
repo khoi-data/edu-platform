@@ -17,45 +17,69 @@ export default function HomePage() {
           <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-brand-600 text-lg font-bold text-white shadow-lg shadow-brand-600/25">
             E
           </span>
-          <span className="font-display text-xl font-semibold tracking-tight text-slate-900">
-            EduVerse
-          </span>
+          <div className="flex flex-col">
+            <span className="font-display text-xl font-semibold tracking-tight text-slate-900">
+              EduVerse
+            </span>
+            <span className="text-[10px] font-medium text-slate-500">
+              by Minh Khoi Edu
+            </span>
+          </div>
         </div>
-        <Link
-          href="/login"
-          className="rounded-full bg-brand-600 px-5 py-2.5 text-sm font-semibold text-white shadow-md shadow-brand-600/20 transition hover:bg-brand-700 active:scale-[0.98]"
-        >
-          Student login
-        </Link>
+        <div className="flex items-center gap-3">
+          <Link
+            href="/demo"
+            className="rounded-full border border-brand-200 bg-white/90 px-4 py-2 text-sm font-semibold text-brand-700 shadow-sm backdrop-blur transition hover:bg-brand-50 hover:text-brand-800"
+          >
+            Live Demo (Khách)
+          </Link>
+          <Link
+            href="/login"
+            className="rounded-full bg-brand-600 px-5 py-2.5 text-sm font-semibold text-white shadow-md shadow-brand-600/20 transition hover:bg-brand-700 active:scale-[0.98]"
+          >
+            Student login
+          </Link>
+        </div>
       </header>
 
-      <main className="relative z-10 mx-auto max-w-6xl px-4 pb-24 pt-12 sm:px-6 lg:px-8 lg:pt-20">
+      <main className="relative z-10 mx-auto max-w-6xl px-4 pb-20 pt-12 sm:px-6 lg:px-8 lg:pt-16">
         <div className="grid gap-12 lg:grid-cols-2 lg:items-center lg:gap-16">
           <div>
-            <p className="mb-3 inline-flex rounded-full bg-brand-100 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-brand-800">
-              Grades 3 &amp; 7
-            </p>
+            <div className="mb-3 flex flex-wrap gap-2">
+              <span className="inline-flex rounded-full bg-brand-100 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-brand-800">
+                Grades 3 &amp; 7
+              </span>
+              <span className="inline-flex items-center rounded-full bg-emerald-100 px-3 py-1 text-xs font-semibold tracking-wide text-emerald-800">
+                ✨ AI-Native Learning Platform
+              </span>
+            </div>
             <h1 className="font-display text-4xl font-bold leading-tight tracking-tight text-slate-900 sm:text-5xl lg:text-6xl">
               Learn at your pace, shine in every lesson.
             </h1>
             <p className="mt-6 max-w-xl text-lg text-slate-600">
-              Your personal hub for schedules, PDF readings, video lessons,
-              quizzes, and progress — optimized for tablets and iPads.
+              AI-native adaptive learning hub empowering students with curriculum roadmaps, 
+              interactive workbooks, smart quiz assessments, and step-by-step AI problem solving.
             </p>
             <div className="mt-10 flex flex-wrap gap-4">
               <Link
-                href="/login"
-                className="inline-flex items-center justify-center rounded-full bg-brand-600 px-8 py-3.5 text-base font-semibold text-white shadow-lg shadow-brand-600/25 transition hover:bg-brand-700"
+                href="/demo"
+                className="inline-flex items-center justify-center rounded-full bg-brand-600 px-8 py-3.5 text-base font-semibold text-white shadow-lg shadow-brand-600/25 transition hover:bg-brand-700 active:scale-[0.98]"
               >
-                Go to dashboard
+                Trải nghiệm Live Demo →
+              </Link>
+              <Link
+                href="/login"
+                className="inline-flex items-center justify-center rounded-full border border-slate-300 bg-white/90 px-7 py-3.5 text-base font-semibold text-slate-700 shadow-sm backdrop-blur transition hover:bg-white"
+              >
+                Đăng nhập tài khoản
               </Link>
             </div>
             <ul className="mt-14 grid gap-4 sm:grid-cols-2">
               {[
-                "Weekly lesson schedule",
-                "Built-in PDF reader",
-                "YouTube lessons embedded safely",
-                "Quizzes with instant scoring",
+                "AI Tutor & giải thích từng bước (Reasoning)",
+                "Sinh đề thích ứng & chấm điểm tức thì",
+                "Lộ trình học tập & video đa phương thức",
+                "Sách bài tập số hóa & PDF tương tác",
               ].map((item) => (
                 <li
                   key={item}
@@ -75,15 +99,20 @@ export default function HomePage() {
           <div className="relative">
             <div className="aspect-[4/3] rounded-3xl border border-slate-200/80 bg-white p-4 shadow-card-lg sm:p-6">
               <div className="flex h-full flex-col rounded-2xl bg-gradient-to-br from-slate-900 to-slate-800 p-5 text-white sm:p-6">
-                <p className="text-xs font-medium uppercase tracking-widest text-brand-300">
-                  Today
-                </p>
+                <div className="flex items-center justify-between">
+                  <p className="text-xs font-medium uppercase tracking-widest text-brand-300">
+                    Today
+                  </p>
+                  <span className="inline-flex items-center rounded-full bg-emerald-500/20 px-2.5 py-0.5 text-[11px] font-medium text-emerald-300">
+                    ● AI Tutor Active
+                  </span>
+                </div>
                 <p className="mt-1 font-display text-2xl font-bold">Wednesday</p>
                 <div className="mt-6 space-y-3">
                   {[
-                    { t: "9:00", s: "Math — Fractions fun" },
-                    { t: "10:15", s: "Reading — Story time" },
-                    { t: "1:00", s: "Science — Weather lab" },
+                    { t: "9:00", s: "Math — Fractions & Reasoning" },
+                    { t: "10:15", s: "English — Conversational Practice" },
+                    { t: "1:00", s: "Science — Adaptive Lab Quiz" },
                   ].map((row) => (
                     <div
                       key={row.t}
@@ -107,6 +136,10 @@ export default function HomePage() {
           </div>
         </div>
       </main>
+
+      <footer className="relative z-10 border-t border-slate-200/80 bg-white/70 py-6 text-center text-xs text-slate-500 backdrop-blur">
+        <p>© 2026 EduVerse by Minh Khoi Edu. All rights reserved.</p>
+      </footer>
     </div>
   );
 }

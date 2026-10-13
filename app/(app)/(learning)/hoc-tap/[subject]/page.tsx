@@ -37,8 +37,9 @@ export default async function HocTapSubjectPage({ params, searchParams }: Props)
 
   const grade = profile?.grade ?? 3;
 
-  if (subject === "toan" || subject === "tieng_anh" || subject === "tieng_viet") {
-    redirect(`/learn/${subject}/lop-${grade}`);
+  if (subject === "toan" || subject === "tieng_anh" || subject === "tieng_viet" || subject === "tieng-anh-7") {
+    const targetSubject = (subject === "tieng_anh" && grade === 7) || subject === "tieng-anh-7" ? "tieng-anh-7" : subject;
+    redirect(`/learn/${targetSubject}/lop-${grade}`);
   }
   const { tap } = await searchParams;
   if (!SLUG_RE.test(subject)) notFound();

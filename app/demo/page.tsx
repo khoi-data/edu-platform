@@ -8,15 +8,25 @@ import {
   Library,
   ArrowRight,
   MonitorPlay,
+  Sparkles,
 } from "lucide-react";
 import AutoLoginButton from "./AutoLoginButton";
 
 export const metadata = {
-  title: "Giới thiệu Hệ thống - EduVerse",
-  description: "Khám phá các tính năng của nền tảng giáo dục EduVerse",
+  title: "EduVerse by Minh Khoi Edu - AI-Native Learning & Assessment",
+  description: "Khám phá các tính năng của nền tảng giáo dục EduVerse by Minh Khoi Edu",
 };
 
 const modules = [
+  {
+    id: "ai-tutor",
+    title: "AI Study Assistant (Trợ lý AI)",
+    description:
+      "Trợ lý sư phạm thông minh hỗ trợ giải thích từng bước (step-by-step reasoning), phát hiện lỗ hổng tư duy và tạo bài luyện tập thích ứng theo năng lực.",
+    icon: Sparkles,
+    color: "bg-violet-500",
+    light: "bg-violet-100 text-violet-600",
+  },
   {
     id: "learning",
     title: "Learning (Học tập)",
@@ -83,12 +93,19 @@ export default function DemoPage() {
             <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-brand-600 text-lg font-bold text-white shadow-md shadow-brand-600/25">
               E
             </span>
-            <span className="font-display font-bold text-xl text-slate-800 tracking-tight">
-              EduVerse
-            </span>
-            <span className="ml-2 rounded-full bg-accent-amber/20 px-2.5 py-0.5 text-xs font-semibold text-amber-700 border border-amber-200">
-              Demo
-            </span>
+            <div className="flex flex-col">
+              <div className="flex items-center gap-2">
+                <span className="font-display font-bold text-xl text-slate-800 tracking-tight">
+                  EduVerse
+                </span>
+                <span className="rounded-full bg-accent-amber/20 px-2 py-0.5 text-[10px] font-semibold text-amber-700 border border-amber-200">
+                  Demo
+                </span>
+              </div>
+              <span className="text-[10px] text-slate-500 font-medium">
+                by Minh Khoi Edu
+              </span>
+            </div>
           </div>
           <nav className="flex items-center gap-6">
             <Link
@@ -112,12 +129,17 @@ export default function DemoPage() {
         <div className="text-center max-w-4xl mx-auto mb-20 relative">
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-brand-200/50 rounded-full blur-[80px] -z-10"></div>
           
+          <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-violet-200 bg-violet-50 px-4 py-1.5 text-xs font-semibold text-violet-800 shadow-sm">
+            <Sparkles className="w-3.5 h-3.5 text-violet-600" />
+            <span>AI-Native Adaptive Learning Platform • Powered by Claude</span>
+          </div>
+
           <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-slate-900 leading-tight">
             Nền tảng Giáo dục <br />
-            <span className="text-brand-600">Đa phương thức</span> & Tương tác
+            <span className="text-brand-600">Đa phương thức</span> & Trợ lý AI
           </h1>
           <p className="mt-6 text-lg md:text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">
-            Khám phá hệ sinh thái học tập và luyện thi được xây dựng trên kiến trúc Question-centric, mang lại trải nghiệm tối ưu cho học sinh và công cụ quản trị mạnh mẽ.
+            Hệ sinh thái học tập và luyện thi chuẩn hóa kết hợp cùng trợ lý AI giải thích bài tập từng bước (reasoning), phát hiện lỗi sai và tự động sinh câu hỏi thích ứng theo năng lực học sinh.
           </p>
           <div className="mt-10 flex flex-wrap justify-center gap-4">
              <a href="#architecture" className="inline-flex items-center justify-center rounded-full bg-slate-900 px-8 py-3.5 text-base font-semibold text-white shadow-lg transition hover:bg-slate-800">
@@ -130,8 +152,8 @@ export default function DemoPage() {
         {/* Architecture / Modules Grid */}
         <div id="architecture" className="mb-24 scroll-mt-24">
           <div className="text-center mb-12">
-            <h2 className="font-display text-3xl font-bold text-slate-900 mb-4">6 Phân hệ Kiến trúc Lõi</h2>
-            <p className="text-slate-600">Hệ thống được chia thành 3 lớp: Content (Tĩnh) - Attempts (Làm bài) - Progress (Tiến độ)</p>
+            <h2 className="font-display text-3xl font-bold text-slate-900 mb-4">Các Phân hệ Kiến trúc Lõi</h2>
+            <p className="text-slate-600">Hệ thống tích hợp 3 tầng: Content (Tĩnh) - Attempts (Làm bài) - Progress (Tiến độ) cùng Trợ lý AI</p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -282,7 +304,8 @@ export default function DemoPage() {
       
       <footer className="mt-24 border-t border-slate-200 bg-white py-12">
         <div className="max-w-6xl mx-auto px-4 text-center text-sm text-slate-500">
-          <p>© 2026 EduVerse Platform. Kiến trúc tĩnh và linh hoạt.</p>
+          <p>© 2026 EduVerse by Minh Khoi Edu. All rights reserved.</p>
+          <p className="mt-1 text-xs text-slate-400">AI-native adaptive learning & assessment platform.</p>
         </div>
       </footer>
     </div>

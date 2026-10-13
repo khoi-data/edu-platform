@@ -116,7 +116,7 @@ export default async function DashboardPage() {
     ? [
         { slug: 'toan', name: 'Toán 7', icon: '🔢' },
         { slug: 'tieng_viet', name: 'Tiếng Việt 7', icon: '📖' },
-        { slug: 'tieng_anh', name: 'Tiếng Anh 7', icon: '🌍' },
+        { slug: 'tieng-anh-7', name: 'Tiếng Anh 7', icon: '🌍' },
         { slug: 'khtn', name: 'KHTN 7', icon: '🧬' },
         { slug: 'mindset-ielts', name: 'IELTS Mindset', icon: '🎓' }
       ]

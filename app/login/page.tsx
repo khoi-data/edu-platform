@@ -57,16 +57,29 @@ export default function LoginPage() {
           <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-sky-600 text-sm font-bold text-white shadow-lg shadow-sky-500/20">
             E
           </span>
-          <span className="font-display text-lg font-semibold text-white">
-            EduVerse
-          </span>
+          <div className="flex flex-col">
+            <span className="font-display text-lg font-semibold text-white">
+              EduVerse
+            </span>
+            <span className="text-[10px] text-slate-400">
+              by Minh Khoi Edu
+            </span>
+          </div>
         </Link>
-        <Link
-          href="/"
-          className="text-sm font-medium text-sky-500 hover:text-sky-400"
-        >
-          ← Back home
-        </Link>
+        <div className="flex items-center gap-3">
+          <Link
+            href="/demo"
+            className="rounded-full border border-sky-500/30 bg-sky-950/40 px-3.5 py-1.5 text-xs font-semibold text-sky-300 transition hover:bg-sky-900/60 hover:text-white"
+          >
+            Live Demo (Khách) →
+          </Link>
+          <Link
+            href="/"
+            className="text-sm font-medium text-slate-400 hover:text-white"
+          >
+            ← Trang chủ
+          </Link>
+        </div>
       </header>
 
       <main className="flex flex-1 items-center justify-center px-4 pb-16 pt-4">
@@ -216,10 +229,21 @@ export default function LoginPage() {
                     : "Create account"}
               </button>
             </form>
+
+            <div className="mt-6 border-t border-line/60 pt-6 text-center">
+              <p className="text-xs text-slate-400">
+                Khách hoặc đánh giá viên chương trình (Reviewer):
+              </p>
+              <Link
+                href="/demo"
+                className="mt-3 inline-flex w-full items-center justify-center rounded-xl border border-sky-500/40 bg-sky-950/50 py-3 text-sm font-semibold text-sky-300 shadow transition hover:bg-sky-900/60 hover:text-white"
+              >
+                ✨ Trải nghiệm Live Demo (Không cần mật khẩu) →
+              </Link>
+            </div>
           </div>
           <p className="mt-6 text-center text-xs text-slate-500">
-            Teachers: run the SQL in <code className="rounded bg-surface px-1.5 py-0.5 text-sky-400">supabase/migrations</code>{" "}
-            after creating a Supabase project.
+            © 2026 EduVerse by Minh Khoi Edu. All rights reserved.
           </p>
         </div>
       </main>

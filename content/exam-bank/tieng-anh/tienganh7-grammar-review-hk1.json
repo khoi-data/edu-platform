@@ -1,0 +1,801 @@
+{
+  "collection": {
+    "title": "Chuyên đề Ngữ pháp Trọng tâm & Viết lại câu (Unit 1 - 4)",
+    "subject_slug": "tieng-anh-7",
+    "grade": 7,
+    "volume": 1,
+    "units": [1],
+    "sequence_number": 1,
+    "exam_type": "review",
+    "reference_book": "Global Success & Chuyên đề Ngữ pháp THCS",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 1,
+      "title": "Đề 01: Chuyên đề Ngữ pháp Unit 1 & Unit 2 (Hiện tại đơn, Câu đơn, S + find, Liên từ, More/Less)",
+      "duration_minutes": 25,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Viết lại câu sau với nghĩa không đổi:\n\"She doesn't like playing football.\"\n→ She finds _______.",
+            "options": [
+              "playing football boring",
+              "playing football is boring",
+              "playing football bored",
+              "that playing football boring"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: S + find/finds + V-ing + Adj (Nhận định về sở thích/hành động, tuyệt đối KHÔNG có \"is\" ở giữa).",
+            "explanation": "• Cấu trúc: S + find/finds + O (V-ing) + Adj (nhận thấy làm việc gì như thế nào).\n• Cô ấy không thích chơi bóng đá nghĩa là cô ấy thấy chơi bóng đá nhàm chán (boring).\n• Phương án B sai vì thừa \"is\".\n• Phương án C sai vì \"bored\" chỉ cảm xúc của người, phải dùng \"boring\" để miêu tả tính chất môn thể thao.",
+            "tags": ["unit-1", "find-structure", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"My brother loves building dollhouses because he thinks it is creative.\"\n→ My brother finds _______.",
+            "options": [
+              "building dollhouses is creative",
+              "building dollhouses creative",
+              "to build dollhouses creative",
+              "building dollhouses creativity"
+            ],
+            "correct_index": 1,
+            "hint": "💡 Ngữ pháp: S + find/finds + V-ing + Adj (thay thế cho S + think that V-ing is Adj).",
+            "explanation": "• Cấu trúc tương đương: S + think(s) (that) + V-ing + is + Adj ↔ S + find(s) + V-ing + Adj.\n• \"building dollhouses\" là tân ngữ V-ing, theo sau là tính từ \"creative\".\n• Phương án B đúng chuẩn ngữ pháp.",
+            "tags": ["unit-1", "find-structure", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Chọn câu đúng để hoàn thành:\n\"Water _______ at 100 degrees Celsius and _______ into steam.\"",
+            "options": [
+              "boils - turns",
+              "boil - turn",
+              "is boiling - is turning",
+              "boiled - turned"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Thì Hiện tại đơn (The Present Simple) dùng để diễn tả sự thật hiển nhiên, chân lý khoa học (chủ ngữ số ít đi với V-s/es).",
+            "explanation": "• \"Water\" là danh từ không đếm được (ngôi thứ 3 số ít), diễn tả chân lý khoa học thì động từ chia thì Hiện tại đơn: boils và turns.\n• Dịch: Nước sôi ở 100 độ C và chuyển thành hơi nước.",
+            "tags": ["unit-1", "present-simple", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "\"My mother _______ yoga every morning, but my sister _______ doing it.\"",
+            "options": [
+              "does - doesn't like",
+              "do - don't like",
+              "is doing - not like",
+              "does - isn't liking"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Thì Hiện tại đơn với thói quen lặp lại (every morning) và động từ chỉ sở thích (like).",
+            "explanation": "• \"My mother\" (số ít) → does yoga.\n• \"My sister\" (số ít) phủ định ở hiện tại đơn → doesn't like.\n• Lưu ý: Các động từ chỉ sở thích/cảm xúc (like, love, hate) không chia ở thì tiếp diễn.",
+            "tags": ["unit-1", "present-simple", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Xác định thành phần của câu sau:\n\"She washes her face twice a day.\"",
+            "options": [
+              "S: She | V: washes | O: her face | ADV: twice a day",
+              "S: She | V: washes | ADV: her face | O: twice a day",
+              "S: She washes | O: her face | ADV: twice a day",
+              "S: She | V: washes her face | ADV: twice a day"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Phân tích thành phần Câu đơn (Simple Sentence: S + V + O + ADV).",
+            "explanation": "• S (Subject - Chủ ngữ): She\n• V (Verb - Động từ/Vị ngữ): washes\n• O (Object - Tân ngữ chịu tác động): her face\n• ADV (Adverbial - Trạng từ chỉ tần suất/thời gian): twice a day.",
+            "tags": ["unit-2", "simple-sentence", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Sắp xếp các từ sau thành câu đơn hoàn chỉnh:\n\"to prevent / garlic / We / eat / the flu / a lot of / .\"",
+            "options": [
+              "We eat a lot of garlic to prevent the flu.",
+              "We eat to prevent the flu a lot of garlic.",
+              "A lot of garlic we eat to prevent the flu.",
+              "We prevent the flu to eat a lot of garlic."
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Trật tự câu đơn: Chủ ngữ (S: We) + Động từ (V: eat) + Tân ngữ (O: a lot of garlic) + Cụm mục đích (to prevent the flu).",
+            "explanation": "• Trật tự chuẩn: S + V + O + cụm mục đích: \"We eat a lot of garlic to prevent the flu.\" (Chúng tôi ăn nhiều tỏi để phòng ngừa cảm cúm).",
+            "tags": ["unit-2", "sentence-building", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Điền liên từ thích hợp vào câu ghép sau:\n\"He has a high fever, _______ he should stay at home and rest.\"",
+            "options": [
+              "so",
+              "but",
+              "or",
+              "and"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Câu ghép (Compound sentence) dùng \"so\" để nối mệnh đề chỉ nguyên nhân và kết quả (vì... nên...).",
+            "explanation": "• Mệnh đề trước: Cậu ấy bị sốt cao (nguyên nhân).\n• Mệnh đề sau: Cậu ấy nên ở nhà nghỉ ngơi (kết quả).\n• Liên từ diễn đạt kết quả là \"so\" (vì vậy, cho nên).",
+            "tags": ["unit-2", "compound-sentence", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"Wear a warm coat, _______ you will catch a cold.\"",
+            "options": [
+              "or",
+              "and",
+              "so",
+              "but"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Câu mệnh lệnh kết hợp với liên từ \"or\" diễn tả cảnh báo (Hãy làm việc này, nếu không thì...).",
+            "explanation": "• Cấu trúc: Câu mệnh lệnh + or + S + will + V (nếu không thì...).\n• Dịch: Mặc áo ấm vào, nếu không thì em sẽ bị cảm lạnh đấy.",
+            "tags": ["unit-2", "compound-sentence", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"I love eating sweet cakes, _______ I am trying to lose weight.\"",
+            "options": [
+              "but",
+              "so",
+              "or",
+              "and"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Câu ghép với liên từ \"but\" để diễn tả hai ý tương phản, đối lập nhau.",
+            "explanation": "• Ý 1: Tôi rất thích ăn bánh ngọt.\n• Ý 2: Tôi đang cố gắng giảm cân.\n• Hai ý đối lập nhau nên dùng liên từ \"but\" (nhưng).",
+            "tags": ["unit-2", "compound-sentence", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Chọn từ thích hợp điền vào lời khuyên sức khỏe sau:\n\"To stay healthy, you should eat _______ fast food and do _______ exercise.\"",
+            "options": [
+              "less - more",
+              "more - less",
+              "fewer - much",
+              "little - many"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Cấu trúc khuyên nhủ với More & Less: Eat less (ăn ít hơn) + đồ ăn không tốt; Do more (tập nhiều hơn) + thói quen tốt.",
+            "explanation": "• \"fast food\" (đồ ăn nhanh) có hại nên cần ăn ít đi → eat less fast food.\n• \"exercise\" (tập thể dục) tốt cho sức khỏe nên cần làm nhiều hơn → do more exercise.",
+            "tags": ["unit-2", "imperatives-more-less", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"Don't stay up late to play games. You should sleep _______ to feel energetic tomorrow.\"",
+            "options": [
+              "more",
+              "less",
+              "fewer",
+              "least"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Động từ + more (làm việc gì đó nhiều hơn để cải thiện sức khỏe).",
+            "explanation": "• Ngữ cảnh khuyên ngủ nhiều hơn (sleep more) để ngày mai tràn đầy năng lượng.",
+            "tags": ["unit-2", "imperatives-more-less", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Tìm lỗi sai trong câu sau:\n\"Tim finds collecting stamps is very interesting because it teaches him history.\"",
+            "options": [
+              "is",
+              "finds",
+              "collecting",
+              "teaches"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Bẫy cấu trúc S + find + V-ing + Adj (thừa động từ to be \"is\").",
+            "explanation": "• Cấu trúc đúng là: Tim finds collecting stamps very interesting (không có \"is\").\n• Do đó từ thừa cần sửa là \"is\".",
+            "tags": ["unit-1", "find-structure", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Viết lại câu sau:\n\"I hate getting up early in the winter.\"\n→ I don't _______.",
+            "options": [
+              "like getting up early in the winter",
+              "hate getting up early in the winter",
+              "enjoy to get up early in the winter",
+              "mind getting up early in the winter"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Chuyển đổi giữa động từ ghét (hate + V-ing) và phủ định của thích (don't like + V-ing).",
+            "explanation": "• Hate + V-ing (ghét làm gì) đồng nghĩa với don't like / don't enjoy + V-ing (không thích làm gì).\n• Phương án C sai vì enjoy phải đi với V-ing, không đi với \"to get\".",
+            "tags": ["unit-1", "verbs-of-liking", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"Doing regular exercise helps you _______ fit and strong.\"",
+            "options": [
+              "keep",
+              "keeping",
+              "kept",
+              "to keeping"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Cấu trúc Help someone (to) V nguyên thể (giúp ai làm gì).",
+            "explanation": "• Cấu trúc: help + someone + V nguyên thể (hoặc to V): help you keep fit (giúp bạn giữ dáng và khỏe mạnh).",
+            "tags": ["unit-2", "grammar", "health"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"You should wash your hands often with soap, _______ you will spread germs.\"",
+            "options": [
+              "or",
+              "and",
+              "so",
+              "but"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Liên từ \"or\" mang nghĩa cảnh báo: nếu không thì.",
+            "explanation": "• Dịch: Bạn nên rửa tay thường xuyên bằng xà phòng, nếu không bạn sẽ làm lây lan vi khuẩn (or you will spread germs).",
+            "tags": ["unit-2", "compound-sentence", "grammar"]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 2,
+      "title": "Đề 02: Chuyên đề Ngữ pháp Unit 3 & Unit 4 (Quá khứ đơn, Hiện tại hoàn thành, Too/Either, So sánh)",
+      "duration_minutes": 25,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Viết lại câu sau từ Quá khứ đơn sang Hiện tại hoàn thành:\n\"We started volunteering at the community centre two years ago.\"\n→ We have _______.",
+            "options": [
+              "volunteered at the community centre for two years",
+              "volunteered at the community centre since two years",
+              "started volunteering at the community centre for two years",
+              "been volunteer at the community centre two years ago"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: S + started/began + V-ing + (thời gian) ago ↔ S + have/has + V3/ed + for + (khoảng thời gian).",
+            "explanation": "• Cấu trúc kinh điển: Bắt đầu làm gì cách đây 2 năm (started ... 2 years ago) = Đã làm việc đó được 2 năm (have volunteered for 2 years).\n• Dùng \"for\" với khoảng thời gian (for 2 years), dùng \"since\" với mốc thời gian.",
+            "tags": ["unit-3", "past-simple-present-perfect", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"This is the first time I have ever eaten Pho in Hanoi.\"\n→ I have never _______.",
+            "options": [
+              "eaten Pho in Hanoi before",
+              "ate Pho in Hanoi before",
+              "eaten Pho in Hanoi since",
+              "eat Pho in Hanoi ago"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: It is the first time S + have/has + V3 ↔ S + have/has never + V3 + before (Chưa từng làm việc gì trước đây).",
+            "explanation": "• Cấu trúc: \"Đây là lần đầu tiên tôi ăn phở ở Hà Nội\" tương đương với \"Tôi chưa từng ăn phở ở Hà Nội trước đây\" (I have never eaten Pho in Hanoi before).\n• Hiện tại hoàn thành dùng \"eaten\" (phân từ 2 của eat).",
+            "tags": ["unit-3", "present-perfect", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "\"Last weekend, our club _______ books and clothes to poor children in mountainous areas.\"",
+            "options": [
+              "donated",
+              "donate",
+              "has donated",
+              "was donate"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Thì Quá khứ đơn (The Past Simple) dùng với thời gian xác định trong quá khứ như \"Last weekend\".",
+            "explanation": "• Có trạng từ thời gian quá khứ \"Last weekend\" (cuối tuần trước) → dùng thì Quá khứ đơn (Past Simple): donated.",
+            "tags": ["unit-3", "past-simple", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Tìm từ có phần gạch chân phát âm đuôi -ed khác với các từ còn lại:",
+            "options": [
+              "donated (/ɪd/)",
+              "helped (/t/)",
+              "cooked (/t/)",
+              "washed (/t/)"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Quy tắc phát âm đuôi -ed: Động từ tận cùng bằng âm /t/ hoặc /d/ thì -ed phát âm là /ɪd/.",
+            "explanation": "• donated có tận cùng là /t/ nên đuôi -ed đọc là /ɪd/.\n• helped, cooked, washed tận cùng là các phụ âm vô thanh (/p/, /k/, /ʃ/) nên đuôi -ed phát âm là /t/.",
+            "tags": ["unit-3", "ed-pronunciation", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"– Have you ever visited that historical museum?\"\n\"– Yes, I _______ there two weeks ago with my classmates.\"",
+            "options": [
+              "went",
+              "have gone",
+              "go",
+              "was going"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Câu hỏi trải nghiệm dùng Hiện tại hoàn thành (Have you ever...?), nhưng câu trả lời có thời gian cụ thể (two weeks ago) PHẢI dùng Quá khứ đơn.",
+            "explanation": "• Khi câu trả lời xuất hiện mốc thời gian rõ ràng trong quá khứ (\"two weeks ago\"), động từ bắt buộc phải chia ở thì Quá khứ đơn (Past Simple): went.",
+            "tags": ["unit-3", "past-simple-present-perfect", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"– I love classical music and folk songs.\"\n\"– _______.\"",
+            "options": [
+              "I do, too",
+              "I don't, either",
+              "Neither do I",
+              "I am, too"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Từ đồng tình khẳng định: \"S + trợ động từ, too\" hoặc \"Me, too\" / \"So + trợ động từ + S\".",
+            "explanation": "• Câu nói ở thể khẳng định với động từ thường \"love\" → đồng tình dùng trợ động từ do: \"I do, too\" (Tôi cũng vậy).\n• \"either\" và \"neither\" chỉ dùng cho câu phủ định.\n• \"I am, too\" sai vì câu gốc dùng động từ thường, không dùng to be.",
+            "tags": ["unit-4", "too-either", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"– Minh doesn't like spicy food.\"\n\"– Lan _______.\"",
+            "options": [
+              "doesn't, either",
+              "does, too",
+              "isn't, either",
+              "neither does"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Từ đồng tình phủ định: S + trợ động từ phủ định + either (vd: Lan doesn't, either).",
+            "explanation": "• Câu gốc mang nghĩa phủ định (\"doesn't like\") → đồng tình ở cuối câu phủ định dùng \"either\": Lan doesn't, either (Lan cũng không thích).",
+            "tags": ["unit-4", "too-either", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"This modern art gallery is completely _______ the traditional museum we visited yesterday.\"",
+            "options": [
+              "different from",
+              "different as",
+              "different like",
+              "different than"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Cấu trúc so sánh khác biệt: different from (khác với).",
+            "explanation": "• Trong tiếng Anh chuẩn, tính từ \"different\" luôn đi với giới từ \"from\": different from (khác với cái gì).",
+            "tags": ["unit-4", "comparisons", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"The tickets for the rock concert are not _______ I expected.\"",
+            "options": [
+              "as expensive as",
+              "so expensive like",
+              "as expensive than",
+              "more expensive as"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Cấu trúc so sánh bằng / không bằng: (not) as + adj + as.",
+            "explanation": "• Cấu trúc so sánh bằng/không bằng: S + V + (not) as + Adj + as + O.\n• \"not as expensive as\": không đắt như tôi nghĩ.",
+            "tags": ["unit-4", "comparisons", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"Her singing voice is sweet _______ a nightingale's song.\"",
+            "options": [
+              "like",
+              "same",
+              "similar",
+              "as"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Từ so sánh \"like\" (giống như) dùng như một giới từ: be + like + Noun.",
+            "explanation": "• \"sweet like a nightingale's song\": ngọt ngào như tiếng chim sơn ca.\n• \"same\" phải có \"the same as\", \"similar\" phải có \"similar to\".",
+            "tags": ["unit-4", "comparisons", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"My sister's drawing style is _______ mine.\"",
+            "options": [
+              "the same as",
+              "the same like",
+              "same as",
+              "as the same"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Cấu trúc so sánh giống hệt: the same as + Noun.",
+            "explanation": "• Cụm từ cố định trong so sánh: the same as (giống với cái gì, bắt buộc phải có mạo từ \"the\").",
+            "tags": ["unit-4", "comparisons", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Viết lại câu sau dùng so sánh không bằng:\n\"This new piano is better than my old one.\"\n→ My old piano is not _______.",
+            "options": [
+              "as good as this new one",
+              "as better as this new one",
+              "as well as this new one",
+              "so good than this new one"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Chuyển đổi so sánh hơn sang so sánh không bằng: A is better than B ↔ B is not as good as A.",
+            "explanation": "• Giữa \"as ... as\" bắt buộc dùng tính từ nguyên thể (nguyên cấp), tính từ nguyên thể của better là \"good\".\n• Dịch: Cây đàn piano cũ của tôi không tốt bằng cây đàn mới này.",
+            "tags": ["unit-4", "comparisons", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"Peter didn't attend the rehearsal yesterday, and _______.\"",
+            "options": [
+              "we didn't, either",
+              "we didn't, too",
+              "so didn't we",
+              "neither didn't we"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Đồng tình phủ định trong mệnh đề nối với \"and\": S + trợ động từ phủ định, either.",
+            "explanation": "• Mệnh đề đầu là phủ định quá khứ (\"didn't attend\") → vế sau đồng tình phủ định dùng: \"we didn't, either\".\n• \"too\" không dùng trong câu phủ định. \"neither\" đã mang nghĩa phủ định nên không đi cùng \"didn't\".",
+            "tags": ["unit-4", "too-either", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Tìm lỗi sai trong câu sau:\n\"I haven't saw my old English teacher since I graduated from primary school.\"",
+            "options": [
+              "saw",
+              "haven't",
+              "since",
+              "graduated"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Trong thì Hiện tại hoàn thành (have/has + V3/ed), động từ phải ở dạng Phân từ 2 (V3), không dùng dạng Quá khứ đơn (V2).",
+            "explanation": "• Cấu trúc Hiện tại hoàn thành: have/has + V3/ed.\n• Động từ \"see\" có V2 là \"saw\" và V3 là \"seen\". Do đó phải sửa \"saw\" thành \"seen\".",
+            "tags": ["unit-3", "present-perfect", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"Water puppetry is a unique art form. It is _______ any other art forms in the world.\"",
+            "options": [
+              "different from",
+              "like to",
+              "same from",
+              "differently as"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Cấu trúc be + different from (khác biệt so với).",
+            "explanation": "• Múa rối nước là một loại hình nghệ thuật độc đáo. Nó khác biệt với bất kỳ loại hình nghệ thuật nào khác trên thế giới (different from any other art forms).",
+            "tags": ["unit-4", "comparisons", "grammar"]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 3,
+      "title": "Đề 03: Đề Ôn tập Tổng hợp & Bẫy Viết lại câu Học kỳ 1 (Phân loại điểm 8 - 9 - 10)",
+      "duration_minutes": 30,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 3,
+          "metadata_json": {
+            "question": "Viết lại câu sau:\n\"He dislikes playing video games because he thinks they are a waste of time.\"\n→ He finds _______.",
+            "options": [
+              "playing video games a waste of time",
+              "playing video games is a waste of time",
+              "to play video games a waste of time",
+              "playing video games was a waste of time"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Cấu trúc nhận định S + find + O (V-ing) + C (Noun phrase / Adj). Không chèn \"is/was\".",
+            "explanation": "• Cấu trúc: S + find + V-ing + cụm danh từ/tính từ: \"He finds playing video games a waste of time\" (Cậu ấy nhận thấy chơi trò chơi điện tử là một sự lãng phí thời gian).\n• Tuyệt đối không thêm \"is\" hoặc \"was\" ở giữa.",
+            "tags": ["unit-1", "rewrite", "find-structure"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 3,
+          "metadata_json": {
+            "question": "\"We started planting trees around our school 5 months ago.\"\n→ We have _______.",
+            "options": [
+              "planted trees around our school for 5 months",
+              "planted trees around our school since 5 months",
+              "started to plant trees around our school for 5 months",
+              "been planted trees around our school 5 months ago"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Chuyển đổi Started + V-ing ... ago ↔ Have/has + V3/ed + for + khoảng thời gian.",
+            "explanation": "• Bắt đầu trồng cây cách đây 5 tháng = Đã trồng cây được 5 tháng (have planted trees ... for 5 months).\n• 5 months là khoảng thời gian nên dùng giới từ \"for\".",
+            "tags": ["unit-3", "rewrite", "past-simple-present-perfect"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 3,
+          "metadata_json": {
+            "question": "\"They don't go to any dance classes, and I don't, either.\"\n→ Câu nào sau đây có nghĩa tương đương?",
+            "options": [
+              "Neither do I.",
+              "So do I.",
+              "I do, too.",
+              "Me too."
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Đồng tình phủ định: \"S + auxiliary (negative), either\" tương đương với \"Neither + auxiliary + S\".",
+            "explanation": "• Cấu trúc đồng tình phủ định: \"I don't, either\" = \"Neither do I\" (Tôi cũng không).\n• \"So do I\", \"I do, too\", \"Me too\" đều là đồng tình khẳng định (Tôi cũng vậy).",
+            "tags": ["unit-4", "too-either", "rewrite"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"Because the weather was bad, we cancelled our camping trip.\"\n→ The weather was bad, _______.",
+            "options": [
+              "so we cancelled our camping trip",
+              "but we cancelled our camping trip",
+              "or we cancelled our camping trip",
+              "and we didn't cancel our camping trip"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Chuyển đổi câu phức Because (bởi vì) sang câu ghép với liên từ So (vì vậy).",
+            "explanation": "• Mệnh đề chỉ nguyên nhân (Because the weather was bad) được viết lại thành: Thời tiết xấu, vì vậy chúng tôi hủy chuyến cắm trại (The weather was bad, so we cancelled...).",
+            "tags": ["unit-2", "compound-sentence", "rewrite"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 3,
+          "metadata_json": {
+            "question": "\"Her painting is more creative than his painting.\"\n→ His painting is not _______.",
+            "options": [
+              "as creative as hers",
+              "as creative than hers",
+              "more creative as hers",
+              "creative like his"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Chuyển đổi so sánh hơn sang so sánh không bằng: not as + Adj + as + Đại từ sở hữu (hers).",
+            "explanation": "• Tranh của cô ấy sáng tạo hơn tranh của cậu ấy → Tranh của cậu ấy không sáng tạo bằng tranh của cô ấy (not as creative as hers).\n• Dùng đại từ sở hữu \"hers\" để thay thế cho \"her painting\".",
+            "tags": ["unit-4", "comparisons", "rewrite"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 3,
+          "metadata_json": {
+            "question": "\"Put on your suncream, or you will get sunburnt.\"\n→ If you don't put on your suncream, _______.",
+            "options": [
+              "you will get sunburnt",
+              "you won't get sunburnt",
+              "you get sunburnt",
+              "you would get sunburnt"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Chuyển đổi câu mệnh lệnh cảnh báo \"V, or you will...\" sang câu điều kiện loại 1 \"If you don't..., you will...\".",
+            "explanation": "• \"Bôi kem chống nắng đi, nếu không em sẽ bị cháy nắng\" ↔ \"Nếu em không bôi kem chống nắng, em sẽ bị cháy nắng\" (If you don't put on your suncream, you will get sunburnt).",
+            "tags": ["unit-2", "conditional-imperative", "rewrite"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"Alex enjoys _______ old coins from different countries in his free time.\"",
+            "options": [
+              "collecting",
+              "to collect",
+              "collect",
+              "collected"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Động từ chỉ sở thích: Enjoy + V-ing (thích làm việc gì).",
+            "explanation": "• Theo sau động từ \"enjoy\" luôn là một danh động từ (V-ing): enjoy collecting old coins.",
+            "tags": ["unit-1", "verbs-of-liking", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"Eat _______ sugary food and drink _______ green tea to protect your teeth.\"",
+            "options": [
+              "less - more",
+              "more - less",
+              "fewer - much",
+              "many - little"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Câu mệnh lệnh với less (ăn ít đi đồ có hại) và more (uống nhiều hơn đồ có lợi).",
+            "explanation": "• Ăn ít đồ ngọt hơn (eat less sugary food) và uống nhiều trà xanh hơn (drink more green tea).",
+            "tags": ["unit-2", "imperatives-more-less", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"– My mother bought a wonderful landscape painting yesterday.\"\n\"– _______.\"",
+            "options": [
+              "Mine did, too",
+              "Mine was, too",
+              "Mine does, too",
+              "Mine did, either"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Đồng tình khẳng định ở thì Quá khứ đơn: S + did, too.",
+            "explanation": "• Câu gốc ở thì quá khứ đơn (\"bought\") nên trợ động từ đồng tình phải là \"did\": Mine did, too (Mẹ của tớ cũng vậy).",
+            "tags": ["unit-4", "too-either", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 3,
+          "metadata_json": {
+            "question": "\"He has volunteered for the Green Club since 2022.\"\n→ He began _______.",
+            "options": [
+              "volunteering for the Green Club in 2022",
+              "volunteering for the Green Club since 2022",
+              "to volunteer for the Green Club for 2022",
+              "volunteered for the Green Club in 2022"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Chuyển đổi Have/has + V3 since + năm ↔ Began/started + V-ing in + năm.",
+            "explanation": "• Đã làm tình nguyện từ năm 2022 = Bắt đầu làm tình nguyện vào năm 2022 (He began volunteering for the Green Club in 2022).\n• Trong quá khứ đơn, năm đi với giới từ \"in\", không dùng \"since\".",
+            "tags": ["unit-3", "past-simple-present-perfect", "rewrite"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Tìm từ có phần gạch chân phát âm đuôi -ed khác với các từ còn lại:",
+            "options": [
+              "watered (/d/)",
+              "stopped (/t/)",
+              "looked (/t/)",
+              "passed (/t/)"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Phát âm đuôi -ed: watered tận cùng bằng nguyên âm /ə/ nên -ed đọc là /d/.",
+            "explanation": "• watered có đuôi -ed phát âm là /d/.\n• stopped, looked, passed có đuôi -ed phát âm là /t/ vì tận cùng là âm vô thanh (/p/, /k/, /s/).",
+            "tags": ["unit-3", "ed-pronunciation", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "\"The characters in the movie are totally different _______ the ones in the novel.\"",
+            "options": [
+              "from",
+              "as",
+              "like",
+              "with"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Cụm từ different from (khác với).",
+            "explanation": "• Cấu trúc cố định: different from (khác với). Các nhân vật trong phim hoàn toàn khác với các nhân vật trong tiểu thuyết.",
+            "tags": ["unit-4", "comparisons", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 3,
+          "metadata_json": {
+            "question": "\"I have never seen such a magnificent puppet show before.\"\n→ This is the first time I _______.",
+            "options": [
+              "have seen such a magnificent puppet show",
+              "see such a magnificent puppet show",
+              "saw such a magnificent puppet show",
+              "have saw such a magnificent puppet show"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: S + have never + V3 ... before ↔ This is the first time S + have/has + V3.",
+            "explanation": "• \"Tôi chưa từng xem buổi diễn múa rối tuyệt vời như vậy trước đây\" = \"Đây là lần đầu tiên tôi xem một buổi diễn múa rối tuyệt vời như vậy\" (This is the first time I have seen...).",
+            "tags": ["unit-3", "present-perfect", "rewrite"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Xác định câu đơn đúng ngữ pháp có cấu trúc S + V + O + ADV:",
+            "options": [
+              "My mother cooks delicious meals every evening.",
+              "My mother cooks every evening delicious meals.",
+              "Delicious meals my mother cooks every evening.",
+              "Every evening cooks my mother delicious meals."
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: Trật tự thành phần câu đơn tiếng Anh: S + V + O + ADV.",
+            "explanation": "• S: My mother | V: cooks | O: delicious meals | ADV: every evening.\n• Trong tiếng Anh, tân ngữ O luôn đứng liền sau động từ V, trạng từ chỉ thời gian đứng cuối câu.",
+            "tags": ["unit-2", "simple-sentence", "grammar"]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 3,
+          "metadata_json": {
+            "question": "\"Nam doesn't find playing badminton boring; he finds it _______.\"",
+            "options": [
+              "exciting",
+              "excited",
+              "is exciting",
+              "excitement"
+            ],
+            "correct_index": 0,
+            "hint": "💡 Ngữ pháp: S + find + it + Adj (chỉ tính chất của môn thể thao, dùng tính từ đuôi -ing).",
+            "explanation": "• Nam không thấy chơi cầu lông nhàm chán; cậu ấy thấy nó thú vị (exciting).\n• \"excited\" chỉ cảm xúc người; \"is exciting\" thừa động từ to be; \"excitement\" là danh từ.",
+            "tags": ["unit-1", "find-structure", "grammar"]
+          }
+        }
+      ]
+    }
+  ]
+}

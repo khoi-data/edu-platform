@@ -87,9 +87,12 @@ export default function SubjectMapPage() {
   const [workbooks, setWorkbooks] = useState<any[]>([]);
   const [reviews, setReviews] = useState<any[]>([]);
   const [reflexes, setReflexes] = useState<any[]>([]);
-  const [activeTab, setActiveTab] = useState<"lesson" | "workbook" | "review" | "reflex">(
-    ["tieng-anh-7", "toan", "khtn"].includes(subject) ? "workbook" : "lesson"
-  );
+  const tabParam = searchParams.get("tab");
+  const validTabs = ["lesson", "workbook", "review", "reflex"] as const;
+  const initialTab = (tabParam && validTabs.includes(tabParam as any))
+    ? (tabParam as "lesson" | "workbook" | "review" | "reflex")
+    : (["tieng-anh-7", "toan", "khtn"].includes(subject) ? "workbook" : "lesson");
+  const [activeTab, setActiveTab] = useState<"lesson" | "workbook" | "review" | "reflex">(initialTab);
   const [completedExams, setCompletedExams] = useState<string[]>([]);
   const [collapsedUnits, setCollapsedUnits] = useState<Record<string, boolean>>({});
   const [collapsedReflex, setCollapsedReflex] = useState<Record<string, boolean>>({});
@@ -151,8 +154,11 @@ export default function SubjectMapPage() {
     return () => window.removeEventListener("pageshow", handlePageShow);
   }, [subject, gradeNum, router]);
 
-  const toggleUnit = (unitKey: string) => {
-    setCollapsedUnits((prev) => ({ ...prev, [unitKey]: prev[unitKey] !== false ? false : true }));
+  const toggleUnit = (unitKey: string, defaultCollapsed = true) => {
+    setCollapsedUnits((prev) => {
+      const current = prev[unitKey] !== undefined ? prev[unitKey] : defaultCollapsed;
+      return { ...prev, [unitKey]: !current };
+    });
   };
 
   const pickRandom = async (exams: any[], timer?: number) => {
@@ -466,11 +472,11 @@ export default function SubjectMapPage() {
             {volume.units.map((unit: any, unitIdx: number) => {
               const colorIdx = (volIndex * 2 + unitIdx) % unitColors.length;
               const unitKey = `rev-${volume.volume}-unit-${unit.unit}`;
-              const isCollapsed = collapsedUnits[unitKey] !== false;
+              const isCollapsed = collapsedUnits[unitKey] !== undefined ? collapsedUnits[unitKey] : false;
               const isPlaceholder = !unit.exams || unit.exams.length === 0;
               return (
                 <div key={`rev-unit-${unit.unit}`} className="mb-12">
-                  <div onClick={() => !isPlaceholder && toggleUnit(unitKey)}
+                  <div onClick={() => !isPlaceholder && toggleUnit(unitKey, false)}
                     className={clsx("mb-6 rounded-2xl p-5 text-white border relative overflow-hidden flex justify-between items-center transition-transform duration-100",
                       !isPlaceholder ? "cursor-pointer active:scale-[0.99] select-none border-white/20 backdrop-blur-md" : "border-dashed border-line/60 bg-surface/20 text-slate-500",
                       !isPlaceholder ? unitColors[colorIdx] : "")}
