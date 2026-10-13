@@ -42,7 +42,8 @@ export async function updateSession(request: NextRequest) {
   const path = request.nextUrl.pathname;
   const isAuthRoute = path === "/login";
   const isHome = path === "/";
-  const isPublicRoute = isAuthRoute || isHome;
+  const isDemo = path === "/demo" || path.startsWith("/demo/");
+  const isPublicRoute = isAuthRoute || isHome || isDemo;
   const isPublicAsset =
     path.startsWith("/_next") || path.includes(".");
   const isApiRoute = path.startsWith("/api");

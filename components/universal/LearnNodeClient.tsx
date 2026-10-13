@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect, useCallback, useRef } from "react";
-import { ChevronRight, Home, Layout, BookOpen, Trophy, ArrowRight, Loader2, Sparkles, Award, CheckCircle2, XCircle, HelpCircle, FileText, Copy, Terminal, Compass, Check } from "lucide-react";
+import { ChevronRight, ChevronLeft, Home, Layout, BookOpen, Trophy, ArrowRight, Loader2, Sparkles, Award, CheckCircle2, XCircle, HelpCircle, FileText, Copy, Terminal, Compass, Check } from "lucide-react";
 import Link from "next/link";
 import dynamic from "next/dynamic";
 import { useRouter, usePathname } from "next/navigation";
@@ -45,7 +45,9 @@ interface LearnNodeClientProps {
   breadcrumbs: { title: string; slug: string; path: string }[];
   subjectSlug: string;
   conceptId?: string;
-  childNodes?: { id: string; title: string; slug: string; type: string }[];
+  childNodes?: { id: string; title: string; slug: string; type: string; metadata?: any; sort_key?: number; parent_id?: string }[];
+  initialCompletedNodes?: string[];
+  initialLastLessonSlug?: string | null;
 }
 
 function GrammarTutorialRenderer({ content }: { content: string }) {
@@ -467,7 +469,9 @@ export function LearnNodeClient({
   breadcrumbs, 
   subjectSlug, 
   conceptId, 
-  childNodes 
+  childNodes,
+  initialCompletedNodes = [],
+  initialLastLessonSlug
 }: LearnNodeClientProps) {
   const router = useRouter();
   const pathname = usePathname();
@@ -528,7 +532,58 @@ export function LearnNodeClient({
   const [chatGptPromptCopied, setChatGptPromptCopied] = useState<boolean>(false);
   const [handcraftedExams, setHandcraftedExams] = useState<any[]>([]);
   const [isFetchingHandcrafted, setIsFetchingHandcrafted] = useState<boolean>(true);
-  const [completedNodes, setCompletedNodes] = useState<string[]>([]);
+  const [completedNodes, setCompletedNodes] = useState<string[]>(() => {
+    if (typeof window !== 'undefined') {
+      try {
+        const local = localStorage.getItem(`completed_lessons_${subjectSlug}`);
+        if (local) {
+          const parsed = JSON.parse(local);
+          return Array.from(new Set([...initialCompletedNodes, ...parsed]));
+        }
+      } catch (e) {}
+    }
+    return initialCompletedNodes;
+  });
+
+  const handleToggleComplete = async (slug: string, forceStatus?: boolean) => {
+    const isCurrentlyCompleted = completedNodes.includes(slug);
+    const targetCompleted = forceStatus !== undefined ? forceStatus : !isCurrentlyCompleted;
+
+    let newCompleted: string[];
+    if (targetCompleted) {
+      newCompleted = Array.from(new Set([...completedNodes, slug]));
+    } else {
+      newCompleted = completedNodes.filter((s) => s !== slug);
+    }
+
+    setCompletedNodes(newCompleted);
+
+    // Save to localStorage
+    try {
+      localStorage.setItem(`completed_lessons_${subjectSlug}`, JSON.stringify(newCompleted));
+    } catch (e) {}
+
+    // Call /api/events to persist to Supabase
+    try {
+      const targetNode = (childNodes || []).find((n) => n.slug === slug) || (node.slug === slug ? node : null);
+      await fetch('/api/events', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          type: targetCompleted ? 'lesson_completed' : 'lesson_visited',
+          subject_slug: subjectSlug,
+          metadata: {
+            slug: slug,
+            title: targetNode?.title || slug,
+            url: `/learn/${subjectSlug}/${slug}`,
+          },
+        }),
+      });
+    } catch (err) {
+      console.error('Error syncing completion:', err);
+    }
+  };
+
   const [activeVideoId, setActiveVideoId] = useState<string>("");
   const [isPickingRandom, setIsPickingRandom] = useState<boolean>(false);
 
@@ -656,11 +711,13 @@ export function LearnNodeClient({
           });
         }
 
-        // 3. Merge with localStorage fallback
+        // 3. Merge with localStorage fallback & initialCompletedNodes
         const examsStr = localStorage.getItem('completed_exams');
         const localExams = examsStr ? JSON.parse(examsStr) : [];
+        const localLessonsStr = localStorage.getItem(`completed_lessons_${subjectSlug}`);
+        const localLessons = localLessonsStr ? JSON.parse(localLessonsStr) : [];
         const allExams = [...new Set([...localExams, ...dbExams])];
-        const allSlugs = [...new Set([...slugs, ...derivedSlugs])];
+        const allSlugs = [...new Set([...slugs, ...derivedSlugs, ...localLessons, ...initialCompletedNodes])];
 
         setCompletedNodes([...new Set([...allSlugs, ...allExams])]);
       } catch (e) {
@@ -1602,6 +1659,12 @@ export function LearnNodeClient({
     );
   }
 
+  const lessonList = (childNodes || []).filter((n) => n.type === 'lesson');
+  const currentLessonIndex = lessonList.findIndex((n) => n.slug === node.slug);
+  const prevLesson = currentLessonIndex > 0 ? lessonList[currentLessonIndex - 1] : null;
+  const nextLesson = currentLessonIndex >= 0 && currentLessonIndex < lessonList.length - 1 ? lessonList[currentLessonIndex + 1] : null;
+  const isCurrentLessonCompleted = completedNodes.includes(node.slug);
+
   return (
     <div className="max-w-full px-4 md:px-8 space-y-8 pb-20 select-none">
       <nav className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-slate-500 overflow-x-auto whitespace-nowrap scrollbar-hide pb-2">
@@ -1623,13 +1686,19 @@ export function LearnNodeClient({
       </nav>
 
       <div className="space-y-2">
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-3 flex-wrap">
             <div className={`p-2 rounded-xl border ${isExam ? 'bg-amber-500/10 text-amber-400 border-amber-500/20' : 'bg-sky-500/10 text-sky-400 border-sky-500/20'}`}>
                 {isExam ? <Trophy size={20} /> : (node.type === 'lesson' ? <BookOpen size={20} /> : <Layout size={20} />)}
             </div>
             <h1 className="text-2xl font-black text-white tracking-tight uppercase">
                 {node.title}
             </h1>
+            {node.type === 'lesson' && isCurrentLessonCompleted && (
+              <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-500/15 border border-emerald-500/30 text-emerald-400 text-xs font-bold shadow-inner">
+                <CheckCircle2 size={14} />
+                Đã hoàn thành
+              </span>
+            )}
         </div>
         <p className="text-sm text-slate-400 max-w-2xl">
           {isExam
@@ -1641,7 +1710,13 @@ export function LearnNodeClient({
       </div>
 
       {node.type !== 'lesson' && node.type !== 'exam' && !isGrammar ? (
-        <CurriculumMap nodes={childNodes || []} subjectSlug={subjectSlug} completedNodes={completedNodes} />
+        <CurriculumMap
+          nodes={childNodes || []}
+          subjectSlug={subjectSlug}
+          completedNodes={completedNodes}
+          lastVisitedSlug={initialLastLessonSlug || undefined}
+          onToggleComplete={handleToggleComplete}
+        />
       ) : subjectSlug === 'tieng_viet' && node.type === 'lesson' ? (
         <TiengVietLessonView
           node={node}
@@ -1764,6 +1839,56 @@ export function LearnNodeClient({
                   )}
                 </div>
               </div>
+
+              {/* ── LESSON COMPLETION ACTION & SIBLING NAVIGATION ── */}
+              <div className="p-5 sm:p-6 rounded-3xl bg-gradient-to-r from-slate-900/90 via-slate-950/90 to-slate-900/90 border border-slate-800 shadow-xl flex flex-col sm:flex-row items-center justify-between gap-4">
+                <div className="flex items-center gap-3 w-full sm:w-auto justify-center sm:justify-start">
+                  {isCurrentLessonCompleted ? (
+                    <div className="flex items-center gap-3">
+                      <span className="inline-flex items-center gap-2 px-4 py-2.5 rounded-2xl bg-emerald-500/15 border border-emerald-500/40 text-emerald-300 font-extrabold text-xs shadow-md">
+                        <CheckCircle2 size={16} />
+                        ✓ Đã học xong bài này
+                      </span>
+                      <button
+                        onClick={() => handleToggleComplete(node.slug, false)}
+                        className="text-xs text-slate-500 hover:text-slate-300 underline transition"
+                      >
+                        Bỏ đánh dấu
+                      </button>
+                    </div>
+                  ) : (
+                    <button
+                      onClick={() => handleToggleComplete(node.slug, true)}
+                      className="inline-flex items-center gap-2 px-6 py-3.5 rounded-2xl bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-500 hover:from-emerald-500 hover:to-teal-400 text-white font-extrabold text-xs shadow-lg shadow-emerald-500/25 active:scale-95 transition-all w-full sm:w-auto justify-center"
+                    >
+                      <CheckCircle2 size={18} />
+                      ✓ Đánh dấu đã học xong bài này
+                    </button>
+                  )}
+                </div>
+
+                {/* Sibling navigation */}
+                <div className="flex items-center gap-2.5 w-full sm:w-auto justify-center sm:justify-end">
+                  {prevLesson && (
+                    <Link
+                      href={`/learn/${subjectSlug}/${prevLesson.slug}`}
+                      className="inline-flex items-center gap-1.5 px-3.5 py-2.5 rounded-xl border border-slate-800 bg-slate-900/80 hover:bg-slate-800 text-slate-300 hover:text-white text-xs font-bold transition"
+                    >
+                      <ChevronLeft size={15} />
+                      <span>Bài trước</span>
+                    </Link>
+                  )}
+                  {nextLesson && (
+                    <Link
+                      href={`/learn/${subjectSlug}/${nextLesson.slug}`}
+                      className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-400 hover:to-blue-500 text-white text-xs font-black shadow-md shadow-cyan-500/20 active:scale-95 transition"
+                    >
+                      <span>Bài tiếp theo: #{currentLessonIndex + 2}</span>
+                      <ArrowRight size={14} />
+                    </Link>
+                  )}
+                </div>
+              </div>
             </div>
           )}
 
@@ -1872,6 +1997,56 @@ export function LearnNodeClient({
                   </div>
                 </>
               )}
+
+              {/* ── LESSON COMPLETION ACTION & SIBLING NAVIGATION ── */}
+              <div className="p-5 sm:p-6 rounded-3xl bg-gradient-to-r from-slate-900/90 via-slate-950/90 to-slate-900/90 border border-slate-800 shadow-xl flex flex-col sm:flex-row items-center justify-between gap-4">
+                <div className="flex items-center gap-3 w-full sm:w-auto justify-center sm:justify-start">
+                  {isCurrentLessonCompleted ? (
+                    <div className="flex items-center gap-3">
+                      <span className="inline-flex items-center gap-2 px-4 py-2.5 rounded-2xl bg-emerald-500/15 border border-emerald-500/40 text-emerald-300 font-extrabold text-xs shadow-md">
+                        <CheckCircle2 size={16} />
+                        ✓ Đã học xong bài này
+                      </span>
+                      <button
+                        onClick={() => handleToggleComplete(node.slug, false)}
+                        className="text-xs text-slate-500 hover:text-slate-300 underline transition"
+                      >
+                        Bỏ đánh dấu
+                      </button>
+                    </div>
+                  ) : (
+                    <button
+                      onClick={() => handleToggleComplete(node.slug, true)}
+                      className="inline-flex items-center gap-2 px-6 py-3.5 rounded-2xl bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-500 hover:from-emerald-500 hover:to-teal-400 text-white font-extrabold text-xs shadow-lg shadow-emerald-500/25 active:scale-95 transition-all w-full sm:w-auto justify-center"
+                    >
+                      <CheckCircle2 size={18} />
+                      ✓ Đánh dấu đã học xong bài này
+                    </button>
+                  )}
+                </div>
+
+                {/* Sibling navigation */}
+                <div className="flex items-center gap-2.5 w-full sm:w-auto justify-center sm:justify-end">
+                  {prevLesson && (
+                    <Link
+                      href={`/learn/${subjectSlug}/${prevLesson.slug}`}
+                      className="inline-flex items-center gap-1.5 px-3.5 py-2.5 rounded-xl border border-slate-800 bg-slate-900/80 hover:bg-slate-800 text-slate-300 hover:text-white text-xs font-bold transition"
+                    >
+                      <ChevronLeft size={15} />
+                      <span>Bài trước</span>
+                    </Link>
+                  )}
+                  {nextLesson && (
+                    <Link
+                      href={`/learn/${subjectSlug}/${nextLesson.slug}`}
+                      className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-400 hover:to-blue-500 text-white text-xs font-black shadow-md shadow-cyan-500/20 active:scale-95 transition"
+                    >
+                      <span>Bài tiếp theo: #{currentLessonIndex + 2}</span>
+                      <ArrowRight size={14} />
+                    </Link>
+                  )}
+                </div>
+              </div>
             </div>
           )}
 

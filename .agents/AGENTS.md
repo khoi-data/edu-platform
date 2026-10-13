@@ -57,3 +57,28 @@ Quy tắc bắt buộc đối với tất cả Agent hoạt động trong worksp
    - **BẮT BUỘC** đầu mỗi phiên: chạy `git fetch origin && git status -sb` trước khi sửa bất kỳ file nào. Nếu thấy cả `ahead` và `behind` đều khác 0 → đây là phân kỳ thật, DỪNG LẠI và hỏi user chiến lược merge (không tự ý chọn `-X ours`/`-X theirs`).
    - Với việc sửa nhiều file/nhiều bước (refactor, đổi theme...), ưu tiên tạo nhánh riêng thay vì commit thẳng vào `main`, để giảm nguy cơ đụng độ với phiên đang chạy song song trên máy kia.
    - Trước khi kết thúc phiên, nếu còn commit chưa push, hỏi user có muốn push ngay không — không để tồn đọng nhiều ngày như sự cố trên.
+
+
+
+---
+
+# 24. SUPABASE DATABASE (MCP SELF-TESTING)
+- Agent cA3 quyAAn truy cAap trU+ac tiA1p vAao Database Supabase thA'ng qua cA'ng cU+ un_postgres_query (MCP).
+- MEA_I KHI chAay script seed data, update data hoAac cAAn debug lA_i logic liAAn quan dU++ liAau, Agent BAEA_T BUEA~C phAai tU+ dEA_ng dA1ng tool nAay dAe query thAang vAao Supabase kiAem tra kA1t quAa (cross-check). 
+- KhA'ng dU+EA?c phA1p dAoAan kA1t quAa thi hAanh bAang trA- nhA>. PhAai query dAe lAay dA+ liAau thU+ac tA1 lAam bAang chA>ng chA-nh xAac.
+
+# 25. GITHUB PUSH POLICY (STRICTLY ON-DEMAND)
+- MAac dEA<nh: KHA"NG EAE-EA*C PHeP tU+ dEA_ng thU+ac hiAan cAac lAanh git push lAAn remote repository dU+>i bAat kA_ hA-nh thA>c nAao.
+- NgoAai lAa: ChA% dU+EA?c phA1p thU+ac hiAan git push NAEA_U VAA CHA_ NAEA_U ngU+EAoi dA1ng yAau cAau rA- rAang bAang mAanh lAanh trong chA-nh lU+EA?t chat dA3 (VAD: "hAay commit vAa push lAAn github").
+- Quyền lợi này chỉ CÓ TÁC DỤNG MỘT LẦN DUY NHẤT (one-time permit) cho đúng yêu cầu đó. Sang lượt chat tiếp theo, quyền push lập tức quay về trạng thái BỊ CẤM cho đến khi có lệnh rõ ràng mới.
+
+
+# 24. SUPABASE DATABASE (MCP SELF-TESTING)
+- Agent có quyền truy cập trực tiếp vào Database Supabase thông qua công cụ `run_postgres_query` (MCP).
+- MỖI KHI chạy script seed data, update data hoặc cần debug lỗi logic, Agent BẮT BUỘC phải tự động dùng tool này để query thẳng vào Supabase kiểm tra kết quả (cross-check).
+- Không được đoán kết quả. Phải query để lấy dữ liệu thực tế làm bằng chứng.
+
+# 25. GITHUB PUSH POLICY (STRICT)
+- Mặc định: KHÔNG ĐƯỢC PHÉP tự động thực hiện các lệnh `git push` lên remote repository dưới bất kỳ hình thức nào.
+- Ngoại lệ: Chỉ được phép thực hiện `git push` NẾU VÀ CHỈ NẾU người dùng yêu cầu rõ ràng bằng lệnh trong chính lượt chat đó (VD: "hãy commit và push lên github").
+- Sự cho phép này chỉ có hiệu lực 1 lần duy nhất cho yêu cầu đó. Sang lượt chat tiếp theo, quyền push lại trở về trạng thái BỊ CẤM cho đến khi được nhắc lại.

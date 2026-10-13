@@ -44,7 +44,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${outfit.variable} ${dmSans.variable}`} suppressHydrationWarning>
-      <body className="min-h-dvh font-sans antialiased">{children}</body>
+      <body className="min-h-dvh font-sans antialiased" suppressHydrationWarning>
+        {children}
+      </body>
     </html>
   );
 }

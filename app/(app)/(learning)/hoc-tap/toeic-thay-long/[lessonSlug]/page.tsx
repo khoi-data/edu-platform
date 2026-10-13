@@ -106,7 +106,7 @@ export default async function ToeicThayLongLessonPage({ params }: PageProps) {
 
         <div className="flex flex-col lg:flex-row gap-8 items-start">
           {/* Video Section */}
-          <div className="w-full lg:w-1/2 sticky top-6">
+          <div className="w-full lg:w-1/2 lg:sticky lg:top-6 z-10">
             <VideoPlayer 
               lessonTitle={lesson.title}
               videoUrl={lesson.videoUrl}

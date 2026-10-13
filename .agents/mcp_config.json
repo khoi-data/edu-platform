@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "supabase-db-ro": {
+      "command": "python",
+      "args": ["D:/vta/vscode/mcp_servers/postgres_mcp.py"]
+    }
+  }
+}

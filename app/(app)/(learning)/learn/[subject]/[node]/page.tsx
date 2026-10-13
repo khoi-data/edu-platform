@@ -1,15 +1,6 @@
 import { createClient } from "@/lib/supabase/server";
 import { redirect, notFound } from "next/navigation";
 import { LearnNodeClient } from "@/components/universal/LearnNodeClient";
-import Unit3TextbookClient from "@/components/learning/Unit3TextbookClient";
-import GenericTextbookClient from "@/components/learning/GenericTextbookClient";
-import { unit4Pages } from "@/lib/data/unit4Data";
-import { unit5Pages } from "@/lib/data/unit5Data";
-import { unit6Pages } from "@/lib/data/unit6Data";
-import { unit7Pages } from "@/lib/data/unit7Data";
-import { unit8Pages } from "@/lib/data/unit8Data";
-import { unit9Pages } from "@/lib/data/unit9Data";
-import { unit10Pages } from "@/lib/data/unit10Data";
 
 export const dynamic = "force-dynamic";
 
@@ -94,30 +85,86 @@ export default async function LearnNodePage({ params }: LearnNodePageProps) {
 
   // Exercise sets and questions are now fetched client-side via Assessment Engine
 
-  // 5. Fetch Child Nodes (Flattened Duolingo style)
+  // 5. Fetch Child Nodes & Student Progress
   let childNodes: any[] = [];
+
+  const [descendantsRes, eventsRes, sessionsRes, statsRes] = await Promise.all([
+    nodeData.type !== 'lesson'
+      ? adminSupabase
+          .from("curriculum_nodes")
+          .select(`id, title, slug, type, parent_id, sort_key, metadata`)
+          .eq("source_id", nodeData.source_id)
+          .neq("type", "course")
+      : adminSupabase
+          .from("curriculum_nodes")
+          .select(`id, title, slug, type, parent_id, sort_key, metadata`)
+          .eq("source_id", nodeData.source_id)
+          .eq("type", "lesson")
+          .order("sort_key", { ascending: true }),
+    supabase
+      .from("learning_events")
+      .select("event_type, metadata, created_at")
+      .eq("user_id", session.user.id)
+      .eq("subject_slug", subject)
+      .in("event_type", ["lesson_visited", "lesson_completed"])
+      .order("created_at", { ascending: false })
+      .limit(100),
+    supabase
+      .from("learning_sessions")
+      .select("summary_metrics, started_at")
+      .eq("user_id", session.user.id)
+      .eq("subject_slug", subject)
+      .order("started_at", { ascending: false })
+      .limit(100),
+    supabase
+      .from("user_dashboard_stats")
+      .select("subject_progress")
+      .eq("user_id", session.user.id)
+      .maybeSingle()
+  ]);
+
   if (nodeData.type !== 'lesson') {
-    // Fetch all units and lessons for this source
-    const { data: allDescendants } = await adminSupabase
-      .from("curriculum_nodes")
-      .select(`
-        id, title, slug, type, parent_id, sort_key
-      `)
-      .eq("source_id", nodeData.source_id)
-      .neq("type", "course");
-    
+    const allDescendants = descendantsRes.data;
     if (allDescendants) {
-      const units = allDescendants.filter(n => n.type === 'unit').sort((a, b) => (a.sort_key || 0) - (b.sort_key || 0));
-      const lessons = allDescendants.filter(n => n.type === 'lesson' || n.type === 'exam').sort((a, b) => (a.sort_key || 0) - (b.sort_key || 0));
+      const units = allDescendants.filter((n: any) => n.type === 'unit').sort((a: any, b: any) => (a.sort_key || 0) - (b.sort_key || 0));
+      const lessons = allDescendants.filter((n: any) => n.type === 'lesson' || n.type === 'exam').sort((a: any, b: any) => (a.sort_key || 0) - (b.sort_key || 0));
       
       // Interleave units and lessons/exams
-      units.forEach(u => {
+      units.forEach((u: any) => {
         childNodes.push(u);
-        const uLessons = lessons.filter(l => l.parent_id === u.id);
+        const uLessons = lessons.filter((l: any) => l.parent_id === u.id);
         childNodes.push(...uLessons);
       });
     }
+  } else {
+    childNodes = descendantsRes.data || [];
   }
+
+  // Derive initialCompletedNodes and initialLastLesson
+  const completedSlugSet = new Set<string>();
+  (eventsRes.data || []).forEach((e: any) => {
+    if (e.metadata?.slug) completedSlugSet.add(e.metadata.slug);
+    else if (e.metadata?.url) {
+      const parts = e.metadata.url.split('/');
+      const lastPart = parts[parts.length - 1];
+      if (lastPart && lastPart.startsWith('bai-')) completedSlugSet.add(lastPart);
+    }
+  });
+
+  (sessionsRes.data || []).forEach((s: any) => {
+    const metrics = s.summary_metrics as any;
+    if (metrics) {
+      if (metrics.lesson_slug) completedSlugSet.add(metrics.lesson_slug);
+      if (metrics.unit_topic && typeof metrics.unit_topic === 'string') {
+        const match = metrics.unit_topic.match(/Bài\s*(\d+)/i);
+        if (match) completedSlugSet.add(`bai-${match[1]}`);
+      }
+    }
+  });
+
+  const lastLessonObj = (statsRes.data?.subject_progress as any)?.[subject]?.last_lesson || null;
+  const initialLastLessonSlug = lastLessonObj?.slug || (lastLessonObj?.url ? lastLessonObj.url.split('/').pop() : null);
+  const initialCompletedNodes = Array.from(completedSlugSet);
 
   // Questions are fetched dynamically via Assessment Engine on the client side
 
@@ -130,6 +177,7 @@ export default async function LearnNodePage({ params }: LearnNodePageProps) {
   };
 
   if (unit3InitialPages[node] !== undefined) {
+    const Unit3TextbookClient = (await import("@/components/learning/Unit3TextbookClient")).default;
     return (
       <Unit3TextbookClient 
         initialPage={unit3InitialPages[node]}
@@ -148,6 +196,8 @@ export default async function LearnNodePage({ params }: LearnNodePageProps) {
   };
 
   if (unit4InitialPages[node] !== undefined) {
+    const GenericTextbookClient = (await import("@/components/learning/GenericTextbookClient")).default;
+    const { unit4Pages } = await import("@/lib/data/unit4Data");
     return (
       <GenericTextbookClient
         pages={unit4Pages}
@@ -167,6 +217,8 @@ export default async function LearnNodePage({ params }: LearnNodePageProps) {
   };
 
   if (unit5InitialPages[node] !== undefined) {
+    const GenericTextbookClient = (await import("@/components/learning/GenericTextbookClient")).default;
+    const { unit5Pages } = await import("@/lib/data/unit5Data");
     return (
       <GenericTextbookClient
         pages={unit5Pages}
@@ -186,6 +238,8 @@ export default async function LearnNodePage({ params }: LearnNodePageProps) {
   };
 
   if (unit6InitialPages[node] !== undefined) {
+    const GenericTextbookClient = (await import("@/components/learning/GenericTextbookClient")).default;
+    const { unit6Pages } = await import("@/lib/data/unit6Data");
     return (
       <GenericTextbookClient
         pages={unit6Pages}
@@ -206,6 +260,8 @@ export default async function LearnNodePage({ params }: LearnNodePageProps) {
   };
 
   if (unit7InitialPages[node] !== undefined) {
+    const GenericTextbookClient = (await import("@/components/learning/GenericTextbookClient")).default;
+    const { unit7Pages } = await import("@/lib/data/unit7Data");
     return (
       <GenericTextbookClient
         pages={unit7Pages}
@@ -225,6 +281,8 @@ export default async function LearnNodePage({ params }: LearnNodePageProps) {
   };
 
   if (unit8InitialPages[node] !== undefined) {
+    const GenericTextbookClient = (await import("@/components/learning/GenericTextbookClient")).default;
+    const { unit8Pages } = await import("@/lib/data/unit8Data");
     return (
       <GenericTextbookClient
         pages={unit8Pages}
@@ -244,6 +302,8 @@ export default async function LearnNodePage({ params }: LearnNodePageProps) {
   };
 
   if (unit9InitialPages[node] !== undefined) {
+    const GenericTextbookClient = (await import("@/components/learning/GenericTextbookClient")).default;
+    const { unit9Pages } = await import("@/lib/data/unit9Data");
     return (
       <GenericTextbookClient
         pages={unit9Pages}
@@ -264,6 +324,8 @@ export default async function LearnNodePage({ params }: LearnNodePageProps) {
   };
 
   if (unit10InitialPages[node] !== undefined) {
+    const GenericTextbookClient = (await import("@/components/learning/GenericTextbookClient")).default;
+    const { unit10Pages } = await import("@/lib/data/unit10Data");
     return (
       <GenericTextbookClient
         pages={unit10Pages}
@@ -285,6 +347,8 @@ export default async function LearnNodePage({ params }: LearnNodePageProps) {
         subjectSlug={subject}
         conceptId={conceptId}
         childNodes={childNodes}
+        initialCompletedNodes={initialCompletedNodes}
+        initialLastLessonSlug={initialLastLessonSlug}
       />
     </main>
   );

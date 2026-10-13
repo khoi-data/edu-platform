@@ -624,13 +624,17 @@ export function AssessmentRenderer({ questions, mode, onComplete, timerSeconds, 
       )}
 
       <div className="flex-1">
-        {currentQuestion.youtube_url && (
+        {(currentQuestion.youtube_url || currentQuestion.video_url || currentQuestion.metadata_json?.video_url) && (
           <div className="mb-6 rounded-xl overflow-hidden shadow-md">
             <iframe 
               width="100%" 
               height="315" 
-              src={currentQuestion.youtube_url.includes('watch?v=') ? currentQuestion.youtube_url.replace('watch?v=', 'embed/') : currentQuestion.youtube_url} 
-              title="YouTube video player" 
+              src={(() => {
+                const url = currentQuestion.youtube_url || currentQuestion.video_url || currentQuestion.metadata_json?.video_url;
+                if (url.includes('youtube.com/watch?v=')) return url.replace('watch?v=', 'embed/');
+                return url;
+              })()}
+              title="Video player" 
               frameBorder="0" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
               allowFullScreen

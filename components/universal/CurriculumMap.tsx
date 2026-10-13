@@ -1,482 +1,759 @@
 "use client";
-import React, { useState, useEffect, useMemo, useCallback } from "react";
-import Link from "next/link";
-import { Star, Lock, CheckCircle2, Play, BookOpen, Crown, Gift, Sparkles } from "lucide-react";
 
-interface PathNode {
+import React, { useState, useMemo } from "react";
+import Link from "next/link";
+import {
+  CheckCircle2,
+  Play,
+  BookOpen,
+  Video,
+  Sparkles,
+  ChevronDown,
+  ChevronRight,
+  Search,
+  LayoutGrid,
+  ListOrdered,
+  ArrowRight,
+  Layers,
+  Award,
+  Compass,
+  Check
+} from "lucide-react";
+
+export interface PathNode {
   id: string;
   title: string;
   slug: string;
   type: string;
   parent_id?: string;
-  learning_path_nodes?: {
-    position_x: number;
-    position_y: number;
-    node_type: string;
-    visual_theme: string;
-  }[];
+  sort_key?: number;
+  metadata?: {
+    page?: number;
+    volume?: number;
+    topic_label?: string;
+    videos?: Array<{ youtube_id: string; subtitle: string; title?: string }>;
+    youtube_id?: string;
+    practice?: any[];
+  };
 }
 
 interface CurriculumMapProps {
   nodes: PathNode[];
   subjectSlug: string;
   completedNodes?: string[];
+  lastVisitedSlug?: string;
+  onToggleComplete?: (slug: string, isCompleted: boolean) => void;
 }
 
-export function CurriculumMap({ nodes, subjectSlug, completedNodes = [] }: CurriculumMapProps) {
-  // 1. Calculate fixed global index for all lessons from the original nodes array
-  const lessonIndexes: Record<string, number> = {};
-  let totalLessons = 0;
-  nodes.forEach(node => {
-    if (node.type === 'lesson') {
-      totalLessons++;
-      lessonIndexes[node.id] = totalLessons;
-    }
-  });
+export function CurriculumMap({
+  nodes,
+  subjectSlug,
+  completedNodes = [],
+  lastVisitedSlug,
+  onToggleComplete
+}: CurriculumMapProps) {
+  const [selectedVolume, setSelectedVolume] = useState<number | "all">("all");
+  const [searchQuery, setSearchQuery] = useState("");
+  const [viewMode, setViewMode] = useState<"list" | "grid">("list");
+  const [collapsedUnits, setCollapsedUnits] = useState<Record<string, boolean>>({});
+
+  // 1. Calculate lesson indexes
+  const { lessonIndexes, totalLessons } = useMemo(() => {
+    const indexes: Record<string, number> = {};
+    let count = 0;
+    nodes.forEach((node) => {
+      if (node.type === "lesson") {
+        count++;
+        indexes[node.id] = count;
+      }
+    });
+    return { lessonIndexes: indexes, totalLessons: count };
+  }, [nodes]);
 
   // 2. Group nodes by Unit
   const groups = useMemo(() => {
-    const result: { unit: PathNode; items: PathNode[] }[] = [];
-    let currentGroup: { unit: PathNode; items: PathNode[] } | null = null;
+    const result: { unit: PathNode; items: PathNode[]; volume: number }[] = [];
+    let currentGroup: { unit: PathNode; items: PathNode[]; volume: number } | null = null;
 
-    nodes.forEach(node => {
-      if (node.type === 'unit') {
-        currentGroup = { unit: node, items: [] };
+    nodes.forEach((node) => {
+      if (node.type === "unit") {
+        const vol = node.metadata?.volume || (node.sort_key && node.sort_key > 7 ? 2 : 1);
+        currentGroup = { unit: node, items: [], volume: vol };
         result.push(currentGroup);
       } else {
         if (currentGroup) {
           currentGroup.items.push(node);
+          if (node.metadata?.volume && !currentGroup.unit.metadata?.volume) {
+            currentGroup.volume = node.metadata.volume;
+          }
         } else {
           currentGroup = {
-            unit: { id: 'dummy', title: 'Khởi động', slug: 'start', type: 'unit' },
-            items: [node]
+            unit: {
+              id: "start-unit",
+              title: "Khởi động & Kiến thức nền",
+              slug: "start",
+              type: "unit",
+              metadata: { volume: 1 }
+            },
+            items: [node],
+            volume: 1
           };
           result.push(currentGroup);
         }
       }
     });
+
     return result;
   }, [nodes]);
 
-  const getGroupCompletion = useCallback((g: typeof groups[0]) => {
-    if (g.items.length === 0) return completedNodes.includes(g.unit.slug);
-    return g.items.every(item => completedNodes.includes(item.slug));
-  }, [completedNodes]);
-
-  const [collapsedUnits, setCollapsedUnits] = useState<Record<string, boolean>>({});
-  const [initialized, setInitialized] = useState(false);
-
-  // Initialize collapse states for completed units
-  useEffect(() => {
-    if (!initialized && nodes.length > 0) {
-      const initialCollapsed: Record<string, boolean> = {};
-      groups.forEach(group => {
-        if (getGroupCompletion(group)) {
-          initialCollapsed[group.unit.id] = true;
+  // 3. Filter groups based on selected volume and search query
+  const filteredGroups = useMemo(() => {
+    return groups
+      .map((group) => {
+        // Filter by volume
+        if (selectedVolume !== "all") {
+          const groupVol = group.volume || (group.unit.sort_key && group.unit.sort_key > 7 ? 2 : 1);
+          if (groupVol !== selectedVolume) {
+            return null;
+          }
         }
-      });
-      setCollapsedUnits(initialCollapsed);
-      setInitialized(true);
-    }
-  }, [nodes, completedNodes, initialized, getGroupCompletion, groups]);
+
+        // Filter by search query
+        if (searchQuery.trim()) {
+          const q = searchQuery.toLowerCase().trim();
+          const matchUnit = group.unit.title.toLowerCase().includes(q);
+          const matchedItems = group.items.filter(
+            (item) =>
+              item.title.toLowerCase().includes(q) ||
+              item.slug.toLowerCase().includes(q) ||
+              String(lessonIndexes[item.id] || "").includes(q)
+          );
+
+          if (!matchUnit && matchedItems.length === 0) {
+            return null;
+          }
+
+          return {
+            ...group,
+            items: matchUnit ? group.items : matchedItems
+          };
+        }
+
+        return group;
+      })
+      .filter((g): g is NonNullable<typeof g> => g !== null);
+  }, [groups, selectedVolume, searchQuery, lessonIndexes]);
 
   const toggleUnit = (unitId: string) => {
-    setCollapsedUnits(prev => ({
+    setCollapsedUnits((prev) => ({
       ...prev,
       [unitId]: !prev[unitId]
     }));
   };
 
-  const visibleItems: {
-    node: PathNode;
-    isUnit: boolean;
-    parentUnitId: string;
-    isCompleted?: boolean;
-    isCollapsed?: boolean;
-    completedCount?: number;
-    totalCount?: number;
-  }[] = [];
+  // 4. Global statistics
+  const completedCount = useMemo(() => {
+    return nodes.filter((n) => n.type === "lesson" && completedNodes.includes(n.slug)).length;
+  }, [nodes, completedNodes]);
 
-  groups.forEach(group => {
-    const isCompleted = getGroupCompletion(group);
-    const isCollapsed = !!collapsedUnits[group.unit.id];
+  const progressPercent = totalLessons > 0 ? Math.round((completedCount / totalLessons) * 100) : 0;
 
-    // Add Unit node itself
-    visibleItems.push({
-      node: group.unit,
-      isUnit: true,
-      parentUnitId: group.unit.id,
-      isCompleted,
-      isCollapsed
-    });
+  // 5. Determine active / target lesson to resume learning
+  const targetLesson = useMemo(() => {
+    const allLessonNodes = nodes.filter((n) => n.type === "lesson");
+    if (allLessonNodes.length === 0) return null;
 
-    if (!isCollapsed) {
-      group.items.forEach(item => {
-        visibleItems.push({
-          node: item,
-          isUnit: false,
-          parentUnitId: group.unit.id,
-          isCompleted: completedNodes.includes(item.slug)
-        });
-      });
-    } else if (group.items.length > 0) {
-      const completedCount = group.items.filter(item => completedNodes.includes(item.slug)).length;
-      // Add summary badge node
-      visibleItems.push({
-        node: {
-          id: `summary-${group.unit.id}`,
-          title: `Đã học ${completedCount}/${group.items.length} bài`,
-          slug: `summary-${group.unit.slug}`,
-          type: 'summary',
-        },
-        isUnit: false,
-        parentUnitId: group.unit.id,
-        isCompleted: completedCount === group.items.length,
-        completedCount,
-        totalCount: group.items.length
-      });
-    }
-  });
-
-  const positions: { x: number, y: number, isUnit: boolean }[] = [];
-  let currentY = 100;
-  let lessonCounter = 0;
-
-  visibleItems.forEach((item, i) => {
-    const isUnit = item.isUnit;
-    let x = 450; // Center default for 900px board
-    
-    if (isUnit) {
-      x = 450; // Units are always centered
-      if (i > 0) {
-        const prevItem = visibleItems[i - 1];
-        if (prevItem && !prevItem.isUnit && prevItem.node.type === 'summary') {
-          currentY += 100;
-        } else {
-          currentY += 150;
-        }
+    // A. If lastVisitedSlug is provided and is NOT yet completed, resume that one
+    if (lastVisitedSlug) {
+      const last = allLessonNodes.find((n) => n.slug === lastVisitedSlug);
+      if (last && !completedNodes.includes(last.slug)) {
+        return last;
       }
-      lessonCounter = 0; // Reset zigzag counter
-    } else if (item.node.type === 'exam') {
-      x = 450;
-      currentY += 100;
-    } else if (item.node.type === 'summary') {
-      x = 450;
-      currentY += 80; // compact gap for summary badge
-    } else {
-      // Lessons zigzag curve - wider spacing for 900px board
-      const pattern = [250, 650, 280, 620, 220, 680];
-      x = pattern[lessonCounter % pattern.length];
-      currentY += 65; // Extremely dense space between lessons
-      lessonCounter++;
     }
-    
-    positions.push({ x, y: currentY, isUnit });
-  });
 
-  const pathHeight = positions.length > 0 ? positions[positions.length - 1].y + 200 : 500;
+    // B. Otherwise, first uncompleted lesson in sequential order
+    const nextUncompleted = allLessonNodes.find((n) => !completedNodes.includes(n.slug));
+    if (nextUncompleted) return nextUncompleted;
 
-  // Build SVG Paths for the 3D Road Effect
-  let dPath = "";
-  if (positions.length > 0) {
-    let prev = positions[0];
-    dPath = `M ${prev.x} ${prev.y}`;
+    // C. If all completed, return null
+    return null;
+  }, [nodes, completedNodes, lastVisitedSlug]);
 
-    for (let i = 1; i < positions.length; i++) {
-      const curr = positions[i];
-      const distY = curr.y - prev.y;
-      
-      const cp1Y = prev.y + (distY * 0.5);
-      const cp2Y = curr.y - (distY * 0.5);
-      
-      if (curr.isUnit || prev.isUnit) {
-        // Curved transition
-        dPath += ` C ${prev.x} ${cp1Y}, ${curr.x} ${cp2Y}, ${curr.x} ${curr.y}`;
-      } else {
-        // Exaggerated Zig-zag curve for winding path - wider control points
-        const cp1X = prev.x + (i % 2 === 0 ? 120 : -120);
-        const cp2X = curr.x + (i % 2 === 0 ? -120 : 120);
-        dPath += ` C ${cp1X} ${cp1Y}, ${cp2X} ${cp2Y}, ${curr.x} ${curr.y}`;
+  const targetLessonGroup = useMemo(() => {
+    if (!targetLesson) return null;
+    return groups.find((g) => g.items.some((item) => item.slug === targetLesson.slug)) || null;
+  }, [groups, targetLesson]);
+
+  // Smooth scroll to specific lesson card
+  const scrollToLesson = (slug: string, volume?: number, unitId?: string) => {
+    if (unitId) {
+      setCollapsedUnits((prev) => ({ ...prev, [unitId]: false }));
+    }
+    if (volume && selectedVolume !== "all" && selectedVolume !== volume) {
+      setSelectedVolume(volume);
+    }
+    setTimeout(() => {
+      const el = document.getElementById(`lesson-${slug}`);
+      if (el) {
+        el.scrollIntoView({ behavior: "smooth", block: "center" });
+        el.classList.add("ring-4", "ring-cyan-400", "scale-[1.02]", "transition-all", "duration-500");
+        setTimeout(() => {
+          el.classList.remove("ring-4", "ring-cyan-400", "scale-[1.02]");
+        }, 2500);
       }
-      prev = curr;
-    }
-  }
-
-  // Predefined positions for decorative background items based on path height
-  const decorationTypes = ["lollipop", "sugar_cube", "grass_tuft", "jelly_bean", "choco_mud", "lollipop_swirl"];
-  const decorations: { x: number; y: number; type: string; scale: number; rotation: number }[] = [];
-  for (let y = 60; y < pathHeight - 60; y += 70) { 
-    const rand1 = Math.abs(Math.sin(y * 1.23)) * decorationTypes.length;
-    const rand2 = Math.abs(Math.cos(y * 2.34)) * decorationTypes.length;
-    const rand3 = Math.abs(Math.sin(y * 3.45)) * decorationTypes.length;
-    const rot1 = Math.floor(Math.sin(y * 4.56) * 45);
-    const rot2 = Math.floor(Math.cos(y * 5.67) * 45);
-
-    // Left side decors - adjusted for 900px board
-    decorations.push({
-      x: 80 + Math.sin(y) * 50,
-      y: y + Math.cos(y) * 20,
-      type: decorationTypes[Math.floor(rand1) % decorationTypes.length],
-      scale: 0.8 + (Math.sin(y) * 0.4),
-      rotation: rot1
-    });
-    // Right side decors - adjusted for 900px board
-    decorations.push({
-      x: 820 + Math.cos(y) * 50,
-      y: y + 40 + Math.sin(y) * 20,
-      type: decorationTypes[Math.floor(rand2) % decorationTypes.length],
-      scale: 0.8 + (Math.cos(y) * 0.4),
-      rotation: rot2
-    });
-    // Extra random decors far out
-    if (y % 140 === 0) {
-      decorations.push({
-        x: Math.sin(y) > 0 ? 40 : 860,
-        y: y + 60,
-        type: decorationTypes[Math.floor(rand3) % decorationTypes.length],
-        scale: 1.2,
-        rotation: rot1 * -1
-      });
-    }
-  }
+    }, 120);
+  };
 
   return (
-    <div className="relative w-full max-w-full py-10 flex justify-center select-none overflow-x-auto">
-      
-      {/* Outer Adventure Board Frame - Grass Theme */}
-      <div 
-        className="relative w-[900px] min-w-[900px] rounded-[2.5rem] overflow-hidden border-[12px] border-[#381e0f] shadow-[0_25px_60px_rgba(0,0,0,0.6)] bg-gradient-to-b from-[#8ed827] via-[#7bc810] to-[#60b00e] transition-all duration-500"
-        style={{ height: pathHeight }}
-      >
-        <div className="absolute inset-0 opacity-10 pointer-events-none bg-[url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+CjxwYXRoIGQ9Ik0wIDBoMjB2MjBIMHoiIGZpbGw9Im5vbmUiLz4KPGNpcmNsZSBjeD0iMiIgY3k9IjIiIHI9IjEiIGZpbGw9IiNmZmYiLz4KPC9zdmc+')] bg-[size:40px_40px]"></div>
-        
-        {/* Fluffy Clouds in Background */}
-        <div className="absolute inset-0 pointer-events-none overflow-hidden opacity-80">
-          <div className="absolute top-10 left-[-20px] w-48 h-16 bg-white/70 rounded-full blur-[2px] animate-[pulse_6s_infinite]"></div>
-          <div className="absolute top-10 left-10 w-32 h-20 bg-white/60 rounded-full blur-[2px] animate-[pulse_6s_infinite] delay-75"></div>
-          <div className="absolute top-1/3 right-[-30px] w-48 h-20 bg-white/70 rounded-full blur-[2px] animate-[pulse_8s_infinite]"></div>
-          <div className="absolute bottom-20 left-10 w-40 h-16 bg-white/60 rounded-full blur-[2px] animate-[pulse_5s_infinite]"></div>
-        </div>
+    <div className="w-full max-w-5xl mx-auto space-y-8 select-none">
+      {/* ── TOP STATS & CONTROLS DASHBOARD ───────────────────────────── */}
+      <div className="relative overflow-hidden rounded-3xl border border-slate-800/80 bg-gradient-to-b from-slate-900/90 via-slate-950/90 to-[#070b14] p-6 shadow-2xl backdrop-blur-xl">
+        {/* Ambient Glows */}
+        <div className="pointer-events-none absolute -left-20 -top-20 h-64 w-64 rounded-full bg-cyan-500/10 blur-3xl" />
+        <div className="pointer-events-none absolute -right-20 -bottom-20 h-64 w-64 rounded-full bg-indigo-500/10 blur-3xl" />
 
-        {/* Decorative Floating Elements */}
-        {decorations.map((dec, idx) => (
-          <div 
-            key={idx} 
-            className="absolute transform -translate-x-1/2 -translate-y-1/2 pointer-events-none transition-transform hover:scale-110 duration-300 z-0"
-            style={{ 
-              left: `${dec.x}px`, 
-              top: `${dec.y}px`,
-              transform: `translate(-50%, -50%) scale(${dec.scale}) rotate(${dec.rotation}deg)` 
-            }}
-          >
-            {dec.type === "lollipop" && (
-              <div className="flex flex-col items-center opacity-95 scale-125">
-                <div className="w-14 h-14 rounded-full bg-gradient-to-tr from-fuchsia-500 via-pink-500 to-rose-400 border-[3px] border-white/90 shadow-lg flex items-center justify-center overflow-hidden">
-                   <div className="absolute top-1 left-2 right-2 h-4 bg-white/40 rounded-full"></div>
-                </div>
-                <div className="w-2.5 h-16 bg-white rounded-full -mt-2 border border-slate-200/50 shadow-md z-[-1]"></div>
-              </div>
-            )}
-            {dec.type === "lollipop_swirl" && (
-              <div className="flex flex-col items-center opacity-95 scale-125">
-                <div className="w-14 h-14 rounded-full bg-[conic-gradient(#ec4899_0deg_45deg,#fff_45deg_90deg,#ec4899_90deg_135deg,#fff_135deg_180deg,#ec4899_180deg_225deg,#fff_225deg_270deg,#ec4899_270deg_315deg,#fff_315deg_360deg)] border-[3px] border-white/90 shadow-lg flex items-center justify-center">
-                  <div className="w-full h-full rounded-full shadow-[inset_0_2px_4px_rgba(255,255,255,0.8)]"></div>
-                </div>
-                <div className="w-2.5 h-16 bg-white rounded-full -mt-2 border border-slate-200/50 shadow-md z-[-1]"></div>
-              </div>
-            )}
-            {dec.type === "sugar_cube" && (
-              <div className="w-8 h-8 bg-white rounded-md shadow-lg border-2 border-slate-100 flex items-center justify-center opacity-95">
-                <div className="w-5 h-5 bg-slate-50/50 rounded-sm shadow-inner"></div>
-              </div>
-            )}
-            {dec.type === "grass_tuft" && (
-              <div className="flex items-end justify-center opacity-90">
-                <div className="w-2 h-6 bg-[#65a30d] rounded-full rotate-[-30deg] translate-x-2"></div>
-                <div className="w-2.5 h-8 bg-[#4d7c0f] rounded-full z-10"></div>
-                <div className="w-2 h-5 bg-[#65a30d] rounded-full rotate-[30deg] -translate-x-1"></div>
-              </div>
-            )}
-            {dec.type === "jelly_bean" && (
-              <div className="w-10 h-6 bg-gradient-to-b from-rose-500 to-rose-700 rounded-full shadow-lg border border-rose-800/20 relative overflow-hidden">
-                 <div className="absolute top-1 left-2 w-4 h-1.5 bg-white/60 rounded-full rotate-[-15deg]"></div>
-              </div>
-            )}
-            {dec.type === "choco_mud" && (
-              <div className="w-24 h-12 bg-[#573418] rounded-full opacity-60 blur-[1px] shadow-inner"></div>
-            )}
+        <div className="relative z-10 flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
+          {/* Left: Overall Info */}
+          <div className="space-y-2">
+            <div className="flex items-center gap-2">
+              <span className="inline-flex items-center gap-1.5 rounded-full border border-cyan-500/30 bg-cyan-500/10 px-3 py-1 text-xs font-bold uppercase tracking-wider text-cyan-400">
+                <Sparkles size={13} />
+                Lộ Trình Học Tập Hiện Đại
+              </span>
+              <span className="rounded-full border border-slate-700 bg-slate-800/60 px-2.5 py-0.5 text-xs font-semibold text-slate-300">
+                Kết Nối Tri Thức
+              </span>
+            </div>
+            <h2 className="text-2xl font-black tracking-tight text-white md:text-3xl">
+              Chương Trình Toán Lớp 3
+            </h2>
+            <p className="text-xs text-slate-400 max-w-md leading-relaxed">
+              Toàn bộ bài giảng video chính thức từ Cô Nguyễn Thị Điềm (VietJack) kèm đánh dấu tiến độ học tập thông minh.
+            </p>
           </div>
-        ))}
 
-        {/* 3D Road / Golden Path SVG - adjusted for 900px board */}
-        <div className="absolute top-0 left-0 w-full h-full pointer-events-none flex justify-center">
-          <svg 
-            width="900" 
-            height={pathHeight} 
-            className="overflow-visible"
-            fill="none" 
-          >
-            <path 
-              d={dPath} 
-              stroke="#b45309"
-              strokeWidth="48"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-            <path 
-              d={dPath} 
-              stroke="#fbbf24"
-              strokeWidth="40"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-            <path 
-              d={dPath} 
-              stroke="#fcd34d"
-              strokeWidth="28"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-          </svg>
+          {/* Right: Progress Card */}
+          <div className="flex flex-col items-start md:items-end justify-center rounded-2xl border border-slate-800 bg-slate-900/80 p-4 min-w-[240px] shadow-lg">
+            <div className="flex items-center justify-between w-full mb-2">
+              <span className="text-xs font-bold text-slate-400 uppercase tracking-wider">Tiến độ hoàn thành</span>
+              <span className="text-sm font-black text-cyan-400">{progressPercent}%</span>
+            </div>
+            {/* Progress Bar */}
+            <div className="h-2 w-full overflow-hidden rounded-full bg-slate-800">
+              <div
+                className="h-full rounded-full bg-gradient-to-r from-cyan-500 via-sky-400 to-indigo-500 transition-all duration-500 shadow-[0_0_12px_rgba(6,182,212,0.8)]"
+                style={{ width: `${progressPercent}%` }}
+              />
+            </div>
+            <div className="flex items-center justify-between w-full mt-2 text-[11px] text-slate-400">
+              <span>Đã hoàn thành: <strong className="text-white">{completedCount}</strong>/{totalLessons} bài</span>
+              <span>16 Chủ đề</span>
+            </div>
+          </div>
         </div>
 
-        {/* Nodes Layer */}
-        <div className="relative z-10 w-full h-full">
-          {visibleItems.map((item, i) => {
-            const node = item.node;
-            const pos = positions[i];
-            const isUnitNode = item.isUnit;
-            const leftOffset = `${pos.x}px`;
-            const topOffset = `${pos.y}px`;
-            
-            const isUnlocked = true; 
-            const isCompleted = item.isCompleted;
+        {/* ── FILTER TABS & SEARCH BAR ─────────────────────────────────── */}
+        <div className="mt-6 pt-6 border-t border-slate-800/80 flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-4">
+          {/* Volume Tabs */}
+          <div className="inline-flex rounded-2xl bg-slate-950/80 p-1 border border-slate-800">
+            <button
+              onClick={() => setSelectedVolume("all")}
+              className={`rounded-xl px-4 py-2 text-xs font-bold transition-all ${
+                selectedVolume === "all"
+                  ? "bg-gradient-to-r from-cyan-500 to-blue-600 text-white shadow-md shadow-cyan-500/20"
+                  : "text-slate-400 hover:text-white"
+              }`}
+            >
+              Tất cả (81 bài)
+            </button>
+            <button
+              onClick={() => setSelectedVolume(1)}
+              className={`rounded-xl px-4 py-2 text-xs font-bold transition-all ${
+                selectedVolume === 1
+                  ? "bg-gradient-to-r from-cyan-500 to-blue-600 text-white shadow-md shadow-cyan-500/20"
+                  : "text-slate-400 hover:text-white"
+              }`}
+            >
+              Tập 1 (Bài 1–44)
+            </button>
+            <button
+              onClick={() => setSelectedVolume(2)}
+              className={`rounded-xl px-4 py-2 text-xs font-bold transition-all ${
+                selectedVolume === 2
+                  ? "bg-gradient-to-r from-cyan-500 to-blue-600 text-white shadow-md shadow-cyan-500/20"
+                  : "text-slate-400 hover:text-white"
+              }`}
+            >
+              Tập 2 (Bài 45–81)
+            </button>
+          </div>
 
-            // Summary box for collapsed units
-            if (node.type === 'summary') {
-              const completedCount = item.completedCount || 0;
-              const totalCount = item.totalCount || 0;
-              
-              // Dynamic colors based on progress
-              let badgeBg = "bg-gradient-to-r from-emerald-600 via-[#10b981] to-[#059669] hover:from-emerald-500 hover:to-[#059669] shadow-[0_4px_15px_rgba(16,185,129,0.4)]";
-              let BadgeIcon = CheckCircle2;
-              
-              if (completedCount === 0) {
-                badgeBg = "bg-gradient-to-r from-slate-600 via-slate-500 to-slate-700 hover:from-slate-500 hover:to-slate-600 shadow-[0_4px_15px_rgba(100,116,139,0.3)]";
-                BadgeIcon = Lock;
-              } else if (completedCount < totalCount) {
-                badgeBg = "bg-gradient-to-r from-sky-600 via-[#3b82f6] to-[#1d4ed8] hover:from-sky-500 hover:to-[#1d4ed8] shadow-[0_4px_15px_rgba(59,130,246,0.4)]";
-                BadgeIcon = Play;
-              }
-
-              return (
-                <div 
-                  key={node.id}
-                  className="absolute transform -translate-x-1/2 -translate-y-1/2 flex flex-col items-center justify-center z-20"
-                  style={{ left: leftOffset, top: topOffset }}
+          {/* Search Input & View Toggle */}
+          <div className="flex items-center gap-2">
+            <div className="relative flex-1 sm:w-64">
+              <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-500" />
+              <input
+                type="text"
+                placeholder="Tìm bài học..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="w-full rounded-2xl border border-slate-800 bg-slate-950/80 py-2 pl-9 pr-4 text-xs text-slate-200 placeholder-slate-500 focus:border-cyan-500/50 focus:outline-none focus:ring-1 focus:ring-cyan-500/50"
+              />
+              {searchQuery && (
+                <button
+                  onClick={() => setSearchQuery("")}
+                  className="absolute right-3 top-1/2 -translate-y-1/2 text-[10px] text-slate-500 hover:text-slate-300"
                 >
-                  <button 
-                    onClick={() => toggleUnit(item.parentUnitId)}
-                    className={`flex items-center gap-1.5 px-4 py-2 ${badgeBg} text-white rounded-full border-2 border-white font-black text-[10px] uppercase tracking-wider transition-all active:scale-95 duration-200 cursor-pointer`}
-                  >
-                    <BadgeIcon size={12} className="text-white" />
-                    <span>{node.title} (Nhấp để mở rộng)</span>
-                  </button>
-                </div>
-              );
-            }
-            
-            return (
-              <div 
-                key={node.id}
-                className={`absolute transform -translate-x-1/2 -translate-y-1/2 flex flex-col items-center group cursor-pointer ${isUnitNode ? 'w-36 h-36' : 'w-24 h-24'}`}
-                style={{ left: leftOffset, top: topOffset }}
+                  ✕
+                </button>
+              )}
+            </div>
+
+            {/* View Mode Toggle */}
+            <div className="inline-flex rounded-xl bg-slate-950/80 p-1 border border-slate-800">
+              <button
+                onClick={() => setViewMode("list")}
+                title="Dạng danh sách / timeline"
+                className={`p-1.5 rounded-lg transition-colors ${
+                  viewMode === "list" ? "bg-slate-800 text-cyan-400" : "text-slate-500 hover:text-slate-300"
+                }`}
               >
-                {isUnitNode ? (
-                  /* Purple Banner Flag Unit Node */
-                  <div 
-                    onClick={() => toggleUnit(node.id)}
-                    className="relative flex flex-col items-center mt-[-30px] cursor-pointer"
-                  >
-                    <div className="relative flex flex-col items-center justify-start z-10 transition-transform active:scale-95 hover:scale-105 duration-150">
-                      {/* Banner Body */}
-                      <div className={`w-16 h-24 ${isUnlocked ? 'bg-gradient-to-b from-purple-500 to-purple-800' : 'bg-gradient-to-b from-slate-400 to-slate-600'} border-2 border-amber-300 rounded-b-md relative flex items-center justify-start pt-3 shadow-[0_5px_15px_rgba(0,0,0,0.4)] flex-col`}>
-                        <Star size={24} className={isUnlocked ? 'text-yellow-400 fill-yellow-400 drop-shadow-md animate-pulse' : 'text-slate-300 fill-slate-300'} />
-                        {/* The pointy bottom of banner */}
-                        <div className={`absolute -bottom-4 w-0 h-0 border-x-[30px] border-x-transparent border-t-[16px] ${isUnlocked ? 'border-t-purple-800' : 'border-t-slate-600'}`}></div>
-                        <div className="absolute -bottom-[19px] w-0 h-0 border-x-[34px] border-x-transparent border-t-[18px] border-t-amber-300 z-[-1]"></div>
-                      </div>
+                <ListOrdered size={16} />
+              </button>
+              <button
+                onClick={() => setViewMode("grid")}
+                title="Dạng lưới thẻ"
+                className={`p-1.5 rounded-lg transition-colors ${
+                  viewMode === "grid" ? "bg-slate-800 text-cyan-400" : "text-slate-500 hover:text-slate-300"
+                }`}
+              >
+                <LayoutGrid size={16} />
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* ── HERO RESUME LEARNING / TIẾP TỤC HỌC TẬP CARD ──────────────── */}
+      {targetLesson ? (
+        <div className="relative overflow-hidden rounded-3xl border border-cyan-500/40 bg-gradient-to-r from-cyan-950/40 via-slate-900/95 to-blue-950/40 p-5 sm:p-6 shadow-2xl backdrop-blur-xl">
+          <div className="pointer-events-none absolute -right-10 -top-10 h-44 w-44 rounded-full bg-cyan-500/20 blur-3xl" />
+          <div className="relative z-10 flex flex-col md:flex-row md:items-center md:justify-between gap-5">
+            <div className="space-y-2">
+              <div className="flex items-center gap-2">
+                <span className="relative flex h-2.5 w-2.5">
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-cyan-400 opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-cyan-500"></span>
+                </span>
+                <span className="text-[11px] font-black uppercase tracking-wider text-cyan-400">
+                  {completedCount === 0 ? "Bắt đầu bài đầu tiên" : "Vị trí học tập hiện tại • Tiếp tục bài học"}
+                </span>
+                <span className="rounded-md border border-slate-700 bg-slate-800/80 px-2 py-0.5 text-[10px] font-bold text-slate-300">
+                  {targetLesson.metadata?.volume === 2 ? "Tập 2 • HK2" : "Tập 1 • HK1"}
+                </span>
+              </div>
+
+              <div>
+                <h3 className="text-xl sm:text-2xl font-black text-white tracking-tight">
+                  {targetLesson.title}
+                </h3>
+              </div>
+
+              <div className="flex items-center gap-3 text-xs text-slate-400 flex-wrap">
+                {targetLesson.metadata?.page && (
+                  <span className="rounded-md border border-slate-800 bg-slate-950/80 px-2.5 py-1 text-[11px] font-semibold text-slate-300">
+                    📖 SGK Trang {targetLesson.metadata.page}
+                  </span>
+                )}
+                <span className="rounded-md border border-sky-500/20 bg-sky-500/10 px-2.5 py-1 text-[11px] font-bold text-sky-400 flex items-center gap-1">
+                  <Video size={12} />
+                  {targetLesson.metadata?.videos?.length || (targetLesson.metadata?.youtube_id ? 1 : 0)} Video cô Điềm
+                </span>
+                {targetLessonGroup?.unit?.title && (
+                  <span className="text-slate-500 text-[11px]">
+                    Thuộc: {targetLessonGroup.unit.title}
+                  </span>
+                )}
+              </div>
+            </div>
+
+            {/* Action buttons */}
+            <div className="flex items-center gap-3 shrink-0 flex-wrap sm:flex-nowrap">
+              <button
+                onClick={() =>
+                  scrollToLesson(
+                    targetLesson.slug,
+                    targetLesson.metadata?.volume || targetLessonGroup?.volume || 1,
+                    targetLessonGroup?.unit?.id
+                  )
+                }
+                className="inline-flex items-center gap-1.5 px-4 py-3 rounded-2xl border border-slate-700 hover:border-cyan-500/50 bg-slate-900/90 hover:bg-slate-800 text-xs font-bold text-slate-200 transition-all shadow-md active:scale-95"
+              >
+                <span>Định vị trên sơ đồ</span>
+                <span className="text-cyan-400 font-bold">📍</span>
+              </button>
+
+              <Link
+                href={`/learn/${subjectSlug}/${targetLesson.slug}`}
+                className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-gradient-to-r from-cyan-500 via-sky-500 to-blue-600 hover:from-cyan-400 hover:to-blue-500 text-white font-extrabold text-sm shadow-xl shadow-cyan-500/30 transition-all active:scale-95 hover:shadow-cyan-400/40"
+              >
+                <span>{completedCount === 0 ? "Bắt đầu học ngay" : "Tiếp tục học ngay"}</span>
+                <ArrowRight size={16} />
+              </Link>
+            </div>
+          </div>
+        </div>
+      ) : completedCount > 0 && completedCount === totalLessons ? (
+        <div className="relative overflow-hidden rounded-3xl border border-emerald-500/40 bg-gradient-to-r from-emerald-950/40 via-slate-900/90 to-teal-950/40 p-6 shadow-2xl backdrop-blur-xl flex flex-col sm:flex-row items-center justify-between gap-4">
+          <div className="flex items-center gap-4">
+            <div className="flex h-14 w-14 items-center justify-center rounded-2xl border border-emerald-500/40 bg-emerald-500/20 text-emerald-300 shadow-inner">
+              <Award size={32} />
+            </div>
+            <div>
+              <span className="text-xs font-black uppercase tracking-wider text-emerald-400">
+                Xuất Sắc! Hoàn Thành Chương Trình
+              </span>
+              <h3 className="text-xl font-black text-white mt-0.5">
+                Em đã hoàn thành trọn vẹn cả 81 bài học Toán lớp 3!
+              </h3>
+              <p className="text-xs text-slate-400 mt-1">
+                Hãy thường xuyên ôn lại các bài kiểm tra và làm đề thi để củng cố kiến thức vững chắc nhé!
+              </p>
+            </div>
+          </div>
+          <button
+            onClick={() => {
+              if (nodes[0]?.slug) {
+                scrollToLesson(nodes[0].slug, 1, groups[0]?.unit?.id);
+              }
+            }}
+            className="px-5 py-2.5 rounded-xl border border-emerald-500/30 bg-emerald-500/10 text-emerald-300 font-bold text-xs hover:bg-emerald-500 hover:text-white transition shrink-0"
+          >
+            Ôn lại từ Bài 1 ↺
+          </button>
+        </div>
+      ) : null}
+
+      {/* ── CHAPTERS / UNITS LIST ────────────────────────────────────── */}
+      <div className="space-y-6">
+        {filteredGroups.length === 0 ? (
+          <div className="rounded-3xl border border-dashed border-slate-800 p-12 text-center text-slate-500">
+            <BookOpen size={32} className="mx-auto mb-3 opacity-40 text-cyan-400" />
+            <p className="font-semibold text-sm">Không tìm thấy bài học nào phù hợp.</p>
+            <p className="text-xs text-slate-600 mt-1">Vui lòng thử tìm kiếm với từ khóa khác.</p>
+          </div>
+        ) : (
+          filteredGroups.map((group) => {
+            const isCollapsed = !!collapsedUnits[group.unit.id];
+            const groupLessons = group.items.filter((item) => item.type === "lesson");
+            const groupCompleted = groupLessons.filter((item) => completedNodes.includes(item.slug)).length;
+            const isAllCompleted = groupLessons.length > 0 && groupCompleted === groupLessons.length;
+            const totalVideosInGroup = groupLessons.reduce(
+              (acc, item) => acc + (item.metadata?.videos?.length || (item.metadata?.youtube_id ? 1 : 0)),
+              0
+            );
+
+            const isTap2 = group.volume === 2 || (group.unit.sort_key && group.unit.sort_key > 7);
+
+            return (
+              <div
+                key={group.unit.id}
+                className="overflow-hidden rounded-3xl border border-slate-800/90 bg-gradient-to-b from-slate-900/60 to-slate-950/80 shadow-xl backdrop-blur-md transition-all hover:border-slate-700/80"
+              >
+                {/* ── CHAPTER HEADER ────────────────────────────────────── */}
+                <div
+                  onClick={() => toggleUnit(group.unit.id)}
+                  className="flex cursor-pointer items-center justify-between p-5 sm:p-6 transition-colors hover:bg-white/[0.02]"
+                >
+                  <div className="flex items-center gap-4">
+                    {/* Chapter Icon Badge */}
+                    <div
+                      className={`flex h-12 w-12 items-center justify-center rounded-2xl border ${
+                        isAllCompleted
+                          ? "border-emerald-500/30 bg-emerald-500/10 text-emerald-400"
+                          : isTap2
+                          ? "border-fuchsia-500/30 bg-fuchsia-500/10 text-fuchsia-400"
+                          : "border-cyan-500/30 bg-cyan-500/10 text-cyan-400"
+                      } shadow-inner`}
+                    >
+                      {isAllCompleted ? (
+                        <CheckCircle2 size={24} />
+                      ) : (
+                        <Layers size={22} />
+                      )}
                     </div>
-                    {/* Wooden Pole */}
-                    <div className="absolute w-3 h-24 bg-[#8b5a2b] border-r-[3px] border-[#5c3a21]/50 -bottom-10 rounded-full z-0 shadow-lg"></div>
-                    
-                    {/* Permanent Wooden Nameplate Banner displaying Unit name */}
-                    <div className="absolute top-[80px] bg-gradient-to-b from-[#7c4e29] to-[#5c3a21] text-amber-100 border-2 border-[#b45309] shadow-lg px-3 py-1 rounded-xl font-black text-[10px] whitespace-nowrap z-20 text-center max-w-[200px] truncate uppercase tracking-wide">
-                      {node.title.replace(/^Buổi \d+:\s*/, '')} {item.isCollapsed ? '➕' : '➖'}
+
+                    <div>
+                      <div className="flex items-center gap-2">
+                        <span
+                          className={`rounded-md px-2 py-0.5 text-[10px] font-black uppercase tracking-wider border ${
+                            isTap2
+                              ? "border-fuchsia-500/30 bg-fuchsia-500/10 text-fuchsia-400"
+                              : "border-cyan-500/30 bg-cyan-500/10 text-cyan-400"
+                          }`}
+                        >
+                          {isTap2 ? "Tập 2 • HK2" : "Tập 1 • HK1"}
+                        </span>
+                        <span className="text-xs font-bold text-slate-400">
+                          {groupLessons.length} bài học • {totalVideosInGroup} video bài giảng
+                        </span>
+                      </div>
+                      <h3 className="mt-1 text-base sm:text-lg font-black tracking-tight text-white">
+                        {group.unit.title}
+                      </h3>
                     </div>
                   </div>
-                ) : node.type === 'exam' ? (
-                  /* Exam Gift Node */
-                  <Link 
-                    href={`/learn/${subjectSlug}/${node.slug}`}
-                    className="relative flex items-center justify-center transition-all duration-150 active:translate-y-[4px] hover:scale-110 z-10 mt-[-10px]"
-                  >
-                    <div className="text-[70px] leading-none select-none drop-shadow-[0_10px_15px_rgba(0,0,0,0.4)]">
-                      🎁
-                    </div>
-                  </Link>
-                ) : (
-                  /* 3D Glassy Round Buttons for Lessons */
-                  <div className="relative w-full h-full">
-                    <Link 
-                      href={`/learn/${subjectSlug}/${node.slug}`}
-                      className="relative flex items-center justify-center transition-all duration-150 active:translate-y-[3px] hover:scale-110 z-10"
-                    >
-                      <div className="relative flex flex-col items-center justify-center w-full h-full">
-                        {isCompleted ? (
-                          // Completed Glassy Blue Button with 3 Stars
-                          <div className="flex flex-col items-center justify-center transition-transform relative opacity-70">
-                            <div className="w-14 h-14 rounded-full bg-gradient-to-b from-[#77d3f4] to-[#258bd5] shadow-[0_5px_0_#0f5a9e,inset_0_3px_5px_rgba(255,255,255,0.6)] border-[3px] border-white flex items-center justify-center z-10 grayscale-[50%]">
-                               <span className="text-white text-2xl font-black drop-shadow-[0_2px_2px_rgba(0,0,0,0.5)]">{lessonIndexes[node.id]}</span>
-                            </div>
-                            {/* 3 Stars below */}
-                            <div className="absolute -bottom-4 flex justify-center w-[120%] gap-0.5 z-20 grayscale-[50%]">
-                              <Star size={14} className="text-yellow-400 fill-yellow-400 drop-shadow-md rotate-[-15deg] mt-1" />
-                              <Star size={18} className="text-yellow-400 fill-yellow-400 drop-shadow-md z-10" />
-                              <Star size={14} className="text-yellow-400 fill-yellow-400 drop-shadow-md rotate-[15deg] mt-1" />
-                            </div>
-                          </div>
-                        ) : isUnlocked ? (
-                          // Unlocked Glassy Blue Button
-                          <div className="flex items-center justify-center transition-transform animate-[bounce_2s_infinite] relative">
-                            <div className="w-16 h-16 rounded-full bg-gradient-to-b from-[#77d3f4] to-[#258bd5] shadow-[0_6px_0_#0f5a9e,0_10px_15px_rgba(15,90,158,0.5),inset_0_3px_5px_rgba(255,255,255,0.6)] border-[4px] border-white flex items-center justify-center z-10">
-                               <span className="text-white text-3xl font-black drop-shadow-[0_2px_2px_rgba(0,0,0,0.5)]">{lessonIndexes[node.id]}</span>
-                            </div>
-                            <div className="absolute inset-[-10px] bg-white/20 rounded-full blur-sm -z-10 animate-pulse"></div>
-                          </div>
-                        ) : (
-                          // Locked Glassy Gray Button
-                          <div className="flex items-center justify-center opacity-80 hover:opacity-100 transition-opacity">
-                            <div className="w-12 h-12 rounded-full bg-gradient-to-b from-[#e2e8f0] to-[#94a3b8] shadow-[0_4px_0_#475569,inset_0_2px_3px_rgba(255,255,255,0.8)] border-[3px] border-white flex items-center justify-center z-10">
-                               <span className="text-slate-500 text-xl font-black drop-shadow-[0_1px_1px_rgba(255,255,255,0.8)]">{lessonIndexes[node.id]}</span>
-                            </div>
-                          </div>
-                        )}
-                      </div>
-                    </Link>
 
-                    {/* Permanent Lesson Title Label on the side - aligned for 900px board */}
-                    <Link href={`/learn/${subjectSlug}/${node.slug}`} className="block">
-                      <div className={`absolute top-1/2 -translate-y-1/2 bg-surface/95 border border-line/80 hover:border-sky-500 text-slate-200 hover:text-white px-3 py-1.5 rounded-xl text-[10px] font-black shadow-lg max-w-[200px] truncate whitespace-nowrap z-20 ${pos.x < 450 ? 'left-16 text-left origin-left' : 'right-16 text-right origin-right'} transition-all cursor-pointer`}>
-                        {node.title.replace(/^Buổi \d+:\s*/, '')}
+                  {/* Right Header Status */}
+                  <div className="flex items-center gap-4">
+                    <div className="hidden sm:flex flex-col items-end">
+                      <span className="text-xs font-bold text-slate-300">
+                        {groupCompleted}/{groupLessons.length} hoàn thành
+                      </span>
+                      <div className="mt-1 h-1.5 w-24 overflow-hidden rounded-full bg-slate-800">
+                        <div
+                          className="h-full rounded-full bg-gradient-to-r from-cyan-400 to-indigo-500 transition-all duration-300"
+                          style={{
+                            width: `${groupLessons.length > 0 ? (groupCompleted / groupLessons.length) * 100 : 0}%`
+                          }}
+                        />
                       </div>
-                    </Link>
+                    </div>
+
+                    <button
+                      className="flex h-9 w-9 items-center justify-center rounded-xl border border-slate-800 bg-slate-900 text-slate-400 hover:text-white transition-colors"
+                      aria-label="Toggle Unit"
+                    >
+                      {isCollapsed ? <ChevronDown size={18} /> : <ChevronRight size={18} className="rotate-90" />}
+                    </button>
+                  </div>
+                </div>
+
+                {/* ── CHAPTER CONTENT (LESSONS) ─────────────────────────── */}
+                {!isCollapsed && (
+                  <div className="border-t border-slate-800/80 p-5 sm:p-6 bg-slate-950/40">
+                    {viewMode === "list" ? (
+                      /* ── TIMELINE LIST VIEW ─────────────────────────── */
+                      <div className="relative pl-6 space-y-4 before:absolute before:left-3 before:top-3 before:bottom-3 before:w-0.5 before:bg-slate-800">
+                        {group.items.map((item, idx) => {
+                          const isCompleted = completedNodes.includes(item.slug);
+                          const isCurrent = targetLesson?.slug === item.slug;
+                          const lessonIndex = lessonIndexes[item.id] || idx + 1;
+                          const videosCount = item.metadata?.videos?.length || (item.metadata?.youtube_id ? 1 : 0);
+                          const page = item.metadata?.page;
+
+                          return (
+                            <div key={item.id} className="relative group">
+                              {/* Step Node Marker on timeline */}
+                              <div
+                                className={`absolute -left-6 top-1/2 -translate-y-1/2 -translate-x-1/2 flex h-6 w-6 items-center justify-center rounded-full border-2 transition-all ${
+                                  isCurrent
+                                    ? "border-cyan-400 bg-cyan-500 text-white shadow-[0_0_15px_rgba(6,182,212,1)]"
+                                    : isCompleted
+                                    ? "border-emerald-400 bg-emerald-500 text-white shadow-[0_0_10px_rgba(16,185,129,0.8)]"
+                                    : "border-slate-700 bg-slate-900 text-slate-400 group-hover:border-cyan-400 group-hover:bg-cyan-500/20 group-hover:text-cyan-300"
+                                }`}
+                              >
+                                {isCurrent ? (
+                                  <>
+                                    <span className="absolute -inset-1 rounded-full bg-cyan-400 opacity-75 animate-ping" />
+                                    <Play size={10} className="fill-current translate-x-0.5 relative z-10" />
+                                  </>
+                                ) : isCompleted ? (
+                                  <CheckCircle2 size={12} className="stroke-[3]" />
+                                ) : (
+                                  <span className="text-[10px] font-black">{lessonIndex}</span>
+                                )}
+                              </div>
+
+                              {/* Lesson Row Card */}
+                              <div
+                                id={`lesson-${item.slug}`}
+                                className={`flex flex-col sm:flex-row sm:items-center justify-between gap-4 rounded-2xl border p-4 transition-all duration-200 ${
+                                  isCurrent
+                                    ? "ring-2 ring-cyan-400 border-cyan-400 bg-gradient-to-r from-cyan-950/50 via-slate-900 to-slate-900/95 shadow-[0_0_25px_rgba(6,182,212,0.25)]"
+                                    : isCompleted
+                                    ? "border-emerald-500/20 bg-emerald-950/10 hover:border-emerald-500/40 hover:bg-emerald-950/20"
+                                    : "border-slate-800/80 bg-slate-900/60 hover:border-cyan-500/40 hover:bg-slate-900/90 hover:shadow-[0_4px_20px_rgba(6,182,212,0.1)]"
+                                }`}
+                              >
+                                <div className="space-y-1.5 flex-1 min-w-0">
+                                  <div className="flex items-center gap-2 flex-wrap">
+                                    <span className="text-xs font-black text-cyan-400 font-mono">
+                                      #{lessonIndex < 10 ? `0${lessonIndex}` : lessonIndex}
+                                    </span>
+                                    {page && (
+                                      <span className="rounded-md border border-slate-800 bg-slate-950/80 px-2 py-0.5 text-[10px] font-semibold text-slate-400">
+                                        📖 SGK Trang {page}
+                                      </span>
+                                    )}
+                                    {videosCount > 0 && (
+                                      <span className="rounded-md border border-sky-500/20 bg-sky-500/10 px-2 py-0.5 text-[10px] font-bold text-sky-400 flex items-center gap-1">
+                                        <Video size={10} />
+                                        {videosCount} Video bài giảng
+                                      </span>
+                                    )}
+                                    {isCurrent && (
+                                      <span className="rounded-md border border-cyan-400/50 bg-cyan-500/20 px-2 py-0.5 text-[10px] font-black text-cyan-300 flex items-center gap-1 animate-pulse">
+                                        <span className="h-1.5 w-1.5 rounded-full bg-cyan-400 animate-ping"></span>
+                                        📍 Đang học • Bài tiếp theo
+                                      </span>
+                                    )}
+                                    {isCompleted && (
+                                      <span className="rounded-md border border-emerald-500/30 bg-emerald-500/10 px-2 py-0.5 text-[10px] font-bold text-emerald-400 flex items-center gap-1">
+                                        <CheckCircle2 size={10} />
+                                        ✓ Đã hoàn thành
+                                      </span>
+                                    )}
+                                  </div>
+
+                                  <Link
+                                    href={`/learn/${subjectSlug}/${item.slug}`}
+                                    className="block text-sm sm:text-base font-bold text-white group-hover:text-cyan-300 transition-colors truncate"
+                                  >
+                                    {item.title}
+                                  </Link>
+                                </div>
+
+                                {/* Right Action Buttons */}
+                                <div className="flex items-center gap-2.5 shrink-0">
+                                  {onToggleComplete && (
+                                    <button
+                                      type="button"
+                                      onClick={(e) => {
+                                        e.preventDefault();
+                                        e.stopPropagation();
+                                        onToggleComplete(item.slug, !isCompleted);
+                                      }}
+                                      title={isCompleted ? "Bỏ đánh dấu hoàn thành" : "Đánh dấu đã học bài này"}
+                                      className={`p-2 rounded-xl border transition-all ${
+                                        isCompleted
+                                          ? "border-emerald-500/40 bg-emerald-500/15 text-emerald-400 hover:bg-emerald-500/30"
+                                          : "border-slate-800 bg-slate-900/60 text-slate-500 hover:text-emerald-400 hover:border-emerald-500/30"
+                                      }`}
+                                    >
+                                      <CheckCircle2 size={16} />
+                                    </button>
+                                  )}
+
+                                  <Link
+                                    href={`/learn/${subjectSlug}/${item.slug}`}
+                                    className={`inline-flex items-center gap-1.5 rounded-xl px-4 py-2 text-xs font-bold transition-all ${
+                                      isCurrent
+                                        ? "bg-gradient-to-r from-cyan-500 to-blue-600 text-white shadow-lg shadow-cyan-500/30 hover:from-cyan-400 hover:to-blue-500"
+                                        : isCompleted
+                                        ? "border border-emerald-500/30 bg-emerald-500/10 text-emerald-300 hover:bg-emerald-500 hover:text-white"
+                                        : "border border-cyan-500/30 bg-cyan-500/10 text-cyan-300 hover:bg-cyan-500 hover:text-white hover:shadow-[0_0_15px_rgba(6,182,212,0.5)]"
+                                    }`}
+                                  >
+                                    <span>{isCurrent ? "Học ngay" : isCompleted ? "Ôn lại" : "Học ngay"}</span>
+                                    <ArrowRight size={13} className="transition-transform group-hover:translate-x-0.5" />
+                                  </Link>
+                                </div>
+                              </div>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    ) : (
+                      /* ── MODERN GRID VIEW ───────────────────────────── */
+                      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+                        {group.items.map((item, idx) => {
+                          const isCompleted = completedNodes.includes(item.slug);
+                          const isCurrent = targetLesson?.slug === item.slug;
+                          const lessonIndex = lessonIndexes[item.id] || idx + 1;
+                          const videosCount = item.metadata?.videos?.length || (item.metadata?.youtube_id ? 1 : 0);
+                          const page = item.metadata?.page;
+
+                          return (
+                            <div
+                              key={item.id}
+                              id={`lesson-${item.slug}`}
+                              className={`group relative flex flex-col justify-between rounded-2xl border p-4 transition-all duration-200 ${
+                                isCurrent
+                                  ? "ring-2 ring-cyan-400 border-cyan-400 bg-gradient-to-r from-cyan-950/50 via-slate-900 to-slate-900/95 shadow-[0_0_25px_rgba(6,182,212,0.25)]"
+                                  : isCompleted
+                                  ? "border-emerald-500/20 bg-emerald-950/10 hover:border-emerald-500/40 hover:bg-emerald-950/20"
+                                  : "border-slate-800/80 bg-slate-900/60 hover:border-cyan-500/40 hover:bg-slate-900/90 hover:shadow-[0_4px_20px_rgba(6,182,212,0.1)]"
+                              }`}
+                            >
+                              <div className="space-y-2">
+                                <div className="flex items-center justify-between">
+                                  <span className="rounded-lg border border-cyan-500/30 bg-cyan-500/10 px-2 py-0.5 font-mono text-xs font-black text-cyan-400">
+                                    #{lessonIndex < 10 ? `0${lessonIndex}` : lessonIndex}
+                                  </span>
+
+                                  <div className="flex items-center gap-1.5">
+                                    {onToggleComplete && (
+                                      <button
+                                        type="button"
+                                        onClick={(e) => {
+                                          e.preventDefault();
+                                          e.stopPropagation();
+                                          onToggleComplete(item.slug, !isCompleted);
+                                        }}
+                                        title={isCompleted ? "Bỏ đánh dấu hoàn thành" : "Đánh dấu đã học bài này"}
+                                        className={`p-1 rounded-lg transition-colors ${
+                                          isCompleted
+                                            ? "text-emerald-400 hover:text-emerald-300"
+                                            : "text-slate-600 hover:text-emerald-400"
+                                        }`}
+                                      >
+                                        <CheckCircle2 size={16} />
+                                      </button>
+                                    )}
+
+                                    {isCurrent ? (
+                                      <span className="flex h-6 w-6 items-center justify-center rounded-full bg-cyan-500 text-white shadow-[0_0_10px_rgba(6,182,212,1)] relative">
+                                        <span className="absolute -inset-1 rounded-full bg-cyan-400 opacity-75 animate-ping" />
+                                        <Play size={10} className="fill-current translate-x-0.5 relative z-10" />
+                                      </span>
+                                    ) : isCompleted ? (
+                                      <span className="flex h-6 w-6 items-center justify-center rounded-full bg-emerald-500 text-white shadow-sm">
+                                        <CheckCircle2 size={13} />
+                                      </span>
+                                    ) : (
+                                      <span className="flex h-6 w-6 items-center justify-center rounded-full border border-slate-700 bg-slate-800/60 text-slate-400 group-hover:border-cyan-500/40 group-hover:text-cyan-400 transition-colors">
+                                        <Play size={10} className="fill-current translate-x-0.5" />
+                                      </span>
+                                    )}
+                                  </div>
+                                </div>
+
+                                {isCurrent && (
+                                  <span className="inline-block rounded-md border border-cyan-400/50 bg-cyan-500/20 px-2 py-0.5 text-[10px] font-black text-cyan-300 animate-pulse">
+                                    📍 ĐANG HỌC • TIẾP THEO
+                                  </span>
+                                )}
+
+                                <Link
+                                  href={`/learn/${subjectSlug}/${item.slug}`}
+                                  className="block text-sm font-bold text-white group-hover:text-cyan-300 transition-colors line-clamp-2"
+                                >
+                                  {item.title}
+                                </Link>
+                              </div>
+
+                              <div className="mt-4 pt-3 border-t border-slate-800/60 flex items-center justify-between text-[11px] text-slate-400">
+                                <span>{page ? `Trang ${page}` : "Bài học"}</span>
+                                <Link
+                                  href={`/learn/${subjectSlug}/${item.slug}`}
+                                  className="font-semibold text-cyan-400 hover:text-cyan-300 flex items-center gap-1"
+                                >
+                                  {videosCount} Video ➔
+                                </Link>
+                              </div>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    )}
                   </div>
                 )}
               </div>
             );
-          })}
-        </div>
+          })
+        )}
       </div>
     </div>
   );

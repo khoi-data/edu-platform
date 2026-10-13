@@ -105,6 +105,20 @@ export type LessonVisitedEvent = {
   metadata: {
     title: string;
     url: string;
+    slug?: string;
+  };
+};
+
+export type LessonCompletedEvent = {
+  type: "lesson_completed";
+  subject_slug: string;
+  session_id?: string;
+  metadata: {
+    title: string;
+    url: string;
+    slug?: string;
+    completed_at?: string;
+    duration_seconds?: number;
   };
 };
 
@@ -136,6 +150,7 @@ export type AnyLearningEvent =
   | SpeakingSessionFinishedEvent
   | QuizCompletedEvent
   | LessonVisitedEvent
+  | LessonCompletedEvent
   | LessonExitedEvent
   | ExamVisitedEvent
   | LoginEvent

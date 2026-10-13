@@ -1,0 +1,62 @@
+{
+  "collection": {
+    "title": "Lớp TOEIC Thầy Long - Thực Hành Qua Video",
+    "subject_slug": "toeic-thay-long",
+    "grade": 12,
+    "volume": 1,
+    "sequence_number": 1,
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 1,
+      "title": "TOEIC Thầy Long - Bài tập mẫu 1",
+      "duration_minutes": 15,
+      "generation_mode": "manual_import",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 1.0,
+          "metadata_json": {
+            "question": "Nội dung chính được nhắc đến trong đoạn clip này là gì?",
+            "options": [
+              "Kết quả xuất sắc của học sinh thi TOEIC Speaking Writing",
+              "Phương pháp giải đề TOEIC Listening",
+              "Mẹo thi Reading hiệu quả"
+            ],
+            "correct_index": 0,
+            "video_url": "https://drive.google.com/file/d/1rIKh7nKbnMNR_9PIxYRKOjO93czn5OIy/preview"
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1.5,
+          "metadata_json": {
+            "question": "Đoạn video hướng dẫn chủ điểm kiến thức nào sau đây?",
+            "options": [
+              "10 cụm từ hay gặp trong bài thi TOEIC",
+              "Cách tính điểm thi TOEIC",
+              "Kinh nghiệm làm bài thi thật"
+            ],
+            "correct_index": 0,
+            "video_url": "https://drive.google.com/file/d/1wKM-TLsbEIN0m-rxkB1vEm6l9d944P3x/preview"
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2.0,
+          "metadata_json": {
+            "question": "Ý nghĩa của cụm từ hoặc cấu trúc được nhắc đến trong đoạn clip '10 people without any problems' là gì?",
+            "options": [
+              "Làm việc nhóm hiệu quả",
+              "Mô tả sức chứa hoặc khả năng đáp ứng cho nhóm người mà không gặp khó khăn",
+              "Cách giải quyết vấn đề cá nhân"
+            ],
+            "correct_index": 1,
+            "video_url": "https://drive.google.com/file/d/1MVT8Q7LcjYrLxbdrv_qN4OzyQ8y6BDFZ/preview"
+          }
+        }
+      ]
+    }
+  ]
+}

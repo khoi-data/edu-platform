@@ -72,15 +72,47 @@ export async function POST(req: Request) {
     // 6. Track Last Visited History
     if (event.type === "lesson_visited" || event.type === "exam_visited") {
       const type = event.type === "lesson_visited" ? 'lesson' : 'exam';
-      const { title, url } = event.metadata as any;
-      updateLastVisited(supabase, user.id, event.subject_slug, type, title, url).catch(e => console.error("Last Visited Update Error:", e));
+      const { title, url, slug } = (event.metadata as any) || {};
+      updateLastVisited(supabase, user.id, event.subject_slug, type, title, url, { slug }).catch(e => console.error("Last Visited Update Error:", e));
+    }
+
+    // 6b. Track Lesson Completed
+    if (event.type === "lesson_completed") {
+      const { title, url, slug } = (event.metadata as any) || {};
+      const now = new Date().toISOString();
+      updateLastVisited(supabase, user.id, event.subject_slug, 'lesson', title, url, { slug, completed: true }).catch(e => console.error("Last Visited (Completed) Error:", e));
+
+      // Record a session marking completion
+      const sessionId = event.session_id || (typeof crypto !== 'undefined' && crypto.randomUUID ? crypto.randomUUID() : undefined);
+      if (sessionId) {
+        supabase.from("learning_sessions").upsert({
+          id: sessionId,
+          user_id: user.id,
+          subject_slug: event.subject_slug,
+          started_at: now,
+          ended_at: now,
+          duration_seconds: (event.metadata as any)?.duration_seconds || 120,
+          summary_metrics: {
+            type: "lesson",
+            status: "completed",
+            unit_topic: title,
+            lesson_slug: slug,
+            lesson_url: url,
+          },
+        }).then(({ error }) => {
+          if (error) console.error("Failed to insert completed lesson session:", error);
+        });
+      }
+
+      // Increment stats by 5 minutes
+      updateDashboardStats(supabase, user.id, event.subject_slug, 5).catch(console.error);
     }
 
     // 7. Write lesson visit to learning_sessions so parent history page can see it.
     // started_at is set now; ended_at/duration_seconds are filled in by the
     // matching "lesson_exited" event fired when the student leaves the page.
     if (event.type === "lesson_visited" && event.session_id) {
-      const { title } = event.metadata as any;
+      const { title, url, slug } = (event.metadata as any) || {};
       const now = new Date().toISOString();
       supabase.from("learning_sessions").upsert({
         id: event.session_id,
@@ -90,6 +122,8 @@ export async function POST(req: Request) {
         summary_metrics: {
           type: "lesson",
           unit_topic: title,
+          lesson_slug: slug,
+          lesson_url: url,
         },
       }).then(({ error }) => {
         if (error) console.error("Failed to insert lesson session:", error);
@@ -279,9 +313,9 @@ async function updateDashboardStats(supabase: any, userId: string, subjectSlug: 
   }
 }
 
-async function updateLastVisited(supabase: any, userId: string, subjectSlug: string, type: 'lesson' | 'exam', title: string, url: string) {
+async function updateLastVisited(supabase: any, userId: string, subjectSlug: string, type: 'lesson' | 'exam', title: string, url: string, extra?: Record<string, any>) {
   try {
-    const { data: stats } = await supabase.from("user_dashboard_stats").select("*").eq("user_id", userId).single();
+    const { data: stats } = await supabase.from("user_dashboard_stats").select("*").eq("user_id", userId).maybeSingle();
     
     let subjectProgress: any = {};
     if (stats && stats.subject_progress) {
@@ -292,7 +326,7 @@ async function updateLastVisited(supabase: any, userId: string, subjectSlug: str
       subjectProgress[subjectSlug] = { sessions_completed: 0, total_minutes: 0 };
     }
 
-    const updateObj = { title, url, updated_at: new Date().toISOString() };
+    const updateObj = { title, url, ...(extra || {}), updated_at: new Date().toISOString() };
     if (type === 'lesson') {
       subjectProgress[subjectSlug].last_lesson = updateObj;
     } else {
