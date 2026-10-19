@@ -655,7 +655,17 @@ export function AssessmentRenderer({ questions, mode, onComplete, timerSeconds, 
       </div>
 
       {hasAnswered && (
-        <div className="mt-4 border-t border-line pt-4">
+        <div className="mt-4 border-t border-line pt-4 space-y-4">
+          {(currentQuestion.explanation || currentQuestion.metadata_json?.explanation) && currentQuestion.type !== 'essay' && (
+            <div className="p-4 bg-emerald-950/40 border border-emerald-500/40 rounded-xl text-slate-200 text-sm leading-relaxed">
+              <p className="text-xs font-bold text-emerald-400 uppercase tracking-widest mb-1.5 flex items-center gap-1.5">
+                <span>💡</span> Giải thích chi tiết
+              </p>
+              <div className="whitespace-pre-line text-[14px]">
+                {currentQuestion.explanation || currentQuestion.metadata_json?.explanation}
+              </div>
+            </div>
+          )}
           <button 
             onClick={handleNext}
             className="w-full py-3 bg-emerald-500 text-white font-bold text-lg rounded-xl shadow-[0_4px_0_rgb(16,185,129)] active:translate-y-[4px] active:shadow-none hover:bg-emerald-400 transition-all"

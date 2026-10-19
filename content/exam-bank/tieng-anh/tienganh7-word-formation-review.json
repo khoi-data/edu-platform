@@ -1,0 +1,1687 @@
+{
+  "collection": {
+    "title": "Chuyên đề Word Formation (Dạng của từ) - Tiếng Anh 7",
+    "subject_slug": "tieng-anh-7",
+    "grade": 7,
+    "volume": 1,
+    "units": [
+      2
+    ],
+    "sequence_number": 2,
+    "exam_type": "review",
+    "reference_book": "Chuyên đề Word Formation THCS - Global Success",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 1,
+      "title": "Luyện tập Word Formation - Đề 01 (Khởi động Unit 1: Hobbies)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "She is very ___ and loves painting portraits in her free time. (create)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "creative",
+            "hint": "💡 Sau 'is very' cần một Tính từ (Adjective) để miêu tả tính cách/khả năng.",
+            "explanation": "• Vị trí: Sau động từ to be \"is\" và phó từ chỉ mức độ \"very\" cần một Tính từ (Adjective).\n• Word Family: create (v) → creative (adj) → creativity (n: sự sáng tạo).\n• Dịch: Cô ấy rất sáng tạo và thích vẽ tranh chân dung trong thời gian rảnh.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "to-be-adjective"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "My brother has a big ___ of old stamps and coins. (collect)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "collection",
+            "hint": "💡 Sau cụm 'a big' cần một Danh từ (Noun).",
+            "explanation": "• Vị trí: Đứng sau mạo từ \"a\" và tính từ \"big\" cần một Danh từ (Noun).\n• Word Family: collect (v) → collection (n: bộ sưu tập) → collector (n: người sưu tầm).\n• Dịch: Anh trai tôi có một bộ sưu tập tem và tiền xu cổ rất lớn.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "article-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Playing chess is an interesting leisure ___ for teenagers. (act)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "activity",
+            "hint": "💡 Cụm cố định: 'leisure activity' (hoạt động giải trí/lúc rảnh rỗi).",
+            "explanation": "• Vị trí: Cụm danh từ \"leisure activity\" (hoạt động giải trí) đứng sau mạo từ \"an\" và tính từ \"interesting\".\n• Word Family: act (v) → activity (n: hoạt động) → active (adj: năng động).\n• Dịch: Chơi cờ vua là một hoạt động giải trí thú vị dành cho lứa tuổi thanh thiếu niên.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "noun-phrase"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Reading science books brings me great ___ . (please)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "pleasure",
+            "hint": "💡 Sau tính từ 'great' cần một Danh từ (Noun). Cụm 'bring great pleasure' mang lại niềm vui lớn.",
+            "explanation": "• Vị trí: Sau tính từ \"great\" cần một Danh từ (Noun).\n• Word Family: please (v) → pleasure (n: niềm vui, niềm thích thú) → pleasant (adj) → unpleasant (adj phủ định).\n• Dịch: Đọc sách khoa học mang lại cho tôi niềm vui thích to lớn.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Gardening is very ___ after a stressful week at school. (relax)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "relaxing",
+            "hint": "💡 Miêu tả tính chất của hoạt động 'gardening' cần tính từ đuôi -ing (relaxing).",
+            "explanation": "• Vị trí: Đứng sau to be \"is very\" miêu tả tính chất của việc làm vườn (gardening) nên dùng tính từ đuôi -ing.\n• Word Family: relax (v) → relaxation (n) → relaxing (adj: mang lại cảm giác thư giãn) → relaxed (adj: cảm thấy thư giãn).\n• Dịch: Làm vườn rất thư giãn sau một tuần học tập căng thẳng ở trường.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "to-be-adjective-ing-for-things-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "My uncle is an avid coin ___ with over 500 rare coins. (collect)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "collector",
+            "hint": "💡 Chủ ngữ là 'My uncle' (chú tôi) nên cần một Danh từ chỉ người (collector).",
+            "explanation": "• Vị trí: Sau mạo từ \"an\" và tính từ \"avid\" (say mê) bổ nghĩa cho chủ ngữ \"My uncle\" cần một Danh từ chỉ người (Noun of person).\n• Word Family: collect (v) → collector (n: người sưu tầm) → collection (n: bộ sưu tập).\n• Dịch: Chú tôi là một người sưu tầm tiền xu say mê với hơn 500 đồng xu quý hiếm.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "noun-indicating-person"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Her painting isn't impressive; she needs more ___ . (create)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "creativity",
+            "hint": "💡 Sau 'needs more' cần một Danh từ (creativity: sự sáng tạo).",
+            "explanation": "• Vị trí: Sau từ chỉ lượng \"more\" và ngoại động từ \"needs\" cần một Danh từ không đếm được (Uncountable Noun).\n• Word Family: create (v) → creativity (n: sự sáng tạo, óc sáng tạo) → creative (adj).\n• Dịch: Bức tranh của cô ấy không mấy ấn tượng; cô ấy cần thêm sự sáng tạo.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "quantifier-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Learning how to build dollhouses requires a lot of ___ . (patient)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "patience",
+            "hint": "💡 Sau 'a lot of' cần một Danh từ (patience: lòng kiên nhẫn).",
+            "explanation": "• Vị trí: Sau \"a lot of\" và ngoại động từ \"requires\" (đòi hỏi) cần một Danh từ (Noun).\n• Word Family: patient (adj: kiên nhẫn) → patience (n: tính kiên nhẫn, sự kiên trì) → impatient (adj phủ định).\n• Dịch: Học cách làm nhà búp bê đòi hỏi rất nhiều sự kiên nhẫn.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "quantifier-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "I stopped reading the novel because it was quite ___ . (interest)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "uninteresting",
+            "hint": "💡 Ngừng đọc sách vì cuốn sách dở/không hay → cần Tính từ mang nghĩa phủ định (uninteresting).",
+            "explanation": "• Vị trí: Sau \"was quite\" cần một Tính từ. Ngữ cảnh dừng đọc sách (stopped reading) chỉ lý do tiêu cực → dùng tiền tố phủ định \"un-\".\n• Word Family: interest (v/n) → interesting (adj) → uninteresting (adj: tẻ nhạt, không hay) → interested (adj).\n• Dịch: Tôi đã ngừng đọc cuốn tiểu thuyết vì nó khá tẻ nhạt.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "negative-adjective"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "We made an ___ to play badminton together this Saturday. (arrange)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "arrangement",
+            "hint": "💡 Cụm cố định: 'make an arrangement' (thu xếp/hẹn lịch).",
+            "explanation": "• Vị trí: Sau mạo từ \"an\" và động từ \"made\" cần một Danh từ (Noun).\n• Cụm cố định: make an arrangement (sắp xếp, hẹn gặp).\n• Word Family: arrange (v: sắp xếp) → arrangement (n: sự sắp xếp, cuộc hẹn).\n• Dịch: Chúng tôi đã hẹn nhau cùng chơi cầu lông vào thứ Bảy này.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "collocation-make-an-arrangement"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 2,
+      "title": "Luyện tập Word Formation - Đề 02 (Lũy kế Unit 1 & Unit 2: Hobbies + Healthy Living)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Lack of essential vitamins causes severe ___ . (tire)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "tiredness",
+            "hint": "💡 Sau 'causes severe' cần một Danh từ (tiredness: sự mệt mỏi).",
+            "explanation": "• Vị trí: Sau ngoại động từ \"causes\" (gây ra) và tính từ \"severe\" cần một Danh từ (Noun) đóng vai trò tân ngữ.\n• Word Family: tire (v) → tired (adj: mệt mỏi) → tiredness (n: sự mệt mỏi) → tiring (adj: gây mệt mỏi).\n• Dịch: Thiếu các vitamin thiết yếu gây ra sự mệt mỏi trầm trọng.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "verb-noun-object"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Eating fresh fruits and vegetables is good for your ___ . (healthy)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "health",
+            "hint": "💡 Sau 'your' cần một Danh từ (health: sức khỏe).",
+            "explanation": "• Vị trí: Sau tính từ sở hữu \"your\" cần một Danh từ (Noun).\n• Word Family: health (n: sức khỏe) → healthy (adj: lành mạnh, khỏe mạnh) → unhealthy (adj phủ định).\n• Dịch: Ăn hoa quả tươi và rau củ rất tốt cho sức khỏe của em.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "possessive-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "I feel very ___ because of the sudden cold and the flu. (please)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "unpleasant",
+            "hint": "💡 Bị cúm (flu) thì cảm giác phải là khó chịu → cần Tính từ phủ định (unpleasant).",
+            "explanation": "• Vị trí: Sau động từ tri giác \"feel\" cần một Tính từ (Adjective). Vì bị cảm lạnh và cúm (the flu) nên mang cảm giác tiêu cực/khó chịu → dùng tiền tố \"un-\".\n• Word Family: please (v) → pleasant (adj: dễ chịu) → unpleasant (adj: khó chịu) → pleasure (n).\n• Dịch: Tôi cảm thấy rất khó chịu vì trời lạnh đột ngột và bệnh cúm.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "feel-adjective-negative-meaning-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Doing morning exercise regularly helps you maintain your body ___ . (fit)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "fitness",
+            "hint": "💡 Cụm 'body fitness' (thể lực/vóc dáng cân đối).",
+            "explanation": "• Vị trí: Sau tính từ sở hữu \"your body\" cần một Danh từ (Noun).\n• Word Family: fit (adj: thon gọn, vừa vặn) → fitness (n: thể lực, vóc dáng cân đối).\n• Dịch: Tập thể dục buổi sáng đều đặn giúp bạn duy trì thể lực và vóc dáng cân đối.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "noun-phrase"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Sunlight affects plants ___ by helping them produce chlorophyll. (benefit)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "beneficially",
+            "hint": "💡 Bổ nghĩa cho động từ 'affects' cần một Trạng từ (beneficially).",
+            "explanation": "• Vị trí: Đứng sau động từ \"affects\" và tân ngữ \"plants\" cần một Trạng từ (Adverb) để bổ nghĩa cho động từ \"affects\".\n• Word Family: benefit (n/v: lợi ích/giúp ích) → beneficial (adj: có lợi) → beneficially (adv: một cách có lợi).\n• Dịch: Ánh sáng mặt trời tác động một cách có lợi đến cây cối bằng cách giúp chúng tạo chất diệp lục.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "verb-object-adverb"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Eating too much fast food is very ___ for your cardiovascular system. (health)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "unhealthy",
+            "hint": "💡 Ăn đồ ăn nhanh có hại → tính từ phủ định 'unhealthy'.",
+            "explanation": "• Vị trí: Sau to be \"is very\" cần một Tính từ. Ăn quá nhiều đồ ăn nhanh có hại cho tim mạch → cần tính từ mang nghĩa tiêu cực \"unhealthy\".\n• Word Family: health (n) → healthy (adj) → unhealthy (adj: không lành mạnh, có hại cho sức khỏe).\n• Dịch: Ăn quá nhiều thức ăn nhanh rất không tốt cho hệ tim mạch của bạn.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "negative-adjective"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "He is very ___ and can play football all afternoon. (energy)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "energetic",
+            "hint": "💡 Sau 'is very' cần một Tính từ (energetic: giàu năng lượng).",
+            "explanation": "• Vị trí: Sau to be \"is very\" cần một Tính từ (Adjective) để miêu tả người.\n• Word Family: energy (n: năng lượng) → energetic (adj: giàu năng lượng, năng động) → energetically (adv).\n• Dịch: Cậu ấy rất tràn đầy năng lượng và có thể đá bóng suốt cả buổi chiều.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "to-be-adjective"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "My sister is a ___ designer who makes unique handicrafts. (create)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "creative",
+            "hint": "💡 Bổ nghĩa cho danh từ 'designer' cần một Tính từ (creative).",
+            "explanation": "• Vị trí: Đứng giữa mạo từ \"a\" và danh từ chỉ người \"designer\" cần một Tính từ (Adjective).\n• Word Family: create (v) → creative (adj: sáng tạo) → creativity (n).\n• Dịch: Chị tôi là một nhà thiết kế sáng tạo, chuyên làm những món đồ thủ công độc đáo.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "article-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Staying up late watching screens can be ___ to your vision. (harm)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "harmful",
+            "hint": "💡 Cụm cố định: 'be harmful to' (có hại cho cái gì).",
+            "explanation": "• Vị trí: Sau động từ khuyết thiếu + be (\"can be\") cần một Tính từ (Adjective). Đi với giới từ \"to\".\n• Cấu trúc: be harmful to (có hại cho).\n• Word Family: harm (v/n) → harmful (adj: có hại) → harmless (adj: vô hại).\n• Dịch: Thức khuya nhìn màn hình có thể có hại cho thị lực của bạn.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "be-adjective"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "There are over thirty passionate dollhouse ___ in this forum. (collect)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "collectors",
+            "hint": "💡 Sau số lượng 'over thirty' cần một Danh từ số nhiều chỉ người (collectors).",
+            "explanation": "• Vị trí: Sau số đếm \"thirty\" (ba mươi) và tính từ \"passionate\" (đam mê) cần một Danh từ số nhiều chỉ người (Plural Noun).\n• Word Family: collect (v) → collector (n: người sưu tầm) → collectors (số nhiều).\n• Dịch: Có hơn ba mươi người sưu tập nhà búp bê đầy nhiệt huyết trên diễn đàn này.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "plural-noun-of-person"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 3,
+      "title": "Luyện tập Word Formation - Đề 03 (Unit 1 & 2 Nâng cao: Bẫy Danh từ / Tính từ / Trạng từ)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Children learn to wait for the garden plants to grow to full ___ . (mature)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "maturity",
+            "hint": "💡 Sau 'grow to full' cần một Danh từ (maturity: sự trưởng thành/chín).",
+            "explanation": "• Vị trí: Sau giới từ \"to\" và tính từ \"full\" cần một Danh từ (Noun).\n• Cụm cố định: grow to maturity (phát triển đến lúc trưởng thành/chín muồi).\n• Word Family: mature (adj: trưởng thành, chín) → maturity (n: sự trưởng thành, sự chín).\n• Dịch: Trẻ em học cách kiên nhẫn chờ đợi cây cối trong vườn phát triển đến độ trưởng thành.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "preposition-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "His sudden ___ prevented him from joining the school picnic. (sick)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "sickness",
+            "hint": "💡 Sau 'His sudden' làm chủ ngữ của câu cần một Danh từ (sickness: cơn bệnh).",
+            "explanation": "• Vị trí: Sau tính từ sở hữu \"His\" và tính từ \"sudden\" cần một Danh từ (Noun) làm chủ ngữ của câu.\n• Word Family: sick (adj: ốm, bệnh) → sickness (n: cơn bệnh, sự ốm đau).\n• Dịch: Cơn ốm đột ngột của cậu ấy đã khiến cậu không thể tham gia chuyến dã ngoại của trường.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "possessive-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Eating too much sugary food often leads to rapid ___ gain. (weigh)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "weight",
+            "hint": "💡 Cụm danh từ ghép quen thuộc: 'weight gain' (sự tăng cân).",
+            "explanation": "• Vị trí: Cụm danh từ ghép \"weight gain\" (sự tăng cân) đứng sau tính từ \"rapid\".\n• Word Family: weigh (v: cân, nặng) → weight (n: cân nặng, trọng lượng).\n• Dịch: Ăn quá nhiều đồ ngọt thường dẫn đến sự tăng cân nhanh chóng.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "compound-noun-weight-gain"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Students should be encouraged to take part in outdoor ___ . (active)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "activities",
+            "hint": "💡 Cụm cố định: 'outdoor activities' (các hoạt động ngoài trời - số nhiều).",
+            "explanation": "• Vị trí: Sau tính từ \"outdoor\" cần một Danh từ số nhiều (Plural Noun) chỉ các hoạt động chung.\n• Word Family: active (adj) → activity (n: hoạt động) → activities (số nhiều).\n• Dịch: Học sinh nên được khuyến khích tham gia vào các hoạt động ngoài trời.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "adjective-plural-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Listening to acoustic music provides deep ___ after exams. (relax)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "relaxation",
+            "hint": "💡 Sau 'provides deep' cần một Danh từ (relaxation: sự thư giãn).",
+            "explanation": "• Vị trí: Sau ngoại động từ \"provides\" và tính từ \"deep\" cần một Danh từ (Noun) làm tân ngữ.\n• Word Family: relax (v) → relaxation (n: sự thư giãn) → relaxing (adj) → relaxed (adj).\n• Dịch: Nghe nhạc mộc đem lại sự thư giãn sâu sắc sau các kỳ thi.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "verb-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Regular physical activity is highly ___ to your heart. (benefit)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "beneficial",
+            "hint": "💡 Sau 'is highly' cần một Tính từ (beneficial to: có lợi cho).",
+            "explanation": "• Vị trí: Sau to be \"is\" và trạng từ mức độ \"highly\" cần một Tính từ (Adjective). Đi với giới từ \"to\".\n• Word Family: benefit (n/v) → beneficial (adj: có lợi) → beneficially (adv).\n• Dịch: Hoạt động thể chất đều đặn rất có lợi cho trái tim của bạn.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "to-be-adverb-adjective"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "The driver felt extremely ___ after driving all through the night. (sleep)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "sleepy",
+            "hint": "💡 Sau 'felt extremely' cần một Tính từ chỉ trạng thái người (sleepy: buồn ngủ).",
+            "explanation": "• Vị trí: Sau động từ nối \"felt\" và trạng từ \"extremely\" cần một Tính từ (Adjective) chỉ trạng thái của người.\n• Word Family: sleep (v/n) → sleepy (adj: buồn ngủ, lơ mơ) → sleepless (adj: mất ngủ).\n• Dịch: Người tài xế cảm thấy vô cùng buồn ngủ sau khi lái xe suốt cả đêm.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "felt-adverb-adjective"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Don't be ___ when helping a younger child learn to ride a bike. (patient)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "impatient",
+            "hint": "💡 Khuyên không nên nóng vội → dùng tính từ phủ định của patient (impatient).",
+            "explanation": "• Vị trí: Sau câu mệnh lệnh phủ định \"Don't be\" cần một Tính từ. Ngữ cảnh khuyên không được mất bình tĩnh/nóng vội → dùng tiền tố phủ định \"im-\".\n• Word Family: patient (adj: kiên nhẫn) → impatient (adj: mất kiên nhẫn, nóng vội) → patience (n).\n• Dịch: Đừng nóng vội/mất kiên nhẫn khi giúp một đứa trẻ tập đi xe đạp.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "imperative-negative-don-t-be-adjective"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Most people engage in gardening simply for ___ . (please)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "pleasure",
+            "hint": "💡 Cụm cố định: 'for pleasure' (để giải trí, vì niềm vui).",
+            "explanation": "• Vị trí: Sau giới từ \"for\" cần một Danh từ (Noun).\n• Cụm cố định: do something for pleasure (làm việc gì để giải trí/tiêu khiển).\n• Word Family: please (v) → pleasure (n) → pleasant (adj) → unpleasant (adj).\n• Dịch: Hầu hết mọi người tham gia làm vườn chỉ đơn giản là để tìm niềm vui.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "preposition-noun-collocation-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Prolonged exposure to loud noise causes mental ___ and stress. (tire)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "tiredness",
+            "hint": "💡 Cụm song song với 'stress': 'mental tiredness' (sự mệt mỏi tinh thần).",
+            "explanation": "• Vị trí: Đứng sau tính từ \"mental\" và song song với danh từ \"stress\" qua liên từ \"and\" cần một Danh từ (Noun).\n• Word Family: tire (v) → tiredness (n: sự mệt mỏi) → tired (adj).\n• Dịch: Việc tiếp xúc lâu với tiếng ồn lớn gây ra sự mệt mỏi tinh thần và căng thẳng.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "noun-coordinated-by-and-"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 4,
+      "title": "Luyện tập Word Formation - Đề 04 (Lũy kế Unit 1 → Unit 3: Thêm Community Service)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "She decided to do ___ work at the local nursing home every Saturday. (volunteer)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "voluntary",
+            "hint": "💡 Bổ nghĩa cho 'work' cần một Tính từ (voluntary: tự nguyện/tình nguyện).",
+            "explanation": "• Vị trí: Đứng trước danh từ \"work\" cần một Tính từ (Adjective) bổ nghĩa.\n• Cụm từ: voluntary work (công việc tình nguyện, tự nguyện).\n• Word Family: volunteer (n/v: tình nguyện viên/làm tình nguyện) → voluntary (adj: tự nguyện) → voluntarily (adv).\n• Dịch: Cô ấy quyết định làm công việc tình nguyện tại viện dưỡng lão địa phương vào mỗi thứ Bảy.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "There is a noticeable ___ between his attitude now and last year. (differ)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "difference",
+            "hint": "💡 Sau 'a noticeable' cần một Danh từ (difference: sự khác biệt).",
+            "explanation": "• Vị trí: Sau mạo từ \"a\" và tính từ \"noticeable\" cần một Danh từ số ít (Noun).\n• Word Family: differ (v: khác nhau) → difference (n: sự khác biệt) → different (adj: khác biệt).\n• Dịch: Có một sự khác biệt rõ rệt giữa thái độ của cậu ấy bây giờ và năm ngoái.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "article-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The charity received a generous ___ of warm coats for flood victims. (donate)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "donation",
+            "hint": "💡 Sau 'a generous' cần một Danh từ (donation: sự quyên góp).",
+            "explanation": "• Vị trí: Sau mạo từ \"a\" và tính từ \"generous\" (hào phóng) cần một Danh từ (Noun).\n• Word Family: donate (v: quyên góp) → donation (n: khoản quyên góp, sự quyên tặng).\n• Dịch: Tổ chức từ thiện đã nhận được một khoản quyên góp áo ấm hào phóng cho các nạn nhân lũ lụt.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "article-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Air pollution is a major ___ concern in many modern metropolises. (environment)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "environmental",
+            "hint": "💡 Bổ nghĩa cho danh từ 'concern' cần Tính từ (environmental: thuộc về môi trường).",
+            "explanation": "• Vị trí: Đứng trước danh từ \"concern\" (mối bận tâm/vấn đề) cần một Tính từ (Adjective).\n• Word Family: environment (n: môi trường) → environmental (adj: thuộc về môi trường) → environmentally (adv).\n• Dịch: Ô nhiễm không khí là một mối lo ngại lớn về môi trường tại nhiều đô thị hiện đại.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The volunteers were extremely ___ in distributing clean water to villagers. (help)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "helpful",
+            "hint": "💡 Sau 'were extremely' cần Tính từ tích cực (helpful: hay giúp đỡ/hữu ích).",
+            "explanation": "• Vị trí: Sau to be \"were\" và trạng từ \"extremely\" cần một Tính từ (Adjective) mang nghĩa tích cực.\n• Word Family: help (v/n) → helpful (adj: hữu ích, hay giúp đỡ) → helpless (adj: bất lực, vô vọng).\n• Dịch: Các tình nguyện viên đã vô cùng hữu ích và nhiệt tình trong việc phân phát nước sạch cho dân làng.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "to-be-adverb-adjective"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Physical exercise combats both muscle weakness and chronic ___ . (tire)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "tiredness",
+            "hint": "💡 Sau 'chronic' cần một Danh từ (tiredness: sự mệt mỏi).",
+            "explanation": "• Vị trí: Sau tính từ \"chronic\" (mãn tính) và song song với \"weakness\" cần một Danh từ (Noun).\n• Word Family: tire (v) → tiredness (n: sự mệt mỏi) → tired (adj).\n• Dịch: Tập thể dục giúp chống lại cả tình trạng yếu cơ và sự mệt mỏi mãn tính.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "noun-phrase"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Writing poems allows students to express their innate ___ . (create)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "creativity",
+            "hint": "💡 Sau 'their innate' cần một Danh từ (creativity: sức sáng tạo).",
+            "explanation": "• Vị trí: Sau tính từ sở hữu \"their\" và tính từ \"innate\" (bẩm sinh) cần một Danh từ (Noun).\n• Word Family: create (v) → creativity (n: sức sáng tạo) → creative (adj).\n• Dịch: Làm thơ cho phép học sinh thể hiện sức sáng tạo bẩm sinh của mình.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "possessive-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Consuming too much salt can lead to an ___ lifestyle. (health)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "unhealthy",
+            "hint": "💡 Đi sau mạo từ 'an' và mang nghĩa có hại → tính từ phủ định 'unhealthy'.",
+            "explanation": "• Vị trí: Đứng trước danh từ \"lifestyle\" và sau mạo từ \"an\" cần một Tính từ bắt đầu bằng nguyên âm mang nghĩa tiêu cực.\n• Word Family: health (n) → healthy (adj) → unhealthy (adj bắt đầu bằng 'u').\n• Dịch: Tiêu thụ quá nhiều muối có thể dẫn đến một lối sống không lành mạnh.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "article-an-negative-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The charity project provides warm soup for the ___ living on the streets. (home)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "homeless",
+            "hint": "💡 Cấu trúc 'the + adj' chỉ nhóm người: the homeless (người vô gia cư).",
+            "explanation": "• Vị trí: Cấu trúc \"the + adj\" để chỉ một nhóm người trong xã hội: the homeless (những người vô gia cư).\n• Word Family: home (n) → homeless (adj: vô gia cư) → homelessness (n: tình trạng vô gia cư).\n• Dịch: Dự án từ thiện cung cấp súp nóng cho những người vô gia cư sống trên đường phố.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "the-adjective-referring-to-a-group-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "He frequently ___ plastic containers and brings them to the recycling depot. (collect)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "collects",
+            "hint": "💡 Chủ ngữ 'He' ở thì hiện tại đơn → động từ thêm 's' (collects).",
+            "explanation": "• Vị trí: Đứng sau chủ ngữ ngôi thứ 3 số ít \"He\" và trạng từ tần suất \"frequently\" cần Động từ thì hiện tại đơn chia theo số ít (+s/es).\n• Word Family: collect (v) → collects (ngôi 3 số ít) → collection (n).\n• Dịch: Cậu ấy thường xuyên thu gom các hộp nhựa và mang chúng đến điểm tái chế.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "present-simple-verb-subject-he-"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 5,
+      "title": "Luyện tập Word Formation - Đề 05 (Lũy kế Unit 1 → 3: Bẫy Tiền tố phủ định un-, dis-, im-)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "The garbage bin smelled terribly and produced an ___ odor. (please)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "unpleasant",
+            "hint": "💡 Đứng sau 'an' và trước 'odor' mang nghĩa khó chịu → 'unpleasant'.",
+            "explanation": "• Vị trí: Sau mạo từ \"an\" và trước danh từ \"odor\" (mùi) cần một Tính từ bắt đầu bằng nguyên âm mang nghĩa tiêu cực (mùi khó chịu).\n• Word Family: please (v) → pleasant (adj) → unpleasant (adj: khó chịu).\n• Dịch: Thùng rác bốc mùi khủng khiếp và tỏa ra một mùi hôi khó chịu.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "article-an-negative-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The city council launched a campaign to tackle the problem of ___ . (home)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "homelessness",
+            "hint": "💡 Sau 'the problem of' cần Danh từ chỉ tình trạng (homelessness: nạn vô gia cư).",
+            "explanation": "• Vị trí: Sau giới từ \"of\" trong cụm \"the problem of\" cần một Danh từ (Noun) chỉ hiện tượng/vấn đề xã hội.\n• Word Family: home (n) → homeless (adj) → homelessness (n: nạn vô gia cư, tình trạng không nhà).\n• Dịch: Hội đồng thành phố đã phát động chiến dịch giải quyết vấn đề vô gia cư.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "preposition-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Many ___ children receive free medical treatment from this foundation. (able)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "disabled",
+            "hint": "💡 Bổ nghĩa cho 'children' chỉ trẻ em khuyết tật → 'disabled'.",
+            "explanation": "• Vị trí: Đứng trước danh từ \"children\" cần một Tính từ (Adjective) chỉ tình trạng khuyết tật.\n• Word Family: able (adj: có khả năng) → disable (v) → disabled (adj: khuyết tật, tàn tật) → disability (n).\n• Dịch: Nhiều trẻ em khuyết tật được nhận điều trị y tế miễn phí từ quỹ này.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "With words of ___ from her mentor, she gained confidence to speak publicly. (encourage)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "encouragement",
+            "hint": "💡 Cụm 'words of encouragement' (những lời động viên/khích lệ).",
+            "explanation": "• Vị trí: Sau giới từ \"of\" trong cụm \"words of\" cần một Danh từ (Noun).\n• Cụm từ: words of encouragement (những lời động viên, khích lệ).\n• Word Family: encourage (v: khích lệ) → encouragement (n: sự khích lệ) → encouraging (adj).\n• Dịch: Nhờ những lời động viên từ người hướng dẫn, cô ấy đã tự tin nói trước công chúng.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "preposition-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Skipping breakfast and drinking soft drinks daily is an ___ habit. (healthy)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "unhealthy",
+            "hint": "💡 Thói quen có hại đi sau mạo từ 'an' → tính từ phủ định 'unhealthy'.",
+            "explanation": "• Vị trí: Sau mạo từ \"an\" và trước danh từ \"habit\" cần một Tính từ mang nghĩa tiêu cực (thói quen không lành mạnh).\n• Word Family: health (n) → healthy (adj) → unhealthy (adj).\n• Dịch: Bỏ bữa sáng và uống nước ngọt hàng ngày là một thói quen không lành mạnh.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "article-an-negative-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "The coach was ___ with the players because they ignored his instructions. (patient)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "impatient",
+            "hint": "💡 Huấn luyện viên bực mình/mất kiên nhẫn với học trò → 'impatient'.",
+            "explanation": "• Vị trí: Sau to be \"was\" và đi với giới từ \"with\" cần một Tính từ. Vì cầu thủ phớt lờ chỉ đạo nên huấn luyện viên mất bình tĩnh → dùng tính từ phủ định \"impatient with\".\n• Word Family: patient (adj) → impatient (adj: thiếu kiên nhẫn, sốt ruột, bực mình).\n• Dịch: Huấn luyện viên đã mất kiên nhẫn với các cầu thủ vì họ phớt lờ chỉ đạo của ông.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "was-adjective-with-preposition-with-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Community service teaches teenagers to become ___ citizens in society. (use)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "useful",
+            "hint": "💡 Bổ nghĩa cho 'citizens' chỉ công dân có ích → 'useful'.",
+            "explanation": "• Vị trí: Đứng trước danh từ \"citizens\" (công dân) cần một Tính từ (Adjective) mang nghĩa tích cực.\n• Word Family: use (v/n) → useful (adj: có ích) → useless (adj: vô dụng).\n• Dịch: Hoạt động cộng đồng dạy thanh thiếu niên trở thành những công dân có ích cho xã hội.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Donating books to mountain schools is deeply ___ to rural children. (benefit)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "beneficial",
+            "hint": "💡 Sau 'is deeply' cần Tính từ (beneficial to: có lợi cho).",
+            "explanation": "• Vị trí: Sau to be \"is\" và phó từ \"deeply\" cần một Tính từ (Adjective). Đi kèm giới từ \"to\".\n• Word Family: benefit (n/v) → beneficial (adj: có ích, có lợi) → beneficially (adv).\n• Dịch: Tặng sách cho các trường vùng cao mang lại lợi ích sâu sắc cho trẻ em nông thôn.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "to-be-adverb-adjective"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "They cleaned the entire neighborhood park ___ without expecting any payment. (volunteer)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "voluntarily",
+            "hint": "💡 Bổ nghĩa cho hành động dọn dẹp (cleaned) cần một Trạng từ (voluntarily).",
+            "explanation": "• Vị trí: Đứng sau cụm vị ngữ hoàn chỉnh \"cleaned the entire neighborhood park\" cần một Trạng từ (Adverb) bổ nghĩa cho hành động dọn dẹp.\n• Word Family: volunteer (n/v) → voluntary (adj) → voluntarily (adv: một cách tự nguyện).\n• Dịch: Họ đã dọn dẹp toàn bộ công viên khu phố một cách tự nguyện mà không mong nhận bất kỳ thù lao nào.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "verb-phrase-adverb"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Joining sports and art clubs helps develop children's social ___ . (active)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "activities",
+            "hint": "💡 Sau 'children's social' cần Danh từ số nhiều (activities).",
+            "explanation": "• Vị trí: Sau sở hữu cách \"children's\" và tính từ \"social\" cần một Danh từ số nhiều (Plural Noun).\n• Word Family: active (adj) → activity (n) → activities (n số nhiều).\n• Dịch: Tham gia các câu lạc bộ thể thao và nghệ thuật giúp phát triển các hoạt động xã hội của trẻ em.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "possessive-adjective-plural-noun"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 6,
+      "title": "Luyện tập Word Formation - Đề 06 (Lũy kế Unit 1 → Unit 4: Thêm Music and Arts)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Trinh Cong Son is revered as one of the greatest ___ in Vietnamese modern music. (music)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "musicians",
+            "hint": "💡 Sau 'one of the greatest' cần Danh từ số nhiều chỉ người (musicians).",
+            "explanation": "• Vị trí: Cấu trúc \"one of the + superlative + plural noun\": một trong những nhạc sĩ vĩ đại nhất → cần Danh từ số nhiều chỉ người.\n• Word Family: music (n: âm nhạc) → musician (n: nhạc sĩ) → musicians (số nhiều) → musical (adj).\n• Dịch: Trịnh Công Sơn được tôn kính là một trong những nhạc sĩ vĩ đại nhất của tân nhạc Việt Nam.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "one-of-the-greatest-plural-noun-of-person"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Their live water puppet ___ captivated the international audience. (perform)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "performance",
+            "hint": "💡 'water puppet performance' (buổi biểu diễn múa rối nước).",
+            "explanation": "• Vị trí: Đứng sau cụm định ngữ \"water puppet\" làm chủ ngữ cho động từ \"captivated\" cần một Danh từ (Noun).\n• Word Family: perform (v: biểu diễn) → performance (n: buổi biểu diễn, tiết mục) → performer (n: người biểu diễn).\n• Dịch: Buổi biểu diễn múa rối nước trực tiếp của họ đã thu hút khán giả quốc tế.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "compound-noun-phrase"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "She has remarkable ___ vision and paints stunning oil landscapes. (art)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "artistic",
+            "hint": "💡 Bổ nghĩa cho danh từ 'vision' cần Tính từ (artistic: mang tính nghệ thuật).",
+            "explanation": "• Vị trí: Đứng giữa tính từ \"remarkable\" và danh từ \"vision\" cần một Tính từ (Adjective) bổ nghĩa cho vision.\n• Word Family: art (n: nghệ thuật) → artistic (adj: thuộc về nghệ thuật, có tính nghệ thuật) → artist (n: nghệ sĩ).\n• Dịch: Cô ấy có tầm nhìn nghệ thuật đáng nể và vẽ những bức tranh phong cảnh sơn dầu tuyệt đẹp.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The Louvre Museum in Paris is world-___ for its historic art collections. (fame)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "famous",
+            "hint": "💡 Cụm tính từ ghép: 'world-famous' (nổi tiếng khắp thế giới).",
+            "explanation": "• Vị trí: Cụm tính từ ghép \"world-famous\" (nổi tiếng thế giới).\n• Word Family: fame (n: danh tiếng) → famous (adj: nổi tiếng) → famously (adv).\n• Dịch: Bảo tàng Louvre ở Paris nổi tiếng khắp thế giới nhờ các bộ sưu tập nghệ thuật lịch sử.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "compound-adjective-world-famous"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Quan Ho singing is a celebrated ___ folk genre recognized by UNESCO. (tradition)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "traditional",
+            "hint": "💡 Bổ nghĩa cho 'folk genre' cần Tính từ (traditional: truyền thống).",
+            "explanation": "• Vị trí: Đứng trước cụm danh từ \"folk genre\" (thể loại dân ca) cần một Tính từ (Adjective).\n• Word Family: tradition (n: truyền thống) → traditional (adj: mang tính truyền thống) → traditionally (adv).\n• Dịch: Hát Quan họ là một thể loại dân ca truyền thống nổi tiếng được UNESCO công nhận.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "adjective-noun-phrase"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The community center welcomed a generous ___ from local benefactors. (donate)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "donation",
+            "hint": "💡 Sau 'a generous' cần một Danh từ (donation: khoản quyên góp).",
+            "explanation": "• Vị trí: Sau mạo từ \"a\" và tính từ \"generous\" cần một Danh từ (Noun).\n• Word Family: donate (v) → donation (n: khoản quyên góp, món quà tặng).\n• Dịch: Trung tâm cộng đồng đã đón nhận một khoản quyên góp hào phóng từ các nhà hảo tâm địa phương.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "article-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Many middle school students feel constantly ___ during exam periods. (tire)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "tired",
+            "hint": "💡 Sau 'feel constantly' chỉ cảm giác của người cần tính từ đuôi -ed (tired).",
+            "explanation": "• Vị trí: Sau động từ nối \"feel\" và trạng từ \"constantly\" cần một Tính từ đuôi -ed chỉ cảm xúc/trạng thái của học sinh.\n• Word Family: tire (v) → tired (adj: mệt mỏi) → tiredness (n).\n• Dịch: Nhiều học sinh THCS cảm thấy mệt mỏi liên tục trong suốt các đợt thi cử.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "feel-adverb-adjective-ed-for-feelings-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Origami is a highly ___ craft that improves fine motor skills. (create)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "creative",
+            "hint": "💡 Bổ nghĩa cho danh từ 'craft' cần Tính từ (creative: mang tính sáng tạo).",
+            "explanation": "• Vị trí: Đứng trước danh từ \"craft\" (nghề thủ công) và sau \"highly\" cần một Tính từ (Adjective).\n• Word Family: create (v) → creative (adj: giàu sáng tạo) → creativity (n).\n• Dịch: Gấp giấy Origami là một môn thủ công giàu tính sáng tạo giúp cải thiện kỹ năng vận động tinh.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "article-adverb-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Can you tell me the main ___ between photography and painting? (differ)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "difference",
+            "hint": "💡 Sau 'the main' cần một Danh từ (difference: sự khác biệt).",
+            "explanation": "• Vị trí: Sau mạo từ \"the\" và tính từ \"main\" cần một Danh từ số ít (Noun).\n• Word Family: differ (v) → difference (n: sự khác biệt) → different (adj).\n• Dịch: Bạn có thể cho tôi biết điểm khác biệt chính giữa nhiếp ảnh và hội họa không?",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "article-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Drinking enough water throughout the day is highly ___ to skin health. (benefit)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "beneficial",
+            "hint": "💡 Sau 'is highly' cần Tính từ (beneficial to: có lợi cho).",
+            "explanation": "• Vị trí: Sau to be \"is\" và trạng từ \"highly\" cần một Tính từ (Adjective đi với \"to\").\n• Word Family: benefit (n/v) → beneficial (adj: có lợi) → beneficially (adv).\n• Dịch: Uống đủ nước trong suốt cả ngày rất có lợi cho sức khỏe làn da.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "to-be-adverb-adjective"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 7,
+      "title": "Luyện tập Word Formation - Đề 07 (Lũy kế Unit 1 → 4: Danh từ chỉ Người vs Danh từ chỉ Vật)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Wolfgang Amadeus Mozart was an extraordinarily talented Austrian ___ . (compose)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "composer",
+            "hint": "💡 Mozart là một nhà soạn nhạc → Danh từ chỉ người (composer).",
+            "explanation": "• Vị trí: Sau tính từ \"Austrian\" bổ nghĩa cho chủ ngữ Mozart cần một Danh từ chỉ người (Noun of person).\n• Word Family: compose (v: sáng tác) → composer (n: nhà soạn nhạc) → composition (n: tác phẩm, bản nhạc).\n• Dịch: Wolfgang Amadeus Mozart là một nhà soạn nhạc người Áo tài năng xuất chúng.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "article-adjective-noun-of-person"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Van Gogh is one of the most celebrated post-impressionist ___ in history. (paint)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "painters",
+            "hint": "💡 Van Gogh là họa sĩ, đứng sau 'one of the most...' cần danh từ số nhiều (painters).",
+            "explanation": "• Vị trí: Cấu trúc \"one of the most + plural noun\": một trong những họa sĩ nổi tiếng nhất → Danh từ số nhiều chỉ người.\n• Word Family: paint (v) → painter (n: họa sĩ) → painters (số nhiều) → painting (n: bức tranh).\n• Dịch: Van Gogh là một trong những họa sĩ trường phái hậu ấn tượng nổi tiếng nhất trong lịch sử.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "one-of-the-most-celebrated-plural-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "She plays several ___ instruments including the cello, violin, and flute. (music)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "musical",
+            "hint": "💡 Cụm cố định: 'musical instruments' (các loại nhạc cụ).",
+            "explanation": "• Vị trí: Đứng trước danh từ \"instruments\" (nhạc cụ) cần một Tính từ (Adjective).\n• Cụm từ: musical instruments (các nhạc cụ).\n• Word Family: music (n) → musical (adj: thuộc về âm nhạc) → musician (n: nhạc sĩ).\n• Dịch: Cô ấy chơi được một số nhạc cụ bao gồm đàn cello, vĩ cầm và sáo.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "More than fifty youth ___ signed up for the beach clean-up project. (volunteer)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "volunteers",
+            "hint": "💡 Sau số lượng 'fifty' cần Danh từ số nhiều chỉ người (volunteers).",
+            "explanation": "• Vị trí: Sau số lượng \"More than fifty\" cần một Danh từ số nhiều chỉ người (Plural Noun).\n• Word Family: volunteer (n/v) → volunteers (danh từ số nhiều: những tình nguyện viên).\n• Dịch: Hơn năm mươi thanh niên tình nguyện đã đăng ký tham gia dự án dọn rác bãi biển.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "number-plural-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The young cellist played the classical sonata ___ and won first prize. (beauty)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "beautifully",
+            "hint": "💡 Bổ nghĩa cho động từ 'played' cần một Trạng từ (beautifully).",
+            "explanation": "• Vị trí: Bổ nghĩa cho động từ biểu diễn \"played the classical sonata\" cần một Trạng từ chỉ thể cách (Adverb of manner).\n• Word Family: beauty (n: vẻ đẹp) → beautiful (adj: đẹp) → beautifully (adv: một cách tuyệt vời, hay tuyệt).\n• Dịch: Nghệ sĩ cello trẻ tuổi đã chơi bản sonata cổ điển một cách tuyệt hay và giành giải nhất.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "verb-object-adverb"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The city art gallery is holding an impressive sculpture ___ this weekend. (exhibit)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "exhibition",
+            "hint": "💡 Sau 'an impressive sculpture' cần Danh từ (exhibition: cuộc triển lãm).",
+            "explanation": "• Vị trí: Sau mạo từ \"an\" và tính từ \"impressive\" cần một Danh từ (Noun) chỉ sự kiện/vật thể.\n• Cụm từ: sculpture exhibition (triển lãm điêu khắc).\n• Word Family: exhibit (v/n: trưng bày/vật trưng bày) → exhibition (n: cuộc triển lãm).\n• Dịch: Phòng triển lãm nghệ thuật thành phố đang tổ chức một cuộc triển lãm điêu khắc ấn tượng vào cuối tuần này.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "article-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Yoga and meditation provide total physical and mental ___ . (relax)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "relaxation",
+            "hint": "💡 Sau 'physical and mental' cần một Danh từ (relaxation: sự thư giãn).",
+            "explanation": "• Vị trí: Sau ngoại động từ \"provide\" và các tính từ \"physical and mental\" cần một Danh từ (Noun).\n• Word Family: relax (v) → relaxation (n: sự thư giãn) → relaxing (adj).\n• Dịch: Yoga và thiền định mang lại sự thư giãn hoàn toàn cả về thể chất lẫn tinh thần.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "verb-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Restoring an antique clock requires exceptional skill and ___ . (patient)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "patience",
+            "hint": "💡 Đi cùng danh từ 'skill' cần một Danh từ (patience: lòng kiên nhẫn).",
+            "explanation": "• Vị trí: Song song với danh từ \"skill\" qua liên từ \"and\" sau động từ \"requires\" cần một Danh từ (Noun).\n• Word Family: patient (adj) → patience (n: tính kiên nhẫn, lòng nhẫn nại).\n• Dịch: Việc phục chế một chiếc đồng hồ cổ đòi hỏi kỹ năng xuất sắc và lòng kiên nhẫn cao độ.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "noun-coordinated-by-and-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Regular cycling is an ___ way to build strong legs and stamina. (effect)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "effective",
+            "hint": "💡 Sau mạo từ 'an' và trước 'way' cần Tính từ (effective: có hiệu quả).",
+            "explanation": "• Vị trí: Đứng trước danh từ \"way\" và sau mạo từ \"an\" cần một Tính từ (Adjective) bắt đầu bằng nguyên âm.\n• Word Family: effect (n: hiệu quả, tác động) → effective (adj: có hiệu quả) → effectively (adv).\n• Dịch: Đạp xe đều đặn là một cách hiệu quả để rèn luyện đôi chân khỏe mạnh và sức bền.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "article-an-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Engaging in daily exercise leads to a visibly ___ physique. (health)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "healthier",
+            "hint": "💡 Bổ nghĩa cho danh từ 'physique' cần Tính từ (healthy: khỏe khoắn).",
+            "explanation": "• Vị trí: Bổ nghĩa cho danh từ \"physique\" (vóc dáng) sau trạng từ \"visibly\" có thể dùng tính từ \"healthy\" hoặc dạng so sánh hơn \"healthier\".\n• Word Family: health (n) → healthy (adj: khỏe mạnh).\n• Dịch: Tập thể dục hàng ngày mang lại một vóc dáng khỏe mạnh thấy rõ.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "comparative-adjective-or-healthy-"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 8,
+      "title": "Luyện tập Word Formation - Đề 08 (Lũy kế Unit 1 → Unit 5: Thêm Food and Drink)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Steamed vegetables retain most of their ___ value and vitamins. (nourish)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "nutritious",
+            "hint": "💡 Bổ nghĩa cho danh từ 'value' cần Tính từ (nutritious: bổ dưỡng, giàu dinh dưỡng).",
+            "explanation": "• Vị trí: Đứng trước danh từ \"value\" cần một Tính từ (Adjective) chỉ giá trị dinh dưỡng.\n• Word Family: nourish (v: nuôi dưỡng) → nutritious (adj: giàu dinh dưỡng, bổ dưỡng) → nutrition (n).\n• Dịch: Rau củ hấp giữ lại hầu hết giá trị dinh dưỡng và vitamin của chúng.",
+            "tags": [
+              "unit-5",
+              "word-formation",
+              "adjective-noun-or-nutritional-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Central Vietnamese noodle dishes are famous for their fiery, ___ broth. (spice)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "spicy",
+            "hint": "💡 Bổ nghĩa cho 'broth' (nước dùng) chỉ vị cay nồng → Tính từ 'spicy'.",
+            "explanation": "• Vị trí: Đứng trước danh từ \"broth\" (nước dùng) và sau tính từ \"fiery\" cần một Tính từ (Adjective).\n• Word Family: spice (n: gia vị) → spicy (adj: cay, thơm nồng gia vị).\n• Dịch: Các món mì miền Trung nổi tiếng với nước dùng cay nồng.",
+            "tags": [
+              "unit-5",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The soup was bland and completely ___ because the chef forgot the salt. (taste)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "tasteless",
+            "hint": "💡 Không nêm muối nên súp vô vị/nhạt thếch → tính từ phủ định 'tasteless'.",
+            "explanation": "• Vị trí: Sau to be \"was\" và song song với tính từ \"bland\" (nhạt nhẽo) cần một Tính từ mang nghĩa tiêu cực (không có vị gì).\n• Word Family: taste (n/v: vị/nếm) → tasty (adj: ngon) → tasteless (adj: vô vị, nhạt thếch).\n• Dịch: Món súp nhạt nhẽo và hoàn toàn vô vị vì đầu bếp đã quên nêm muối.",
+            "tags": [
+              "unit-5",
+              "word-formation",
+              "negative-adjective-after-to-be"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Chung cake is a renowned ___ delicacy during Lunar New Year in Viet Nam. (tradition)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "traditional",
+            "hint": "💡 Bổ nghĩa cho 'delicacy' cần Tính từ (traditional: truyền thống).",
+            "explanation": "• Vị trí: Đứng trước danh từ \"delicacy\" (món ngon) cần một Tính từ (Adjective).\n• Word Family: tradition (n) → traditional (adj: mang tính truyền thống).\n• Dịch: Bánh chưng là một món ăn truyền thống nổi tiếng vào dịp Tết Nguyên Đán ở Việt Nam.",
+            "tags": [
+              "unit-5",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Adding excessive fish sauce makes the dipping broth unpleasantly ___ . (salt)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "salty",
+            "hint": "💡 Cấu trúc 'make it unpleasantly...' cần Tính từ chỉ vị mặn (salty).",
+            "explanation": "• Vị trí: Cấu trúc \"make something + adjective\": làm cho cái gì trở nên như thế nào. Sau trạng từ \"unpleasantly\" cần Tính từ \"salty\".\n• Word Family: salt (n: muối) → salty (adj: mặn).\n• Dịch: Cho quá nhiều nước mắm làm cho nước chấm bị mặn chát khó chịu.",
+            "tags": [
+              "unit-5",
+              "word-formation",
+              "makes-object-adjective"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The family-run bistro is praised by customers for its prompt ___ . (serve)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "service",
+            "hint": "💡 Sau 'its prompt' cần Danh từ (service: sự phục vụ, dịch vụ).",
+            "explanation": "• Vị trí: Sau tính từ sở hữu \"its\" và tính từ \"prompt\" (nhanh nhẹn) cần một Danh từ (Noun).\n• Word Family: serve (v: phục vụ) → service (n: sự phục vụ, dịch vụ) → servant (n: người hầu).\n• Dịch: Quán ăn gia đình được khách hàng khen ngợi vì sự phục vụ nhanh nhẹn.",
+            "tags": [
+              "unit-5",
+              "word-formation",
+              "possessive-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Bun bo Hue is an iconic culinary ___ originating from the ancient capital. (special)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "speciality",
+            "hint": "💡 Danh từ chỉ món ăn đặc sản vùng miền: 'speciality' (hoặc specialty).",
+            "explanation": "• Vị trí: Sau mạo từ \"an\" và các tính từ \"iconic culinary\" cần một Danh từ (Noun).\n• Word Family: special (adj: đặc biệt) → speciality / specialty (n: đặc sản) → specially (adv).\n• Dịch: Bún bò Huế là một đặc sản ẩm thực biểu tượng có nguồn gốc từ cố đô.",
+            "tags": [
+              "unit-5",
+              "word-formation",
+              "article-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The school choir delivered an exceptionally moving ___ at the gala. (perform)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "performance",
+            "hint": "💡 Sau 'moving' cần một Danh từ (performance: buổi biểu diễn, tiết mục).",
+            "explanation": "• Vị trí: Đứng sau cụm \"an exceptionally moving\" cần một Danh từ (Noun) làm tân ngữ cho \"delivered\".\n• Word Family: perform (v) → performance (n: buổi biểu diễn, tiết mục).\n• Dịch: Dàn hợp xướng của trường đã mang đến một tiết mục biểu diễn lay động lòng người tại đêm hội.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "article-adverb-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "After completing the marathon in the rain, the runners were totally ___ . (exhaust)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "exhausted",
+            "hint": "💡 Chỉ cảm giác kiệt sức của người chạy cần tính từ đuôi -ed (exhausted).",
+            "explanation": "• Vị trí: Sau to be \"were totally\" cần một Tính từ chỉ cảm giác của người (đuôi -ed).\n• Word Family: exhaust (v: làm kiệt sức) → exhausted (adj: kiệt sức) → exhausting (adj: gây mệt nhoài).\n• Dịch: Sau khi hoàn thành đường chạy marathon dưới mưa, các vận động viên hoàn toàn kiệt sức.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "to-be-adverb-adjective-ed-for-feelings-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "She showed remarkable ___ by learning to paint water puppets with her left hand. (patient)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "patience",
+            "hint": "💡 Sau 'remarkable' cần một Danh từ (patience: lòng kiên nhẫn).",
+            "explanation": "• Vị trí: Đứng sau tính từ \"remarkable\" cần một Danh từ (Noun) làm tân ngữ cho \"showed\".\n• Word Family: patient (adj) → patience (n: lòng kiên nhẫn).\n• Dịch: Cô ấy đã thể hiện lòng kiên nhẫn phi thường khi học vẽ rối nước bằng tay trái.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 9,
+      "title": "Luyện tập Word Formation - Đề 09 (Lũy kế Unit 1 → 5: Tổng hợp Phân loại & Chuyên sâu)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Reducing the excessive ___ of processed sugar helps protect against diabetes. (sweet)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "sweetness",
+            "hint": "💡 Sau 'the excessive' cần một Danh từ (sweetness: độ ngọt/vị ngọt).",
+            "explanation": "• Vị trí: Sau mạo từ \"the\" và tính từ \"excessive\" (quá mức) cần một Danh từ (Noun).\n• Word Family: sweet (adj: ngọt) → sweetness (n: vị ngọt, độ ngọt) → sweeten (v: làm ngọt).\n• Dịch: Giảm bớt vị ngọt quá mức của đường tinh luyện giúp phòng ngừa bệnh tiểu đường.",
+            "tags": [
+              "unit-5",
+              "word-formation",
+              "article-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "It is widely considered ___ to store raw meat together with cooked food. (health)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "unhealthy",
+            "hint": "💡 Bảo quản thức ăn sai cách được coi là có hại → tính từ phủ định 'unhealthy'.",
+            "explanation": "• Vị trí: Cấu trúc bị động \"is considered + adjective\": được coi là như thế nào. Hành vi mất vệ sinh này mang nghĩa tiêu cực → dùng tính từ phủ định \"unhealthy\".\n• Word Family: health (n) → healthy (adj) → unhealthy (adj).\n• Dịch: Việc để thịt sống chung với thức ăn chín được coi là rất không hợp vệ sinh/không lành mạnh.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "considered-negative-adjective"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Over one hundred enthusiastic young ___ cleaned up the polluted riverbank. (volunteer)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "volunteers",
+            "hint": "💡 Danh từ số nhiều chỉ người sau 'Over one hundred' → 'volunteers'.",
+            "explanation": "• Vị trí: Sau cụm từ số lượng \"Over one hundred enthusiastic young\" cần một Danh từ số nhiều chỉ người (Plural Noun).\n• Word Family: volunteer (n) → volunteers (danh từ số nhiều: những tình nguyện viên).\n• Dịch: Hơn một trăm tình nguyện viên trẻ đầy nhiệt huyết đã dọn dẹp sạch bờ sông bị ô nhiễm.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "plural-noun-of-person"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "His grandfather boasts an invaluable ___ of ancient ceramic bowls. (collect)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "collection",
+            "hint": "💡 Sau 'an invaluable' cần một Danh từ (collection: bộ sưu tập).",
+            "explanation": "• Vị trí: Sau mạo từ \"an\" và tính từ \"invaluable\" (vô giá) cần một Danh từ (Noun).\n• Word Family: collect (v) → collection (n: bộ sưu tập) → collector (n: người sưu tầm).\n• Dịch: Ông nội của cậu ấy sở hữu một bộ sưu tập bát gốm cổ vô giá.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "article-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The concert was so ___ that many audience members fell asleep halfway through. (bore)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "boring",
+            "hint": "💡 Miêu tả tính chất của buổi hòa nhạc (concert) cần tính từ đuôi -ing (boring).",
+            "explanation": "• Vị trí: Cấu trúc \"was so + adjective + that\": quá... đến nỗi mà. Miêu tả tính chất của buổi hòa nhạc (concert) nên dùng tính từ đuôi -ing.\n• Word Family: bore (v) → boring (adj: gây buồn ngủ/nhàm chán) → bored (adj: cảm thấy buồn chán).\n• Dịch: Buổi hòa nhạc tẻ nhạt đến nỗi nhiều khán giả đã ngủ thiếp đi giữa chừng.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "was-so-adjective-ing-for-events-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Dietitians emphasize that healthy eating is ___ linked to higher academic performance. (close)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "closely",
+            "hint": "💡 Cụm 'is closely linked to' (được gắn kết chặt chẽ với).",
+            "explanation": "• Vị trí: Đứng giữa to be \"is\" và quá khứ phân từ \"linked\" cần một Trạng từ (Adverb).\n• Cụm từ: be closely linked to (được liên kết chặt chẽ với).\n• Word Family: close (adj) → closely (adv: một cách chặt chẽ).\n• Dịch: Các chuyên gia dinh dưỡng nhấn mạnh rằng chế độ ăn lành mạnh có mối liên hệ chặt chẽ với kết quả học tập cao hơn.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "to-be-adverb-participle-passive-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "The artist's boundless ___ was vividly reflected in every brushstroke. (create)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "creativity",
+            "hint": "💡 Sau 'boundless' làm chủ ngữ cần một Danh từ (creativity: sức sáng tạo).",
+            "explanation": "• Vị trí: Sau sở hữu cách \"The artist's\" và tính từ \"boundless\" (vô bờ bến) cần một Danh từ (Noun) làm chủ ngữ cho \"was\".\n• Word Family: create (v) → creativity (n: sức sáng tạo) → creative (adj).\n• Dịch: Sức sáng tạo vô bờ bến của người họa sĩ được phản ánh sinh động trong từng nét cọ.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "possessive-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Many impoverished children in rural areas suffer from acute ___ . (nutrition)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "malnutrition",
+            "hint": "💡 Danh từ chỉ tình trạng suy dinh dưỡng: 'malnutrition'.",
+            "explanation": "• Vị trí: Sau tính từ \"acute\" (trầm trọng) cần một Danh từ chỉ bệnh tật/tình trạng suy dinh dưỡng (tiền tố mal-).\n• Word Family: nutrition (n: dinh dưỡng) → malnutrition (n: nạn suy dinh dưỡng, thiếu dinh dưỡng).\n• Dịch: Nhiều trẻ em nghèo ở vùng nông thôn phải chịu đựng tình trạng suy dinh dưỡng trầm trọng.",
+            "tags": [
+              "unit-5",
+              "word-formation",
+              "adjective-negative-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Her soprano voice was ___ clear and resonated across the entire hall. (amaze)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "amazingly",
+            "hint": "💡 Bổ nghĩa cho tính từ 'clear' cần một Trạng từ (amazingly).",
+            "explanation": "• Vị trí: Đứng trước tính từ \"clear\" để bổ nghĩa mức độ cần một Trạng từ (Adverb).\n• Word Family: amaze (v) → amazing (adj) → amazingly (adv: một cách kinh ngạc, kỳ diệu).\n• Dịch: Giọng nữ cao của cô ấy trong trẻo một cách đáng kinh ngạc và vang vọng khắp khán phòng.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "adverb-modifying-adjective-clear-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Physical exercise stimulates both blood circulation and brain ___ . (active)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "activity",
+            "hint": "💡 Cụm 'brain activity' (hoạt động của não bộ).",
+            "explanation": "• Vị trí: Song song với \"blood circulation\" sau liên từ \"both... and\" cần một Danh từ (Noun).\n• Cụm từ: brain activity (hoạt động của não bộ).\n• Word Family: active (adj) → activity (n: hoạt động).\n• Dịch: Tập thể dục kích thích cả tuần hoàn máu lẫn hoạt động của não bộ.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "noun-phrase-brain-activity"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 10,
+      "title": "Luyện tập Word Formation - Đề 10 (Toàn diện Học kỳ 1: Bao quát Unit 1 → Unit 6)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The Temple of Literature is one of the most prominent ___ landmarks in Ha Noi. (history)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "historic",
+            "hint": "💡 Di tích lịch sử quan trọng dùng tính từ 'historic' (historic landmarks).",
+            "explanation": "• Vị trí: Đứng trước danh từ \"landmarks\" (thắng cảnh/di tích) cần một Tính từ mang nghĩa \"mang tính lịch sử quan trọng\" → dùng \"historic\".\n• Phân biệt: historic (quan trọng trong lịch sử) vs historical (thuộc về quá khứ lịch sử nói chung).\n• Word Family: history (n) → historic (adj) → historical (adj).\n• Dịch: Văn Miếu - Quốc Tử Giám là một trong những di tích mang tính lịch sử nổi bật nhất tại Hà Nội.",
+            "tags": [
+              "unit-6",
+              "word-formation",
+              "adjective-noun-historic-vs-historical-"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Ha Long Bay is among the premier tourist ___ in Southeast Asia. (attract)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "attractions",
+            "hint": "💡 Cụm cố định ở số nhiều: 'tourist attractions' (các điểm thu hút du lịch).",
+            "explanation": "• Vị trí: Cụm từ cố định \"tourist attractions\" (các điểm thu hút khách du lịch) ở dạng số nhiều sau \"among the premier...\".\n• Word Family: attract (v: thu hút) → attraction (n: điểm thu hút) → attractions (số nhiều) → attractive (adj).\n• Dịch: Vịnh Hạ Long nằm trong số những điểm du lịch hàng đầu ở Đông Nam Á.",
+            "tags": [
+              "unit-6",
+              "word-formation",
+              "tourist-plural-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Visiting ancient temples helps students broaden their historical ___ . (know)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "knowledge",
+            "hint": "💡 Cụm 'broaden knowledge' (mở rộng hiểu biết/kiến thức).",
+            "explanation": "• Vị trí: Sau tính từ sở hữu \"their\" và tính từ \"historical\" cần một Danh từ không đếm được (Noun) làm tân ngữ cho \"broaden\".\n• Cụm từ: broaden one's knowledge (mở rộng kiến thức).\n• Word Family: know (v) → knowledge (n: kiến thức, sự hiểu biết) → knowledgeable (adj).\n• Dịch: Đi thăm các ngôi đền cổ giúp học sinh mở rộng hiểu biết lịch sử của mình.",
+            "tags": [
+              "unit-6",
+              "word-formation",
+              "possessive-adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The Imperial Academy was established as the first royal ___ institute in Viet Nam. (educate)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "educational",
+            "hint": "💡 Bổ nghĩa cho danh từ 'institute' cần Tính từ (educational: thuộc về giáo dục).",
+            "explanation": "• Vị trí: Đứng trước danh từ \"institute\" (học viện/viện) cần một Tính từ (Adjective) bổ nghĩa.\n• Cụm từ: educational institute (cơ sở/viện giáo dục).\n• Word Family: educate (v: giáo dục) → education (n) → educational (adj: thuộc về giáo dục).\n• Dịch: Quốc Tử Giám được thành lập với tư cách là cơ sở giáo dục hoàng gia đầu tiên tại Việt Nam.",
+            "tags": [
+              "unit-6",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The high school is conveniently ___ near the central train station. (locate)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "located",
+            "hint": "💡 Cụm chỉ vị trí: 'is located near...' (tọa lạc ở gần...).",
+            "explanation": "• Vị trí: Cấu trúc bị động chỉ vị trí \"is located + preposition\": nằm ở / tọa lạc tại.\n• Word Family: locate (v: định vị) → located (adj/P2: tọa lạc) → location (n: địa điểm).\n• Dịch: Trường trung học tọa lạc một cách thuận tiện ở gần nhà ga trung tâm.",
+            "tags": [
+              "unit-6",
+              "word-formation",
+              "passive-voice-is-adverb-located"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Traditional folk festivals play a vital role in preserving national ___ identity. (culture)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "cultural",
+            "hint": "💡 Cụm 'cultural identity' (bản sắc văn hóa).",
+            "explanation": "• Vị trí: Đứng trước danh từ \"identity\" (bản sắc) và sau tính từ \"national\" cần một Tính từ (Adjective).\n• Cụm từ: cultural identity (bản sắc văn hóa).\n• Word Family: culture (n: văn hóa) → cultural (adj: thuộc về văn hóa) → culturally (adv).\n• Dịch: Các lễ hội dân gian truyền thống đóng vai trò quan trọng trong việc giữ gìn bản sắc văn hóa dân tộc.",
+            "tags": [
+              "unit-4",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Consuming a balanced, ___ meal every day supports both physical and cognitive growth. (nourish)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "nutritious",
+            "hint": "💡 Bổ nghĩa cho 'meal' cần Tính từ (nutritious: giàu dinh dưỡng).",
+            "explanation": "• Vị trí: Đứng trước danh từ \"meal\" và sau tính từ \"balanced\" cần một Tính từ (Adjective).\n• Word Family: nourish (v) → nutritious (adj: giàu dinh dưỡng, bổ dưỡng) → nutrition (n).\n• Dịch: Dùng một bữa ăn cân bằng, bổ dưỡng mỗi ngày hỗ trợ cả sự phát triển thể chất lẫn nhận thức.",
+            "tags": [
+              "unit-5",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "High schoolers are encouraged to perform ___ duties at the public library. (volunteer)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "voluntary",
+            "hint": "💡 Bổ nghĩa cho 'duties' cần Tính từ (voluntary: tự nguyện/tình nguyện).",
+            "explanation": "• Vị trí: Đứng trước danh từ \"duties\" (nhiệm vụ/công việc) cần một Tính từ (Adjective).\n• Cụm từ: voluntary duties (các nhiệm vụ tình nguyện/tự nguyện).\n• Word Family: volunteer (n/v) → voluntary (adj: tự nguyện) → voluntarily (adv).\n• Dịch: Các bạn học sinh cấp 3 được khuyến khích thực hiện các nhiệm vụ tình nguyện tại thư viện công cộng.",
+            "tags": [
+              "unit-3",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Mastering a foreign language requires relentless effort and extraordinary ___ . (patient)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "patience",
+            "hint": "💡 Sau 'extraordinary' cần một Danh từ (patience: lòng kiên nhẫn).",
+            "explanation": "• Vị trí: Sau tính từ \"extraordinary\" (phi thường) cần một Danh từ (Noun) làm tân ngữ song song với \"effort\".\n• Word Family: patient (adj: kiên nhẫn) → patience (n: tính kiên nhẫn, sự bền lòng).\n• Dịch: Việc làm chủ một ngoại ngữ đòi hỏi nỗ lực không ngừng và lòng kiên nhẫn phi thường.",
+            "tags": [
+              "unit-1",
+              "word-formation",
+              "adjective-noun"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Adopting wholesome habits is undeniably ___ to a student's long-term well-being. (benefit)",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Formation):",
+            "correct_answer": "beneficial",
+            "hint": "💡 Sau 'is undeniably' cần Tính từ (beneficial to: có lợi cho).",
+            "explanation": "• Vị trí: Sau to be \"is\" và trạng từ \"undeniably\" (không thể phủ nhận) cần một Tính từ (Adjective đi với giới từ \"to\").\n• Word Family: benefit (n/v) → beneficial (adj: có lợi) → beneficially (adv).\n• Dịch: Áp dụng những thói quen lành mạnh chắc chắn đem lại nhiều lợi ích cho sức khỏe lâu dài của học sinh.",
+            "tags": [
+              "unit-2",
+              "word-formation",
+              "to-be-adverb-adjective"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
