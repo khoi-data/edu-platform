@@ -117,7 +117,7 @@ export function InlineFillBlankRenderer({
                     value={userAnswers[idx]}
                     onChange={(e) => handleInputChange(idx, e.target.value)}
                     disabled={disabled}
-                    className={`w-24 bg-surface border-b-2 px-2 py-1 text-center font-bold text-sky-300 outline-none focus:border-sky-500 transition-all ${
+                    className={`min-w-[130px] max-w-[220px] bg-surface border-b-2 px-3 py-1 text-center font-bold text-sky-300 outline-none focus:border-sky-500 transition-all ${
                       disabled
                         ? userAnswers[idx].trim().toLowerCase() === correctAnswers[idx].toLowerCase()
                           ? 'border-emerald-500 text-emerald-400'
