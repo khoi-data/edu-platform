@@ -94,7 +94,7 @@ function AssessmentContent() {
   const [subjectSlug, setSubjectSlug] = useState<string>("tieng_anh");
   const [examType, setExamType] = useState<string>("lesson");
   const [units, setUnits] = useState<number[]>([]);
-  const [isBookOpen, setIsBookOpen] = useState(true);
+  const [isBookOpen, setIsBookOpen] = useState(false);
   const startedAtRef = useRef<number>(Date.now());
 
   useEffect(() => {
@@ -196,8 +196,11 @@ function AssessmentContent() {
     );
   }
 
-  const bookDriveId = examType !== 'reflex' ? extractDriveFileId(BOOK_SOURCE_URLS[subjectSlug]) : null;
-  const pageRange = units.length > 0 ? getBookPageRange(subjectSlug, units[0]) : null;
+  // Sách chỉ hiển thị cho các bài bám Sách Bài Tập (SBT) có trang sách cụ thể.
+  // Tuyệt đối KHÔNG hiển thị cho đề ôn tập (review), chuyên đề, đề thi (exam/midterm/final), hoặc phản xạ (reflex).
+  const isNonBookExam = ['review', 'exam', 'midterm', 'final', 'reflex'].includes(examType);
+  const pageRange = (!isNonBookExam && units.length > 0) ? getBookPageRange(subjectSlug, units[0]) : null;
+  const bookDriveId = (!isNonBookExam && pageRange) ? extractDriveFileId(BOOK_SOURCE_URLS[subjectSlug]) : null;
 
   return (
     <div className="w-full flex flex-col items-center">
