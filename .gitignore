@@ -50,3 +50,6 @@ public/videos/
 **/public/workbox-*.js
 **/public/fallback-*.js
 **/public/swe-worker-*.js
+
+# Archify artifacts
+.archify/
