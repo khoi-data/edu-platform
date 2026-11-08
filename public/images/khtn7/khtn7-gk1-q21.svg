@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 200" width="100%" height="100%">
+  <!-- Card Background -->
+  <rect x="10" y="10" width="160" height="180" rx="16" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+  
+  <!-- Atomic number 11 -->
+  <text x="90" y="42" text-anchor="middle" fill="#94a3b8" font-size="20" font-family="sans-serif" font-weight="bold">11</text>
+  
+  <!-- Chemical symbol Na -->
+  <text x="90" y="102" text-anchor="middle" fill="#f8fafc" font-size="52" font-family="sans-serif" font-weight="900">Na</text>
+  
+  <!-- Element name Sodium -->
+  <text x="90" y="132" text-anchor="middle" fill="#cbd5e1" font-size="18" font-family="sans-serif" font-weight="500">Sodium</text>
+  
+  <!-- Atomic mass 23 -->
+  <rect x="40" y="146" width="100" height="32" rx="8" fill="#0369a1" fill-opacity="0.3"/>
+  <text x="90" y="169" text-anchor="middle" fill="#38bdf8" font-size="22" font-family="sans-serif" font-weight="bold">23</text>
+</svg>
