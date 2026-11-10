@@ -1,0 +1,4107 @@
+{
+  "collection": {
+    "title": "Bộ Đề Thi Học Kỳ 1 Tiếng Anh 7 - Global Success (Ma Trận Chuẩn Toàn Diện)",
+    "subject_slug": "tieng-anh-7",
+    "grade": 7,
+    "volume": 1,
+    "units": [
+      10
+    ],
+    "sequence_number": 5,
+    "exam_type": "final",
+    "reference_book": "Đề Kiểm Tra Học Kỳ 1 Tiếng Anh 7 Global Success (Ma Trận Chuẩn Bộ GD&ĐT)",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 1,
+      "title": "Đề 01 - Đề Thi Học Kỳ 1 Tiếng Anh 7 (Ma trận Chuẩn Toàn diện Unit 1 - 6)",
+      "duration_minutes": 45,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. j<u>ou</u>rney  B. carr<u>o</u>t  C. nat<u>u</u>ral  D. Sept<u>e</u>mber",
+            "options": [
+              "journey",
+              "carrot",
+              "natural",
+              "September"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn từ có phần gạch chân phát âm khác: (Unit 1)",
+            "hint": "💡 journey chứa nguyên âm dài /ɜː/.",
+            "explanation": "• journey phát âm là âm dài /ɜː/ (/ˈdʒɜːni/).\n• carrot (/ˈkærət/), natural (/ˈnætʃrəl/), September (/sepˈtembə/) đều chứa âm /ə/.",
+            "tags": [
+              "unit-1",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. donat<u>ed</u>  B. plant<u>ed</u>  C. watch<u>ed</u>  D. decid<u>ed</u>",
+            "options": [
+              "donated",
+              "planted",
+              "watched",
+              "decided"
+            ],
+            "correct_index": 2,
+            "instruction": "Chọn từ có đuôi -ed phát âm khác: (Unit 3)",
+            "hint": "💡 Quy tắc phát âm đuôi -ed: sau /tʃ/ phát âm là /t/.",
+            "explanation": "• watched có đuôi -ed phát âm là /t/ (/wɒtʃt/) vì kết thúc bằng âm vô thanh /tʃ/.\n• donated (/dəʊˈneɪtɪd/), planted (/ˈplɑːntɪd/), decided (/dɪˈsaɪdɪd/) kết thúc bằng /t/ hoặc /d/ nên phát âm là /ɪd/.",
+            "tags": [
+              "unit-3",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. lea<u>f</u>  B. o<u>f</u>  C. sa<u>f</u>e  D. roo<u>f</u>",
+            "options": [
+              "leaf",
+              "of",
+              "safe",
+              "roof"
+            ],
+            "correct_index": 1,
+            "instruction": "Chọn từ có phần gạch chân phát âm khác: (Unit 2)",
+            "hint": "💡 Từ \"of\" có phụ âm phát âm là /v/.",
+            "explanation": "• of phát âm là /əv/ hoặc /ɒv/ (âm /v/).\n• leaf (/liːf/), safe (/seɪf/), roof (/ruːf/) đều phát âm là âm /f/.",
+            "tags": [
+              "unit-2",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose main stress is placed differently: A. disease  B. sunburn  C. doctor  D. model",
+            "options": [
+              "disease",
+              "sunburn",
+              "doctor",
+              "model"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn từ có trọng âm chính khác: (Unit 2)",
+            "hint": "💡 disease nhấn âm 2, các từ còn lại nhấn âm 1.",
+            "explanation": "• disease có trọng âm rơi vào âm tiết thứ 2 (/dɪˈziːz/).\n• sunburn (/ˈsʌnbɜːn/), doctor (/ˈdɒktə/), model (/ˈmɒdl/) đều có trọng âm rơi vào âm tiết thứ 1.",
+            "tags": [
+              "unit-2",
+              "stress"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose main stress is placed differently: A. community  B. volunteer  C. lemonade  D. Japanese",
+            "options": [
+              "community",
+              "volunteer",
+              "lemonade",
+              "Japanese"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn từ có trọng âm chính khác: (Unit 3-5)",
+            "hint": "💡 community nhấn âm 2, các từ còn lại nhấn âm 3.",
+            "explanation": "• community có trọng âm rơi vào âm tiết thứ 2 (/kəˈmjuːnəti/).\n• volunteer (/ˌvɒlənˈtɪə/), lemonade (/ˌleməˈneɪd/), Japanese (/ˌdʒæpəˈniːz/) đều nhấn âm 3.",
+            "tags": [
+              "unit-3",
+              "stress"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "My younger cousin loves ___ airplane models from cardboard and glue.",
+            "options": [
+              "making",
+              "doing",
+              "taking",
+              "riding"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 1 - Hobbies)",
+            "hint": "💡 make models: làm mô hình.",
+            "explanation": "• Cụm từ cố định: make models (làm/lắp ráp mô hình). Sau love dùng V-ing: making models.",
+            "tags": [
+              "unit-1",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Do you fancy ___ eggshells to make decorative souvenirs?",
+            "options": [
+              "carving",
+              "to carve",
+              "carved",
+              "carve"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 1 - Hobbies)",
+            "hint": "💡 fancy + V-ing.",
+            "explanation": "• Cấu trúc: fancy + V-ing (yêu thích làm việc gì): fancy carving eggshells.",
+            "tags": [
+              "unit-1",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "You will easily get ___ if you spend hours under the hot afternoon sun without a hat.",
+            "options": [
+              "sunburn",
+              "headache",
+              "stomachache",
+              "flu"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 2 - Healthy Living)",
+            "hint": "💡 Cháy nắng: sunburn.",
+            "explanation": "• Tiếp xúc với ánh nắng gắt mà không có đồ bảo hộ sẽ bị cháy nắng: \"sunburn\".",
+            "tags": [
+              "unit-2",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Eat more fresh green vegetables and drink plenty of water, ___ you will stay healthy.",
+            "options": [
+              "but",
+              "or",
+              "and",
+              "so"
+            ],
+            "correct_index": 2,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 2 - Simple Sentences)",
+            "hint": "💡 Liên từ \"and\" chỉ kết quả tích cực đi liền.",
+            "explanation": "• Cấu trúc câu mệnh lệnh nối với kết quả tích cực: Hãy làm X, và bạn sẽ đạt được Y (Eat more vegetables..., and you will stay healthy).",
+            "tags": [
+              "unit-2",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Last summer, our youth club ___ warm clothes and old books to children in mountainous areas.",
+            "options": [
+              "donates",
+              "donated",
+              "is donating",
+              "has donated"
+            ],
+            "correct_index": 1,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 3 - Community Service)",
+            "hint": "💡 Last summer chia thì quá khứ đơn: donated.",
+            "explanation": "• Trạng ngữ thời gian quá khứ rõ ràng \"Last summer\" (Mùa hè năm ngoái) → chia thì Quá khứ đơn: \"donated\".",
+            "tags": [
+              "unit-3",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Helping elderly people in a nursing home is a meaningful ___ activity.",
+            "options": [
+              "community",
+              "indoor",
+              "lonely",
+              "careless"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 3 - Community Service)",
+            "hint": "💡 Hoạt động cộng đồng: community activity.",
+            "explanation": "• community activity: hoạt động vì cộng đồng.",
+            "tags": [
+              "unit-3",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The style of this new painting is quite ___ from the traditional one in the history museum.",
+            "options": [
+              "same",
+              "like",
+              "different",
+              "as"
+            ],
+            "correct_index": 2,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 4 - Music and Arts)",
+            "hint": "💡 be different from.",
+            "explanation": "• Cấu trúc so sánh khác biệt: be different from (khác biệt với).",
+            "tags": [
+              "unit-4",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Trinh Cong Son is widely recognized as one of the greatest ___ in Vietnamese modern music.",
+            "options": [
+              "actors",
+              "composers",
+              "painters",
+              "sculptors"
+            ],
+            "correct_index": 1,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 4 - Music and Arts)",
+            "hint": "💡 Nhạc sĩ, nhà soạn nhạc: composers.",
+            "explanation": "• Trịnh Công Sơn là một nhạc sĩ/nhà soạn nhạc vĩ đại: \"composers\".",
+            "tags": [
+              "unit-4",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Can you please buy me a ___ of fresh milk on your way home from the supermarket?",
+            "options": [
+              "bottle",
+              "kilo",
+              "loaf",
+              "pinch"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 5 - Food and Drink)",
+            "hint": "💡 a bottle of milk.",
+            "explanation": "• Đơn vị đong đếm sữa tươi: \"a bottle of milk\" (một chai sữa). Kilo thường dùng cho thịt/rau, loaf cho bánh mì, pinch cho muối.",
+            "tags": [
+              "unit-5",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "We don't have ___ fresh eggs left in the fridge to make pancakes.",
+            "options": [
+              "some",
+              "any",
+              "a lot",
+              "much"
+            ],
+            "correct_index": 1,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 5 - Food and Drink)",
+            "hint": "💡 Câu phủ định dùng \"any\".",
+            "explanation": "• Trong câu phủ định với danh từ số nhiều đếm được (\"eggs\"), từ hạn định dùng là \"any\".",
+            "tags": [
+              "unit-5",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The Temple of Literature was founded ___ 1070 by Emperor Ly Thanh Tong.",
+            "options": [
+              "at",
+              "on",
+              "in",
+              "by"
+            ],
+            "correct_index": 2,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 6 - A Visit to a School)",
+            "hint": "💡 in + năm.",
+            "explanation": "• Giới từ đi với năm dùng \"in\": in 1070.",
+            "tags": [
+              "unit-6",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Students can borrow English storybooks and reference materials from the school ___.",
+            "options": [
+              "canteen",
+              "gymnasium",
+              "library",
+              "laboratory"
+            ],
+            "correct_index": 2,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 6 - School Facilities)",
+            "hint": "💡 Thư viện: library.",
+            "explanation": "• Nơi mượn sách truyện và tài liệu tham khảo là thư viện trường học: \"library\".",
+            "tags": [
+              "unit-6",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "- Nam: \"Would you like to join our community clean-up club this Saturday?\" - Lan: \"___\"",
+            "options": [
+              "I'd love to. Thanks for inviting me!",
+              "No, I am not.",
+              "Yes, I like.",
+              "You are welcome."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu đối đáp phù hợp nhất trong giao tiếp:",
+            "hint": "💡 Đáp lại lời mời: I'd love to.",
+            "explanation": "• Đáp lại lời mời \"Would you like to...?\" một cách lịch sự và hào hứng: \"I'd love to. Thanks for inviting me!\" (Mình rất muốn. Cảm ơn bạn đã mời mình!).",
+            "tags": [
+              "communication"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Look at the sign with text: \"NO LITTERING - KEEP OUR PARK CLEAN\". What does it mean?",
+            "options": [
+              "You must throw all trash here.",
+              "You must not throw rubbish on the ground in the park.",
+              "You can leave plastic bags anywhere.",
+              "There is no trash bin in this area."
+            ],
+            "correct_index": 1,
+            "instruction": "Xem biển báo và chọn ý nghĩa đúng:",
+            "hint": "💡 No littering: Cấm xả rác.",
+            "explanation": "• Biển báo cấm xả rác nghĩa là không được vứt rác bừa bãi xuống đất trong công viên: \"You must not throw rubbish on the ground\".",
+            "tags": [
+              "signs"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Look at the notice outside a school library: \"PLEASE SILENCE YOUR MOBILE PHONES\". What must you do?",
+            "options": [
+              "You should turn off or mute your phone so as not to disturb others.",
+              "You can make phone calls loudly.",
+              "You must leave your phone outside the library.",
+              "You have to charge your phone now."
+            ],
+            "correct_index": 0,
+            "instruction": "Xem thông báo và chọn ý nghĩa đúng:",
+            "hint": "💡 Giữ im lặng cho điện thoại.",
+            "explanation": "• Yêu cầu tắt chuông điện thoại (silence/mute) để tránh làm phiền người khác trong thư viện.",
+            "tags": [
+              "notices"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Ba is a famous stamp ___ who owns a collection of over a thousand rare stamps. (collect)",
+            "correct_answer": "collector",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Danh từ chỉ người sưu tầm: collector.",
+            "explanation": "• Đứng sau cụm \"a famous stamp\" cần danh từ chỉ người: collector (nhà sưu tầm tem).\n• Word family: collect (v) → collection (n: bộ sưu tập) → collector (n: người sưu tầm).",
+            "tags": [
+              "unit-1",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Staying up late and eating too much fast food are ___ habits for teenagers. (health)",
+            "correct_answer": "unhealthy",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Tính từ không có lợi cho sức khỏe: unhealthy.",
+            "explanation": "• Đứng trước danh từ \"habits\", ngữ cảnh thức khuya và ăn nhiều đồ ăn nhanh là có hại nên dùng tính từ phủ định: unhealthy (không lành mạnh).\n• Word family: health (n) → healthy (adj) → unhealthy (adj).",
+            "tags": [
+              "unit-2",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The local charity received generous ___ of food and clothes from warm-hearted citizens. (donate)",
+            "correct_answer": "donations",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Danh từ số nhiều sự quyên góp: donations.",
+            "explanation": "• Đứng sau tính từ \"generous\" cần danh từ số nhiều: donations (các khoản quyên góp, đồ ủng hộ).\n• Word family: donate (v) → donation / donations (n).",
+            "tags": [
+              "unit-3",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The young pianist gave an outstanding musical ___ at the city opera house. (perform)",
+            "correct_answer": "performance",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Buổi trình diễn: performance.",
+            "explanation": "• Đứng sau mạo từ \"an\" và các tính từ \"outstanding musical\" cần danh từ: performance (buổi biểu diễn/màn trình diễn).\n• Word family: perform (v) → performer (n: người biểu diễn) → performance (n: buổi trình diễn).",
+            "tags": [
+              "unit-4",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Eating fresh vegetables and drinking enough water make a positive ___ to your skin. (differ)",
+            "correct_answer": "difference",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Cụm từ: make a difference.",
+            "explanation": "• Cụm từ cố định: make a difference to (tạo nên sự khác biệt/thay đổi tích cực đối với).\n• Word family: differ (v) → different (adj) → difference (n).",
+            "tags": [
+              "unit-5",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Living a healthy life is essential for students. First of all, you should (1) ___ a balanced diet with plenty of vegetables and fruits.\"",
+            "options": [
+              "have",
+              "take",
+              "cook",
+              "feed"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (1):",
+            "hint": "💡 have a diet.",
+            "explanation": "• Cụm từ cố định: have a balanced diet (có một chế độ ăn uống cân bằng dinh dưỡng).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Secondly, physical exercise plays an important role. You can choose to go jogging, swim, (2) ___ cycle with your friends.\"",
+            "options": [
+              "or",
+              "but",
+              "so",
+              "although"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (2):",
+            "hint": "💡 Liên từ lựa chọn: or.",
+            "explanation": "• Liên từ lựa chọn giữa các môn thể thao: chạy bộ, bơi lội HOẶC đạp xe (or cycle).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Regular physical activities help build strong muscles and reduce (3) ___ after stressful exams.\"",
+            "options": [
+              "healthy",
+              "stress",
+              "energy",
+              "headaches"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (3):",
+            "hint": "💡 reduce stress.",
+            "explanation": "• Cụm từ: reduce stress (giảm căng thẳng, giải tỏa áp lực).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Moreover, getting eight hours of sleep each night is necessary to (4) ___ your batteries for the next day.\"",
+            "options": [
+              "charge",
+              "provide",
+              "bring",
+              "spend"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (4):",
+            "hint": "💡 Nạp năng lượng: charge batteries.",
+            "explanation": "• Thành ngữ: recharge / charge one's batteries (nạp lại năng lượng cho cơ thể).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"In short, maintaining healthy habits will keep you energetic and (5) ___ good condition.\"",
+            "options": [
+              "on",
+              "at",
+              "in",
+              "with"
+            ],
+            "correct_index": 2,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (5):",
+            "hint": "💡 in good condition.",
+            "explanation": "• Cụm từ cố định: in good condition (trong tình trạng/thể trạng tốt).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage:\n\"The Temple of Literature (Van Mieu) is one of the most historic and cultural landmarks in Ha Noi. Built in 1070 under Emperor Ly Thanh Tong, it was originally dedicated to Confucius and scholars. In 1076, King Ly Nhan Tong established Quoc Tu Giam (the Imperial Academy) on the grounds, making it the first university in Viet Nam. For hundreds of years, thousands of talented doctors and scholars graduated from this institution and served the royal court.\nToday, Van Mieu - Quoc Tu Giam is a famous historic site that attracts millions of visitors each year. Before important national examinations, many secondary and high school students come here to rub turtle statues or pray for good luck in their studies.\"\n\nWhen was the Temple of Literature originally built?",
+            "options": [
+              "In 1070",
+              "In 1076",
+              "In 1000",
+              "In 1200"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Năm xây dựng: 1070.",
+            "explanation": "• Dẫn chứng trong bài: \"Built in 1070 under Emperor Ly Thanh Tong...\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "What was established on the grounds of Van Mieu in 1076?",
+            "options": [
+              "The One Pillar Pagoda",
+              "The Imperial Academy (Quoc Tu Giam)",
+              "The National History Museum",
+              "The Royal Palace"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Quốc Tử Giám được thành lập năm 1076.",
+            "explanation": "• Dẫn chứng trong bài: \"In 1076, King Ly Nhan Tong established Quoc Tu Giam (the Imperial Academy)...\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "In the first paragraph, what does the word \"institution\" refer to?",
+            "options": [
+              "The university / Imperial Academy",
+              "The examination room",
+              "The royal palace",
+              "Ha Noi city"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 institution = trường đại học (Quoc Tu Giam).",
+            "explanation": "• Từ \"institution\" ở đây thay thế cho trường đại học đầu tiên Quoc Tu Giam (the Imperial Academy).",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "According to the passage, why do students visit the site before national examinations?",
+            "options": [
+              "To attend history lectures",
+              "To borrow ancient books",
+              "To pray for good luck in their studies",
+              "To participate in sports contests"
+            ],
+            "correct_index": 2,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Cầu may mắn trong học tập.",
+            "explanation": "• Dẫn chứng: \"...many secondary and high school students come here to rub turtle statues or pray for good luck in their studies.\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "What is the best title for the whole passage?",
+            "options": [
+              "Emperor Ly Thanh Tong’s Biography",
+              "The History and Significance of Van Mieu - Quoc Tu Giam",
+              "How to Pass University Entrance Exams",
+              "Ancient Traditional Architecture of Ha Noi"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Tiêu đề phù hợp nhất: Lịch sử và ý nghĩa của Văn Miếu.",
+            "explanation": "• Bài đọc tóm tắt lịch sử hình thành, ý nghĩa giáo dục và giá trị văn hóa của Văn Miếu - Quốc Tử Giám.",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rearrange words to make a meaningful sentence:",
+            "words": [
+              "She",
+              "spends",
+              "two",
+              "hours",
+              "doing",
+              "her",
+              "homework",
+              "every",
+              "evening."
+            ],
+            "correct_sentence": "She spends two hours doing her homework every evening.",
+            "instruction": "Sắp xếp các từ thành câu hoàn chỉnh:",
+            "hint": "💡 She spends two hours doing her homework every evening.",
+            "explanation": "• Cấu trúc: S + spend + time + V-ing: Cô ấy dành 2 tiếng làm bài tập vào mỗi buổi tối.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rearrange words to make a meaningful sentence:",
+            "words": [
+              "Many",
+              "students",
+              "volunteered",
+              "to",
+              "clean",
+              "up",
+              "the",
+              "park",
+              "last",
+              "weekend."
+            ],
+            "correct_sentence": "Many students volunteered to clean up the park last weekend.",
+            "instruction": "Sắp xếp các từ thành câu hoàn chỉnh:",
+            "hint": "💡 Many students volunteered to clean up the park last weekend.",
+            "explanation": "• Cấu trúc: volunteer to V: Nhiều học sinh đã tình nguyện dọn dẹp công viên vào cuối tuần trước.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"I think that collecting old stamps is interesting.\"\n→ I find _______.",
+            "options": [
+              "collecting old stamps is interesting.",
+              "collecting old stamps interesting.",
+              "it collecting old stamps interesting.",
+              "to collect old stamps interesting."
+            ],
+            "correct_index": 1,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 S + find + V-ing + Adj.",
+            "explanation": "• Cấu trúc tương đương: S + think that V-ing is Adj ↔ S + find + V-ing + Adj (không dùng \"is\").",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"This modern art exhibition is not as crowded as the previous one.\"\n→ The previous art exhibition was _______.",
+            "options": [
+              "more crowded than this modern one.",
+              "less crowded than this modern one.",
+              "as crowded as this modern one.",
+              "not crowded than this modern one."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 So sánh không bằng ↔ so sánh hơn.",
+            "explanation": "• Triển lãm này không đông đúc bằng triển lãm trước → Triển lãm trước đông đúc hơn triển lãm này (was more crowded than this modern one).",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"Because Nam had a high fever, he couldn’t join the sports festival.\"\n→ Nam had a high fever, _______.",
+            "options": [
+              "so he couldn’t join the sports festival.",
+              "but he couldn’t join the sports festival.",
+              "because he couldn’t join the sports festival.",
+              "although he couldn’t join the sports festival."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 Because S+V, S+V = S+V, so S+V.",
+            "explanation": "• Cấu trúc nguyên nhân - kết quả: Because Clause 1, Clause 2 ↔ Clause 1, so Clause 2.",
+            "tags": [
+              "writing"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 2,
+      "title": "Đề 02 - Đề Thi Học Kỳ 1 Tiếng Anh 7 (Ma trận Chuẩn Toàn diện Unit 1 - 6)",
+      "duration_minutes": 45,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. b<u>i</u>rd  B. g<u>i</u>rl  C. f<u>i</u>rst  D. <u>a</u>bout",
+            "options": [
+              "bird",
+              "girl",
+              "first",
+              "about"
+            ],
+            "correct_index": 3,
+            "instruction": "Chọn từ có phần gạch chân phát âm khác: (Unit 1)",
+            "hint": "💡 about có âm /ə/, các từ còn lại có âm /ɜː/.",
+            "explanation": "• about có âm đầu phát âm là âm ngắn /ə/ (/əˈbaʊt/).\n• bird (/bɜːd/), girl (/ɡɜːl/), first (/fɜːst/) đều có âm dài /ɜː/.",
+            "tags": [
+              "unit-1",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. help<u>ed</u>  B. look<u>ed</u>  C. miss<u>ed</u>  D. clean<u>ed</u>",
+            "options": [
+              "helped",
+              "looked",
+              "missed",
+              "cleaned"
+            ],
+            "correct_index": 3,
+            "instruction": "Chọn từ có đuôi -ed phát âm khác: (Unit 3)",
+            "hint": "💡 Sau phụ âm hữu thanh /n/, đuôi -ed phát âm là /d/.",
+            "explanation": "• cleaned có đuôi -ed phát âm là /d/ (/kliːnd/) vì kết thúc bằng âm hữu thanh /n/.\n• helped (/helpt/), looked (/lʊkt/), missed (/mɪst/) kết thúc bằng âm vô thanh /p/, /k/, /s/ nên phát âm là /t/.",
+            "tags": [
+              "unit-3",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. musi<u>ci</u>an  B. wa<u>sh</u>ing  C. spe<u>ci</u>al  D. televi<u>si</u>on",
+            "options": [
+              "musician",
+              "washing",
+              "special",
+              "television"
+            ],
+            "correct_index": 3,
+            "instruction": "Chọn từ có phần gạch chân phát âm khác: (Unit 4)",
+            "hint": "💡 television phát âm là /ʒ/.",
+            "explanation": "• television có nhóm -si- phát âm là /ʒ/ (/ˈtelɪvɪʒn/).\n• musician (/mjuˈzɪʃn/), washing (/ˈwɒʃɪŋ/), special (/ˈspeʃl/) đều phát âm là âm /ʃ/.",
+            "tags": [
+              "unit-4",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose main stress is placed differently: A. relax  B. healthy  C. harmful  D. tidy",
+            "options": [
+              "relax",
+              "healthy",
+              "harmful",
+              "tidy"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn từ có trọng âm chính khác: (Unit 2)",
+            "hint": "💡 relax là động từ nhấn âm 2.",
+            "explanation": "• relax có trọng âm rơi vào âm tiết thứ 2 (/rɪˈlæks/).\n• healthy (/ˈhelθi/), harmful (/ˈhɑːmfl/), tidy (/ˈtaɪdi/) đều nhấn âm 1.",
+            "tags": [
+              "unit-2",
+              "stress"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose main stress is placed differently: A. gallery  B. photography  C. cinema  D. vegetable",
+            "options": [
+              "gallery",
+              "photography",
+              "cinema",
+              "vegetable"
+            ],
+            "correct_index": 1,
+            "instruction": "Chọn từ có trọng âm chính khác: (Unit 1-4)",
+            "hint": "💡 photography nhấn âm 2, các từ còn lại nhấn âm 1.",
+            "explanation": "• photography có trọng âm rơi vào âm tiết thứ 2 (/fəˈtɒɡrəfi/).\n• gallery (/ˈɡæləri/), cinema (/ˈsɪnəmə/), vegetable (/ˈvedʒtəbl/) đều nhấn âm 1.",
+            "tags": [
+              "unit-4",
+              "stress"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "My sister detests ___ scary horror movies alone late at night.",
+            "options": [
+              "watching",
+              "watch",
+              "to watch",
+              "watched"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 1 - Hobbies)",
+            "hint": "💡 detest + V-ing.",
+            "explanation": "• Cấu trúc: detest + V-ing (ghét cay ghét đắng việc gì): detest watching.",
+            "tags": [
+              "unit-1",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "If you have patience and creativity, you will find making ___ in a craft village very rewarding.",
+            "options": [
+              "pottery",
+              "jogging",
+              "ice-skating",
+              "badminton"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 1 - Hobbies)",
+            "hint": "💡 Làm đồ gốm: making pottery.",
+            "explanation": "• Làm đồ gốm ở làng nghề truyền thống: \"making pottery\".",
+            "tags": [
+              "unit-1",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "His skin is red and itchy all over because he has an ___ to seafood.",
+            "options": [
+              "allergy",
+              "earache",
+              "eye drops",
+              "suncream"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 2 - Healthy Living)",
+            "hint": "💡 Dị ứng: allergy.",
+            "explanation": "• Dị ứng với hải sản khiến da bị đỏ ngứa: \"have an allergy to seafood\".",
+            "tags": [
+              "unit-2",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "To avoid acne, you should wash your face twice a day with clean water and never ___ pimples.",
+            "options": [
+              "touch",
+              "squeeze",
+              "wash",
+              "clean"
+            ],
+            "correct_index": 1,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 2 - Healthy Living)",
+            "hint": "💡 Nặn mụn: squeeze pimples.",
+            "explanation": "• squeeze/pop pimples: nặn mụn (hành vi gây viêm nhiễm da).",
+            "tags": [
+              "unit-2",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Our school launched a campaign called \"Green Classroom\" to ___ used textbooks and plastic bottles.",
+            "options": [
+              "recycle",
+              "pollute",
+              "litter",
+              "ignore"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 3 - Community Service)",
+            "hint": "💡 Tái chế: recycle.",
+            "explanation": "• Thu gom sách cũ và chai nhựa để tái chế: \"recycle\".",
+            "tags": [
+              "unit-3",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Two weeks ago, our youth group ___ disadvantaged children at a local shelter with their English lessons.",
+            "options": [
+              "tutored",
+              "tutors",
+              "is tutoring",
+              "tutor"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 3 - Community Service)",
+            "hint": "💡 Quá khứ đơn: tutored.",
+            "explanation": "• Dấu hiệu thời gian quá khứ \"Two weeks ago\" chia thì Quá khứ đơn: \"tutored\" (đã dạy kèm).",
+            "tags": [
+              "unit-3",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Water puppetry is a unique traditional art form that originated ___ northern Viet Nam.",
+            "options": [
+              "in",
+              "on",
+              "at",
+              "with"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 4 - Music and Arts)",
+            "hint": "💡 originate in.",
+            "explanation": "• Cụm từ: originate in + địa điểm (bắt nguồn/khởi nguồn từ vùng nào).",
+            "tags": [
+              "unit-4",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Her singing voice and musical performance are not the same ___ her mother’s.",
+            "options": [
+              "as",
+              "from",
+              "like",
+              "with"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 4 - Music and Arts)",
+            "hint": "💡 the same as.",
+            "explanation": "• Cấu trúc so sánh giống nhau: the same as (giống với).",
+            "tags": [
+              "unit-4",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "To prepare authentic Vietnamese beef noodle soup, the chef needs some clear broth and a pinch of ___.",
+            "options": [
+              "turmeric",
+              "butter",
+              "pepper",
+              "sugar"
+            ],
+            "correct_index": 2,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 5 - Food and Drink)",
+            "hint": "💡 a pinch of pepper.",
+            "explanation": "• a pinch of pepper: một nhúm hạt tiêu rắc lên bát phở bò.",
+            "tags": [
+              "unit-5",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "How ___ bottles of fresh water do you usually drink during your sports practice?",
+            "options": [
+              "many",
+              "much",
+              "often",
+              "far"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 5 - Food and Drink)",
+            "hint": "💡 How many + danh từ đếm được số nhiều.",
+            "explanation": "• \"bottles\" là danh từ đếm được số nhiều, từ để hỏi số lượng là \"How many\".",
+            "tags": [
+              "unit-5",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Khue Van Pavilion was officially chosen as the cultural ___ of Ha Noi capital.",
+            "options": [
+              "symbol",
+              "doctorate",
+              "pavilion",
+              "temple"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 6 - A Visit to a School)",
+            "hint": "💡 Biểu tượng văn hóa: symbol.",
+            "explanation": "• Khuê Văn Các được chọn làm biểu tượng (symbol) chính thức của thủ đô Hà Nội.",
+            "tags": [
+              "unit-6",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The students are currently conducting exciting science experiments ___ the chemistry laboratory.",
+            "options": [
+              "in",
+              "on",
+              "at",
+              "by"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 6 - School Facilities)",
+            "hint": "💡 in the laboratory.",
+            "explanation": "• Tiến hành thí nghiệm bên trong phòng thí nghiệm: in the laboratory.",
+            "tags": [
+              "unit-6",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "- Hoa: \"How often do you go cycling around West Lake with your father?\" - Minh: \"___\"",
+            "options": [
+              "Twice a week.",
+              "For two hours.",
+              "Around 6 p.m.",
+              "Yes, I like cycling."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu đối đáp phù hợp nhất trong giao tiếp:",
+            "hint": "💡 Hỏi tần suất trả lời Twice a week.",
+            "explanation": "• Câu hỏi tần suất \"How often...?\" trả lời chính xác bằng: \"Twice a week\" (Hai lần một tuần).",
+            "tags": [
+              "communication"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Look at the notice outside a cinema hall: \"TICKETS SOLD OUT FOR THIS SHOW\". What does it say?",
+            "options": [
+              "You can still purchase tickets inside.",
+              "There are no tickets left for this show.",
+              "Tickets will be discounted soon.",
+              "You cannot enter the cinema hall."
+            ],
+            "correct_index": 1,
+            "instruction": "Xem thông báo và chọn ý nghĩa đúng:",
+            "hint": "💡 Sold out: Hết vé.",
+            "explanation": "• \"SOLD OUT\" nghĩa là đã bán sạch vé, không còn vé nào: \"There are no tickets left\".",
+            "tags": [
+              "notices"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Look at the yellow sign on the floor: \"CAUTION: WET FLOOR\". What is the warning?",
+            "options": [
+              "The floor is being repaired.",
+              "You should run quickly across the floor.",
+              "You must walk carefully because the floor is slippery.",
+              "The room is closed for cleaning."
+            ],
+            "correct_index": 2,
+            "instruction": "Xem biển báo và chọn ý nghĩa đúng:",
+            "hint": "💡 Sàn ướt trơn trượt.",
+            "explanation": "• Biển cảnh báo sàn ướt trơn trượt, cần bước đi cẩn thận: \"walk carefully because the floor is slippery\".",
+            "tags": [
+              "signs"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Listening to soft acoustic music in the evening is very ___ after long hours at school. (relax)",
+            "correct_answer": "relaxing",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Tính từ miêu tả tính chất: relaxing.",
+            "explanation": "• Đứng sau to be \"is very\" cần tính từ đuôi -ing miêu tả tính chất của việc nghe nhạc: relaxing (giúp thư thái, dễ chịu).\n• Word family: relax (v) → relaxing (adj: mang tính thư giãn) → relaxed (adj: cảm thấy thư giãn).",
+            "tags": [
+              "unit-1",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Regular jogging and proper nutrition help improve your physical ___ remarkably. (fit)",
+            "correct_answer": "fitness",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Danh từ thể lực: fitness.",
+            "explanation": "• Đứng sau tính từ \"physical\" cần danh từ: fitness (thể lực, sự sung sức).\n• Word family: fit (adj) → fitness (n).",
+            "tags": [
+              "unit-2",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "These enthusiastic ___ spent their summer building a library for children in the highlands. (volunteer)",
+            "correct_answer": "volunteers",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Tình nguyện viên (số nhiều): volunteers.",
+            "explanation": "• \"These enthusiastic\" cần danh từ số nhiều chỉ người: volunteers (những tình nguyện viên).\n• Word family: volunteer (v/n) → voluntary (adj).",
+            "tags": [
+              "unit-3",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "He is a very talented ___ who can play both the violin and the cello masterfully. (music)",
+            "correct_answer": "musician",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Nhạc công / nhạc sĩ: musician.",
+            "explanation": "• Đứng sau cụm \"a very talented\" cần danh từ chỉ người: musician (nhạc công/nhạc sĩ).\n• Word family: music (n) → musician (n: nhạc sĩ, nhạc công) → musical (adj).",
+            "tags": [
+              "unit-4",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Our school focuses on providing quality ___ with modern science labs and sports facilities. (educate)",
+            "correct_answer": "education",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Danh từ nền giáo dục: education.",
+            "explanation": "• Đứng sau tính từ \"quality\" cần danh từ: education (nền giáo dục).\n• Word family: educate (v) → education (n) → educational (adj).",
+            "tags": [
+              "unit-6",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Community service is an activity where people work to help others without being (1) ___. It brings benefits not only to the community but also to the volunteers themselves.\"",
+            "options": [
+              "paid",
+              "praised",
+              "punished",
+              "called"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (1):",
+            "hint": "💡 without being paid: không nhận lương/thù lao.",
+            "explanation": "• without being paid: mà không nhận thù lao (làm việc thiện nguyện tự nguyện).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Students can take part in various projects, such as planting trees, collecting litter, or (2) ___ English to street children.\"",
+            "options": [
+              "tutoring",
+              "taking",
+              "giving",
+              "playing"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (2):",
+            "hint": "💡 tutor: dạy kèm.",
+            "explanation": "• tutor English to children: dạy kèm tiếng Anh cho trẻ em có hoàn cảnh khó khăn.",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"These activities help young people develop a sense of (3) ___ and learn essential team skills.\"",
+            "options": [
+              "responsibility",
+              "interest",
+              "hobby",
+              "difference"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (3):",
+            "hint": "💡 sense of responsibility.",
+            "explanation": "• sense of responsibility: tinh thần trách nhiệm đối với cộng đồng.",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Furthermore, volunteering makes communities cleaner, greener, and (4) ___ friendly places to live.\"",
+            "options": [
+              "more",
+              "much",
+              "less",
+              "most"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (4):",
+            "hint": "💡 more friendly.",
+            "explanation": "• Cấu trúc so sánh hơn song hành: cleaner, greener, and more friendly.",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"If you have some free time this weekend, why not (5) ___ a local volunteer club?\"",
+            "options": [
+              "join",
+              "joining",
+              "to join",
+              "joined"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (5):",
+            "hint": "💡 why not + V nguyên mẫu.",
+            "explanation": "• Cấu trúc gợi ý: why not + V nguyên thể: why not join a local volunteer club?",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage:\n\"Water puppetry (Mua roi nuoc) is a distinctive traditional Vietnamese art form that dates back to the 11th century during the Ly Dynasty. It originated in the villages of the Red River Delta in northern Viet Nam, where rice farmers held puppet shows in flooded paddy fields during village festivals.\nThe stage is the surface of a waist-deep pool of water. Puppeteers stand behind a bamboo screen and control wooden puppets using long underwater bamboo rods and strings. The puppets are carved from light fig wood and coated with waterproof lacquer. Accompanied by traditional live music played on drums, flutes, and monochords, the performances depict rural life, agricultural labor, and ancient national legends like King Le Loi returning the magic sword to the Golden Turtle.\"\n\nWhen did water puppetry first appear in Viet Nam?",
+            "options": [
+              "In the 11th century",
+              "In the 15th century",
+              "In the 19th century",
+              "In the 20th century"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Vào thế kỷ 11 thời nhà Lý.",
+            "explanation": "• Dẫn chứng ngay câu đầu tiên: \"...dates back to the 11th century during the Ly Dynasty.\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Where was water puppetry originally performed by farmers?",
+            "options": [
+              "In royal theaters in the capital",
+              "In flooded rice fields during village festivals",
+              "On the stage of Ha Noi Opera House",
+              "On boats floating down the river"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Biểu diễn trên các cánh đồng ngập nước.",
+            "explanation": "• Dẫn chứng: \"...where rice farmers held puppet shows in flooded paddy fields during village festivals.\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "How do puppeteers control the puppets while hiding behind the screen?",
+            "options": [
+              "By using remote control motors",
+              "By using underwater bamboo rods and strings",
+              "By diving directly under the water",
+              "By using electric wires"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Sử dụng các sào tre và dây ngầm dưới nước.",
+            "explanation": "• Dẫn chứng: \"...control wooden puppets using long underwater bamboo rods and strings.\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "What material are the water puppets carved from?",
+            "options": [
+              "Heavy oak wood",
+              "Light fig wood coated with lacquer",
+              "Cardboard and plastic",
+              "Clay and stone"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Gỗ sung nhẹ phủ sơn ta chống thấm.",
+            "explanation": "• Dẫn chứng: \"The puppets are carved from light fig wood and coated with waterproof lacquer.\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Which of the following is NOT true about water puppetry according to the passage?",
+            "options": [
+              "Puppeteers stand in front of the audience in the pool.",
+              "Shows are accompanied by traditional live music.",
+              "The stage is a waist-deep pool of water.",
+              "Performances depict rural life and national legends."
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Nghệ nhân đứng sau rèm tre.",
+            "explanation": "• Câu A sai vì các nghệ nhân đứng ẩn nấp sau tấm rèm tre (stand behind a bamboo screen), chứ không đứng trước mặt khán giả.",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rearrange words to make a meaningful sentence:",
+            "words": [
+              "He",
+              "started",
+              "collecting",
+              "comic",
+              "books",
+              "three",
+              "years",
+              "ago."
+            ],
+            "correct_sentence": "He started collecting comic books three years ago.",
+            "instruction": "Sắp xếp các từ thành câu hoàn chỉnh:",
+            "hint": "💡 He started collecting comic books three years ago.",
+            "explanation": "• Cấu trúc: S + started + V-ing + time ago: Cậu ấy bắt đầu sưu tầm truyện tranh từ 3 năm trước.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rearrange words to make a meaningful sentence:",
+            "words": [
+              "We",
+              "should",
+              "eat",
+              "more",
+              "fresh",
+              "vegetables",
+              "to",
+              "stay",
+              "healthy."
+            ],
+            "correct_sentence": "We should eat more fresh vegetables to stay healthy.",
+            "instruction": "Sắp xếp các từ thành câu hoàn chỉnh:",
+            "hint": "💡 We should eat more fresh vegetables to stay healthy.",
+            "explanation": "• Cấu trúc: We should + V + to V: Chúng ta nên ăn nhiều rau tươi hơn để giữ sức khỏe tốt.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"She likes making pottery best.\"\n→ Her favourite _______.",
+            "options": [
+              "hobby is making pottery.",
+              "sport is making pottery.",
+              "pottery is making hobby.",
+              "hobby making pottery is."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 Her favourite hobby is making pottery.",
+            "explanation": "• like sth best = favourite hobby is sth: Sở thích yêu thích nhất của cô ấy là làm đồ gốm.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"Classical music is different from modern pop music.\"\n→ Classical music is not _______.",
+            "options": [
+              "the same as modern pop music.",
+              "different as modern pop music.",
+              "like from modern pop music.",
+              "similar as modern pop music."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 be different from = not the same as.",
+            "explanation": "• be different from = not the same as (khác biệt với ↔ không giống với).",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"It takes Lan thirty minutes to walk to school every morning.\"\n→ Lan spends _______.",
+            "options": [
+              "thirty minutes walking to school every morning.",
+              "thirty minutes to walk to school every morning.",
+              "thirty minutes walk to school every morning.",
+              "walking thirty minutes to school every morning."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 spend + time + V-ing.",
+            "explanation": "• Cấu trúc tương đương: It takes sb + time + to V ↔ S + spend(s) + time + V-ing.",
+            "tags": [
+              "writing"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 3,
+      "title": "Đề 03 - Đề Thi Học Kỳ 1 Tiếng Anh 7 (Ma trận Chuẩn Toàn diện Unit 1 - 6)",
+      "duration_minutes": 45,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. b<u>o</u>ttle  B. p<u>o</u>t  C. p<u>or</u>k  D. r<u>o</u>d",
+            "options": [
+              "bottle",
+              "pot",
+              "pork",
+              "rod"
+            ],
+            "correct_index": 2,
+            "instruction": "Chọn từ có phần gạch chân phát âm khác: (Unit 5)",
+            "hint": "💡 pork phát âm là /ɔː/.",
+            "explanation": "• pork phát âm là âm dài /ɔː/ (/pɔːk/).\n• bottle (/ˈbɒtl/), pot (/pɒt/), rod (/rɒd/) đều phát âm là âm ngắn /ɒ/.",
+            "tags": [
+              "unit-5",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. work<u>ed</u>  B. stopp<u>ed</u>  C. paint<u>ed</u>  D. book<u>ed</u>",
+            "options": [
+              "worked",
+              "stopped",
+              "painted",
+              "booked"
+            ],
+            "correct_index": 2,
+            "instruction": "Chọn từ có đuôi -ed phát âm khác: (Unit 3)",
+            "hint": "💡 Tận cùng bằng /t/ thì đuôi -ed đọc là /ɪd/.",
+            "explanation": "• painted có đuôi -ed phát âm là /ɪd/ (/ˈpeɪntɪd/) vì tận cùng là âm /t/.\n• worked (/wɜːkt/), stopped (/stɒpt/), booked (/bʊkt/) phát âm đuôi -ed là /t/.",
+            "tags": [
+              "unit-3",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. <u>ch</u>icken  B. mat<u>ch</u>  C. cat<u>ch</u>  D. <u>g</u>ym",
+            "options": [
+              "chicken",
+              "match",
+              "catch",
+              "gym"
+            ],
+            "correct_index": 3,
+            "instruction": "Chọn từ có phần gạch chân phát âm khác: (Unit 6)",
+            "hint": "💡 gym phát âm là /dʒ/.",
+            "explanation": "• gym phát âm phụ âm đầu là /dʒ/ (/dʒɪm/).\n• chicken (/ˈtʃɪkɪn/), match (/mætʃ/), catch (/kætʃ/) đều phát âm là âm /tʃ/.",
+            "tags": [
+              "unit-6",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose main stress is placed differently: A. begin  B. listen  C. open  D. happen",
+            "options": [
+              "begin",
+              "listen",
+              "open",
+              "happen"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn từ có trọng âm chính khác: (Unit 1)",
+            "hint": "💡 begin là động từ nhấn âm 2.",
+            "explanation": "• begin có trọng âm rơi vào âm tiết thứ 2 (/bɪˈɡɪn/).\n• listen (/ˈlɪsn/), open (/ˈəʊpən/), happen (/ˈhæpən/) đều nhấn âm 1.",
+            "tags": [
+              "unit-1",
+              "stress"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose main stress is placed differently: A. condition  B. volunteer  C. afternoon  D. pioneer",
+            "options": [
+              "condition",
+              "volunteer",
+              "afternoon",
+              "pioneer"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn từ có trọng âm chính khác: (Unit 2-3)",
+            "hint": "💡 condition nhấn âm 2, các từ còn lại nhấn âm 3.",
+            "explanation": "• condition có trọng âm rơi vào âm tiết thứ 2 (/kənˈdɪʃn/).\n• volunteer (/ˌvɒlənˈtɪə/), afternoon (/ˌɑːftəˈnuːn/), pioneer (/ˌpaɪəˈnɪə/) đều nhấn âm 3.",
+            "tags": [
+              "unit-2",
+              "stress"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Hoa adores flower ___ because it brings colors and sweet fragrance to her home.",
+            "options": [
+              "arranging",
+              "making",
+              "building",
+              "carving"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 1 - Hobbies)",
+            "hint": "💡 Cắm hoa: flower arranging.",
+            "explanation": "• Cụm từ cố định: flower arranging (nghệ thuật cắm hoa).",
+            "tags": [
+              "unit-1",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Mr. Bay usually ___ his family car on Saturday mornings before going on a trip.",
+            "options": [
+              "washes",
+              "wash",
+              "is washing",
+              "washed"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 1 - Grammar)",
+            "hint": "💡 washes.",
+            "explanation": "• Thì hiện tại đơn với trạng từ \"usually\", chủ ngữ số ít \"Mr. Bay\", động từ tận cùng -sh thêm -es: \"washes\".",
+            "tags": [
+              "unit-1",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "- \"What is the matter with you, Alex?\" - \"I have a bad ___ and a high fever.\"",
+            "options": [
+              "cough",
+              "eyedrops",
+              "suncream",
+              "habit"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 2 - Healthy Living)",
+            "hint": "💡 Bị ho nặng: bad cough.",
+            "explanation": "• have a bad cough: bị ho dữ dội (kèm sốt cao).",
+            "tags": [
+              "unit-2",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "You shouldn't sit too close to the computer screen, ___ your eyesight will get weaker.",
+            "options": [
+              "or",
+              "and",
+              "but",
+              "so"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 2 - Simple Sentences)",
+            "hint": "💡 Liên từ \"or\" mang nghĩa nếu không thì.",
+            "explanation": "• Cấu trúc cảnh báo: Đừng làm X, nếu không thì (or) hậu quả xấu sẽ xảy ra.",
+            "tags": [
+              "unit-2",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Last winter, our charity group ___ hundreds of warm jackets to poor children in Lao Cai.",
+            "options": [
+              "donated",
+              "donates",
+              "is donating",
+              "donate"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 3 - Community Service)",
+            "hint": "💡 Last winter dùng quá khứ đơn: donated.",
+            "explanation": "• Trạng ngữ \"Last winter\" chỉ thời gian quá khứ xác định → dùng thì Quá khứ đơn: \"donated\".",
+            "tags": [
+              "unit-3",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Planting more green trees along streets helps reduce air ___ and makes the town cleaner.",
+            "options": [
+              "pollution",
+              "pollute",
+              "polluted",
+              "polluting"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 3 - Community Service)",
+            "hint": "💡 Ô nhiễm không khí: air pollution.",
+            "explanation": "• Cụm danh từ: air pollution (sự ô nhiễm không khí).",
+            "tags": [
+              "unit-3",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The famous portrait painted by Picasso is as valuable ___ the masterpiece by Leonardo da Vinci.",
+            "options": [
+              "as",
+              "from",
+              "like",
+              "with"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 4 - Music and Arts)",
+            "hint": "💡 as + adj + as.",
+            "explanation": "• Cấu trúc so sánh bằng: as + adj + as: as valuable as.",
+            "tags": [
+              "unit-4",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Many valuable historical paintings and modern sculptures are on display at the city art ___.",
+            "options": [
+              "gallery",
+              "stadium",
+              "hospital",
+              "factory"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 4 - Music and Arts)",
+            "hint": "💡 Phòng triển lãm tranh: art gallery.",
+            "explanation": "• Nơi trưng bày các tác phẩm hội họa và điêu khắc là phòng triển lãm nghệ thuật: \"art gallery\".",
+            "tags": [
+              "unit-4",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "How ___ fresh beef do we need to prepare authentic Pho Bo for the whole family?",
+            "options": [
+              "much",
+              "many",
+              "long",
+              "often"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 5 - Food and Drink)",
+            "hint": "💡 How much + danh từ không đếm được.",
+            "explanation": "• \"beef\" (thịt bò) là danh từ không đếm được, từ để hỏi số lượng là \"How much\".",
+            "tags": [
+              "unit-5",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "A popular traditional Vietnamese dessert cooked with lotus seeds, sweet beans, and coconut milk is called sweet ___.",
+            "options": [
+              "soup",
+              "bread",
+              "pancake",
+              "sauce"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 5 - Food and Drink)",
+            "hint": "💡 Món chè: sweet soup.",
+            "explanation": "• Món chè truyền thống của Việt Nam được gọi là \"sweet soup\".",
+            "tags": [
+              "unit-5",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Chu Van An was one of the most respected ___ and scholars of the Imperial Academy.",
+            "options": [
+              "teachers",
+              "doctors",
+              "engineers",
+              "farmers"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 6 - A Visit to a School)",
+            "hint": "💡 Người thầy: teacher.",
+            "explanation": "• Chu Văn An là một trong những nhà giáo (teachers) mẫu mực nhất trong lịch sử Quốc Tử Giám.",
+            "tags": [
+              "unit-6",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The final royal examination at the capital was traditionally held ___ the third lunar month.",
+            "options": [
+              "in",
+              "on",
+              "at",
+              "for"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 6 - A Visit to a School)",
+            "hint": "💡 in + tháng.",
+            "explanation": "• Giới từ đi với tháng dùng \"in\": in the third lunar month.",
+            "tags": [
+              "unit-6",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "- Customer: \"Can you pass me the salt and black pepper, please?\" - Waiter: \"___\"",
+            "options": [
+              "Here you are.",
+              "No, thanks.",
+              "Yes, I can.",
+              "It is delicious."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn lời đáp phù hợp nhất trong giao tiếp:",
+            "hint": "💡 Đưa đồ cho ai: Here you are.",
+            "explanation": "• Lời đáp nhã nhặn khi đưa đồ cho ai đó: \"Here you are\" (Của quý khách đây ạ).",
+            "tags": [
+              "communication"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Look at the sign: \"NO PARKING IN FRONT OF THIS GATE\". What does it mean?",
+            "options": [
+              "You can park your car here overnight.",
+              "You must not park any vehicle in front of the gate.",
+              "Only motorbikes are allowed to park here.",
+              "The gate is permanently closed."
+            ],
+            "correct_index": 1,
+            "instruction": "Xem biển báo và chọn ý nghĩa đúng:",
+            "hint": "💡 No parking: Cấm đỗ xe.",
+            "explanation": "• Biển báo cấm đỗ xe trước cổng: \"You must not park any vehicle in front of the gate\".",
+            "tags": [
+              "signs"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Look at the notice in the computer lab: \"FOOD AND DRINKS ARE STRICTLY PROHIBITED\". What must students do?",
+            "options": [
+              "Students cannot bring or consume any food and drinks inside.",
+              "Students should eat quickly before using computers.",
+              "Free drinks are served inside.",
+              "Students must share snacks with others."
+            ],
+            "correct_index": 0,
+            "instruction": "Xem thông báo và chọn ý nghĩa đúng:",
+            "hint": "💡 Nghiêm cấm ăn uống.",
+            "explanation": "• \"PROHIBITED\" nghĩa là bị nghiêm cấm ăn uống trong phòng máy: \"Students cannot bring or consume food and drinks\".",
+            "tags": [
+              "notices"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "She showed great ___ in designing and making unique handmade dollhouses. (create)",
+            "correct_answer": "creativity",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Danh từ sự sáng tạo: creativity.",
+            "explanation": "• Đứng sau tính từ \"great\" cần danh từ: creativity (óc sáng tạo, tính sáng tạo).\n• Word family: create (v) → creative (adj) → creativity (n).",
+            "tags": [
+              "unit-1",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Eating too much fast food and sugary snacks can lead to rapid ___ gain. (weigh)",
+            "correct_answer": "weight",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Cụm từ: weight gain (sự tăng cân).",
+            "explanation": "• Cụm danh từ ghép: weight gain (sự tăng cân nhanh chóng).\n• Word family: weigh (v) → weight (n: cân nặng) → overweight (adj).",
+            "tags": [
+              "unit-2",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The local volunteers provided ___ assistance to flooded villages last autumn. (help)",
+            "correct_answer": "helpful",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Tính từ mang lại sự giúp đỡ: helpful.",
+            "explanation": "• Đứng trước danh từ \"assistance\" cần tính từ: helpful (hữu ích, đắc lực).\n• Word family: help (v/n) → helpful (adj) → helpless (adj).",
+            "tags": [
+              "unit-3",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "At the end of the concert, the entire audience applauded the talented ___. (perform)",
+            "correct_answer": "performers",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Người biểu diễn (số nhiều): performers.",
+            "explanation": "• Đứng sau tính từ \"talented\" cần danh từ số nhiều chỉ người: performers (những người biểu diễn, nghệ sĩ).\n• Word family: perform (v) → performance (n) → performer / performers (n).",
+            "tags": [
+              "unit-4",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Consuming too much salt has a ___ effect on your heart and kidneys. (harm)",
+            "correct_answer": "harmful",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Cụm từ: harmful effect (tác động có hại).",
+            "explanation": "• Đứng trước danh từ \"effect\" cần tính từ: harmful (có hại).\n• Word family: harm (n/v) → harmful (adj: có hại) → harmless (adj: vô hại).",
+            "tags": [
+              "unit-5",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Pho is considered one of the most iconic dishes in Vietnamese (1) ___. It is loved by locals and international food lovers alike.\"",
+            "options": [
+              "cuisine",
+              "hobby",
+              "painting",
+              "subject"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (1):",
+            "hint": "💡 Ẩm thực: cuisine.",
+            "explanation": "• Vietnamese cuisine: nền ẩm thực Việt Nam.",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"The main ingredients of Pho consist (2) ___ flat rice noodles, slices of tender beef or chicken, and fresh herbs.\"",
+            "options": [
+              "of",
+              "with",
+              "in",
+              "on"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (2):",
+            "hint": "💡 consist of.",
+            "explanation": "• Cụm từ cố định: consist of (bao gồm các thành phần gì).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"The secret to a mouth-watering bowl of Pho lies in its rich broth, which is (3) ___ with bones and spices for many hours.\"",
+            "options": [
+              "stewed",
+              "fried",
+              "grilled",
+              "baked"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (3):",
+            "hint": "💡 Ninh/hầm nước dùng: stewed.",
+            "explanation": "• stewed with bones: được ninh, hầm kĩ với xương trong nhiều giờ.",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"People usually enjoy Pho for breakfast, but it can also be eaten for lunch or dinner (4) ___ any time of the year.\"",
+            "options": [
+              "at",
+              "on",
+              "in",
+              "by"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (4):",
+            "hint": "💡 at any time.",
+            "explanation": "• at any time of the year: vào bất kỳ thời điểm nào trong năm.",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"A bowl of piping hot Pho served with fresh lime and chili is both delicious and (5) ___.\"",
+            "options": [
+              "nutritious",
+              "harmful",
+              "unfit",
+              "lazy"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (5):",
+            "hint": "💡 Bổ dưỡng: nutritious.",
+            "explanation": "• Song hành với \"delicious\" (thơm ngon) là tính từ mang nghĩa tích cực: nutritious (giàu chất dinh dưỡng).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage:\n\"Chu Van An (1292 - 1370) is considered one of the most revered educators in the history of Vietnamese education. He was known for his vast erudition, unquestionable integrity, and deep dedication to teaching.\nDuring the Tran Dynasty, King Tran Minh Tong invited Chu Van An to Ha Noi to serve as the headmaster of Quoc Tu Giam (the Imperial Academy). There, he taught crown princes and guided many brilliant scholars who later served the country as ministers and high-ranking mandarins. Chu Van An believed that true education should develop both talent and moral virtue. When the royal court became corrupted under the next emperor, he bravely submitted a petition demanding the execution of seven corrupt officials. When his petition was refused, he resigned and retreated to Mount Phuong Hoang to continue teaching village children until the end of his life.\nToday, Chu Van An’s statue is placed inside the Temple of Literature, and many prestigious schools across Viet Nam are named in his honor.\"\n\nWho was Chu Van An according to the passage?",
+            "options": [
+              "A famous royal doctor",
+              "One of the most revered educators in Vietnamese history",
+              "A talented painter of the Tran Dynasty",
+              "A military general who defeated invaders"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Một trong những nhà giáo dục mẫu mực nhất.",
+            "explanation": "• Dẫn chứng câu đầu: \"...one of the most revered educators in the history of Vietnamese education.\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "What position did King Tran Minh Tong appoint Chu Van An to hold?",
+            "options": [
+              "Prime Minister of the royal court",
+              "The headmaster of Quoc Tu Giam (the Imperial Academy)",
+              "Royal artist of the court",
+              "The director of the National Museum"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Hiệu trưởng Quốc Tử Giám.",
+            "explanation": "• Dẫn chứng: \"...serve as the headmaster of Quoc Tu Giam (the Imperial Academy).\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "What did Chu Van An believe about true education?",
+            "options": [
+              "Education should only focus on martial arts.",
+              "True education should develop both talent and moral virtue.",
+              "Students only need to learn foreign languages.",
+              "Only sons of kings should receive education."
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Phát triển cả tài năng lẫn đạo đức.",
+            "explanation": "• Dẫn chứng: \"Chu Van An believed that true education should develop both talent and moral virtue.\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Why did Chu Van An resign and move to Mount Phuong Hoang?",
+            "options": [
+              "Because he wanted to become a wealthy merchant.",
+              "Because his petition against seven corrupt officials was rejected.",
+              "Because Quoc Tu Giam was closed by the king.",
+              "Because he wanted to write music."
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Do bản sớ chém 7 gian thần không được chấp thuận.",
+            "explanation": "• Dẫn chứng: \"When his petition was refused, he resigned and retreated to Mount Phuong Hoang...\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "How do Vietnamese people honor Chu Van An today?",
+            "options": [
+              "His statue is placed in the Temple of Literature and many schools are named after him.",
+              "They only study his poetry.",
+              "They organize a national sports contest in his name.",
+              "They visit his house every day."
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Tượng đặt tại Văn Miếu và nhiều trường mang tên thầy.",
+            "explanation": "• Dẫn chứng: \"...Chu Van An's statue is placed inside the Temple of Literature, and many prestigious schools across Viet Nam are named in his honor.\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rearrange words to make a meaningful sentence:",
+            "words": [
+              "She",
+              "adores",
+              "making",
+              "models",
+              "in",
+              "her",
+              "free",
+              "time."
+            ],
+            "correct_sentence": "She adores making models in her free time.",
+            "instruction": "Sắp xếp các từ thành câu hoàn chỉnh:",
+            "hint": "💡 She adores making models in her free time.",
+            "explanation": "• Cấu trúc: S + adore + V-ing: Cô ấy say mê làm mô hình vào thời gian rảnh rỗi.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rearrange words to make a meaningful sentence:",
+            "words": [
+              "The",
+              "Imperial",
+              "Academy",
+              "was",
+              "the",
+              "first",
+              "university",
+              "in",
+              "Viet Nam."
+            ],
+            "correct_sentence": "The Imperial Academy was the first university in Viet Nam.",
+            "instruction": "Sắp xếp các từ thành câu hoàn chỉnh:",
+            "hint": "💡 The Imperial Academy was the first university in Viet Nam.",
+            "explanation": "• Cấu trúc: Quốc Tử Giám là trường đại học đầu tiên ở Việt Nam.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"He started playing the guitar five years ago.\"\n→ He has _______.",
+            "options": [
+              "played the guitar for five years.",
+              "started to play the guitar for five years.",
+              "played the guitar since five years.",
+              "been playing the guitar five years ago."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 has played for five years.",
+            "explanation": "• Cấu trúc chuyển đổi thì: S + started + V-ing + time ago ↔ S + have/has + V3/ed + for + time.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"This new oil painting is not as expensive as the antique one.\"\n→ The antique oil painting is _______.",
+            "options": [
+              "more expensive than this new one.",
+              "less expensive than this new one.",
+              "as cheap as this new one.",
+              "the most expensive than this one."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 So sánh hơn: more expensive than.",
+            "explanation": "• Bức tranh mới không đắt bằng bức tranh cổ → Bức tranh cổ đắt hơn bức tranh mới (more expensive than this new one).",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"Although he was exhausted, he finished all his school projects.\"\n→ He was exhausted, _______.",
+            "options": [
+              "but he finished all his school projects.",
+              "so he finished all his school projects.",
+              "because he finished all his school projects.",
+              "and he finished all his school projects."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 Although ↔ but.",
+            "explanation": "• Cấu trúc tương đương: Although Clause 1, Clause 2 ↔ Clause 1, but Clause 2.",
+            "tags": [
+              "writing"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 4,
+      "title": "Đề 04 - Đề Thi Học Kỳ 1 Tiếng Anh 7 (Ma trận Chuẩn Toàn diện Unit 1 - 6)",
+      "duration_minutes": 45,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. <u>ph</u>one  B. lau<u>gh</u>  C. lea<u>f</u>  D. mo<u>v</u>e",
+            "options": [
+              "phone",
+              "laugh",
+              "leaf",
+              "move"
+            ],
+            "correct_index": 3,
+            "instruction": "Chọn từ có phần gạch chân phát âm khác: (Unit 2)",
+            "hint": "💡 move phát âm là /v/.",
+            "explanation": "• move phát âm là âm hữu thanh /v/ (/muːv/).\n• phone (/fəʊn/), laugh (/lɑːf/), leaf (/liːf/) đều phát âm là âm vô thanh /f/.",
+            "tags": [
+              "unit-2",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. invit<u>ed</u>  B. wait<u>ed</u>  C. collect<u>ed</u>  D. ask<u>ed</u>",
+            "options": [
+              "invited",
+              "waited",
+              "collected",
+              "asked"
+            ],
+            "correct_index": 3,
+            "instruction": "Chọn từ có đuôi -ed phát âm khác: (Unit 3)",
+            "hint": "💡 Sau phụ âm vô thanh /k/, đuôi -ed đọc là /t/.",
+            "explanation": "• asked có đuôi -ed phát âm là /t/ (/ɑːskt/) vì kết thúc bằng âm /k/.\n• invited (/ɪnˈvaɪtɪd/), waited (/ˈweɪtɪd/), collected (/kəˈlektɪd/) tận cùng bằng /t/ nên phát âm là /ɪd/.",
+            "tags": [
+              "unit-3",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. t<u>e</u>rm  B. t<u>u</u>rn  C. b<u>u</u>rn  D. op<u>e</u>n",
+            "options": [
+              "term",
+              "turn",
+              "burn",
+              "open"
+            ],
+            "correct_index": 3,
+            "instruction": "Chọn từ có phần gạch chân phát âm khác: (Unit 1)",
+            "hint": "💡 open phát âm là /ə/.",
+            "explanation": "• open có âm tiết thứ hai phát âm là âm ngắn /ə/ (/ˈəʊpən/).\n• term (/tɜːm/), turn (/tɜːn/), burn (/bɜːn/) đều phát âm là âm dài /ɜː/.",
+            "tags": [
+              "unit-1",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose main stress is placed differently: A. decide  B. manage  C. enter  D. follow",
+            "options": [
+              "decide",
+              "manage",
+              "enter",
+              "follow"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn từ có trọng âm chính khác: (Unit 3)",
+            "hint": "💡 decide là động từ 2 âm tiết nhấn âm 2.",
+            "explanation": "• decide có trọng âm rơi vào âm tiết thứ 2 (/dɪˈsaɪd/).\n• manage (/ˈmænɪdʒ/), enter (/ˈentə/), follow (/ˈfɒləʊ/) đều nhấn âm 1.",
+            "tags": [
+              "unit-3",
+              "stress"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose main stress is placed differently: A. difference  B. tradition  C. attractive  D. important",
+            "options": [
+              "difference",
+              "tradition",
+              "attractive",
+              "important"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn từ có trọng âm chính khác: (Unit 4-6)",
+            "hint": "💡 difference nhấn âm 1, các từ còn lại nhấn âm 2.",
+            "explanation": "• difference có trọng âm rơi vào âm tiết thứ nhất (/ˈdɪfrəns/).\n• tradition (/trəˈdɪʃn/), attractive (/əˈtræktɪv/), important (/ɪmˈpɔːtnt/) đều nhấn âm 2.",
+            "tags": [
+              "unit-4",
+              "stress"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "My brother doesn't mind ___ his bicycle to school every day even when it rains.",
+            "options": [
+              "riding",
+              "ride",
+              "to ride",
+              "rode"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 1 - Hobbies)",
+            "hint": "💡 mind + V-ing.",
+            "explanation": "• Cấu trúc: don't mind + V-ing (không ngại làm gì): doesn't mind riding.",
+            "tags": [
+              "unit-1",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "I usually ___ up at 6 a.m. to do morning exercises with my grandfather.",
+            "options": [
+              "get",
+              "gets",
+              "got",
+              "getting"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 1 - Grammar)",
+            "hint": "💡 I get up.",
+            "explanation": "• Thì hiện tại đơn với chủ ngữ \"I\" và trạng từ \"usually\", động từ giữ nguyên thể: \"get\".",
+            "tags": [
+              "unit-1",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "When you have a high temperature, you should drink plenty of warm water and ___ rest.",
+            "options": [
+              "take",
+              "do",
+              "make",
+              "give"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 2 - Healthy Living)",
+            "hint": "💡 take rest: nghỉ ngơi.",
+            "explanation": "• Cụm từ cố định: take rest / get rest (nghỉ ngơi tĩnh dưỡng).",
+            "tags": [
+              "unit-2",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Fast food is cheap and convenient, ___ eating it regularly is very bad for your heart.",
+            "options": [
+              "but",
+              "and",
+              "or",
+              "so"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 2 - Simple Sentences)",
+            "hint": "💡 Liên từ \"but\" diễn tả sự tương phản.",
+            "explanation": "• Mối quan hệ tương phản đối lập: tiện lợi NHƯNG ăn thường xuyên thì có hại cho tim (but).",
+            "tags": [
+              "unit-2",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Our school regularly organizes donation campaigns to support ___ children and orphans.",
+            "options": [
+              "homeless",
+              "careful",
+              "healthy",
+              "wealthy"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 3 - Community Service)",
+            "hint": "💡 Trẻ em vô gia cư: homeless children.",
+            "explanation": "• homeless children: trẻ em vô gia cư, không nơi nương tựa.",
+            "tags": [
+              "unit-3",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Did your school youth club ___ the elderly residents at the local nursing home last Saturday?",
+            "options": [
+              "visit",
+              "visited",
+              "visiting",
+              "visits"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 3 - Community Service)",
+            "hint": "💡 Did + S + V nguyên mẫu?",
+            "explanation": "• Trong câu hỏi thì Quá khứ đơn với trợ động từ \"Did\", động từ chính ở dạng nguyên thể không \"to\": \"visit\".",
+            "tags": [
+              "unit-3",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The sound of the modern electric guitar is very different ___ the classical wooden guitar.",
+            "options": [
+              "from",
+              "as",
+              "like",
+              "with"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 4 - Music and Arts)",
+            "hint": "💡 be different from.",
+            "explanation": "• Cấu trúc so sánh khác nhau: be different from (khác biệt với).",
+            "tags": [
+              "unit-4",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "In traditional Cheo opera, actors and musicians perform on a simple woven bamboo ___.",
+            "options": [
+              "mat",
+              "stage",
+              "table",
+              "carpet"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 4 - Music and Arts)",
+            "hint": "💡 Chiếu cói/tre: bamboo mat.",
+            "explanation": "• Chiếu chèo truyền thống: \"bamboo mat\" (chiếu tre/chiếu cói).",
+            "tags": [
+              "unit-4",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "How ___ fresh eggs do you need to bake this delicious birthday sponge cake?",
+            "options": [
+              "many",
+              "much",
+              "often",
+              "far"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 5 - Food and Drink)",
+            "hint": "💡 How many + danh từ đếm được số nhiều.",
+            "explanation": "• \"eggs\" là danh từ đếm được số nhiều, từ để hỏi số lượng là \"How many\".",
+            "tags": [
+              "unit-5",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Turmeric powder is commonly used to give an attractive yellow color and aroma to Vietnamese ___.",
+            "options": [
+              "dishes",
+              "drinks",
+              "sweets",
+              "fruits"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 5 - Food and Drink)",
+            "hint": "💡 Món ăn: dishes.",
+            "explanation": "• Bột nghệ (turmeric powder) tạo màu vàng và hương thơm đặc trưng cho các món ăn (dishes).",
+            "tags": [
+              "unit-5",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The 82 Doctors’ Stone Tablets at Van Mieu were officially recognized by UNESCO ___ World Heritage.",
+            "options": [
+              "as",
+              "like",
+              "for",
+              "with"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 6 - A Visit to a School)",
+            "hint": "💡 recognized as: được công nhận là.",
+            "explanation": "• Cấu trúc: be recognized as (được công nhận như là / là Di sản thế giới).",
+            "tags": [
+              "unit-6",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Our school has a spacious sports ground ___ the back of the main classroom building.",
+            "options": [
+              "at",
+              "on",
+              "in",
+              "under"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 6 - School Facilities)",
+            "hint": "💡 at the back of.",
+            "explanation": "• Cụm từ chỉ vị trí: at the back of (ở phía sau của khu nhà).",
+            "tags": [
+              "unit-6",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "- Customer: \"Can I please have another small bowl of beef noodle soup?\" - Server: \"___\"",
+            "options": [
+              "Certainly, here you are.",
+              "No, you cannot.",
+              "I don’t know.",
+              "It is very cheap."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn lời đáp phù hợp nhất trong giao tiếp:",
+            "hint": "💡 Certainly, here you are.",
+            "explanation": "• Lời đáp nhã nhặn, lịch sự của nhân viên phục vụ: \"Certainly, here you are\" (Dạ chắc chắn rồi, của quý khách đây ạ).",
+            "tags": [
+              "communication"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Look at the sign near a lake: \"DANGER - DEEP WATER - NO SWIMMING\". What is the warning?",
+            "options": [
+              "Swimming is free of charge here.",
+              "You must not swim here because the water is deep and dangerous.",
+              "You can only swim with a friend.",
+              "The lake is suitable for young children."
+            ],
+            "correct_index": 1,
+            "instruction": "Xem biển báo và chọn ý nghĩa đúng:",
+            "hint": "💡 Cấm bơi vì nước sâu nguy hiểm.",
+            "explanation": "• Cảnh báo nước sâu nguy hiểm, cấm bơi lội: \"You must not swim here because the water is deep and dangerous\".",
+            "tags": [
+              "signs"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Look at the notice outside a room: \"EXAMINATION IN PROGRESS - DO NOT ENTER\". What does it mean?",
+            "options": [
+              "Students are resting inside.",
+              "You must not enter because students are taking tests inside.",
+              "You should enter quickly to take your seat.",
+              "The exam has been canceled."
+            ],
+            "correct_index": 1,
+            "instruction": "Xem thông báo và chọn ý nghĩa đúng:",
+            "hint": "💡 Đang thi, không được vào.",
+            "explanation": "• Đang diễn ra kỳ thi, cấm vào phòng: \"You must not enter because students are taking tests inside\".",
+            "tags": [
+              "notices"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Playing chess requires great patience and logical ___ skills. (think)",
+            "correct_answer": "thinking",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Tư duy logic: logical thinking.",
+            "explanation": "• Cụm từ: logical thinking skills (kỹ năng tư duy logic).\n• Word family: think (v) → thought (n) → thinking (n/adj: tư duy).",
+            "tags": [
+              "unit-1",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "You should eat more green vegetables and avoid greasy, ___ foods. (fat)",
+            "correct_answer": "fatty",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Tính từ nhiều mỡ béo: fatty.",
+            "explanation": "• Đứng trước danh từ \"foods\", song hành với tính từ \"greasy\" cần tính từ: fatty foods (thực phẩm nhiều mỡ béo).\n• Word family: fat (n/adj) → fatty (adj: nhiều chất béo, ngấy mỡ).",
+            "tags": [
+              "unit-2",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "He felt very ___ when he was able to help poor villagers build clean water wells. (use)",
+            "correct_answer": "useful",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Cảm thấy có ích: useful.",
+            "explanation": "• feel + adj: useful (cảm thấy mình sống có ích, có giá trị).\n• Word family: use (v/n) → useful (adj: hữu ích) → useless (adj: vô dụng).",
+            "tags": [
+              "unit-3",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Van Cao is one of the most celebrated musical ___ in modern Vietnamese history. (compose)",
+            "correct_answer": "composers",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Nhà soạn nhạc (số nhiều): composers.",
+            "explanation": "• \"one of the most celebrated\" cần danh từ số nhiều chỉ người: composers (những nhạc sĩ, nhà soạn nhạc).\n• Word family: compose (v) → composition (n) → composer / composers (n: nhạc sĩ).",
+            "tags": [
+              "unit-4",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Quoc Tu Giam is an important ___ site that reflects the educational tradition of Viet Nam. (history)",
+            "correct_answer": "historic",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Di tích lịch sử trọng đại: historic site.",
+            "explanation": "• Đứng trước danh từ \"site\" cần tính từ: historic site (di tích có ý nghĩa lịch sử trọng đại).\n• Word family: history (n) → historic (adj: mang tính lịch sử quan trọng) → historical (adj: thuộc về lịch sử).",
+            "tags": [
+              "unit-6",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Sleep plays an extremely important role in maintaining our mental and physical (1) ___. When you sleep, your brain reorganizes memories and heals tired muscles.\"",
+            "options": [
+              "health",
+              "illness",
+              "cough",
+              "sunburn"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (1):",
+            "hint": "💡 mental and physical health.",
+            "explanation": "• mental and physical health: sức khỏe tinh thần và thể chất.",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Most teenagers need about eight to ten hours of quality sleep each (2) ___ to perform at their best at school.\"",
+            "options": [
+              "night",
+              "afternoon",
+              "weekend",
+              "morning"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (2):",
+            "hint": "💡 each night.",
+            "explanation": "• Giấc ngủ ban đêm: sleep each night (mỗi đêm).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"If you don’t get enough sleep, you may feel tired, irritable, and unable to (3) ___ on your lessons.\"",
+            "options": [
+              "concentrate",
+              "listen",
+              "look",
+              "care"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (3):",
+            "hint": "💡 concentrate on sth.",
+            "explanation": "• Cụm từ: concentrate on lessons (tập trung vào bài học).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"To sleep better, you should avoid looking at mobile screens or playing video games before (4) ___ to bed.\"",
+            "options": [
+              "going",
+              "go",
+              "to go",
+              "went"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (4):",
+            "hint": "💡 before + V-ing.",
+            "explanation": "• Sau giới từ \"before\" động từ chia ở dạng V-ing: going to bed.",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"A dark, quiet bedroom and a regular bedtime routine will help you fall asleep (5) ___.\"",
+            "options": [
+              "easily",
+              "easy",
+              "easier",
+              "easiest"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (5):",
+            "hint": "💡 Trạng từ bổ nghĩa cho động từ: easily.",
+            "explanation": "• Bổ nghĩa cho động từ \"fall asleep\" cần một trạng từ chỉ thể cách: easily (một cách dễ dàng).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage:\n\"Quan Ho folk singing is a traditional Vietnamese art form that originated in Bac Ninh and Bac Giang provinces in northern Viet Nam. Recognized by UNESCO as an Intangible Cultural Heritage of Humanity in 2009, Quan Ho singing is famous for its lyrical melodies and poetic lyrics.\nTraditionally, Quan Ho is performed as an alternating musical dialogue between pairs of male singers (lien anh) and female singers (lien chi). The singers wear elegant traditional costumes: men wear long black silk tunics and turbans while carrying umbrellas, and women wear multi-layered colorful silk dresses (ao tu than) and flat palm hats (non quai thao). The songs express love, friendship, longing, and hospitality. Unlike modern performances accompanied by modern instruments, traditional Quan Ho was performed without any musical accompaniment, relying purely on the natural resonance and vocal harmony of the singers.\"\n\nWhere did Quan Ho folk singing originate?",
+            "options": [
+              "In Bac Ninh and Bac Giang provinces",
+              "In Hue and Da Nang",
+              "In the Mekong Delta",
+              "In Central Highlands"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Khởi nguồn tại Bắc Ninh và Bắc Giang.",
+            "explanation": "• Dẫn chứng câu đầu: \"...originated in Bac Ninh and Bac Giang provinces in northern Viet Nam.\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "When was Quan Ho recognized by UNESCO as an Intangible Cultural Heritage of Humanity?",
+            "options": [
+              "In 2009",
+              "In 2000",
+              "In 1999",
+              "In 2015"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Năm 2009.",
+            "explanation": "• Dẫn chứng: \"Recognized by UNESCO as an Intangible Cultural Heritage of Humanity in 2009...\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "What do female Quan Ho singers traditionally wear during performances?",
+            "options": [
+              "Jeans and T-shirts",
+              "Multi-layered colorful dresses (ao tu than) and flat palm hats",
+              "Black robes and turbans",
+              "Western gowns"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Áo tứ thân và nón quai thao.",
+            "explanation": "• Dẫn chứng: \"...women wear multi-layered colorful silk dresses (ao tu than) and flat palm hats (non quai thao).\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "How was traditional Quan Ho singing performed regarding musical instruments?",
+            "options": [
+              "With a full symphony orchestra",
+              "Without any musical accompaniment, relying on natural voices",
+              "With modern electric guitars",
+              "With loud electronic drums"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Hát mộc không nhạc đệm.",
+            "explanation": "• Dẫn chứng: \"...traditional Quan Ho was performed without any musical accompaniment, relying purely on the natural resonance and vocal harmony...\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "What is the main theme expressed in Quan Ho songs?",
+            "options": [
+              "War and military victories",
+              "Love, friendship, longing, and hospitality",
+              "Modern technology and science",
+              "Sports competitions"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Tình yêu, tình bạn, nỗi nhớ và lòng hiếu khách.",
+            "explanation": "• Dẫn chứng: \"The songs express love, friendship, longing, and hospitality.\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rearrange words to make a meaningful sentence:",
+            "words": [
+              "He",
+              "dislikes",
+              "eating",
+              "fast",
+              "food",
+              "and",
+              "drinking",
+              "soda."
+            ],
+            "correct_sentence": "He dislikes eating fast food and drinking soda.",
+            "instruction": "Sắp xếp các từ thành câu hoàn chỉnh:",
+            "hint": "💡 He dislikes eating fast food and drinking soda.",
+            "explanation": "• Cấu trúc: S + dislike + V-ing: Cậu ấy không thích ăn đồ ăn nhanh và uống nước ngọt.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rearrange words to make a meaningful sentence:",
+            "words": [
+              "We",
+              "donated",
+              "books",
+              "to",
+              "children",
+              "in",
+              "mountainous",
+              "areas",
+              "yesterday."
+            ],
+            "correct_sentence": "We donated books to children in mountainous areas yesterday.",
+            "instruction": "Sắp xếp các từ thành câu hoàn chỉnh:",
+            "hint": "💡 We donated books to children in mountainous areas yesterday.",
+            "explanation": "• Cấu trúc: S + donated + sth + to sb: Chúng tôi đã quyên góp sách cho trẻ em vùng cao hôm qua.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"She doesn’t like cooking meals.\"\n→ She finds _______.",
+            "options": [
+              "cooking meals boring.",
+              "cooking meals is boring.",
+              "that cooking meals bored.",
+              "to cook meals boring."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 S + find + V-ing + Adj.",
+            "explanation": "• Cấu trúc: S + find + V-ing + Adj (không dùng \"is\").",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"The tickets for the rock concert are more expensive than the tickets for the art show.\"\n→ The tickets for the art show are _______.",
+            "options": [
+              "not as expensive as the tickets for the rock concert.",
+              "more expensive than the tickets for the rock concert.",
+              "as expensive than the tickets for the rock concert.",
+              "the most expensive as the tickets for the rock concert."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 So sánh hơn ↔ so sánh không bằng (not as ... as).",
+            "explanation": "• Vé ca nhạc rock đắt hơn vé triển lãm nghệ thuật → Vé triển lãm nghệ thuật không đắt bằng vé ca nhạc rock (not as expensive as).",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"He was sick, so he couldn’t join the class camping trip.\"\n→ Because _______.",
+            "options": [
+              "he was sick, he couldn’t join the class camping trip.",
+              "he was sick, so he couldn’t join the class camping trip.",
+              "he couldn’t join the trip, he was sick.",
+              "he was sick because he couldn’t join the trip."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 Because S+V, S+V.",
+            "explanation": "• Cấu trúc: Clause 1, so Clause 2 ↔ Because Clause 1, Clause 2 (lưu ý không dùng \"so\" sau mệnh đề \"Because\").",
+            "tags": [
+              "writing"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 5,
+      "title": "Đề 05 - Đề Thi Học Kỳ 1 Tiếng Anh 7 (Ma trận Chuẩn Toàn diện Unit 1 - 6)",
+      "duration_minutes": 45,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. l<u>ea</u>rn  B. <u>ea</u>rth  C. <u>ea</u>rly  D. teach<u>e</u>r",
+            "options": [
+              "learn",
+              "earth",
+              "early",
+              "teacher"
+            ],
+            "correct_index": 3,
+            "instruction": "Chọn từ có phần gạch chân phát âm khác: (Unit 1)",
+            "hint": "💡 teacher phát âm là /ə/.",
+            "explanation": "• teacher có đuôi -er phát âm là âm ngắn /ə/ (/ˈtiːtʃə/).\n• learn (/lɜːn/), earth (/ɜːθ/), early (/ˈɜːli/) đều phát âm là âm dài /ɜː/.",
+            "tags": [
+              "unit-1",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. plant<u>ed</u>  B. need<u>ed</u>  C. decid<u>ed</u>  D. watch<u>ed</u>",
+            "options": [
+              "planted",
+              "needed",
+              "decided",
+              "watched"
+            ],
+            "correct_index": 3,
+            "instruction": "Chọn từ có đuôi -ed phát âm khác: (Unit 3)",
+            "hint": "💡 Quy tắc đuôi -ed: sau /tʃ/ đọc là /t/.",
+            "explanation": "• watched có đuôi -ed phát âm là /t/ (/wɒtʃt/) sau âm vô thanh /tʃ/.\n• planted (/ˈplɑːntɪd/), needed (/ˈniːdɪd/), decided (/dɪˈsaɪdɪd/) có đuôi -ed phát âm là /ɪd/ sau /t/ và /d/.",
+            "tags": [
+              "unit-3",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose underlined part is pronounced differently: A. sandwi<u>ch</u>  B. bea<u>ch</u>  C. <u>ch</u>ocolate  D. bri<u>dge</u>",
+            "options": [
+              "sandwich",
+              "beach",
+              "chocolate",
+              "bridge"
+            ],
+            "correct_index": 3,
+            "instruction": "Chọn từ có phần gạch chân phát âm khác: (Unit 6)",
+            "hint": "💡 bridge phát âm là /dʒ/.",
+            "explanation": "• bridge có nhóm đuôi -dge phát âm là /dʒ/ (/brɪdʒ/).\n• sandwich (/ˈsænwɪtʃ/), beach (/biːtʃ/), chocolate (/ˈtʃɒklət/) đều phát âm là âm /tʃ/.",
+            "tags": [
+              "unit-6",
+              "phonetics"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose main stress is placed differently: A. arrive  B. timetable  C. drawing  D. basketball",
+            "options": [
+              "arrive",
+              "timetable",
+              "drawing",
+              "basketball"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn từ có trọng âm chính khác: (Unit 1)",
+            "hint": "💡 arrive là động từ nhấn âm 2.",
+            "explanation": "• arrive có trọng âm rơi vào âm tiết thứ 2 (/əˈraɪv/).\n• timetable (/ˈtaɪmteɪbl/), drawing (/ˈdrɔːɪŋ/), basketball (/ˈbɑːskɪtbɔːl/) đều nhấn âm 1.",
+            "tags": [
+              "unit-1",
+              "stress"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Choose the word whose main stress is placed differently: A. musician  B. energy  C. history  D. library",
+            "options": [
+              "musician",
+              "energy",
+              "history",
+              "library"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn từ có trọng âm chính khác: (Unit 4-6)",
+            "hint": "💡 musician nhấn âm 2, các từ còn lại nhấn âm 1.",
+            "explanation": "• musician có đuôi -ian làm trọng âm rơi vào âm 2 trước nó (/mjuˈzɪʃn/).\n• energy (/ˈenədʒi/), history (/ˈhɪstri/), library (/ˈlaɪbrəri/) đều nhấn âm 1.",
+            "tags": [
+              "unit-4",
+              "stress"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "My older sister is very keen ___ reading classic literature before going to sleep.",
+            "options": [
+              "on",
+              "in",
+              "at",
+              "with"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 1 - Hobbies)",
+            "hint": "💡 be keen on.",
+            "explanation": "• Cấu trúc: be keen on + V-ing (hứng thú, say mê điều gì).",
+            "tags": [
+              "unit-1",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "How many hours a week does she ___ doing volunteer work for the local community?",
+            "options": [
+              "spend",
+              "take",
+              "make",
+              "give"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 1 - Grammar)",
+            "hint": "💡 spend time V-ing.",
+            "explanation": "• Cấu trúc: spend + time + V-ing: spend doing volunteer work.",
+            "tags": [
+              "unit-1",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Practicing yoga regularly helps you keep fit and ___ mental stress effectively.",
+            "options": [
+              "reduce",
+              "increase",
+              "affect",
+              "develop"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 2 - Healthy Living)",
+            "hint": "💡 reduce stress.",
+            "explanation": "• Cụm từ: reduce stress (giảm bớt căng thẳng).",
+            "tags": [
+              "unit-2",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Wear a thick warm coat and a woolen scarf, ___ you will easily catch a bad cold in this chilly weather.",
+            "options": [
+              "or",
+              "and",
+              "so",
+              "but"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 2 - Simple Sentences)",
+            "hint": "💡 Liên từ \"or\" chỉ hậu quả tiêu cực nếu không làm.",
+            "explanation": "• Cấu trúc mệnh lệnh cảnh báo: Hãy mặc áo ấm, nếu không thì (or) bạn sẽ bị cảm lạnh.",
+            "tags": [
+              "unit-2",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Last month, our school charity group ___ warm jackets and notebooks to poor students in Ha Giang.",
+            "options": [
+              "gave",
+              "gives",
+              "is giving",
+              "will give"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 3 - Community Service)",
+            "hint": "💡 Quá khứ đơn: gave.",
+            "explanation": "• \"Last month\" (tháng trước) là mốc thời gian quá khứ → dùng thì Quá khứ đơn: \"gave\" (quá khứ của give).",
+            "tags": [
+              "unit-3",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Our charity club organizes fundraising events to support ___ who have no families or loving homes.",
+            "options": [
+              "orphans",
+              "musicians",
+              "surgeons",
+              "engineers"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 3 - Community Service)",
+            "hint": "💡 Trẻ mồ côi: orphans.",
+            "explanation": "• orphans: trẻ em mồ côi không nơi nương tựa.",
+            "tags": [
+              "unit-3",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The modern contemporary art gallery is not ___ far from my house as the national history museum.",
+            "options": [
+              "as",
+              "from",
+              "like",
+              "than"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 4 - Music and Arts)",
+            "hint": "💡 not as ... as.",
+            "explanation": "• Cấu trúc so sánh bằng/không bằng: not as + adj + as: not as far from... as...",
+            "tags": [
+              "unit-4",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Traditional Dong Ho folk paintings are printed on unique paper made from the bark of the ___ tree.",
+            "options": [
+              "Dzo",
+              "bamboo",
+              "pine",
+              "oak"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 4 - Music and Arts)",
+            "hint": "💡 Giấy Dó: Dzo tree.",
+            "explanation": "• Tranh dân gian Đông Hồ được in trên giấy Dó (Dzo tree bark) quét bột điệp.",
+            "tags": [
+              "unit-4",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "How ___ liters of fresh mineral water should an active teenager drink each day?",
+            "options": [
+              "many",
+              "much",
+              "often",
+              "long"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 5 - Food and Drink)",
+            "hint": "💡 How many + danh từ đếm được số nhiều (liters).",
+            "explanation": "• \"liters\" là danh từ đếm được số nhiều (lít nước), từ để hỏi số lượng là \"How many\".",
+            "tags": [
+              "unit-5",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Can you please pass me a ___ of salt to season the vegetable soup?",
+            "options": [
+              "pinch",
+              "loaf",
+              "bottle",
+              "carton"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 5 - Food and Drink)",
+            "hint": "💡 a pinch of salt: một nhúm muối.",
+            "explanation": "• a pinch of salt: một nhúm muối nêm canh.",
+            "tags": [
+              "unit-5",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The Imperial Academy was situated ___ Ha Noi, the historic and cultural heart of Viet Nam.",
+            "options": [
+              "in",
+              "on",
+              "at",
+              "with"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 6 - A Visit to a School)",
+            "hint": "💡 in Ha Noi.",
+            "explanation": "• Giới từ đi với thành phố dùng \"in\": in Ha Noi.",
+            "tags": [
+              "unit-6",
+              "grammar"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "In feudal times, successful doctorate scholars had their achievements carved on the backs of stone ___.",
+            "options": [
+              "turtles",
+              "dragons",
+              "lions",
+              "horses"
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn đáp án đúng nhất: (Unit 6 - A Visit to a School)",
+            "hint": "💡 Rùa đá: stone turtles.",
+            "explanation": "• Bia tiến sĩ tại Văn Miếu được đặt trên lưng những con rùa đá (stone turtles).",
+            "tags": [
+              "unit-6",
+              "vocabulary"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "- Student: \"Thank you so much for helping me clean the blackboard and rearrange desks!\" - Classmate: \"___\"",
+            "options": [
+              "You're welcome. It was my pleasure!",
+              "Yes, I like.",
+              "No, thank you.",
+              "Never mind."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn lời đáp phù hợp nhất trong giao tiếp:",
+            "hint": "💡 You're welcome.",
+            "explanation": "• Lời đáp lại lời cảm ơn chân thành và lịch sự: \"You're welcome. It was my pleasure!\" (Không có gì đâu bạn, mình rất vui được giúp bạn!).",
+            "tags": [
+              "communication"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Look at the notice in the theater: \"NO CELL PHONES ALLOWED DURING THE PERFORMANCE\". What must audiences do?",
+            "options": [
+              "Audiences must turn off or not use mobile phones while watching the show.",
+              "Audiences can make calls silently.",
+              "Audiences must buy phones at the entrance.",
+              "Audiences can take pictures with flash."
+            ],
+            "correct_index": 0,
+            "instruction": "Xem thông báo và chọn ý nghĩa đúng:",
+            "hint": "💡 Cấm dùng điện thoại khi biểu diễn.",
+            "explanation": "• Cấm dùng điện thoại trong buổi biểu diễn nghệ thuật: \"Audiences must turn off or not use phones\".",
+            "tags": [
+              "notices"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Look at the sign in the botanic garden: \"KEEP OFF THE GRASS\". What does it mean?",
+            "options": [
+              "You should water the grass.",
+              "You must not walk or step on the grass lawn.",
+              "You can have a picnic on the grass.",
+              "The grass is newly cut."
+            ],
+            "correct_index": 1,
+            "instruction": "Xem biển báo và chọn ý nghĩa đúng:",
+            "hint": "💡 Cấm giẫm lên cỏ.",
+            "explanation": "• Biển báo cấm giẫm lên cỏ: \"You must not walk or step on the grass lawn\".",
+            "tags": [
+              "signs"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "He is a passionate ___ who has travelled to over thirty nations to take nature pictures. (photograph)",
+            "correct_answer": "photographer",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Nhiếp ảnh gia: photographer.",
+            "explanation": "• Đứng sau cụm \"a passionate\" cần danh từ chỉ người: photographer (nhiếp ảnh gia).\n• Word family: photograph (n/v) → photography (n: nghề nhiếp ảnh) → photographer (n: nhiếp ảnh gia).",
+            "tags": [
+              "unit-1",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Practicing mindfulness meditation can be very ___ for your mental well-being. (benefit)",
+            "correct_answer": "beneficial",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Tính từ mang lại lợi ích: beneficial.",
+            "explanation": "• Đứng sau to be \"be very\" cần tính từ: beneficial (có lợi, bổ ích).\n• Word family: benefit (n/v) → beneficial (adj: có lợi) → beneficially (adv).",
+            "tags": [
+              "unit-2",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Hundreds of enthusiastic young ___ participated in cleaning up the polluted canal. (volunteer)",
+            "correct_answer": "volunteers",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Tình nguyện viên (số nhiều): volunteers.",
+            "explanation": "• \"Hundreds of enthusiastic young\" cần danh từ số nhiều chỉ người: volunteers (những tình nguyện viên).\n• Word family: volunteer (n/v) → voluntary (adj).",
+            "tags": [
+              "unit-3",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "The symphony orchestra gave an unforgettable musical ___ that moved the audience to tears. (perform)",
+            "correct_answer": "performance",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Buổi trình diễn: performance.",
+            "explanation": "• Đứng sau mạo từ \"an\" và tính từ \"unforgettable musical\" cần danh từ: performance (buổi trình diễn âm nhạc).\n• Word family: perform (v) → performance (n) → performer (n).",
+            "tags": [
+              "unit-4",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Eating a balanced diet with diverse foods provides essential ___ for body growth. (nutrient)",
+            "correct_answer": "nutrients",
+            "instruction": "Cho dạng đúng của từ trong ngoặc (Word Form):",
+            "hint": "💡 Các chất dinh dưỡng: nutrients.",
+            "explanation": "• Đứng sau tính từ \"essential\" cần danh từ số nhiều: nutrients (các chất dinh dưỡng).\n• Word family: nutrient / nutrients (n) → nutritious (adj: giàu dinh dưỡng) → nutrition (n).",
+            "tags": [
+              "unit-5",
+              "word-form"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Dong Ho painting is a traditional folk art originating in Dong Ho village, Bac Ninh province. In the past, people bought these paintings to (1) ___ their homes during Tet.\"",
+            "options": [
+              "decorate",
+              "build",
+              "sell",
+              "invent"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (1):",
+            "hint": "💡 decorate homes.",
+            "explanation": "• decorate homes: trang hoàng, trang trí nhà cửa đón Tết.",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"The colors used in Dong Ho paintings are made from completely (2) ___ materials such as black from ash of bamboo leaves, yellow from gardenia flowers, and white from scallop shells.\"",
+            "options": [
+              "natural",
+              "artificial",
+              "expensive",
+              "dangerous"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (2):",
+            "hint": "💡 Nguyên liệu tự nhiên: natural materials.",
+            "explanation": "• natural materials: các nguyên liệu hoàn toàn từ thiên nhiên.",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"The paintings are printed on Dzo paper, which is coated (3) ___ crushed seashell powder to create a sparkling look.\"",
+            "options": [
+              "with",
+              "by",
+              "on",
+              "at"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (3):",
+            "hint": "💡 coated with.",
+            "explanation": "• Cấu trúc: coated with (được bao phủ/quét lên bằng chất gì).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Themes of Dong Ho paintings reflect daily life, wishes for good fortune, and well-known folk (4) ___.\"",
+            "options": [
+              "stories",
+              "novels",
+              "cartoons",
+              "cinemas"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (4):",
+            "hint": "💡 Truyện dân gian: folk stories.",
+            "explanation": "• folk stories: những câu chuyện dân gian quen thuộc (như Đám cưới chuột, Đánh ghen...).",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage: \"Today, Dong Ho folk art is preserved as a valuable national (5) ___.\"",
+            "options": [
+              "heritage",
+              "activity",
+              "instrument",
+              "science"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc đoạn văn và chọn từ thích hợp cho chỗ trống (5):",
+            "hint": "💡 Di sản quốc gia: national heritage.",
+            "explanation": "• national heritage: di sản văn hóa của quốc gia.",
+            "tags": [
+              "reading",
+              "cloze"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Read the passage:\n\"Adolescence is a period of rapid physical growth and brain development, making proper nutrition vital for young people. Teenagers need higher amounts of energy, protein, calcium, and vitamins compared to young children.\nA healthy diet for teens should emphasize nutrient-dense whole foods. Calcium and Vitamin D, found in milk, yogurt, tofu, and leafy greens, are essential for developing strong bones during puberty. Iron, abundant in lean meats, beans, and spinach, helps prevent fatigue and weakness by carrying oxygen to active muscles. On the contrary, consuming excessive ultra-processed snacks, sugary fizzy drinks, and deep-fried fast foods can cause obesity, dental cavities, and sluggish concentration in class.\nExperts advise teenagers to eat regular meals, especially a nutritious breakfast, and to stay hydrated by drinking at least two liters of water every day instead of sweet soft drinks.\"\n\nWhy is proper nutrition especially vital for adolescents?",
+            "options": [
+              "Because it is a period of rapid physical growth and brain development",
+              "Because teenagers need to sleep less",
+              "Because it prevents them from doing homework",
+              "Because teenagers do not like sports"
+            ],
+            "correct_index": 0,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Thời kỳ tăng trưởng thể chất và phát triển trí não nhanh chóng.",
+            "explanation": "• Dẫn chứng câu đầu: \"Adolescence is a period of rapid physical growth and brain development, making proper nutrition vital...\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Which nutrients are essential for strong bone development during puberty?",
+            "options": [
+              "Sugar and salt",
+              "Calcium and Vitamin D",
+              "Iron and fat",
+              "Turmeric and pepper"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Canxi và Vitamin D.",
+            "explanation": "• Dẫn chứng: \"Calcium and Vitamin D, found in milk, yogurt, tofu, and leafy greens, are essential for developing strong bones...\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "What health problems can occur if teens eat too much ultra-processed food and sugary drinks?",
+            "options": [
+              "Rapid muscle development and better eyesight",
+              "Obesity, dental cavities, and poor concentration",
+              "Stronger bones and less sleep",
+              "Better exam scores"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Béo phì, sâu răng và kém tập trung.",
+            "explanation": "• Dẫn chứng: \"...can cause obesity, dental cavities, and sluggish concentration in class.\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "According to health experts, how much water should adolescents drink each day?",
+            "options": [
+              "Only half a liter",
+              "At least two liters",
+              "Five liters",
+              "No water, only sweet drinks"
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Ít nhất 2 lít nước mỗi ngày.",
+            "explanation": "• Dẫn chứng: \"...stay hydrated by drinking at least two liters of water every day...\"",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "What is the author’s primary message in this passage?",
+            "options": [
+              "Teens should skip breakfast to lose weight quickly.",
+              "Teens should adopt balanced eating habits and drink enough water for healthy growth.",
+              "Fast food is the best source of calcium.",
+              "Teenagers only need to study without exercising."
+            ],
+            "correct_index": 1,
+            "instruction": "Đọc bài và trả lời câu hỏi:",
+            "hint": "💡 Thông điệp: Dinh dưỡng cân bằng và uống đủ nước.",
+            "explanation": "• Thông điệp chính: Thanh thiếu niên cần xây dựng chế độ dinh dưỡng cân bằng và uống đủ nước để phát triển khỏe mạnh.",
+            "tags": [
+              "reading",
+              "comprehension"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rearrange words to make a meaningful sentence:",
+            "words": [
+              "My",
+              "father",
+              "enjoys",
+              "gardening",
+              "and",
+              "planting",
+              "roses."
+            ],
+            "correct_sentence": "My father enjoys gardening and planting roses.",
+            "instruction": "Sắp xếp các từ thành câu hoàn chỉnh:",
+            "hint": "💡 My father enjoys gardening and planting roses.",
+            "explanation": "• Cấu trúc: S + enjoy + V-ing: Bố tôi yêu thích việc làm vườn và trồng hoa hồng.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rearrange words to make a meaningful sentence:",
+            "words": [
+              "We",
+              "should",
+              "drink",
+              "two",
+              "litres",
+              "of",
+              "water",
+              "daily."
+            ],
+            "correct_sentence": "We should drink two litres of water daily.",
+            "instruction": "Sắp xếp các từ thành câu hoàn chỉnh:",
+            "hint": "💡 We should drink two litres of water daily.",
+            "explanation": "• Cấu trúc: S + should + V: Chúng ta nên uống 2 lít nước mỗi ngày.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"Linh finds playing board games boring.\"\n→ Linh thinks that _______.",
+            "options": [
+              "playing board games is boring.",
+              "playing board games boring.",
+              "to play board games is boring.",
+              "board games playing is boring."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 S + thinks that V-ing is Adj.",
+            "explanation": "• Cấu trúc: S + find + V-ing + Adj ↔ S + think that V-ing + is + Adj.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"The portrait is different from the sculpture.\"\n→ The portrait is not _______.",
+            "options": [
+              "the same as the sculpture.",
+              "as different from the sculpture.",
+              "like as the sculpture.",
+              "different like the sculpture."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 not the same as.",
+            "explanation": "• be different from = not the same as.",
+            "tags": [
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 2,
+          "metadata_json": {
+            "question": "Rewrite the sentence without changing its meaning:\n\"Because she exercised every morning, she stayed strong and fit.\"\n→ She exercised every morning, _______.",
+            "options": [
+              "so she stayed strong and fit.",
+              "because she stayed strong and fit.",
+              "but she stayed strong and fit.",
+              "although she stayed strong and fit."
+            ],
+            "correct_index": 0,
+            "instruction": "Chọn câu viết lại có nghĩa tương đương:",
+            "hint": "💡 Clause 1, so Clause 2.",
+            "explanation": "• Cấu trúc: Because Clause 1, Clause 2 ↔ Clause 1, so Clause 2.",
+            "tags": [
+              "writing"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
