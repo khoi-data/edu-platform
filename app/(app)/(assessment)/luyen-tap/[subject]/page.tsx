@@ -108,6 +108,7 @@ export default function SubjectMapPage() {
     "tieng-viet": "Tiếng Việt",
     tieng_viet: "Tiếng Việt",
     khtn: "Khoa học tự nhiên",
+    "toan-khoa": "Toán - Khoa",
   };
   const subjectName = subject
     ? subjectTitles[subject] || subject.replace(/_/g, " ").replace(/\b\w/g, (l) => l.toUpperCase())

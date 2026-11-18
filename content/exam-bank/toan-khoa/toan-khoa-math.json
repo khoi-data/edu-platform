@@ -1,0 +1,1114 @@
+{
+  "collection": {
+    "title": "English for Math",
+    "subject_slug": "toan-khoa",
+    "grade": 3,
+    "volume": 1,
+    "units": [
+      1
+    ],
+    "sequence_number": 1,
+    "exam_type": "lesson",
+    "reference_book": "VinaLearn English for Math & Science 3",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 1,
+      "title": "English for Math - Review for Semester Test 1 (Đề mẫu VinaLearn)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Five multiplied by six equals thirty.",
+            "options": [
+              "6 × 5 = 30",
+              "5 × 6 = 30",
+              "5 × 7 = 35"
+            ],
+            "correct_index": 1,
+            "explanation": "Five multiplied by six equals thirty: 5 × 6 = 30.",
+            "tags": [
+              "math",
+              "multiplication",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Thirty divided by three equals ten.",
+            "options": [
+              "30 ÷ 5 = 6",
+              "30 ÷ 3 = 10",
+              "30 ÷ 10 = 3"
+            ],
+            "correct_index": 1,
+            "explanation": "Thirty divided by three equals ten: 30 ÷ 3 = 10.",
+            "tags": [
+              "math",
+              "division",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Two multiplied by nine equals eighteen.",
+            "options": [
+              "2 × 8 = 16",
+              "9 × 2 = 18",
+              "2 × 9 = 18"
+            ],
+            "correct_index": 2,
+            "explanation": "Two multiplied by nine equals eighteen: 2 × 9 = 18.",
+            "tags": [
+              "math",
+              "multiplication",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Thirty-six divided by nine equals four.",
+            "options": [
+              "36 ÷ 9 = 4",
+              "28 ÷ 4 = 7",
+              "36 ÷ 4 = 9"
+            ],
+            "correct_index": 0,
+            "explanation": "Thirty-six divided by nine equals four: 36 ÷ 9 = 4.",
+            "tags": [
+              "math",
+              "division",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Twenty-four divided by six equals four.",
+            "options": [
+              "24 ÷ 3 = 8",
+              "24 ÷ 4 = 6",
+              "24 ÷ 6 = 4"
+            ],
+            "correct_index": 2,
+            "explanation": "Twenty-four divided by six equals four: 24 ÷ 6 = 4.",
+            "tags": [
+              "math",
+              "division",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "question": "There are three bears with five pears each. So there are fifteen pears in _______.",
+            "options": [
+              "total",
+              "remainder",
+              "difference",
+              "share"
+            ],
+            "choices": [
+              "total",
+              "remainder",
+              "difference",
+              "share"
+            ],
+            "correct_answer": "total",
+            "explanation": "3 bears × 5 pears each = 15 pears in total (tổng cộng 15 quả lê).",
+            "tags": [
+              "math",
+              "word-problem",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "question": "There are six carrots. Two boys can share the carrots equally. _______ boy has three carrots.",
+            "options": [
+              "Each",
+              "Every",
+              "All",
+              "Total"
+            ],
+            "choices": [
+              "Each",
+              "Every",
+              "All",
+              "Total"
+            ],
+            "correct_answer": "Each",
+            "explanation": "6 ÷ 2 = 3. Each boy has three carrots (Mỗi bạn có 3 củ cà rốt).",
+            "tags": [
+              "math",
+              "word-problem",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "difficulty": 1.5,
+          "metadata_json": {
+            "instruction": "Read and match: Nối biểu thức toán học với cách đọc tiếng Anh tương ứng:",
+            "question": "Nối biểu thức với cách đọc phù hợp",
+            "pairs": [
+              {
+                "left": "(2 + 4) × 5",
+                "right": "The sum of two and four times five"
+              },
+              {
+                "left": "10 ÷ (8 - 7)",
+                "right": "Ten divided by the difference between eight and seven"
+              },
+              {
+                "left": "(9 - 2) ÷ 7",
+                "right": "The difference between nine and two divided by seven"
+              },
+              {
+                "left": "6 × (1 + 5)",
+                "right": "Six times the sum of one and five"
+              }
+            ],
+            "explanation": "• (2 + 4) × 5: The sum of two and four times five\n• 10 ÷ (8 - 7): Ten divided by the difference between eight and seven\n• (9 - 2) ÷ 7: The difference between nine and two divided by seven\n• 6 × (1 + 5): Six times the sum of one and five",
+            "tags": [
+              "math",
+              "expressions",
+              "matching",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 1.5,
+          "metadata_json": {
+            "instruction": "Dựa vào phép tính 7 ÷ 2 = 3 r 1, sắp xếp các từ thành câu đúng:",
+            "question": "Sắp xếp câu diễn đạt phép chia có dư:",
+            "words": [
+              "Seven",
+              "divided by",
+              "two",
+              "equals",
+              "three",
+              "with a remainder of",
+              "one."
+            ],
+            "correct_sentence": "Seven divided by two equals three with a remainder of one.",
+            "explanation": "7 ÷ 2 = 3 r 1: Seven divided by two equals three with a remainder of one (7 chia 2 bằng 3 dư 1).",
+            "tags": [
+              "math",
+              "remainders",
+              "sentence_reorder",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "instruction": "Sắp xếp lại các từ thành câu hoàn chỉnh:",
+            "question": "Sắp xếp câu:",
+            "words": [
+              "Each",
+              "student",
+              "has",
+              "three cookies."
+            ],
+            "correct_sentence": "Each student has three cookies.",
+            "explanation": "Each student has three cookies (Mỗi học sinh có 3 chiếc bánh quy).",
+            "tags": [
+              "math",
+              "word-problem",
+              "sentence_reorder",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "instruction": "Sắp xếp lại các từ thành câu hoàn chỉnh mô tả phần dư:",
+            "question": "Sắp xếp câu:",
+            "words": [
+              "There",
+              "is",
+              "one cookie",
+              "left over."
+            ],
+            "correct_sentence": "There is one cookie left over.",
+            "explanation": "There is one cookie left over (Còn thừa lại 1 chiếc bánh quy).",
+            "tags": [
+              "math",
+              "remainders",
+              "sentence_reorder",
+              "grade3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 2,
+      "title": "English for Math - Multiplication & Division Expressions (Đề số 02)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Eight multiplied by three equals twenty-four.",
+            "options": [
+              "8 × 3 = 24",
+              "3 × 7 = 21",
+              "8 × 4 = 32"
+            ],
+            "correct_index": 0,
+            "explanation": "Eight multiplied by three equals twenty-four: 8 × 3 = 24.",
+            "tags": [
+              "math",
+              "multiplication",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Twelve divided by three equals four.",
+            "options": [
+              "12 ÷ 4 = 3",
+              "12 ÷ 3 = 4",
+              "15 ÷ 3 = 5"
+            ],
+            "correct_index": 1,
+            "explanation": "Twelve divided by three equals four: 12 ÷ 3 = 4.",
+            "tags": [
+              "math",
+              "division",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Seven multiplied by five equals thirty-five.",
+            "options": [
+              "7 × 6 = 42",
+              "5 × 8 = 40",
+              "7 × 5 = 35"
+            ],
+            "correct_index": 2,
+            "explanation": "Seven multiplied by five equals thirty-five: 7 × 5 = 35.",
+            "tags": [
+              "math",
+              "multiplication",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Forty-five divided by nine equals five.",
+            "options": [
+              "45 ÷ 9 = 5",
+              "45 ÷ 5 = 9",
+              "36 ÷ 9 = 4"
+            ],
+            "correct_index": 0,
+            "explanation": "Forty-five divided by nine equals five: 45 ÷ 9 = 5.",
+            "tags": [
+              "math",
+              "division",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "question": "There are four boxes with six pens each. How many pens are there in total? There are twenty-four pens in _______.",
+            "options": [
+              "total",
+              "difference",
+              "remainder",
+              "equal"
+            ],
+            "choices": [
+              "total",
+              "difference",
+              "remainder",
+              "equal"
+            ],
+            "correct_answer": "total",
+            "explanation": "4 × 6 = 24 pens in total.",
+            "tags": [
+              "math",
+              "word-problem",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "question": "Three girls share nine candies equally. _______ girl has three candies.",
+            "options": [
+              "Each",
+              "Total",
+              "All",
+              "Both"
+            ],
+            "choices": [
+              "Each",
+              "Total",
+              "All",
+              "Both"
+            ],
+            "correct_answer": "Each",
+            "explanation": "9 ÷ 3 = 3 candies for each girl.",
+            "tags": [
+              "math",
+              "word-problem",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "difficulty": 1.5,
+          "metadata_json": {
+            "instruction": "Read and match: Nối biểu thức toán học với cách đọc tiếng Anh tương ứng:",
+            "question": "Nối biểu thức với cách đọc phù hợp",
+            "pairs": [
+              {
+                "left": "(3 + 5) × 4",
+                "right": "The sum of three and five times four"
+              },
+              {
+                "left": "16 ÷ (6 - 2)",
+                "right": "Sixteen divided by the difference between six and two"
+              },
+              {
+                "left": "(8 - 2) ÷ 3",
+                "right": "The difference between eight and two divided by three"
+              },
+              {
+                "left": "5 × (2 + 4)",
+                "right": "Five times the sum of two and four"
+              }
+            ],
+            "explanation": "• (3 + 5) × 4: The sum of three and five times four\n• 16 ÷ (6 - 2): Sixteen divided by the difference between six and two\n• (8 - 2) ÷ 3: The difference between eight and two divided by three\n• 5 × (2 + 4): Five times the sum of two and four",
+            "tags": [
+              "math",
+              "expressions",
+              "matching",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 1.5,
+          "metadata_json": {
+            "instruction": "Dựa vào phép tính 11 ÷ 3 = 3 r 2, sắp xếp các từ thành câu đúng:",
+            "question": "Sắp xếp câu:",
+            "words": [
+              "Eleven",
+              "divided by",
+              "three",
+              "equals",
+              "three",
+              "with a remainder of",
+              "two."
+            ],
+            "correct_sentence": "Eleven divided by three equals three with a remainder of two.",
+            "explanation": "11 ÷ 3 = 3 r 2: Eleven divided by three equals three with a remainder of two.",
+            "tags": [
+              "math",
+              "remainders",
+              "sentence_reorder",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "instruction": "Sắp xếp lại các từ thành câu hoàn chỉnh:",
+            "question": "Sắp xếp câu:",
+            "words": [
+              "There",
+              "are",
+              "two pencils",
+              "left over."
+            ],
+            "correct_sentence": "There are two pencils left over.",
+            "explanation": "There are two pencils left over.",
+            "tags": [
+              "math",
+              "remainders",
+              "sentence_reorder",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "question": "What is the value of the expression: Two times the sum of one and three?",
+            "options": [
+              "6",
+              "8",
+              "10",
+              "4"
+            ],
+            "correct_index": 1,
+            "explanation": "The sum of one and three is 1 + 3 = 4. Two times four is 2 × 4 = 8.",
+            "tags": [
+              "math",
+              "expressions",
+              "grade3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 3,
+      "title": "English for Math - Division with Remainders & Word Problems (Đề số 03)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Twelve divided by seven equals one with a remainder of five.",
+            "options": [
+              "12 ÷ 7 = 1 r 5",
+              "12 ÷ 5 = 2 r 2",
+              "14 ÷ 7 = 2"
+            ],
+            "correct_index": 0,
+            "explanation": "12 ÷ 7 = 1 r 5: Twelve divided by seven equals one with a remainder of five.",
+            "tags": [
+              "math",
+              "remainders",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Nineteen divided by four equals four with a remainder of three.",
+            "options": [
+              "19 ÷ 4 = 4 r 3",
+              "19 ÷ 3 = 6 r 1",
+              "16 ÷ 4 = 4"
+            ],
+            "correct_index": 0,
+            "explanation": "19 ÷ 4 = 4 r 3: Nineteen divided by four equals four with a remainder of three.",
+            "tags": [
+              "math",
+              "remainders",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Nine multiplied by four equals thirty-six.",
+            "options": [
+              "9 × 3 = 27",
+              "9 × 4 = 36",
+              "4 × 8 = 32"
+            ],
+            "correct_index": 1,
+            "explanation": "Nine multiplied by four equals thirty-six: 9 × 4 = 36.",
+            "tags": [
+              "math",
+              "multiplication",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "question": "There are 15 apples shared equally among 4 children. Each child gets 3 apples and there are 3 apples _______.",
+            "options": [
+              "left over",
+              "in total",
+              "in sum",
+              "multiplied"
+            ],
+            "choices": [
+              "left over",
+              "in total",
+              "in sum",
+              "multiplied"
+            ],
+            "correct_answer": "left over",
+            "explanation": "15 = 4 × 3 + 3. Three apples left over (còn thừa 3 quả táo).",
+            "tags": [
+              "math",
+              "remainders",
+              "word-problem",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "question": "There are five plates with four cakes each. There are twenty cakes in _______.",
+            "options": [
+              "total",
+              "remainder",
+              "equal",
+              "difference"
+            ],
+            "choices": [
+              "total",
+              "remainder",
+              "equal",
+              "difference"
+            ],
+            "correct_answer": "total",
+            "explanation": "5 × 4 = 20 cakes in total.",
+            "tags": [
+              "math",
+              "word-problem",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "difficulty": 1.5,
+          "metadata_json": {
+            "instruction": "Read and match: Nối phép tính với kết quả hoặc mô tả tiếng Anh tương ứng:",
+            "question": "Nối phép tính với cách đọc phù hợp",
+            "pairs": [
+              {
+                "left": "14 ÷ 3",
+                "right": "Four with a remainder of two"
+              },
+              {
+                "left": "21 ÷ 5",
+                "right": "Four with a remainder of one"
+              },
+              {
+                "left": "27 ÷ 6",
+                "right": "Four with a remainder of three"
+              },
+              {
+                "left": "19 ÷ 2",
+                "right": "Nine with a remainder of one"
+              }
+            ],
+            "explanation": "• 14 ÷ 3 = 4 r 2\n• 21 ÷ 5 = 4 r 1\n• 27 ÷ 6 = 4 r 3\n• 19 ÷ 2 = 9 r 1",
+            "tags": [
+              "math",
+              "remainders",
+              "matching",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 1.5,
+          "metadata_json": {
+            "instruction": "Dựa vào phép tính 15 ÷ 4 = 3 r 3, sắp xếp thành câu hoàn chỉnh:",
+            "question": "Sắp xếp câu:",
+            "words": [
+              "Fifteen",
+              "divided by",
+              "four",
+              "equals",
+              "three",
+              "with a remainder of",
+              "three."
+            ],
+            "correct_sentence": "Fifteen divided by four equals three with a remainder of three.",
+            "explanation": "15 ÷ 4 = 3 r 3: Fifteen divided by four equals three with a remainder of three.",
+            "tags": [
+              "math",
+              "remainders",
+              "sentence_reorder",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "instruction": "Sắp xếp các từ thành câu hoàn chỉnh:",
+            "question": "Sắp xếp câu:",
+            "words": [
+              "There",
+              "are",
+              "three apples",
+              "left over."
+            ],
+            "correct_sentence": "There are three apples left over.",
+            "explanation": "There are three apples left over.",
+            "tags": [
+              "math",
+              "remainders",
+              "sentence_reorder",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1.3,
+          "metadata_json": {
+            "question": "What is the value of the expression: The difference between ten and two divided by four?",
+            "options": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "correct_index": 1,
+            "explanation": "The difference between ten and two is 10 - 2 = 8. Eight divided by four is 8 ÷ 4 = 2.",
+            "tags": [
+              "math",
+              "expressions",
+              "grade3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 4,
+      "title": "English for Math - Values of Expressions & Word Practice (Đề số 04)",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Six multiplied by seven equals forty-two.",
+            "options": [
+              "6 × 6 = 36",
+              "6 × 7 = 42",
+              "7 × 7 = 49"
+            ],
+            "correct_index": 1,
+            "explanation": "6 × 7 = 42.",
+            "tags": [
+              "math",
+              "multiplication",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Fifty-six divided by eight equals seven.",
+            "options": [
+              "56 ÷ 8 = 7",
+              "56 ÷ 7 = 8",
+              "48 ÷ 8 = 6"
+            ],
+            "correct_index": 0,
+            "explanation": "56 ÷ 8 = 7.",
+            "tags": [
+              "math",
+              "division",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "question": "What is the sum of seven and eight?",
+            "options": [
+              "14",
+              "15",
+              "16",
+              "56"
+            ],
+            "correct_index": 1,
+            "explanation": "The sum of seven and eight is 7 + 8 = 15.",
+            "tags": [
+              "math",
+              "expressions",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "question": "What is the difference between twenty and six?",
+            "options": [
+              "12",
+              "14",
+              "16",
+              "26"
+            ],
+            "correct_index": 1,
+            "explanation": "The difference between twenty and six is 20 - 6 = 14.",
+            "tags": [
+              "math",
+              "expressions",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "question": "There are four nests with three baby birds in each nest. There are twelve baby birds in _______.",
+            "options": [
+              "total",
+              "difference",
+              "remainder",
+              "share"
+            ],
+            "choices": [
+              "total",
+              "difference",
+              "remainder",
+              "share"
+            ],
+            "correct_answer": "total",
+            "explanation": "4 × 3 = 12 baby birds in total.",
+            "tags": [
+              "math",
+              "word-problem",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "difficulty": 1.5,
+          "metadata_json": {
+            "instruction": "Read and match: Nối biểu thức toán học với cách đọc tiếng Anh tương ứng:",
+            "question": "Nối biểu thức với cách đọc phù hợp",
+            "pairs": [
+              {
+                "left": "3 × (4 + 2)",
+                "right": "Three times the sum of four and two"
+              },
+              {
+                "left": "(15 - 5) ÷ 2",
+                "right": "The difference between fifteen and five divided by two"
+              },
+              {
+                "left": "(4 + 6) × 2",
+                "right": "The sum of four and six times two"
+              },
+              {
+                "left": "18 ÷ (9 - 3)",
+                "right": "Eighteen divided by the difference between nine and three"
+              }
+            ],
+            "explanation": "• 3 × (4 + 2): Three times the sum of four and two\n• (15 - 5) ÷ 2: The difference between fifteen and five divided by two\n• (4 + 6) × 2: The sum of four and six times two\n• 18 ÷ (9 - 3): Eighteen divided by the difference between nine and three",
+            "tags": [
+              "math",
+              "expressions",
+              "matching",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 1.5,
+          "metadata_json": {
+            "instruction": "Dựa vào phép tính 20 ÷ 6 = 3 r 2, sắp xếp thành câu hoàn chỉnh:",
+            "question": "Sắp xếp câu:",
+            "words": [
+              "Twenty",
+              "divided by",
+              "six",
+              "equals",
+              "three",
+              "with a remainder of",
+              "two."
+            ],
+            "correct_sentence": "Twenty divided by six equals three with a remainder of two.",
+            "explanation": "20 ÷ 6 = 3 r 2: Twenty divided by six equals three with a remainder of two.",
+            "tags": [
+              "math",
+              "remainders",
+              "sentence_reorder",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "instruction": "Sắp xếp các từ thành câu hoàn chỉnh:",
+            "question": "Sắp xếp câu:",
+            "words": [
+              "Each",
+              "child",
+              "receives",
+              "four books."
+            ],
+            "correct_sentence": "Each child receives four books.",
+            "explanation": "Each child receives four books.",
+            "tags": [
+              "math",
+              "word-problem",
+              "sentence_reorder",
+              "grade3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_number": 5,
+      "title": "English for Math - Semester 1 Comprehensive Review (Đề số 05)",
+      "duration_minutes": 25,
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Nine multiplied by eight equals seventy-two.",
+            "options": [
+              "9 × 8 = 72",
+              "8 × 8 = 64",
+              "9 × 7 = 63"
+            ],
+            "correct_index": 0,
+            "explanation": "9 × 8 = 72.",
+            "tags": [
+              "math",
+              "multiplication",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1,
+          "metadata_json": {
+            "question": "Choose the correct equation: Sixty-three divided by seven equals nine.",
+            "options": [
+              "63 ÷ 7 = 9",
+              "63 ÷ 9 = 7",
+              "54 ÷ 6 = 9"
+            ],
+            "correct_index": 0,
+            "explanation": "63 ÷ 7 = 9.",
+            "tags": [
+              "math",
+              "division",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": 1.3,
+          "metadata_json": {
+            "question": "What is the value of the expression: Four times the difference between eight and three?",
+            "options": [
+              "15",
+              "20",
+              "25",
+              "12"
+            ],
+            "correct_index": 1,
+            "explanation": "8 - 3 = 5. Four times five is 4 × 5 = 20.",
+            "tags": [
+              "math",
+              "expressions",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "question": "There are 22 oranges shared equally among 5 bags. Each bag has 4 oranges. There are two oranges _______.",
+            "options": [
+              "left over",
+              "in total",
+              "in sum",
+              "multiplied"
+            ],
+            "choices": [
+              "left over",
+              "in total",
+              "in sum",
+              "multiplied"
+            ],
+            "correct_answer": "left over",
+            "explanation": "22 = 5 × 4 + 2. Two oranges left over.",
+            "tags": [
+              "math",
+              "remainders",
+              "word-problem",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "question": "There are eight rows of trees with six trees in each row. There are forty-eight trees in _______.",
+            "options": [
+              "total",
+              "difference",
+              "remainder",
+              "equal"
+            ],
+            "choices": [
+              "total",
+              "difference",
+              "remainder",
+              "equal"
+            ],
+            "correct_answer": "total",
+            "explanation": "8 × 6 = 48 trees in total.",
+            "tags": [
+              "math",
+              "word-problem",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "difficulty": 1.5,
+          "metadata_json": {
+            "instruction": "Read and match: Nối biểu thức toán học với cách đọc tiếng Anh tương ứng:",
+            "question": "Nối biểu thức với cách đọc phù hợp",
+            "pairs": [
+              {
+                "left": "4 × (5 + 1)",
+                "right": "Four times the sum of five and one"
+              },
+              {
+                "left": "24 ÷ (8 - 2)",
+                "right": "Twenty-four divided by the difference between eight and two"
+              },
+              {
+                "left": "(10 - 2) ÷ 4",
+                "right": "The difference between ten and two divided by four"
+              },
+              {
+                "left": "(3 + 7) × 3",
+                "right": "The sum of three and seven times three"
+              }
+            ],
+            "explanation": "• 4 × (5 + 1): Four times the sum of five and one\n• 24 ÷ (8 - 2): Twenty-four divided by the difference between eight and two\n• (10 - 2) ÷ 4: The difference between ten and two divided by four\n• (3 + 7) × 3: The sum of three and seven times three",
+            "tags": [
+              "math",
+              "expressions",
+              "matching",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 1.5,
+          "metadata_json": {
+            "instruction": "Dựa vào phép tính 23 ÷ 4 = 5 r 3, sắp xếp các từ thành câu đúng:",
+            "question": "Sắp xếp câu:",
+            "words": [
+              "Twenty-three",
+              "divided by",
+              "four",
+              "equals",
+              "five",
+              "with a remainder of",
+              "three."
+            ],
+            "correct_sentence": "Twenty-three divided by four equals five with a remainder of three.",
+            "explanation": "23 ÷ 4 = 5 r 3: Twenty-three divided by four equals five with a remainder of three.",
+            "tags": [
+              "math",
+              "remainders",
+              "sentence_reorder",
+              "grade3"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "difficulty": 1.2,
+          "metadata_json": {
+            "instruction": "Sắp xếp lại các từ thành câu hoàn chỉnh:",
+            "question": "Sắp xếp câu:",
+            "words": [
+              "There",
+              "are",
+              "three cookies",
+              "left over."
+            ],
+            "correct_sentence": "There are three cookies left over.",
+            "explanation": "There are three cookies left over.",
+            "tags": [
+              "math",
+              "remainders",
+              "sentence_reorder",
+              "grade3"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -103,6 +103,7 @@ export default async function LuyenTapPage() {
             case 'tieng_anh': return <Globe2 className={className} />;
             case 'pre-a1-starter': return <Star className={className} />;
             case 'khtn': return <FlaskConical className={className} />;
+            case 'toan-khoa': return <FlaskConical className={className} />;
             default: return <BookOpen className={className} />;
         }
     };
