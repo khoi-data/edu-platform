@@ -19,65 +19,119 @@
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. Complete and say:\ner[[a]]ser",
-            "correct_answer": "a"
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\ner___ser",
+            "correct_answer": "a",
+            "choices": ["a", "oo"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. Complete and say:\nb[[oo]]k",
-            "correct_answer": "oo"
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nb___k",
+            "correct_answer": "oo",
+            "choices": ["oo", "a"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. I have [[an eraser]].",
-            "correct_answer": "an eraser"
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n1. Across (Cây bút mực): ___",
+            "correct_answer": "pen",
+            "choices": ["pen", "pencil", "ruler", "eraser"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "2. I have [[a pencil case]].",
-            "correct_answer": "a pencil case"
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n2. Down (Cây thước kẻ): ___",
+            "correct_answer": "ruler",
+            "choices": ["ruler", "eraser", "pencil", "pen"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "3. Do you have [[a school bag]]?",
-            "correct_answer": "a school bag"
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n3. Across (Quyển vở): ___",
+            "correct_answer": "notebook",
+            "choices": ["notebook", "school bag", "pencil case", "book"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "4. Do you have [[a notebook]]?",
-            "correct_answer": "a notebook"
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n4. Across (Chiếc cặp sách): ___",
+            "correct_answer": "school bag",
+            "choices": ["school bag", "pencil case", "notebook", "book"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n5. Down (Cục tẩy): ___",
+            "correct_answer": "eraser",
+            "choices": ["eraser", "ruler", "pen", "pencil"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n6. Down (Cây bút chì): ___",
+            "correct_answer": "pencil",
+            "choices": ["pencil", "pen", "ruler", "eraser"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n1. I have ___.",
+            "correct_answer": "an eraser",
+            "choices": ["an eraser", "a pencil case", "a school bag", "a notebook"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n2. I have ___.",
+            "correct_answer": "a pencil case",
+            "choices": ["a pencil case", "an eraser", "a ruler", "a school bag"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n3. Do you have ___?",
+            "correct_answer": "a school bag",
+            "choices": ["a school bag", "a notebook", "a pencil case", "a book"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n4. Do you have ___?",
+            "correct_answer": "a notebook",
+            "choices": ["a notebook", "a school bag", "a book", "an eraser"]
           }
         },
         {
           "type": "matching",
           "metadata_json": {
-            "question": "Read and match.",
+            "question": "B. Sentence Patterns - 1. Read and match.",
             "pairs": [
               {
-                "left": "A: Do you have a ____?\nB: Yes, I do.",
-                "right": "book"
+                "left": "1. A: Do you have a ___? - B: Yes, I do.",
+                "right": "d. book"
               },
               {
-                "left": "A: Do you have an ____?\nB: No, I don't.",
-                "right": "eraser"
+                "left": "2. A: Do you have an ___? - B: No, I don't.",
+                "right": "c. eraser"
               },
               {
-                "left": "A: Do you have a pencil?\nB: No, ____.",
-                "right": "I don't"
+                "left": "3. A: Do you have a pencil? - B: No, ___.",
+                "right": "b. I don't"
               },
               {
-                "left": "A: Do you have a notebook?\nB: Yes, ____.",
-                "right": "I do"
+                "left": "4. A: Do you have a notebook? - B: Yes, ___.",
+                "right": "a. I do"
               }
             ]
           }
@@ -85,40 +139,45 @@
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. I have [[a ruler]].",
-            "correct_answer": "a ruler"
+            "question": "B. Sentence Patterns - 2. Look, complete and read:\n1. I have ___.",
+            "correct_answer": "a ruler",
+            "choices": ["a ruler", "an eraser", "a school bag", "a notebook"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "2. A: Do you have [[an eraser]]?\nB: No, [[I don't]].",
-            "correct_answer": "an eraser"
+            "question": "B. Sentence Patterns - 2. Look, complete and read:\n2. A: Do you have ___?\nB: No, I don't.",
+            "correct_answer": "an eraser",
+            "choices": ["an eraser", "a ruler", "a school bag", "a notebook"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "3. A: Do you have [[a school bag]]?\nB: Yes, [[I do]].",
-            "correct_answer": "a school bag"
+            "question": "B. Sentence Patterns - 2. Look, complete and read:\n3. A: Do you have ___?\nB: Yes, I do.",
+            "correct_answer": "a school bag",
+            "choices": ["a school bag", "a notebook", "a pencil case", "an eraser"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "4. A: Do you have [[a notebook]]?\nB: No, [[I don't]].",
-            "correct_answer": "a notebook"
+            "question": "B. Sentence Patterns - 2. Look, complete and read:\n4. A: Do you have ___?\nB: No, I don't.",
+            "correct_answer": "a notebook",
+            "choices": ["a notebook", "a school bag", "a ruler", "a pencil"]
           }
         },
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "have / a notebook / I",
+            "question": "B. Sentence Patterns - 3. Make sentences:\nhave / a notebook / I",
             "words": [
               "I",
               "have",
               "a",
-              "notebook."
+              "notebook",
+              "."
             ],
             "correct_sentence": "I have a notebook."
           }
@@ -126,13 +185,14 @@
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "an eraser / you / Do / have",
+            "question": "B. Sentence Patterns - 3. Make sentences:\nan eraser / you / Do / have",
             "words": [
               "Do",
               "you",
               "have",
               "an",
-              "eraser?"
+              "eraser",
+              "?"
             ],
             "correct_sentence": "Do you have an eraser?"
           }
@@ -140,11 +200,13 @@
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "do / I / Yes",
+            "question": "B. Sentence Patterns - 3. Make sentences:\ndo / I / Yes",
             "words": [
-              "Yes,",
+              "Yes",
+              ",",
               "I",
-              "do."
+              "do",
+              "."
             ],
             "correct_sentence": "Yes, I do."
           }
@@ -152,14 +214,14 @@
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "you / Do / a school bag / have",
+            "question": "B. Sentence Patterns - 3. Make sentences:\nyou / Do / a school bag / have",
             "words": [
               "Do",
               "you",
               "have",
               "a",
-              "school",
-              "bag?"
+              "school bag",
+              "?"
             ],
             "correct_sentence": "Do you have a school bag?"
           }
@@ -167,11 +229,13 @@
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "don't / I / No",
+            "question": "B. Sentence Patterns - 3. Make sentences:\ndon't / I / No",
             "words": [
-              "No,",
+              "No",
+              ",",
               "I",
-              "don't."
+              "don't",
+              "."
             ],
             "correct_sentence": "No, I don't."
           }
@@ -179,43 +243,148 @@
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "Hi. My name is Lucy. This is my school [[bag]]. Look! I have a book, a [[notebook]], a pencil [[case]], a pen, a pencil, a ruler and an [[eraser]]. I like my [[school]] things.",
-            "correct_answer": "bag"
+            "question": "D. Reading - 1. Read and choose:\n1. \"I have a school bag.\"",
+            "correct_answer": "school bag",
+            "choices": ["school bag", "pen"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "Read and write the questions:\n1. I have a pen. -> [[Do you have a pen?]]",
-            "correct_answer": "Do you have a pen?"
+            "question": "D. Reading - 1. Read and choose:\n2. \"I have a pencil case.\"",
+            "correct_answer": "pencil case",
+            "choices": ["pencil case", "notebooks"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "2. I have a pencil. -> [[Do you have a pencil?]]",
-            "correct_answer": "Do you have a pencil?"
+            "question": "D. Reading - 1. Read and choose:\n3. \"I have a book and a notebook.\"",
+            "correct_answer": "a book and a notebook",
+            "choices": ["a book and a notebook", "a school bag and a book"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "3. I have an eraser. -> [[Do you have an eraser?]]",
-            "correct_answer": "Do you have an eraser?"
+            "question": "D. Reading - 1. Read and choose:\n4. \"I have an eraser and a pencil.\"",
+            "correct_answer": "an eraser and a pencil",
+            "choices": ["an eraser and a pencil", "a pen and a pencil"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "4. I have a notebook. -> [[Do you have a notebook?]]",
-            "correct_answer": "Do you have a notebook?"
+            "question": "D. Reading - 2. Read and complete:\n\"Hi. My name is Lucy. This is my school (1) ___.\"",
+            "correct_answer": "bag",
+            "choices": ["bag", "notebook", "case", "eraser", "school"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "5. I have a pencil case. -> [[Do you have a pencil case?]]",
-            "correct_answer": "Do you have a pencil case?"
+            "question": "D. Reading - 2. Read and complete:\n\"Look! I have a book, a (2) ___, a pencil case...\"",
+            "correct_answer": "notebook",
+            "choices": ["bag", "notebook", "case", "eraser", "school"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"...a pencil (3) ___, a pen, a pencil, a ruler...\"",
+            "correct_answer": "case",
+            "choices": ["bag", "notebook", "case", "eraser", "school"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"...a ruler and an (4) ___.\"",
+            "correct_answer": "eraser",
+            "choices": ["bag", "notebook", "case", "eraser", "school"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"I like my (5) ___ things.\"",
+            "correct_answer": "school",
+            "choices": ["bag", "notebook", "case", "eraser", "school"]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "E. Writing - 1. Write the question for:\n\"I have a pen.\"",
+            "words": [
+              "Do",
+              "you",
+              "have",
+              "a",
+              "pen",
+              "?"
+            ],
+            "correct_sentence": "Do you have a pen?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "E. Writing - 1. Write the question for:\n\"I have a pencil.\"",
+            "words": [
+              "Do",
+              "you",
+              "have",
+              "a",
+              "pencil",
+              "?"
+            ],
+            "correct_sentence": "Do you have a pencil?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "E. Writing - 1. Write the question for:\n\"I have an eraser.\"",
+            "words": [
+              "Do",
+              "you",
+              "have",
+              "an",
+              "eraser",
+              "?"
+            ],
+            "correct_sentence": "Do you have an eraser?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "E. Writing - 1. Write the question for:\n\"I have a notebook.\"",
+            "words": [
+              "Do",
+              "you",
+              "have",
+              "a",
+              "notebook",
+              "?"
+            ],
+            "correct_sentence": "Do you have a notebook?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "E. Writing - 1. Write the question for:\n\"I have a pencil case.\"",
+            "words": [
+              "Do",
+              "you",
+              "have",
+              "a",
+              "pencil case",
+              "?"
+            ],
+            "correct_sentence": "Do you have a pencil case?"
           }
         }
       ]

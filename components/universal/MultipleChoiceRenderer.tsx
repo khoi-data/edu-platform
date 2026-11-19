@@ -123,6 +123,7 @@ export function MultipleChoiceRenderer({
   const [shuffledOptions, setShuffledOptions] = useState<string[]>([]);
   const [actualCorrectIndex, setActualCorrectIndex] = useState<number>(0);
   const [initialized, setInitialized] = useState(false);
+  const [showHint, setShowHint] = useState(false);
 
   const [voiceRole, setVoiceRole] = useState<string>(() => {
     if (typeof window !== "undefined") {
@@ -150,6 +151,7 @@ export function MultipleChoiceRenderer({
     setShuffledOptions(arr.map(a => a.opt));
     setActualCorrectIndex(arr.findIndex(a => a.isCorrect));
     setSelectedIndex(null);
+    setShowHint(false);
     setInitialized(true);
   }, [options, correctIndex, initialized, shuffle]);
 
@@ -191,9 +193,22 @@ export function MultipleChoiceRenderer({
       </div>
 
       {hint && (
-        <div className="flex items-start gap-2 px-3 py-2 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-300 text-xs leading-relaxed">
-          <Lightbulb size={14} className="mt-0.5 flex-shrink-0" />
-          <span>{typeof hint === 'string' ? formatText(hint) : hint}</span>
+        <div className="pt-1">
+          {!showHint ? (
+            <button
+              type="button"
+              onClick={() => setShowHint(true)}
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-amber-500/10 hover:bg-amber-500/20 border border-amber-500/20 text-amber-300 text-xs font-medium transition active:scale-95"
+            >
+              <Lightbulb size={13} />
+              <span>Xem gợi ý</span>
+            </button>
+          ) : (
+            <div className="flex items-start gap-2 px-3 py-2 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-300 text-xs leading-relaxed animate-in fade-in duration-200">
+              <Lightbulb size={14} className="mt-0.5 flex-shrink-0" />
+              <span>{typeof hint === 'string' ? formatText(hint) : hint}</span>
+            </div>
+          )}
         </div>
       )}
 

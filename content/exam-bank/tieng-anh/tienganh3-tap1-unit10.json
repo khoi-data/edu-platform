@@ -19,65 +19,71 @@
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. Complete and say:\nv[[olleyball]]",
-            "correct_answer": "olleyball"
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nv___",
+            "correct_answer": "olleyball",
+            "choices": ["olleyball", "ootball"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. Complete and say:\nf[[ootball]]",
-            "correct_answer": "ootball"
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nf___",
+            "correct_answer": "ootball",
+            "choices": ["ootball", "olleyball"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. I [[do word puzzles]] at break time.",
-            "correct_answer": "do word puzzles"
+            "question": "A. Phonics and Vocabulary - 2. Look, complete and read:\n1. I ___ at break time.",
+            "correct_answer": "do word puzzles",
+            "choices": ["do word puzzles", "play chess", "play basketball", "play volleyball"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "2. I [[play chess]] at break time.",
-            "correct_answer": "play chess"
+            "question": "A. Phonics and Vocabulary - 2. Look, complete and read:\n2. I ___ at break time.",
+            "correct_answer": "play chess",
+            "choices": ["play chess", "do word puzzles", "play basketball", "play volleyball"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "3. I [[play basketball]] at break time.",
-            "correct_answer": "play basketball"
+            "question": "A. Phonics and Vocabulary - 2. Look, complete and read:\n3. I ___ at break time.",
+            "correct_answer": "play basketball",
+            "choices": ["play basketball", "play volleyball", "play chess", "do word puzzles"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "4. I [[play volleyball]] at break time.",
-            "correct_answer": "play volleyball"
+            "question": "A. Phonics and Vocabulary - 2. Look, complete and read:\n4. I ___ at break time.",
+            "correct_answer": "play volleyball",
+            "choices": ["play volleyball", "play basketball", "play chess", "do word puzzles"]
           }
         },
         {
           "type": "matching",
           "metadata_json": {
-            "question": "Read and match.",
+            "question": "B. Sentence Patterns - 1. Read and match.",
             "pairs": [
               {
-                "left": "What do",
-                "right": "you do at break time?"
+                "left": "1. What do",
+                "right": "d. you do at break time?"
               },
               {
-                "left": "I play",
-                "right": "basketball at break time."
+                "left": "2. I play",
+                "right": "a. basketball at break time."
               },
               {
-                "left": "I chat with",
-                "right": "my classmates at break time."
+                "left": "3. I chat with",
+                "right": "c. my classmates at break time."
               },
               {
-                "left": "I do word puzzles",
-                "right": "at break time."
+                "left": "4. I do word puzzles",
+                "right": "b. at break time."
               }
             ]
           }
@@ -85,42 +91,47 @@
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. I play [[basketball]] at break time.",
-            "correct_answer": "basketball"
+            "question": "B. Sentence Patterns - 2. Look, complete and read:\n1. I play ___ at break time.",
+            "correct_answer": "basketball",
+            "choices": ["basketball", "table tennis", "badminton", "football"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "2. I [[play table tennis]] at break time.",
-            "correct_answer": "play table tennis"
+            "question": "B. Sentence Patterns - 2. Look, complete and read:\n2. I ___ at break time.",
+            "correct_answer": "play table tennis",
+            "choices": ["play table tennis", "play badminton", "play football", "play basketball"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "3. A: [[What]] do you do at break time?\nB: I [[chat]] with my friends.",
-            "correct_answer": "What"
+            "question": "B. Sentence Patterns - 2. Look, complete and read:\n3. A: What do you do at break time?\nB: I ___ with my friends.",
+            "correct_answer": "chat",
+            "choices": ["chat", "play", "do", "watch"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "4. A: What [[do you do]] at break time?\nB: I [[play football]].",
-            "correct_answer": "do you do"
+            "question": "B. Sentence Patterns - 2. Look, complete and read:\n4. A: What do you do at break time?\nB: I ___ football.",
+            "correct_answer": "play",
+            "choices": ["play", "do", "chat", "sing"]
           }
         },
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "at break time / play chess / I",
+            "question": "B. Sentence Patterns - 3. Make sentences:\nat break time / play chess / I",
             "words": [
               "I",
               "play",
               "chess",
               "at",
               "break",
-              "time."
+              "time",
+              "."
             ],
             "correct_sentence": "I play chess at break time."
           }
@@ -128,14 +139,15 @@
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "play football / at / I / break time",
+            "question": "B. Sentence Patterns - 3. Make sentences:\nplay football / at / I / break time",
             "words": [
               "I",
               "play",
               "football",
               "at",
               "break",
-              "time."
+              "time",
+              "."
             ],
             "correct_sentence": "I play football at break time."
           }
@@ -143,7 +155,7 @@
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "do you do / break time / at / What",
+            "question": "B. Sentence Patterns - 3. Make sentences:\ndo you do / break time / at / What",
             "words": [
               "What",
               "do",
@@ -151,7 +163,8 @@
               "do",
               "at",
               "break",
-              "time?"
+              "time",
+              "?"
             ],
             "correct_sentence": "What do you do at break time?"
           }
@@ -159,14 +172,15 @@
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "play badminton / I / break time / at",
+            "question": "B. Sentence Patterns - 3. Make sentences:\nplay badminton / I / break time / at",
             "words": [
               "I",
               "play",
               "badminton",
               "at",
               "break",
-              "time."
+              "time",
+              "."
             ],
             "correct_sentence": "I play badminton at break time."
           }
@@ -174,23 +188,23 @@
         {
           "type": "matching",
           "metadata_json": {
-            "question": "Read and match.",
+            "question": "D. Reading - 1. Read and match.",
             "pairs": [
               {
-                "left": "My name is Minh. I play basketball at break time.",
-                "right": "basketball"
+                "left": "1. My name is Minh. I play basketball at break time.",
+                "right": "b. basketball"
               },
               {
-                "left": "I am Ben. I play table tennis at break time.",
-                "right": "table tennis"
+                "left": "2. I am Ben. I play table tennis at break time.",
+                "right": "d. table tennis"
               },
               {
-                "left": "Hello. I am Mary. I do word puzzles at break time.",
-                "right": "word puzzles"
+                "left": "3. Hello. I am Mary. I do word puzzles at break time.",
+                "right": "a. word puzzles"
               },
               {
-                "left": "Hi. I am Lucy. I play badminton at break time.",
-                "right": "badminton"
+                "left": "4. Hi. I am Lucy. I play badminton at break time.",
+                "right": "c. badminton"
               }
             ]
           }
@@ -198,43 +212,65 @@
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "Hello. My [[name]] is Minh. I like word puzzles and sports. I [[play]] volleyball, badminton and basketball [[at]] break time. I chat [[with]] my friends, too. What [[do]] you do at break time?",
-            "correct_answer": "name"
+            "question": "D. Reading - 2. Read and complete:\n\"Hello. My (1) ___ is Minh.\"",
+            "correct_answer": "name",
+            "choices": ["name", "school", "friend", "class"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. I play [[football]] at break time.",
-            "correct_answer": "football"
+            "question": "D. Reading - 2. Read and complete:\n\"I (2) ___ volleyball, badminton and basketball at break time.\"",
+            "correct_answer": "play",
+            "choices": ["play", "do", "like", "make"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "2. I play [[badminton]] at break time.",
-            "correct_answer": "badminton"
+            "question": "D. Reading - 2. Read and complete:\n\"I chat (3) ___ my friends, too.\"",
+            "correct_answer": "with",
+            "choices": ["with", "at", "to", "for"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "3. I play [[chess]] at break time.",
-            "correct_answer": "chess"
+            "question": "D. Reading - 2. Read and complete:\n\"What (4) ___ you do at break time?\"",
+            "correct_answer": "do",
+            "choices": ["do", "are", "have", "can"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "4. I play [[volleyball at break time]].",
-            "correct_answer": "volleyball at break time"
+            "question": "E. Writing - 1. Look and write:\n1. I play ___ at break time.",
+            "correct_answer": "football",
+            "choices": ["football", "basketball", "volleyball", "badminton"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "5. I [[chat with my friends at break time]].",
-            "correct_answer": "chat with my friends at break time"
+            "question": "E. Writing - 1. Look and write:\n2. I play ___ at break time.",
+            "correct_answer": "badminton",
+            "choices": ["badminton", "football", "table tennis", "chess"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n3. I play ___ at break time.",
+            "correct_answer": "chess",
+            "choices": ["chess", "word puzzles", "badminton", "basketball"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n4. I play ___ at break time.",
+            "correct_answer": "volleyball",
+            "choices": ["volleyball", "football", "basketball", "table tennis"]
           }
         }
       ]

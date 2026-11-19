@@ -242,7 +242,9 @@ export function AssessmentRenderer({ questions, mode, onComplete, timerSeconds, 
         const correctAnswer = currentQuestion.correct_word || currentQuestion.correct_answer;
 
         if (mcChoices.length === 0 && correctAnswer) {
-          const qText = currentQuestion.question || "";
+          let qText = currentQuestion.question || "";
+          // Strip any accidental [[answer]] to avoid leaking answer on UI!
+          qText = qText.replace(/\[\[(.*?)\]\]/g, '___');
           const placeholderRegex = /▢|___|__/g;
           const textSegments = qText.split(placeholderRegex);
           if (textSegments.length === 1) {
@@ -260,7 +262,8 @@ export function AssessmentRenderer({ questions, mode, onComplete, timerSeconds, 
           );
         }
 
-        const mcQuestion = [currentQuestion.instruction, currentQuestion.question].filter(Boolean).join('\n');
+        let mcQuestion = [currentQuestion.instruction, currentQuestion.question].filter(Boolean).join('\n');
+        mcQuestion = mcQuestion.replace(/\[\[(.*?)\]\]/g, '___');
         const mcCorrectIndex = mcChoices.indexOf(correctAnswer);
         return (
           <MultipleChoiceRenderer

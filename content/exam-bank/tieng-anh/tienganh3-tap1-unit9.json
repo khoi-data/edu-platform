@@ -19,79 +19,87 @@
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. Complete and say:\nbl[[ue]]",
-            "correct_answer": "ue"
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nbl___",
+            "correct_answer": "ue",
+            "choices": ["ue", "own"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. Complete and say:\nbr[[own]]",
-            "correct_answer": "own"
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nbr___",
+            "correct_answer": "own",
+            "choices": ["own", "ue"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. The pen is [[blue]].",
-            "correct_answer": "blue"
+            "question": "A. Phonics and Vocabulary - 2. Look, complete and read:\n1. The pen is ___.",
+            "correct_answer": "blue",
+            "choices": ["blue", "orange", "yellow", "black"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "2. The pencil is [[orange]].",
-            "correct_answer": "orange"
+            "question": "A. Phonics and Vocabulary - 2. Look, complete and read:\n2. The pencil is ___.",
+            "correct_answer": "orange",
+            "choices": ["orange", "blue", "yellow", "green"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "3. The school bag is [[yellow]].",
-            "correct_answer": "yellow"
+            "question": "A. Phonics and Vocabulary - 2. Look, complete and read:\n3. The school bag is ___.",
+            "correct_answer": "yellow",
+            "choices": ["yellow", "orange", "blue", "brown"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "4. The erasers are [[black]].",
-            "correct_answer": "black"
+            "question": "A. Phonics and Vocabulary - 2. Look, complete and read:\n4. The erasers are ___.",
+            "correct_answer": "black",
+            "choices": ["black", "green", "brown", "blue"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "5. The notebooks are [[green]].",
-            "correct_answer": "green"
+            "question": "A. Phonics and Vocabulary - 2. Look, complete and read:\n5. The notebooks are ___.",
+            "correct_answer": "green",
+            "choices": ["green", "black", "orange", "yellow"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "6. The pencil cases are [[brown]].",
-            "correct_answer": "brown"
+            "question": "A. Phonics and Vocabulary - 2. Look, complete and read:\n6. The pencil cases are ___.",
+            "correct_answer": "brown",
+            "choices": ["brown", "black", "green", "blue"]
           }
         },
         {
           "type": "matching",
           "metadata_json": {
-            "question": "Read and match.",
+            "question": "B. Sentence Patterns - 1. Read and match.",
             "pairs": [
               {
-                "left": "It is",
-                "right": "black."
+                "left": "1. It is",
+                "right": "b. black."
               },
               {
-                "left": "What colour",
-                "right": "is it?"
+                "left": "2. What colour",
+                "right": "d. is it?"
               },
               {
-                "left": "They",
-                "right": "are green."
+                "left": "3. They",
+                "right": "a. are green."
               },
               {
-                "left": "What colour are",
-                "right": "they?"
+                "left": "4. What colour are",
+                "right": "c. they?"
               }
             ]
           }
@@ -99,23 +107,23 @@
         {
           "type": "matching",
           "metadata_json": {
-            "question": "Read and match.",
+            "question": "B. Sentence Patterns - 2. Read and match.",
             "pairs": [
               {
-                "left": "What is this?",
-                "right": "It's my notebook."
+                "left": "1. What is this?",
+                "right": "c. It's my notebook."
               },
               {
-                "left": "Is this your school bag?",
-                "right": "Yes, it is."
+                "left": "2. Is this your school bag?",
+                "right": "d. Yes, it is."
               },
               {
-                "left": "What colour is the pen?",
-                "right": "It's orange."
+                "left": "3. What colour is the pen?",
+                "right": "a. It's orange."
               },
               {
-                "left": "What colour are the erasers?",
-                "right": "They're brown."
+                "left": "4. What colour are the erasers?",
+                "right": "b. They're brown."
               }
             ]
           }
@@ -123,13 +131,14 @@
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "are / the pencils / What colour",
+            "question": "B. Sentence Patterns - 3. Make sentences:\nare / the pencils / What colour",
             "words": [
               "What",
               "colour",
               "are",
               "the",
-              "pencils?"
+              "pencils",
+              "?"
             ],
             "correct_sentence": "What colour are the pencils?"
           }
@@ -137,13 +146,14 @@
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "the ruler / What colour / is",
+            "question": "B. Sentence Patterns - 3. Make sentences:\nthe ruler / What colour / is",
             "words": [
               "What",
               "colour",
               "is",
               "the",
-              "ruler?"
+              "ruler",
+              "?"
             ],
             "correct_sentence": "What colour is the ruler?"
           }
@@ -151,13 +161,14 @@
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "black / is / My school bag",
+            "question": "B. Sentence Patterns - 3. Make sentences:\nblack / is / My school bag",
             "words": [
               "My",
               "school",
               "bag",
               "is",
-              "black."
+              "black",
+              "."
             ],
             "correct_sentence": "My school bag is black."
           }
@@ -165,13 +176,14 @@
         {
           "type": "sentence_reorder",
           "metadata_json": {
-            "question": "green / The / are / pencil cases",
+            "question": "B. Sentence Patterns - 3. Make sentences:\ngreen / The / are / pencil cases",
             "words": [
               "The",
               "pencil",
               "cases",
               "are",
-              "green."
+              "green",
+              "."
             ],
             "correct_sentence": "The pencil cases are green."
           }
@@ -179,23 +191,23 @@
         {
           "type": "matching",
           "metadata_json": {
-            "question": "Read and match.",
+            "question": "D. Reading - 1. Read and match.",
             "pairs": [
               {
-                "left": "This is my pencil. It is black.",
-                "right": "black pencil"
+                "left": "1. This is my pencil. It is black.",
+                "right": "b. black pencil"
               },
               {
-                "left": "This is my pen. It is blue.",
-                "right": "blue pen"
+                "left": "2. This is my pen. It is blue.",
+                "right": "a. blue pen"
               },
               {
-                "left": "These are my erasers. They are red.",
-                "right": "red erasers"
+                "left": "3. These are my erasers. They are red.",
+                "right": "d. red erasers"
               },
               {
-                "left": "These are my books. They are yellow.",
-                "right": "yellow books"
+                "left": "4. These are my books. They are yellow.",
+                "right": "c. yellow books"
               }
             ]
           }
@@ -203,36 +215,65 @@
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "This is my school bag. It is [[brown]]. That is my pen. [[It is]] black. These [[are]] my pencils. [[They are]] orange. [[And]] these are my erasers. They are green.",
-            "correct_answer": "brown"
+            "question": "D. Reading - 2. Read and complete:\n\"This is my school bag. It is (1) ___.\"",
+            "correct_answer": "brown",
+            "choices": ["brown", "black", "orange", "green"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "1. This is my [[ruler]]. It is [[yellow]].",
-            "correct_answer": "ruler"
+            "question": "D. Reading - 2. Read and complete:\n\"That is my pen. (2) ___ black.\"",
+            "correct_answer": "It is",
+            "choices": ["It is", "They are", "This is", "These are"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "2. This is my [[pencil case]]. It is [[orange]].",
-            "correct_answer": "pencil case"
+            "question": "D. Reading - 2. Read and complete:\n\"These (3) ___ my pencils. They are orange.\"",
+            "correct_answer": "are",
+            "choices": ["are", "is", "have", "do"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "3. These are my [[notebooks]]. They are [[green]].",
-            "correct_answer": "notebooks"
+            "question": "D. Reading - 2. Read and complete:\n\"And these are my erasers. (4) ___ green.\"",
+            "correct_answer": "They are",
+            "choices": ["They are", "It is", "They have", "It has"]
           }
         },
         {
           "type": "fill_blank",
           "metadata_json": {
-            "question": "4. These are my [[erasers]]. They are [[red]].",
-            "correct_answer": "erasers"
+            "question": "E. Writing - 1. Look and write:\n1. This is my ruler. It is ___.",
+            "correct_answer": "yellow",
+            "choices": ["yellow", "orange", "green", "red"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n2. This is my pencil case. It is ___.",
+            "correct_answer": "orange",
+            "choices": ["orange", "yellow", "green", "red"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n3. These are my notebooks. They are ___.",
+            "correct_answer": "green",
+            "choices": ["green", "red", "yellow", "orange"]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n4. These are my erasers. They are ___.",
+            "correct_answer": "red",
+            "choices": ["red", "green", "orange", "yellow"]
           }
         }
       ]
