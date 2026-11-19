@@ -1,0 +1,724 @@
+[
+  {
+    "bai": 76,
+    "title": "Bài 76: Ôn tập các số trong phạm vi 10 000, 100 000",
+    "book_pages": "107 - 109",
+    "topic": "Chủ đề 16: Ôn tập cuối năm",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-76-1-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Số $26\\;030$ được đọc là gì?",
+        "options": [
+          "Hai mươi sáu nghìn không trăm ba mươi.",
+          "Chín nghìn ba trăm bảy mươi lăm.",
+          "Sáu mươi tư nghìn một trăm linh chín.",
+          "Tám mươi tám nghìn năm trăm bốn mươi tư."
+        ],
+        "correct_index": 0,
+        "explanation": "Số $26\\;030$ gồm 2 chục nghìn, 6 nghìn, 0 trăm, 3 chục, 0 đơn vị. Ta đọc là: Hai mươi sáu nghìn không trăm ba mươi.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-1-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Số $88\\;544$ được đọc là gì?",
+        "options": [
+          "Tám mươi tám nghìn năm trăm bốn mươi tư.",
+          "Tám mươi tám nghìn năm trăm bốn mươi.",
+          "Tám mươi sáu nghìn năm trăm bốn mươi tư.",
+          "Chín mươi nghìn sáu trăm hai mươi mốt."
+        ],
+        "correct_index": 0,
+        "explanation": "Số $88\\;544$ gồm 8 chục nghìn, 8 nghìn, 5 trăm, 4 chục, 4 đơn vị. Ta đọc là: Tám mươi tám nghìn năm trăm bốn mươi tư.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-1-3",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Số $9\\;375$ được đọc là gì?",
+        "options": [
+          "Chín nghìn ba trăm bảy mươi lăm.",
+          "Chín nghìn ba trăm bảy mươi.",
+          "Sáu mươi tư nghìn một trăm linh chín.",
+          "Hai mươi sáu nghìn không trăm ba mươi."
+        ],
+        "correct_index": 0,
+        "explanation": "Số $9\\;375$ gồm 9 nghìn, 3 trăm, 7 chục, 5 đơn vị. Ta đọc là: Chín nghìn ba trăm bảy mươi lăm.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-1-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Số $90\\;621$ được đọc là gì?",
+        "options": [
+          "Chín mươi nghìn sáu trăm hai mươi mốt.",
+          "Tám mươi tám nghìn năm trăm bốn mươi tư.",
+          "Chín mươi nghìn sáu trăm mười hai.",
+          "Sáu mươi tư nghìn một trăm linh chín."
+        ],
+        "correct_index": 0,
+        "explanation": "Số $90\\;621$ gồm 9 chục nghìn, 0 nghìn, 6 trăm, 2 chục, 1 đơn vị. Ta đọc là: Chín mươi nghìn sáu trăm hai mươi mốt.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-1-5",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Số $64\\;109$ được đọc là gì?",
+        "options": [
+          "Sáu mươi tư nghìn một trăm linh chín.",
+          "Sáu mươi tư nghìn một trăm chín mươi.",
+          "Chín mươi nghìn sáu trăm hai mươi mốt.",
+          "Chín nghìn ba trăm bảy mươi lăm."
+        ],
+        "correct_index": 0,
+        "explanation": "Số $64\\;109$ gồm 6 chục nghìn, 4 nghìn, 1 trăm, 0 chục, 9 đơn vị. Ta đọc là: Sáu mươi tư nghìn một trăm linh chín.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-2-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2a.** Viết số thích hợp vào chỗ chấm:\\n$5\\;897\\;; 5\\;898\\;; 5\\;899\\;; \\ldots\\;; 5\\;901\\;; \\ldots\\;; \\ldots\\;; 5\\;904$. \\n(Điền số thích hợp vào chỗ trống thứ nhất thay cho dấu chấm lửng đầu tiên)",
+        "options": [
+          "5 900",
+          "5 902",
+          "5 903",
+          "5 896"
+        ],
+        "correct_index": 0,
+        "explanation": "Dãy số tăng dần liên tiếp mỗi đơn vị: $5\\;897$, $5\\;898$, $5\\;899$, $5\\;900$, $5\\;901$, $5\\;902$, $5\\;903$, $5\\;904$. Vậy số cần điền là $5\\;900$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-2-b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2b.** Viết số thích hợp vào chỗ chấm:\\n$26\\;650\\;; 26\\;660\\;; \\ldots\\;; 26\\;680\\;; \\ldots\\;; 26\\;700\\;; \\ldots$. \\n(Số liền sau $26\\;660$ là bao nhiêu?)",
+        "options": [
+          "26 670",
+          "26 661",
+          "26 690",
+          "26 710"
+        ],
+        "correct_index": 0,
+        "explanation": "Dãy số đếm thêm 10: $26\\;650$, $26\\;660$, $26\\;670$, $26\\;680$, $26\\;690$, $26\\;700$, $26\\;710$. Số cần điền vào chỗ chấm thứ nhất là $26\\;670$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-2-c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2c.** Viết số thích hợp vào chỗ chấm:\\n$99\\;400\\;; \\ldots\\;; 99\\;600\\;; 99\\;700\\;; 99\\;800\\;; \\ldots\\;; \\ldots$. \\n(Số liền trước $99\\;600$ là bao nhiêu?)",
+        "options": [
+          "99 500",
+          "99 410",
+          "99 300",
+          "99 610"
+        ],
+        "correct_index": 0,
+        "explanation": "Dãy số đếm thêm 100: $99\\;400$, $99\\;500$, $99\\;600$, $99\\;700$, $99\\;800$, $99\\;900$, $100\\;000$. Số cần điền vào chỗ chấm thứ nhất là $99\\;500$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-3-a1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3a (ý 1).** Điền dấu thích hợp ($>; <; =$) vào ô trống:\\n$8\\;578 \\;\\square\\; 8\\;587$",
+        "options": [
+          "<",
+          ">",
+          "=",
+          "Không xác định"
+        ],
+        "correct_index": 0,
+        "explanation": "So sánh hai số có cùng số nghìn và số trăm ($8\\;500$). Xét hàng chục: $7 < 8$, vậy $8\\;578 < 8\\;587$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-3-a2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3a (ý 2).** Điền dấu thích hợp ($>; <; =$) vào ô trống:\\n$9\\;450 \\;\\square\\; 9\\;399$",
+        "options": [
+          ">",
+          "<",
+          "=",
+          "Không xác định"
+        ],
+        "correct_index": 0,
+        "explanation": "So sánh hai số có cùng số nghìn ($9$). Xét hàng trăm: $4 > 3$, vậy $9\\;450 > 9\\;399$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-3-b1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3b (ý 1).** Điền dấu thích hợp ($>; <; =$) vào ô trống:\\n$10\\;000 \\;\\square\\; 9\\;999$",
+        "options": [
+          ">",
+          "<",
+          "=",
+          "Không xác định"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $10\\;000$ là số có 5 chữ số, số $9\\;999$ là số có 4 chữ số. Số có nhiều chữ số hơn thì lớn hơn, vậy $10\\;000 > 9\\;999$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-3-b2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3b (ý 2).** Điền dấu thích hợp ($>; <; =$) vào ô trống:\\n$30\\;870 \\;\\square\\; 31\\;000$",
+        "options": [
+          "<",
+          ">",
+          "=",
+          "Không xác định"
+        ],
+        "correct_index": 0,
+        "explanation": "So sánh hai số có cùng hàng chục nghìn ($3$). Xét hàng nghìn: $0 < 1$, vậy $30\\;870 < 31\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-3-c1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3c (ý 1).** Điền dấu thích hợp ($>; <; =$) vào ô trống:\\n$85\\;605 \\;\\square\\; 85\\;610$",
+        "options": [
+          "<",
+          ">",
+          "=",
+          "Không xác định"
+        ],
+        "correct_index": 0,
+        "explanation": "So sánh hai số có cùng hàng chục nghìn, nghìn, trăm ($85\\;600$). Xét hàng chục: $0 < 1$, vậy $85\\;605 < 85\\;610$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-3-c2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3c (ý 2).** Điền dấu thích hợp ($>; <; =$) vào ô trống:\\n$70\\;376 \\;\\square\\; 70\\;376$",
+        "options": [
+          "=",
+          ">",
+          "<",
+          "Không xác định"
+        ],
+        "correct_index": 0,
+        "explanation": "Hai số hoàn toàn giống nhau ở mọi hàng nên chúng bằng nhau: $70\\;376 = 70\\;376$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-4-a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4a.** Cho biết: Cá mập voi cân nặng $21\\;000\\text{ kg}$; Cá nhám phơi nắng cân nặng $2\\;200\\text{ kg}$; Cá mập hổ cân nặng $3\\;100\\text{ kg}$; Cá đuối khổng lồ cân nặng $2\\;900\\text{ kg}$. Loại cá nặng nhất và nhẹ nhất lần lượt là gì?",
+        "options": [
+          "Cá mập voi nặng nhất, Cá nhám phơi nắng nhẹ nhất.",
+          "Cá mập voi nặng nhất, Cá mập hổ nhẹ nhất.",
+          "Cá mập hổ nặng nhất, Cá nhám phơi nắng nhẹ nhất.",
+          "Cá đuối khổng lồ nặng nhất, Cá nhám phơi nắng nhẹ nhất."
+        ],
+        "correct_index": 0,
+        "explanation": "So sánh các cân nặng: $2\\;200 < 2\\;900 < 3\\;100 < 21\\;000$. Số lớn nhất là $21\\;000$ (Cá mập voi), số bé nhất là $2\\;200$ (Cá nhám phơi nắng).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-4-b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4b.** Tên các loại cá viết theo thứ tự cân nặng từ nhẹ nhất đến nặng nhất là:",
+        "options": [
+          "Cá nhám phơi nắng, Cá đuối khổng lồ, Cá mập hổ, Cá mập voi.",
+          "Cá mập voi, Cá mập hổ, Cá đuối khổng lồ, Cá nhám phơi nắng.",
+          "Cá nhám phơi nắng, Cá mập hổ, Cá đuối khổng lồ, Cá mập voi.",
+          "Cá đuối khổng lồ, Cá nhám phơi nắng, Cá mập hổ, Cá mập voi."
+        ],
+        "correct_index": 0,
+        "explanation": "Sắp xếp cân nặng từ bé đến lớn: $2\\;200\\text{ kg}$ (Cá nhám phơi nắng) $\\to 2\\;900\\text{ kg}$ (Cá đuối khổng lồ) $\\to 3\\;100\\text{ kg}$ (Cá mập hổ) $\\to 21\\;000\\text{ kg}$ (Cá mập voi).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-5",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 5.** Đường từ nhà Tú đến bưu điện huyện dài bao nhiêu mét? Biết đó là số tròn chục bé nhất có năm chữ số khác nhau.",
+        "options": [
+          "10 234 m",
+          "10 000 m",
+          "10 230 m",
+          "12 340 m"
+        ],
+        "correct_index": 2,
+        "explanation": "Số tròn chục bé nhất có 5 chữ số khác nhau: chữ số hàng chục nghìn là 1 (vì khác 0 và bé nhất), hàng nghìn là 0, hàng trăm là 2, hàng chục là 3, hàng đơn vị là 0. Số đó là $10\\;230$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-1-a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1a.** Dưới đây là số khẩu trang bốn công ty may được trong một ngày: Sông Hồng: $39\\;000$, Sông Đà: $43\\;000$, Sông Thao: $51\\;000$, Sông Cửu Long: $29\\;000$. Công ty may được ít khẩu trang nhất và nhiều khẩu trang nhất lần lượt là:",
+        "options": [
+          "Công ty Sông Cửu Long, Công ty Sông Thao",
+          "Công ty Sông Hồng, Công ty Sông Thao",
+          "Công ty Sông Cửu Long, Công ty Sông Đà",
+          "Công ty Sông Hồng, Công ty Sông Cửu Long"
+        ],
+        "correct_index": 0,
+        "explanation": "So sánh các số: $29\\;000 < 39\\;000 < 43\\;000 < 51\\;000$. Số bé nhất là $29\\;000$ (Sông Cửu Long), số lớn nhất là $51\\;000$ (Sông Thao).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-1-b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1b.** Tên các công ty viết theo thứ tự số khẩu trang may được trong một ngày từ nhiều nhất đến ít nhất là:",
+        "options": [
+          "Công ty Sông Thao, Công ty Sông Đà, Công ty Sông Hồng, Công ty Sông Cửu Long.",
+          "Công ty Sông Cửu Long, Công ty Sông Hồng, Công ty Sông Đà, Công ty Sông Thao.",
+          "Công ty Sông Thao, Công ty Sông Hồng, Công ty Sông Đà, Công ty Sông Cửu Long.",
+          "Công ty Sông Đà, Công ty Sông Thao, Công ty Sông Hồng, Công ty Sông Cửu Long."
+        ],
+        "correct_index": 0,
+        "explanation": "Sắp xếp từ lớn đến bé: $51\\;000$ (Sông Thao) $> 43\\;000$ (Sông Đà) $> 39\\;000$ (Sông Hồng) $> 29\\;000$ (Sông Cửu Long).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-2-1",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Viết số $9\\;136$ thành tổng (theo mẫu):\\n$9\\;136 = \\ldots + 100 + 30 + 6$. \\nĐiền số thích hợp vào chỗ chấm:",
+        "options": [
+          "9 000",
+          "900",
+          "90",
+          "9"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $9\\;136$ gồm 9 nghìn, 1 trăm, 3 chục, 6 đơn vị. Viết thành tổng: $9\\;000 + 100 + 30 + 6$. Số cần điền là $9\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-2-2",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Viết số $21\\;058$ thành tổng:\\n$21\\;058 = 20\\;000 + 1\\;000 + 0 + \\ldots + 8$",
+        "options": [
+          "50",
+          "5",
+          "500",
+          "0"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $21\\;058$ có 5 chục nên giá trị là $50$. Phép tính: $20\\;000 + 1\\;000 + 50 + 8$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-2-3",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Viết số $35\\;270$ thành tổng:\\n$35\\;270 = 30\\;000 + 5\\;000 + 200 + \\ldots$",
+        "options": [
+          "70",
+          "7",
+          "700",
+          "0"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $35\\;270$ có 7 chục và 0 đơn vị. Phần thiếu ở tổng là $70$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-2-4",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Viết số $50\\;493$ thành tổng:\\n$50\\;493 = 50\\;000 + \\ldots + 90 + 3$",
+        "options": [
+          "400",
+          "40",
+          "4\\;000",
+          "4"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $50\\;493$ có 4 trăm, giá trị là $400$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-2-5",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Viết số $72\\;364$ thành tổng:\\n$72\\;364 = 70\\;000 + 2\\;000 + 300 + \\ldots + 4$",
+        "options": [
+          "60",
+          "6",
+          "600",
+          "6\\;000"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $72\\;364$ có 6 chục, giá trị là $60$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-3-1",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Tổng $40\\;000 + 3\\;000 + 200 + 60$ bằng số nào?",
+        "options": [
+          "43 260",
+          "40 326",
+          "43 062",
+          "34 260"
+        ],
+        "correct_index": 0,
+        "explanation": "Tổng gồm 4 chục nghìn, 3 nghìn, 2 trăm, 6 chục, 0 đơn vị. Ghép lại ta được số $43\\;260$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-3-2",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Tổng $60\\;000 + 4\\;000 + 300 + 2$ bằng số nào?",
+        "options": [
+          "64 302",
+          "64 032",
+          "63 402",
+          "60 432"
+        ],
+        "correct_index": 0,
+        "explanation": "Tổng gồm 6 chục nghìn, 4 nghìn, 3 trăm, 0 chục, 2 đơn vị. Ghép lại ta được số $64\\;302$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-3-3",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Tổng $9\\;000 + 700 + 20 + 5$ bằng số nào?",
+        "options": [
+          "9 725",
+          "9 275",
+          "7 925",
+          "9 752"
+        ],
+        "correct_index": 0,
+        "explanation": "Tổng gồm 9 nghìn, 7 trăm, 2 chục, 5 đơn vị. Ghép lại ta được số $9\\;725$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-3-4",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Tổng $50\\;000 + 500 + 20 + 8$ bằng số nào?",
+        "options": [
+          "50 528",
+          "50 258",
+          "55\\;028",
+          "50\\;825"
+        ],
+        "correct_index": 0,
+        "explanation": "Tổng gồm 5 chục nghìn, 0 nghìn, 5 trăm, 2 chục, 8 đơn vị. Ghép lại ta được số $50\\;528$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-4-a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4a.** Điền số thích hợp vào chỗ chấm:\\n$7\\;000 + 400 + \\ldots = 7\\;450$",
+        "options": [
+          "50",
+          "5",
+          "500",
+          "0"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có $7\\;000 + 400 = 7\\;400$. Để được $7\\;450$ thì cần cộng thêm $50$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-4-b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4b.** Điền số thích hợp vào chỗ chấm:\\n$50\\;000 + 6\\;000 + 200 + \\ldots = 56\\;207$",
+        "options": [
+          "7",
+          "70",
+          "700",
+          "0"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có $50\\;000 + 6\\;000 + 200 = 56\\;200$. Để được $56\\;207$ thì cần cộng thêm $7$ đơn vị.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-4-c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4c.** Điền số thích hợp vào chỗ chấm:\\n$8\\;000 + 300 + \\ldots = 8\\;303$",
+        "options": [
+          "3",
+          "30",
+          "300",
+          "3\\;000"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có $8\\;000 + 300 = 8\\;300$. Để được $8\\;303$ thì cần cộng thêm $3$ đơn vị.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-4-d",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4d.** Điền số thích hợp vào chỗ chấm:\\n$30\\;000 + 5\\;000 + \\ldots + 90 = 35\\;190$",
+        "options": [
+          "100",
+          "10",
+          "1\\;000",
+          "1000"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có $30\\;000 + 5\\;000 + 90 = 35\\;090$. Để được $35\\;190$ thì hàng trăm còn thiếu là $100$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-5-a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5a.** Số lớn nhất có năm chữ số khác nhau là:",
+        "options": [
+          "98 765",
+          "99 999",
+          "98 999",
+          "97 865"
+        ],
+        "correct_index": 0,
+        "explanation": "Số lớn nhất có 5 chữ số khác nhau cần các chữ số giảm dần từ trái sang phải: hàng chục nghìn là 9, nghìn là 8, trăm là 7, chục là 6, đơn vị là 5. Số đó là $98\\;765$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-76-t2-5-b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5b.** Số tròn chục lớn nhất có năm chữ số khác nhau là:",
+        "options": [
+          "98 735",
+          "98 760",
+          "99 990",
+          "98 750"
+        ],
+        "correct_index": 1,
+        "explanation": "Vì là số tròn chục nên hàng đơn vị là 0. Để số lớn nhất có 5 chữ số khác nhau, các chữ số ở hàng cao nhất phải lớn nhất có thể và khác nhau: $9$, $8$, $7$, $6$, $0$. Vậy số đó là $98\\;760$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-76",
+          "tiet-2"
+        ]
+      }
+    ]
+  }
+]

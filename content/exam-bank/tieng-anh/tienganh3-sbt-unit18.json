@@ -1,0 +1,389 @@
+{
+  "collection": {
+    "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 18: Playing and doing",
+    "subject_slug": "tieng_anh",
+    "grade": 3,
+    "volume": 1,
+    "units": [
+      18
+    ],
+    "exam_type": null,
+    "reference_book": "Global Success - Sách bài tập Tiếng Anh 3",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 18,
+      "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 18: Playing and doing",
+      "questions": [
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nlist___",
+            "correct_answer": "en",
+            "choices": [
+              "en",
+              "ing"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nsing___",
+            "correct_answer": "ing",
+            "choices": [
+              "ing",
+              "en"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n1. Đọc sách: ___",
+            "correct_answer": "reading",
+            "choices": [
+              "reading",
+              "writing",
+              "singing",
+              "dancing"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n2. Viết: ___",
+            "correct_answer": "writing",
+            "choices": [
+              "writing",
+              "reading",
+              "dancing",
+              "listening"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n3. Nhảy múa: ___",
+            "correct_answer": "dancing",
+            "choices": [
+              "dancing",
+              "singing",
+              "playing",
+              "drawing"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n4. Hát: ___",
+            "correct_answer": "singing",
+            "choices": [
+              "singing",
+              "dancing",
+              "reading",
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n5. Nghe nhạc: ___",
+            "correct_answer": "listening",
+            "choices": [
+              "listening",
+              "watching",
+              "reading",
+              "playing"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n1. He's ___ chess.",
+            "correct_answer": "playing",
+            "choices": [
+              "playing",
+              "drawing",
+              "watching",
+              "listening"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n2. She's ___ a picture.",
+            "correct_answer": "drawing",
+            "choices": [
+              "drawing",
+              "writing",
+              "singing",
+              "playing"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n3. They are ___ TV.",
+            "correct_answer": "watching",
+            "choices": [
+              "watching",
+              "listening",
+              "reading",
+              "playing"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n4. I'm listening to ___.",
+            "correct_answer": "music",
+            "choices": [
+              "music",
+              "TV",
+              "book",
+              "song"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and choose:\n1. What are you doing? - I'm ___ a book.",
+            "correct_answer": "reading",
+            "choices": [
+              "reading",
+              "read",
+              "reads",
+              "to read"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and choose:\n2. She's ___ to music.",
+            "correct_answer": "listening",
+            "choices": [
+              "listening",
+              "listen",
+              "listens",
+              "to listen"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and choose:\n3. What is he doing? - He's ___ chess.",
+            "correct_answer": "playing",
+            "choices": [
+              "playing",
+              "play",
+              "plays",
+              "to play"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and choose:\n4. They are ___ in the room.",
+            "correct_answer": "dancing",
+            "choices": [
+              "dancing",
+              "dance",
+              "dances",
+              "to dance"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and match.",
+            "pairs": [
+              {
+                "left": "1. What are you doing?",
+                "right": "b. I'm writing."
+              },
+              {
+                "left": "2. What is she doing?",
+                "right": "d. She's singing."
+              },
+              {
+                "left": "3. What is he doing?",
+                "right": "a. He's drawing a picture."
+              },
+              {
+                "left": "4. What are they doing?",
+                "right": "c. They are playing chess."
+              }
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\na book / reading / I'm",
+            "words": [
+              "I'm",
+              "reading",
+              "a",
+              "book",
+              "."
+            ],
+            "correct_sentence": "I'm reading a book."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nto music / listening / I'm",
+            "words": [
+              "I'm",
+              "listening",
+              "to",
+              "music",
+              "."
+            ],
+            "correct_sentence": "I'm listening to music."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nwith my friend / playing chess / I'm",
+            "words": [
+              "I'm",
+              "playing",
+              "chess",
+              "with",
+              "my",
+              "friend",
+              "."
+            ],
+            "correct_sentence": "I'm playing chess with my friend."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nin the kitchen / What are you doing",
+            "words": [
+              "What",
+              "are",
+              "you",
+              "doing",
+              "in",
+              "the",
+              "kitchen",
+              "?"
+            ],
+            "correct_sentence": "What are you doing in the kitchen?"
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Look, read and choose:\n1. Nam is ___ a picture.",
+            "correct_answer": "drawing",
+            "choices": [
+              "drawing",
+              "writing",
+              "singing",
+              "listening"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Look, read and choose:\n2. Lucy is ___ to music.",
+            "correct_answer": "listening",
+            "choices": [
+              "listening",
+              "watching",
+              "reading",
+              "dancing"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Look, read and choose:\n3. Mary is ___ a book.",
+            "correct_answer": "reading",
+            "choices": [
+              "reading",
+              "drawing",
+              "playing",
+              "writing"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Look, read and choose:\n4. Bill is ___ a song.",
+            "correct_answer": "writing",
+            "choices": [
+              "writing",
+              "reading",
+              "drawing",
+              "watching"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n1. What is he doing? - He's ___.",
+            "correct_answer": "playing chess",
+            "choices": [
+              "playing chess",
+              "drawing a picture",
+              "listening to music",
+              "reading a book"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n2. Where are you? - I'm in the ___.\nWhat are you doing? - I'm listening to music.",
+            "correct_answer": "bedroom",
+            "choices": [
+              "bedroom",
+              "kitchen",
+              "living room",
+              "garden"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n3. Where is she? - She's in the living room.\nWhat is she doing? - I'm ___.",
+            "correct_answer": "drawing",
+            "choices": [
+              "drawing",
+              "singing",
+              "dancing",
+              "reading"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

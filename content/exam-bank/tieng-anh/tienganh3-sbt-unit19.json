@@ -1,0 +1,336 @@
+{
+  "collection": {
+    "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 19: Outdoor activities",
+    "subject_slug": "tieng_anh",
+    "grade": 3,
+    "volume": 1,
+    "units": [
+      19
+    ],
+    "exam_type": null,
+    "reference_book": "Global Success - Sách bài tập Tiếng Anh 3",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 19,
+      "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 19: Outdoor activities",
+      "questions": [
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\n___y (bay/thả diều)",
+            "correct_answer": "fl",
+            "choices": [
+              "fl",
+              "pl"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\n___ay (chơi)",
+            "correct_answer": "pl",
+            "choices": [
+              "pl",
+              "fl"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n1. Trượt patin: ___",
+            "correct_answer": "skating",
+            "choices": [
+              "skating",
+              "cycling",
+              "painting",
+              "running"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n2. Đi xe đạp: ___",
+            "correct_answer": "cycling",
+            "choices": [
+              "cycling",
+              "skating",
+              "running",
+              "skipping"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n3. Vẽ tranh: ___",
+            "correct_answer": "painting",
+            "choices": [
+              "painting",
+              "cycling",
+              "running",
+              "flying"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n4. Chạy bộ: ___",
+            "correct_answer": "running",
+            "choices": [
+              "running",
+              "skating",
+              "skipping",
+              "cycling"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n5. Nhảy dây: ___",
+            "correct_answer": "skipping",
+            "choices": [
+              "skipping",
+              "running",
+              "skating",
+              "painting"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n1. Mai is ___ (đi xe đạp).",
+            "correct_answer": "cycling",
+            "choices": [
+              "cycling",
+              "skating",
+              "painting",
+              "running"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n2. Nam is ___ (trượt patin).",
+            "correct_answer": "skating",
+            "choices": [
+              "skating",
+              "cycling",
+              "running",
+              "skipping"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n3. Lucy is ___ (vẽ tranh).",
+            "correct_answer": "painting",
+            "choices": [
+              "painting",
+              "cycling",
+              "skating",
+              "running"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n4. Ben is ___ (chạy bộ).",
+            "correct_answer": "running",
+            "choices": [
+              "running",
+              "cycling",
+              "skating",
+              "skipping"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. What's he doing?",
+                "right": "b. He's cycling in the park."
+              },
+              {
+                "left": "2. What's she doing?",
+                "right": "c. She's skating."
+              },
+              {
+                "left": "3. Where are they?",
+                "right": "d. They are in the garden."
+              },
+              {
+                "left": "4. What are they doing?",
+                "right": "a. They are flying kites."
+              }
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nin the park / Minh is cycling",
+            "words": [
+              "Minh",
+              "is",
+              "cycling",
+              "in",
+              "the",
+              "park",
+              "."
+            ],
+            "correct_sentence": "Minh is cycling in the park."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nplaying volleyball / Lucy is",
+            "words": [
+              "Lucy",
+              "is",
+              "playing",
+              "volleyball",
+              "."
+            ],
+            "correct_sentence": "Lucy is playing volleyball."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\ndoing / What's Mary",
+            "words": [
+              "What's",
+              "Mary",
+              "doing",
+              "?"
+            ],
+            "correct_sentence": "What's Mary doing?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\na picture / She's painting",
+            "words": [
+              "She's",
+              "painting",
+              "a",
+              "picture",
+              "."
+            ],
+            "correct_sentence": "She's painting a picture."
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. Where is Nam?",
+                "right": "b. He is in the park."
+              },
+              {
+                "left": "2. What is he doing?",
+                "right": "a. He is flying a kite."
+              }
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and answer:\n1. Where is Nam?",
+            "correct_answer": "He is in the park.",
+            "choices": [
+              "He is in the park.",
+              "He is at home.",
+              "He is in the school.",
+              "He is at the zoo."
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and answer:\n2. What is Mai doing?",
+            "correct_answer": "She is cycling.",
+            "choices": [
+              "She is cycling.",
+              "She is skating.",
+              "She is running.",
+              "She is skipping."
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and answer:\n3. What is Nam doing?",
+            "correct_answer": "He is flying a kite.",
+            "choices": [
+              "He is flying a kite.",
+              "He is playing football.",
+              "He is running.",
+              "He is skating."
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and answer:\n4. What is Lucy doing?",
+            "correct_answer": "She is playing volleyball.",
+            "choices": [
+              "She is playing volleyball.",
+              "She is cycling.",
+              "She is flying a kite.",
+              "She is painting."
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n1. Where's Nam? - He's in the park. He's ___ (thả diều).",
+            "correct_answer": "flying a kite",
+            "choices": [
+              "flying a kite",
+              "cycling",
+              "skating",
+              "running"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n2. Where's Ben? - He's in the park. He's ___ (trượt patin).",
+            "correct_answer": "skating",
+            "choices": [
+              "skating",
+              "cycling",
+              "running",
+              "painting"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

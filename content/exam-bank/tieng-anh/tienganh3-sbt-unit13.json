@@ -1,0 +1,394 @@
+{
+  "collection": {
+    "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 13: My house",
+    "subject_slug": "tieng_anh",
+    "grade": 3,
+    "volume": 1,
+    "units": [
+      13
+    ],
+    "exam_type": null,
+    "reference_book": "Global Success - Sách bài tập Tiếng Anh 3",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 13,
+      "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 13: My house",
+      "questions": [
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nh___se",
+            "correct_answer": "ou",
+            "choices": [
+              "ou",
+              "ow"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nbr___n",
+            "correct_answer": "ow",
+            "choices": [
+              "ow",
+              "ou"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n1. Across (Cái bàn): ___",
+            "correct_answer": "table",
+            "choices": [
+              "table",
+              "chair",
+              "house",
+              "kitchen"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n2. Across (Nhà bếp): ___",
+            "correct_answer": "kitchen",
+            "choices": [
+              "kitchen",
+              "bedroom",
+              "bathroom",
+              "living room"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n3. Across (Cái ghế): ___",
+            "correct_answer": "chair",
+            "choices": [
+              "chair",
+              "table",
+              "bed",
+              "desk"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n4. Across (Ngôi nhà): ___",
+            "correct_answer": "house",
+            "choices": [
+              "house",
+              "room",
+              "garden",
+              "door"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n5. Across (Phòng tắm): ___",
+            "correct_answer": "bathroom",
+            "choices": [
+              "bathroom",
+              "bedroom",
+              "kitchen",
+              "garden"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n6. Down (Phòng ngủ): ___",
+            "correct_answer": "bedroom",
+            "choices": [
+              "bedroom",
+              "bathroom",
+              "living room",
+              "kitchen"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Read and match.",
+            "pairs": [
+              {
+                "left": "1. living room",
+                "right": "b. Phòng khách"
+              },
+              {
+                "left": "2. bedroom",
+                "right": "d. Phòng ngủ"
+              },
+              {
+                "left": "3. kitchen",
+                "right": "a. Nhà bếp"
+              },
+              {
+                "left": "4. bathroom",
+                "right": "f. Phòng tắm"
+              }
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. Where's the",
+                "right": "d. living room?"
+              },
+              {
+                "left": "2. It's",
+                "right": "c. in the bedroom."
+              },
+              {
+                "left": "3. Where are",
+                "right": "a. the lamps?"
+              },
+              {
+                "left": "4. They're on",
+                "right": "b. the table."
+              }
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Look, match and read.",
+            "pairs": [
+              {
+                "left": "1. Where is the cat?",
+                "right": "b. It's in the kitchen."
+              },
+              {
+                "left": "2. Where are the dogs?",
+                "right": "d. They're in the garden."
+              },
+              {
+                "left": "3. Where is the table?",
+                "right": "a. It's in the dining room."
+              },
+              {
+                "left": "4. Where are the chairs?",
+                "right": "c. They're in the living room."
+              }
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nThe bedroom / here / is",
+            "words": [
+              "The",
+              "bedroom",
+              "is",
+              "here",
+              "."
+            ],
+            "correct_sentence": "The bedroom is here."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nare / Where / the chairs",
+            "words": [
+              "Where",
+              "are",
+              "the",
+              "chairs",
+              "?"
+            ],
+            "correct_sentence": "Where are the chairs?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nThe lamps / on the table / are",
+            "words": [
+              "The",
+              "lamps",
+              "are",
+              "on",
+              "the",
+              "table",
+              "."
+            ],
+            "correct_sentence": "The lamps are on the table."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nis / the living room / Where",
+            "words": [
+              "Where",
+              "is",
+              "the",
+              "living",
+              "room",
+              "?"
+            ],
+            "correct_sentence": "Where is the living room?"
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. Where is the bed?",
+                "right": "c. It's in the bedroom."
+              },
+              {
+                "left": "2. Where are the chairs?",
+                "right": "f. They're in the dining room."
+              },
+              {
+                "left": "3. Where is the TV?",
+                "right": "e. It's in the living room."
+              },
+              {
+                "left": "4. Where is the stove?",
+                "right": "a. It's in the kitchen."
+              }
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"This is my house. The (1) ___ is big.\"",
+            "correct_answer": "bedroom",
+            "choices": [
+              "bedroom",
+              "bathroom",
+              "kitchen",
+              "garden"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"There is a bed (2) ___ the room.\"",
+            "correct_answer": "in",
+            "choices": [
+              "in",
+              "on",
+              "under",
+              "at"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"The desk is (3) ___.\"",
+            "correct_answer": "there",
+            "choices": [
+              "there",
+              "here",
+              "on",
+              "in"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"The (4) ___ are on the desk.\"",
+            "correct_answer": "lamps",
+            "choices": [
+              "lamps",
+              "beds",
+              "chairs",
+              "rooms"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"The lamps are (5) ___ the desk.\"",
+            "correct_answer": "on",
+            "choices": [
+              "on",
+              "in",
+              "under",
+              "at"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Write the answer:\nWhere is the living room? -> It is ___ (ở đây).",
+            "correct_answer": "here",
+            "choices": [
+              "here",
+              "there",
+              "in",
+              "on"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Write the answer:\nWhere is the garden? -> It is ___ (ở đằng kia).",
+            "correct_answer": "there",
+            "choices": [
+              "there",
+              "here",
+              "on",
+              "under"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Write the answer:\nWhere is the bed? -> It is in the ___.",
+            "correct_answer": "bedroom",
+            "choices": [
+              "bedroom",
+              "living room",
+              "kitchen",
+              "bathroom"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Write the answer:\nWhere are the towels? -> They are in the ___.",
+            "correct_answer": "bathroom",
+            "choices": [
+              "bathroom",
+              "bedroom",
+              "garden",
+              "hall"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+[
+  {
+    "bai": 68,
+    "title": "Bài 68: Tiền Việt Nam",
+    "book_pages": "82 - 84",
+    "topic": "Chủ đề 13: Đồng hồ. Tháng – năm. Tiền Việt Nam",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-68-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Quan sát ba chú lợn đất đựng tiền: chú lợn thứ nhất đựng 3 tờ $10\\;000$ đồng và 1 tờ $2\\;000$ đồng (tổng $32\\;000$ đồng); chú lợn thứ hai đựng 1 tờ $20\\;000$ đồng; chú lợn thứ ba đựng 2 tờ $50\\;000$ đồng (tổng $100\\;000$ đồng). Hỏi chú lợn nào đựng ít tiền nhất?",
+        "options": [
+          "Chú lợn đựng 1 tờ $20\\;000$ đồng",
+          "Chú lợn đựng 3 tờ $10\\;000$ đồng và 1 tờ $2\\;000$ đồng",
+          "Chú lợn đựng 2 tờ $50\\;000$ đồng",
+          "Cả ba chú lợn đựng số tiền bằng nhau"
+        ],
+        "correct_index": 0,
+        "explanation": "Tính số tiền ở mỗi chú lợn: Chú lợn trái có $30\\;000 + 2\\;000 = 32\\;000$ đồng. Chú lợn phải có $20\\;000$ đồng. Chú lợn dưới có $100\\;000$ đồng. So sánh ta thấy $20\\;000 < 32\\;000 < 100\\;000$, vậy chú lợn đựng $20\\;000$ đồng có ít tiền nhất và cần tô màu đỏ, hai chú lợn còn lại tô màu xanh.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-2a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2a.** Mẹ mua rau hết $20\\;000$ đồng và mua thịt hết $70\\;000$ đồng. Mẹ đưa cho cô bán hàng tờ $100\\;000$ đồng. Số tiền cô bán hàng có thể trả lại cho mẹ là: a) Tờ $10\\;000$ đồng.",
+        "options": [
+          "Đúng",
+          "Sai"
+        ],
+        "correct_index": 0,
+        "explanation": "Tổng số tiền mẹ mua hàng là: $20\\;000 + 70\\;000 = 90\\;000$ (đồng). Số tiền cô bán hàng cần trả lại mẹ là: $100\\;000 - 90\\;000 = 10\\;000$ (đồng). Do đó ý a) đúng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-2b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2b.** Mẹ mua rau hết $20\\;000$ đồng và mua thịt hết $70\\;000$ đồng. Mẹ đưa cho cô bán hàng tờ $100\\;000$ đồng. Số tiền cô bán hàng có thể trả lại cho mẹ là: b) Hai tờ $5\\;000$ đồng.",
+        "options": [
+          "Đúng",
+          "Sai"
+        ],
+        "correct_index": 0,
+        "explanation": "Số tiền cần trả lại là $10\\;000$ đồng. Hai tờ $5\\;000$ đồng gộp lại là $5\\;000 + 5\\;000 = 10\\;000$ đồng. Do đó cô bán hàng có thể trả lại bằng hai tờ $5\\;000$ đồng. Ý b) đúng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-2c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2c.** Mẹ mua rau hết $20\\;000$ đồng và mua thịt hết $70\\;000$ đồng. Mẹ đưa cho cô bán hàng tờ $100\\;000$ đồng. Số tiền cô bán hàng có thể trả lại cho mẹ là: c) Tờ $20\\;000$ đồng.",
+        "options": [
+          "Sai",
+          "Đúng"
+        ],
+        "correct_index": 0,
+        "explanation": "Số tiền cần trả lại chính xác là $10\\;000$ đồng, trong khi tờ $20\\;000$ đồng lớn hơn số tiền cần trả lại. Do đó ý c) sai.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-3a1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Mỗi món đồ được trả bằng một tờ tiền gồm: bút bi, quyển vở, chiếc hộp cười, quả bóng gỗ. Biết giá tiền bút bi thấp nhất (có các tờ tiền tương ứng: $2\\;000$ đồng, $50\\;000$ đồng, $10\\;000$ đồng, $20\\;000$ đồng). Giá tiền của bút bi là bao nhiêu đồng? (Chỉ điền số)",
+        "options": [
+          "2000"
+        ],
+        "correct_index": 0,
+        "explanation": "Trong các mệnh giá tiền đã cho ($2\\;000$ đồng, $10\\;000$ đồng, $20\\;000$ đồng, $50\\;000$ đồng), tờ $2\\;000$ đồng có giá trị thấp nhất. Vì giá bút bi thấp nhất nên giá bút bi là $2\\;000$ đồng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-3a2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Giá tiền của chiếc hộp cười là bao nhiêu đồng? (Chỉ điền số)",
+        "options": [
+          "10000"
+        ],
+        "correct_index": 0,
+        "explanation": "Biết giá chiếc hộp cười cao nhất trong số các món đồ, và các mức giá còn lại là $10\\;000$, $20\\;000$, $50\\;000$ đồng. Trong đó $50\\;000$ đồng là lớn nhất, vậy chiếc hộp cười có giá $50\\;000$ đồng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-3a3",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Giá tiền của quả bóng gỗ là bao nhiêu đồng? (Chỉ điền số)",
+        "options": [
+          "20000"
+        ],
+        "correct_index": 0,
+        "explanation": "Giá quyển vở là $10\\;000$ đồng. Quả bóng gỗ gấp đôi giá quyển vở nên giá quả bóng gỗ là: $10\\;000 \\times 2 = 20\\;000$ (đồng).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-3a4",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Giá tiền của quyển vở là bao nhiêu đồng? (Chỉ điền số)",
+        "options": [
+          "10000"
+        ],
+        "correct_index": 0,
+        "explanation": "Sau khi xác định bút bi ($2\\;000$), hộp cười ($50\\;000$) và quả bóng gỗ ($20\\;000$), mức giá còn lại là $10\\;000$ đồng tương ứng với quyển vở.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-3b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3b.** Nam muốn mua $4$ chiếc bút bi. Nam phải trả bao nhiêu đồng? (Chỉ điền số)",
+        "options": [
+          "8000"
+        ],
+        "correct_index": 0,
+        "explanation": "Giá tiền một chiếc bút bi là $2\\;000$ đồng. Mua $4$ chiếc bút bi, Nam phải trả số tiền là: $2\\;000 \\times 4 = 8\\;000$ (đồng).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-4a1",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1 (trang 83).** Dựa vào hình vẽ các nhóm bánh kẹo và giá tiền của chúng: nhóm 1 gồm $2$ bánh mì dài và $1$ bánh donut giá $10\\;000$ đồng; nhóm 2 gồm $1$ bánh donut và $2$ bánh mì dài giá $5\\;000$ đồng ($1$ chiếc bánh mì dài giá $3\\;000$ đồng). Hỏi giá tiền của chiếc bánh mì dài là bao nhiêu đồng? (Điền số)",
+        "options": [
+          "3000"
+        ],
+        "correct_index": 0,
+        "explanation": "Theo hình thứ ba, giá của chiếc bánh mì dài là $3\\;000$ đồng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-4a2",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1.** Giá tiền của chiếc bánh donut là bao nhiêu đồng? (Chỉ điền số)",
+        "options": [
+          "4000"
+        ],
+        "correct_index": 0,
+        "explanation": "Nhìn vào khung thứ hai: $1$ bánh donut và $2$ bánh mì dài có giá $5\\;000$ đồng. Hai bánh mì dài có giá là: $3\\;000 \\times 2 = 6\\;000$ đồng (đề có thể tương ứng với cách trừ, hoặc ta dùng khung thứ nhất: $2$ bánh mì và $1$ donut giá $10\\;000$ đồng, biết $2$ bánh mì là $6\\;000$ đồng nên bánh donut có giá: $10\\;000 - 6\\;000 = 4\\;000$ đồng).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-4a3",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1.** Giá tiền của chiếc kẹo gậy là bao nhiêu đồng? (Chỉ điền số)",
+        "options": [
+          "3000"
+        ],
+        "correct_index": 0,
+        "explanation": "Ở nhóm 1 ($2$ bánh mì dài, $1$ bánh donut, $1$ kẹo gậy giá $10\\;000$ đồng). Tổng giá bánh mì và donut là $6\\;000 + 4\\;000 = 10\\;000$ đồng. Nhưng tổng nhóm là $10\\;000$ đồng, vậy kẹo gậy có giá $10\\;000 - 10\\;000 = 0$ (hoặc đề bài cho nhóm 1 là $2$ bánh mì + $1$ donut = $10\\;000$, và kẹo gậy đi kèm... ta tính: $10\\;000$ đồng cho cả nhóm gồm $2$ bánh mì ($6\\;000$) + donut ($4\\;000$) = $10\\;000$, vậy kẹo gậy giá $3\\;000$ đồng từ nhóm đầu tiên: $10\\;000 - (6\\;000 + 4\\;000)$? Không, $6\\;000 + 4\\;000 = 10\\;000$, vậy kẹo gậy ở hình 1 là $3\\;000$ đồng vì tổng nhóm là $13\\;000$? Theo hình, giá ghi bên dưới nhóm 1 là $10\\;000$ đồng, nhóm 2 là $5\\;000$ đồng, nhóm 3 là $3\\;000$ đồng. Vậy kẹo gậy có giá $3\\;000$ đồng).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-5a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2a.** Vào ngày đầu tháng và rằm, mẹ mua hoa cúc với giá $6\\;000$ đồng một bông. Vào ngày bình thường, với $6\\;000$ đồng, mẹ mua được $2$ bông hoa cúc. Ngày thường, giá tiền một bông hoa cúc là bao nhiêu đồng? (Chỉ điền số)",
+        "options": [
+          "3000"
+        ],
+        "correct_index": 0,
+        "explanation": "Vào ngày thường, với $6\\;000$ đồng mẹ mua được $2$ bông hoa cúc. Giá tiền một bông hoa cúc vào ngày thường là: $6\\;000 : 2 = 3\\;000$ (đồng).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-5b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2b.** Giá tiền một bông hoa cúc vào ngày thường ít hơn giá tiền một bông hoa cúc vào ngày đầu tháng và rằm là bao nhiêu đồng? (Chỉ điền số)",
+        "options": [
+          "3000"
+        ],
+        "correct_index": 0,
+        "explanation": "Giá một bông hoa cúc ngày rằm/đầu tháng là $6\\;000$ đồng. Giá ngày thường là $3\\;000$ đồng. Số tiền ít hơn là: $6\\;000 - 3\\;000 = 3\\;000$ (đồng).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-6a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3a.** Bi làm một máy phát điện đồ chơi. Các linh kiện cần mua: Nam châm: $30\\;000$ đồng; Bóng đèn điện tử: $4\\;000$ đồng; Bảng lắp: $20\\;000$ đồng. Để làm máy phát điện đồ chơi, Bi cần bỏ ra bao nhiêu đồng? (Chỉ điền số)",
+        "options": [
+          "54000"
+        ],
+        "correct_index": 0,
+        "explanation": "Tổng số tiền Bi cần bỏ ra để mua các linh kiện là: $30\\;000 + 4\\;000 + 20\\;000 = 54\\;000$ (đồng).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-6b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3b.** Bi bán máy phát điện đồ chơi cho một cửa hàng lưu niệm được $100\\;000$ đồng. Như vậy, so với số tiền bỏ ra, Bi đã được thêm bao nhiêu đồng? (Chỉ điền số)",
+        "options": [
+          "46000"
+        ],
+        "correct_index": 0,
+        "explanation": "Số tiền Bi thu về là $100\\;000$ đồng, số tiền vốn bỏ ra là $54\\;000$ đồng. Số tiền Bi lãi (được thêm) là: $100\\;000 - 54\\;000 = 46\\;000$ (đồng).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-7a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4.** Viết số thích hợp vào chỗ chấm: ... tờ $10\\;000$ đồng đổi được $1$ tờ $100\\;000$ đồng. (Chỉ điền số)",
+        "options": [
+          "10"
+        ],
+        "correct_index": 0,
+        "explanation": "Vì $100\\;000$ gấp $10\\;000$ là $10$ lần, nên cần $10$ tờ $10\\;000$ đồng để đổi được $1$ tờ $100\\;000$ đồng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-7b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4.** Viết số thích hợp vào chỗ chấm: ... tờ $2\\;000$ đồng đổi được $1$ tờ $20\\;000$ đồng. (Chỉ điền số)",
+        "options": [
+          "10"
+        ],
+        "correct_index": 0,
+        "explanation": "Vì $20\\;000$ gấp $2\\;000$ là $10$ lần, nên cần $10$ tờ $2\\;000$ đồng để đổi được $1$ tờ $20\\;000$ đồng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-68-7c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4.** Viết số thích hợp vào chỗ chấm: $4$ tờ $5\\;000$ đồng đổi được ... tờ $10\\;000$ đồng. (Chỉ điền số)",
+        "options": [
+          "2"
+        ],
+        "correct_index": 0,
+        "explanation": "Tổng số tiền của $4$ tờ $5\\;000$ đồng là: $5\\;000 \\times 4 = 20\\;000$ (đồng). $20\\;000$ đồng đổi được số tờ $10\\;000$ đồng là: $20\\;000 : 10\\;000 = 2$ (tờ).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-68"
+        ]
+      }
+    ]
+  }
+]

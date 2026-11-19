@@ -1,0 +1,505 @@
+[
+  {
+    "bai": 52,
+    "title": "Bài 52: Diện tích hình chữ nhật, diện tích hình vuông",
+    "book_pages": "26 - 31",
+    "topic": "Chủ đề 9: Chu vi, diện tích một số hình phẳng",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-52-1-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Hoàn thành bảng sau cho hình chữ nhật **DCEG** (xem hình vẽ trang 26):\n- Chiều dài: $9 - 2 = 7$ (cm)\n- Chiều rộng: $5$ cm\n- Diện tích hình chữ nhật DCEG là: \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Dựa vào hình vẽ, hình chữ nhật DCEG có chiều dài bằng chiều dài cạnh AB trừ đi đoạn AD, tức là $9 - 2 = 7\\;\\text{cm}$. Chiều rộng là độ dài cạnh DC hoặc GE bằng $5\\;\\text{cm}$. Diện tích hình chữ nhật DCEG là: $7 \\times 5 = 35\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-1-2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Hoàn thành bảng sau cho hình chữ nhật **ABEG** (xem hình vẽ trang 26):\n- Chiều dài: $9$ cm\n- Chiều rộng: $2 + 5 = 7$ cm\n- Diện tích hình chữ nhật ABEG là: \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Dựa vào hình vẽ, hình chữ nhật ABEG có chiều dài bằng $9\\;\\text{cm}$, chiều rộng bằng tổng đoạn AD và DG, tức là $2 + 5 = 7\\;\\text{cm}$. Diện tích hình chữ nhật ABEG là: $9 \\times 7 = 63\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-1-3",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Một tấm gỗ hình chữ nhật có chiều rộng là $8\\;\\text{cm}$, chiều dài là $17\\;\\text{cm}$. Tính diện tích tấm gỗ đó.",
+        "options": [
+          "$17 \\times 8 = 126\\;(\\text{cm}^2)$",
+          "$17 \\times 8 = 136\\;(\\text{cm}^2)$",
+          "$17 + 8 = 25\\;(\\text{cm}^2)$",
+          "$(17 + 8) \\times 2 = 50\\;(\\text{cm}^2)$"
+        ],
+        "correct_index": 1,
+        "explanation": "Diện tích tấm gỗ hình chữ nhật bằng chiều dài nhân với chiều rộng (cùng đơn vị đo): $17 \\times 8 = 136\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-1-4",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Bu-ra-ti-nô bẻ miếng kẹo sô-cô-la thành bốn phần rồi chia cho bốn bạn (mỗi ô vuông nhỏ có diện tích $1\\;\\text{cm}^2$). Diện tích phần kẹo Dế mèn nhận được là: \\ldots $\\text{cm}^2$.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Đếm số ô vuông nhỏ thuộc phần kẹo của Dế mèn (hình có hình con dế mèn): gồm có 6 ô vuông nhỏ, vậy diện tích là $6\\;\\text{cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-1-5",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Diện tích phần kẹo rô-bốt nhận được là: \\ldots $\\text{cm}^2$.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Đếm số ô vuông nhỏ thuộc phần kẹo của rô-bốt: gồm có 12 ô vuông nhỏ, vậy diện tích là $12\\;\\text{cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-1-6",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Diện tích phần kẹo gà nhận được là: \\ldots $\\text{cm}^2$.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Đếm số ô vuông nhỏ thuộc phần kẹo của gà: gồm có 4 ô vuông nhỏ, vậy diện tích là $4\\;\\text{cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-1-7",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Diện tích phần kẹo Bu-ra-ti-nô nhận được là: \\ldots $\\text{cm}^2$.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Đếm số ô vuông nhỏ thuộc phần kẹo của Bu-ra-ti-nô: gồm có 14 ô vuông nhỏ, vậy diện tích là $14\\;\\text{cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-1-8",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3b.** Nếu chia đều thì mỗi bạn nhận được phần kẹo là bao nhiêu xăng-ti-mét vuông?",
+        "options": [
+          "$8\\;\\text{cm}^2$",
+          "$9\\;\\text{cm}^2$",
+          "$10\\;\\text{cm}^2$",
+          "$12\\;\\text{cm}^2$"
+        ],
+        "correct_index": 1,
+        "explanation": "Tổng diện tích miếng kẹo là: $6 + 12 + 4 + 14 = 36\\;(\\text{cm}^2)$. Nếu chia đều cho 4 bạn, diện tích mỗi phần là: $36 : 4 = 9\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-2-1",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1.** Hoàn thành bảng (Cạnh hình vuông $7\\;\\text{cm}$):\n- Chu vi hình vuông là: \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4: $7 \\times 4 = 28\\;(\\text{cm})$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-2-2",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1.** Hoàn thành bảng (Cạnh hình vuông $7\\;\\text{cm}$):\n- Diện tích hình vuông là: \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Diện tích hình vuông bằng độ dài một cạnh nhân với chính nó: $7 \\times 7 = 49\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-2-3",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1.** Hoàn thành bảng (Cạnh hình vuông $4\\;\\text{cm}$):\n- Chu vi hình vuông là: \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Chu vi hình vuông là: $4 \\times 4 = 16\\;(\\text{cm})$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-2-4",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1.** Hoàn thành bảng (Cạnh hình vuông $4\\;\\text{cm}$):\n- Diện tích hình vuông là: \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Diện tích hình vuông là: $4 \\times 4 = 16\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-2-5",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2a.** Có một tờ giấy hình vuông cạnh $9\\;\\text{cm}$. Tính diện tích tờ giấy hình vuông đó.",
+        "options": [
+          "$81\\;\\text{cm}^2$",
+          "$36\\;\\text{cm}^2$",
+          "$18\\;\\text{cm}^2$",
+          "$72\\;\\text{cm}^2$"
+        ],
+        "correct_index": 0,
+        "explanation": "Diện tích tờ giấy hình vuông là: $9 \\times 9 = 81\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-2-6",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2b.** Nếu cắt đi một hình vuông có cạnh $4\\;\\text{cm}$ của tờ giấy đó thì diện tích phần còn lại của tờ giấy là bao nhiêu?",
+        "options": [
+          "$65\\;\\text{cm}^2$",
+          "$50\\;\\text{cm}^2$",
+          "$16\\;\\text{cm}^2$",
+          "$81\\;\\text{cm}^2$"
+        ],
+        "correct_index": 0,
+        "explanation": "Diện tích hình vuông bị cắt đi là: $4 \\times 4 = 16\\;(\\text{cm}^2)$. Diện tích phần còn lại của tờ giấy là: $81 - 16 = 65\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-2-7",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Ghép bốn tấm bìa trong hình vẽ thành được một hình vuông. Tính diện tích của hình vuông đó (biết mỗi ô vuông nhỏ có cạnh $1\\;\\text{cm}$).",
+        "options": [
+          "$16\\;\\text{cm}^2$",
+          "$25\\;\\text{cm}^2$",
+          "$36\\;\\text{cm}^2$",
+          "$64\\;\\text{cm}^2$"
+        ],
+        "correct_index": 2,
+        "explanation": "Tổng số ô vuông nhỏ của 4 tấm bìa là: $4 + 6 + 6 + 20 = 36$ ô vuông nhỏ. Mỗi ô vuông có diện tích $1\\;\\text{cm}^2$, nên diện tích hình vuông được ghép là $36\\;\\text{cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-2-8",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4.** Một miếng gỗ hình vuông có cạnh $10\\;\\text{cm}$. Bác Chiến đục bỏ một hình vuông ở giữa có cạnh $6\\;\\text{cm}$. Phần gỗ còn lại có diện tích là bao nhiêu?",
+        "options": [
+          "$100\\;\\text{cm}^2$",
+          "$64\\;\\text{cm}^2$",
+          "$36\\;\\text{cm}^2$",
+          "$40\\;\\text{cm}^2$"
+        ],
+        "correct_index": 1,
+        "explanation": "Diện tích miếng gỗ hình vuông lớn là: $10 \\times 10 = 100\\;(\\text{cm}^2)$. Diện tích phần hình vuông bị đục bỏ là: $6 \\times 6 = 36\\;(\\text{cm}^2)$. Diện tích phần gỗ còn lại là: $100 - 36 = 64\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-1",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1a.** Hình $\\mathscr{H}$ gồm hình vuông ABCD và hình chữ nhật DMNP. Biết hình vuông ABCD có cạnh bằng đoạn BC tức là $9\\;\\text{cm}$. Diện tích hình vuông ABCD là:",
+        "options": [
+          "$36\\;\\text{cm}^2$",
+          "$81\\;\\text{cm}^2$",
+          "$18\\;\\text{cm}^2$",
+          "$72\\;\\text{cm}^2$"
+        ],
+        "correct_index": 1,
+        "explanation": "Hình vuông ABCD có cạnh bằng $9\\;\\text{cm}$. Diện tích hình vuông ABCD là: $9 \\times 9 = 81\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-2",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1a.** Hình chữ nhật DMNP có chiều rộng $8\\;\\text{cm}$, chiều dài bằng đoạn PN bằng tổng độ dài DC và CM, tức là $20\\;\\text{cm}$. Diện tích hình chữ nhật DMNP là:",
+        "options": [
+          "$160\\;\\text{cm}^2$",
+          "$140\\;\\text{cm}^2$",
+          "$180\\;\\text{cm}^2$",
+          "$72\\;\\text{cm}^2$"
+        ],
+        "correct_index": 0,
+        "explanation": "Diện tích hình chữ nhật DMNP là: $20 \\times 8 = 160\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-3",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1b.** Tính diện tích hình $\\mathscr{H}$.",
+        "options": [
+          "$160\\;\\text{cm}^2$",
+          "$81\\;\\text{cm}^2$",
+          "$241\\;\\text{cm}^2$",
+          "$221\\;\\text{cm}^2$"
+        ],
+        "correct_index": 2,
+        "explanation": "Diện tích hình $\\mathscr{H}$ bằng tổng diện tích hình vuông ABCD và diện tích hình chữ nhật DMNP: $81 + 160 = 241\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-4",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2a.** Điền số đo chu vi căn phòng A (chiều dài $8\\;\\text{cm}$, chiều rộng $4\\;\\text{cm}$): \\ldots cm",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Chu vi căn phòng A hình chữ nhật là: $(8 + 4) \\times 2 = 24\\;(\\text{cm})$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-5",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2a.** Điền số đo diện tích căn phòng A: \\ldots $\\text{cm}^2$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Diện tích căn phòng A hình chữ nhật là: $8 \\times 4 = 32\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-6",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2a.** Điền số đo chu vi căn phòng B (hình vuông có cạnh $6\\;\\text{cm}$): \\ldots cm",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Chu vi căn phòng B hình vuông là: $6 \\times 4 = 24\\;(\\text{cm})$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-7",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2a.** Điền số đo diện tích căn phòng B: \\ldots $\\text{cm}^2$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Diện tích căn phòng B hình vuông là: $6 \\times 6 = 36\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-8",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2a.** Điền số đo chu vi căn phòng C (hình chữ nhật có chiều dài $7\\;\\text{cm}$, chiều rộng $5\\;\\text{cm}$): \\ldots cm",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Chu vi căn phòng C hình chữ nhật là: $(7 + 5) \\times 2 = 24\\;(\\text{cm})$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-9",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2a.** Điền số đo diện tích căn phòng C: \\ldots $\\text{cm}^2$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Diện tích căn phòng C hình chữ nhật là: $7 \\times 5 = 35\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-10",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2b.** Căn phòng có diện tích lớn nhất là căn phòng nào?",
+        "options": [
+          "Căn phòng A",
+          "Căn phòng B",
+          "Căn phòng C",
+          "Cả 3 căn phòng bằng nhau"
+        ],
+        "correct_index": 1,
+        "explanation": "Diện tích các căn phòng lần lượt là: A ($32\\;\\text{cm}^2$), B ($36\\;\\text{cm}^2$), C ($35\\;\\text{cm}^2$). Vậy căn phòng B có diện tích lớn nhất.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-11",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3a.** Một tấm bìa cứng hình vuông có cạnh $10\\;\\text{cm}$. Bạn An cắt ra thành 4 hình tam giác nhỏ bằng nhau. Tính diện tích tấm bìa cứng ban đầu.",
+        "options": [
+          "$40\\;\\text{cm}^2$",
+          "$100\\;\\text{cm}^2$",
+          "$20\\;\\text{cm}^2$",
+          "$200\\;\\text{cm}^2$"
+        ],
+        "correct_index": 1,
+        "explanation": "Diện tích tấm bìa cứng hình vuông ban đầu là: $10 \\times 10 = 100\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-12",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3b.** Tính diện tích một hình tam giác nhỏ.",
+        "options": [
+          "$25\\;\\text{cm}^2$",
+          "$50\\;\\text{cm}^2$",
+          "$10\\;\\text{cm}^2$",
+          "$40\\;\\text{cm}^2$"
+        ],
+        "correct_index": 0,
+        "explanation": "Vì 4 hình tam giác nhỏ bằng nhau và ghép lại thành hình vuông diện tích $100\\;\\text{cm}^2$, nên diện tích một hình tam giác nhỏ là: $100 : 4 = 25\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-52-3-13",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 4.** Từ một tấm kính lớn, người ta cắt ra thành 4 tấm kính hình chữ nhật, mỗi tấm có chiều dài $90\\;\\text{cm}$, chiều rộng $10\\;\\text{cm}$. Biết kích thước tấm kính lớn là chiều dài $95\\;\\text{cm}$, chiều rộng $40\\;\\text{cm}$. Phần kính còn lại có diện tích là \\ldots $\\text{cm}^2$.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Diện tích tấm kính lớn là: $95 \\times 40 = 3800\\;(\\text{cm}^2)$. Diện tích một tấm kính nhỏ cắt ra là: $90 \\times 10 = 900\\;(\\text{cm}^2)$. Diện tích 4 tấm kính nhỏ là: $900 \\times 4 = 3600\\;(\\text{cm}^2)$. Diện tích phần kính còn lại là: $3800 - 3600 = 200\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-52"
+        ]
+      }
+    ]
+  }
+]

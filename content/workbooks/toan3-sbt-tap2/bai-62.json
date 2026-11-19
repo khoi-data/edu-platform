@@ -1,0 +1,502 @@
+[
+  {
+    "bai": 62,
+    "title": "Bài 62: Luyện tập chung",
+    "book_pages": "63 - 66",
+    "topic": "Chủ đề 11: Các số đến 100 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-62-1-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Hoàn thành bảng (theo mẫu).\n\nSố được viết là: $25\\;464$. Đọc số này là gì?",
+        "options": [
+          "hai mươi lăm nghìn bốn trăm sáu mươi tư"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $25\\;464$ gồm $25$ nghìn, $4$ trăm, $6$ chục và $4$ đơn vị, đọc là: hai mươi lăm nghìn bốn trăm sáu mươi tư.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-1-2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Điền số thích hợp vào chỗ trống để viết số tương ứng với cách đọc: \"hai mươi lăm nghìn bốn trăm sáu mươi tư\".",
+        "options": [
+          "25 464"
+        ],
+        "correct_index": 0,
+        "explanation": "Hàng nghìn là $25$, hàng trăm là $4$, hàng chục là $6$, hàng đơn vị là $4$. Viết là: $25\\;464$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-1-3",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Đọc số $40\\;578$. Viết cách đọc số này:",
+        "options": [
+          "bốn mươi nghìn năm trăm bảy mươi tám"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $40\\;578$ gồm $40$ nghìn, $5$ trăm, $7$ chục và $8$ đơn vị, đọc là: bốn mươi nghìn năm trăm bảy mươi tám.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-1-4",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Viết số thích hợp ứng với cách đọc: \"tám mươi nghìn năm trăm\".",
+        "options": [
+          "80 500"
+        ],
+        "correct_index": 0,
+        "explanation": "Tám mươi nghìn viết là $80\\;000$, năm trăm viết là $500$. Ghép lại ta được số $80\\;500$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-2-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2a.** Số?\\n$34\\;520 \\rightarrow 34\\;530 \\rightarrow 34\\;540 \\rightarrow \\ldots \\rightarrow \\ldots$",
+        "options": [
+          "34 550, 34 560"
+        ],
+        "correct_index": 0,
+        "explanation": "Mỗi số liền sau hơn số đứng trước đúng $10$ đơn vị. Các số tiếp theo là $34\\;550$ và $34\\;560$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-2-b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2b.** Số?\\n$57\\;600 \\rightarrow 57\\;700 \\rightarrow \\ldots \\rightarrow 57\\;900 \\rightarrow \\ldots$",
+        "options": [
+          "57 800, 58 000"
+        ],
+        "correct_index": 0,
+        "explanation": "Mỗi số liền sau hơn số đứng trước đúng $100$ đơn vị. Các số cần điền là $57\\;800$ và $58\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-2-c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2c.** Số?\\n$96\\;000 \\rightarrow \\ldots \\rightarrow 98\\;000 \\rightarrow 99\\;000 \\rightarrow \\ldots$",
+        "options": [
+          "97 000, 100 000"
+        ],
+        "correct_index": 0,
+        "explanation": "Mỗi số liền sau hơn số đứng trước đúng $1\\;000$ đơn vị. Các số cần điền là $97\\;000$ và $100\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-3-a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3a.** Điền Đ (Đúng) hoặc S (Sai) vào ô trống:\\n$12\\;345 > 9\\;876$",
+        "options": [
+          "Đ",
+          "S"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $12\\;345$ có $5$ chữ số, trong khi số $9\\;876$ có $4$ chữ số. Số có nhiều chữ số hơn thì lớn hơn. Do đó $12\\;345 > 9\\;876$ là Đúng (Đ).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-3-b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3b.** Điền Đ (Đúng) hoặc S (Sai) vào ô trống:\\n$62\\;920 < 70\\;000$",
+        "options": [
+          "Đ",
+          "S"
+        ],
+        "correct_index": 0,
+        "explanation": "So sánh hai số có $5$ chữ số, ta so sánh chữ số hàng chục nghìn: $6 < 7$, nên $62\\;920 < 70\\;000$ là Đúng (Đ).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-3-c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3c.** Điền Đ (Đúng) hoặc S (Sai) vào ô trống:\\n$8\\;400 + 600 < 9\\;000$",
+        "options": [
+          "Đ",
+          "S"
+        ],
+        "correct_index": 1,
+        "explanation": "Ta có $8\\;400 + 600 = 9\\;000$. Mà $9\\;000 < 9\\;000$ là sai (vì $9\\;000 = 9\\;000$). Do đó phát biểu này là Sai (S).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-3-d",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3d.** Điền Đ (Đúng) hoặc S (Sai) vào ô trống:\\n$2\\;300 - 300 = 2\\;000$",
+        "options": [
+          "Đ",
+          "S"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có $2\\;300 - 300 = 2\\;000$. Phép tính hoàn toàn chính xác, điền Đúng (Đ).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-4-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4a.** Khoảng cách từ sân bay đến Thành phố A là $89\\;100\\text{ m}$, Thành phố B là $57\\;500\\text{ m}$, Thành phố C là $60\\;900\\text{ m}$, Thành phố D là $90\\;000\\text{ m}$.\\nThành phố xa sân bay nhất là:",
+        "options": [
+          "Thành phố D"
+        ],
+        "correct_index": 0,
+        "explanation": "So sánh các khoảng cách: $57\\;500 < 60\\;900 < 89\\;100 < 90\\;000$. Khoảng cách lớn nhất là $90\\;000\\text{ m}$ tương ứng với Thành phố D.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-4-b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4b.** Thành phố gần sân bay nhất là:",
+        "options": [
+          "Thành phố B"
+        ],
+        "correct_index": 0,
+        "explanation": "Khoảng cách ngắn nhất là $57\\;500\\text{ m}$ tương ứng với Thành phố B.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-4-c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4c.** Thành phố có khoảng cách đến sân bay lớn hơn $60\\;000\\text{ m}$ nhưng bé hơn $90\\;000\\text{ m}$ là:",
+        "options": [
+          "Thành phố A và Thành phố C"
+        ],
+        "correct_index": 0,
+        "explanation": "Thành phố A ($89\\;100\\text{ m}$) và Thành phố C ($60\\;900\\text{ m}$) đều lớn hơn $60\\;000\\text{ m}$ và nhỏ hơn $90\\;000\\text{ m}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-5-1",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1.** Số?\\nCho dãy số trên các bóng: $50\\;000 \\rightarrow 60\\;000 \\rightarrow \\ldots \\rightarrow 80\\;000 \\rightarrow 90\\;000 \\rightarrow \\ldots$\\nSố cần điền vào ô trống thứ nhất (sau $60\\;000$) là:",
+        "options": [
+          "70 000"
+        ],
+        "correct_index": 0,
+        "explanation": "Dãy số đếm thêm $10\\;000$ đơn vị mỗi bước: $50\\;000, 60\\;000, 70\\;000, 80\\;000, 90\\;000, 100\\;000$. Vậy số đầu tiên cần điền là $70\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-5-2",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1.** Số cần điền vào ô trống cuối cùng (sau $90\\;000$) là:",
+        "options": [
+          "100 000"
+        ],
+        "correct_index": 0,
+        "explanation": "Dãy số đếm thêm $10\\;000$, số tiếp theo sau $90\\;000$ là $100\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-6",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2.** Nối mỗi xe chở xăng với trạm xăng có biểu thức giá trị bằng số trên xe:\\n- Xe 1: $32\\;705$\\n- Xe 2: $33\\;745$\\n- Xe 3: $12\\;670$\\nHỏi xe chở số $32\\;705$ tương ứng với trạm xăng nào?",
+        "options": [
+          "30 000 + 2 000 + 700 + 5",
+          "10 000 + 2 000 + 600 + 70",
+          "30 000 + 3 000 + 700 + 40 + 5",
+          "Cả ba đáp án trên đều sai"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có $30\\;000 + 2\\;000 + 700 + 5 = 32\\;705$, đúng với số ghi trên xe thứ nhất.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-7-a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3a.** Trong một trận bóng đá có $39\\;634$ khán giả đến sân.\\na) Làm tròn đến hàng trăm thì ta nói số khán giả đến sân khoảng bao nhiêu người?",
+        "options": [
+          "39 600"
+        ],
+        "correct_index": 0,
+        "explanation": "Xét chữ số hàng chục là $3$ (vì $3 < 5$), ta giữ nguyên chữ số hàng trăm và thay các chữ số hàng chục, hàng đơn vị bằng chữ số $0$. Ta được số $39\\;600$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-7-b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3b.** Làm tròn đến hàng nghìn thì ta nói số khán giả đến sân khoảng bao nhiêu người?",
+        "options": [
+          "40 000"
+        ],
+        "correct_index": 0,
+        "explanation": "Xét chữ số hàng trăm là $6$ (vì $6 \\ge 5$), ta cộng thêm $1$ vào hàng nghìn ($9 + 1 = 10$, viết $0$ nhớ $1$ sang hàng chục nghìn, $3 + 1 = 4$), thành $40\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-8",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4.** Chim sẻ, chim chích và chim sâu cùng học số. Mỗi bạn viết một trong các số $20\\;060$, $43\\;060$, $53\\;000$ lên lá cây.\\n- Chim sâu viết số có chữ số hàng nghìn là lớn nhất trong ba số.\\n- Số chim sẻ viết có chữ số hàng nghìn giống chữ số hàng nghìn chim sâu viết.\\n- Số chim chích viết có chữ số hàng chục giống chữ số hàng chục chim sâu viết.\\nHỏi Chim sẻ đã viết số nào?",
+        "options": [
+          "43 060"
+        ],
+        "correct_index": 0,
+        "explanation": "Xét hàng nghìn của các số: $20\\;060$ (hàng nghìn là $0$), $43\\;060$ (hàng nghìn là $3$), $53\\;000$ (hàng nghìn là $3$). Chim sâu viết số có hàng nghìn lớn nhất nên chim sâu viết $53\\;000$. Chim sẻ viết số có hàng nghìn giống chim sâu (là $3$), vậy chim sẻ viết số $43\\;060$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-9",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1.** Trong hình bên, số bé nhất nằm ở vị trí nào?\\n(Hình vẽ gồm hình tròn chứa các số $25\\;690$, $25\\;728$, $56\\;789$ và hình chữ nhật chứa các số $56\\;789$, $30\\;839$, $25\\;690$)",
+        "options": [
+          "Ở trong hình tròn nhưng ở ngoài hình chữ nhật.",
+          "Ở trong hình tròn và ở trong hình chữ nhật.",
+          "Ở trong hình chữ nhật nhưng ở ngoài hình tròn.",
+          "Ở ngoài cả hình tròn và hình chữ nhật."
+        ],
+        "correct_index": 0,
+        "explanation": "Các số có mặt là: $56\\;789$, $30\\;839$, $25\\;690$, $25\\;728$. Số bé nhất là $25\\;690$. Số này nằm ở phần giao giữa hình tròn và hình chữ nhật ư? Khoan đã, ta kiểm tra vị trí: $25\\;690$ nằm ở vùng chung (cả tròn và chữ nhật). Hãy nhìn kỹ hình: $25\\;690$ thuộc chung cả hai hình; $25\\;728$ chỉ thuộc hình tròn ngoài hình chữ nhật. So sánh $25\\;690$ và $25\\;728$ thì $25\\;690 < 25\\;728$. Vậy số bé nhất là $25\\;690$ ở trong cả hình tròn và hình chữ nhật (Đáp án B).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-10-a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2a (ý 1).** Khoảng cách giữa thành phố A và thành phố B là $63\\;725\\text{ m}$.\\nLàm tròn đến hàng nghìn thì khoảng cách giữa thành phố A và thành phố B khoảng:",
+        "options": [
+          "63 000 m",
+          "64 000 m",
+          "65 000 m",
+          "63 700 m"
+        ],
+        "correct_index": 1,
+        "explanation": "Chữ số hàng trăm là $7$ ($7 \\ge 5$), nên ta cộng thêm $1$ vào chữ số hàng nghìn ($3 + 1 = 4$), các chữ số sau thay bằng $0$. Ta được $64\\;000\\text{ m}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-10-b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2a (ý 2).** Làm tròn đến hàng trăm thì khoảng cách giữa thành phố A và thành phố B khoảng:",
+        "options": [
+          "63 700 m",
+          "63 600 m",
+          "63 720 m",
+          "64 000 m"
+        ],
+        "correct_index": 0,
+        "explanation": "Chữ số hàng chục là $2$ ($2 < 5$), giữ nguyên hàng trăm, thay hàng chục và đơn vị bằng $0$. Ta được $63\\;700\\text{ m}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-10-c",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2b.** Làm tròn đến hàng chục nghìn thì khoảng cách giữa thành phố A và thành phố B ($63\\;725\\text{ m}$) khoảng bao nhiêu km?",
+        "options": [
+          "60 km"
+        ],
+        "correct_index": 0,
+        "explanation": "Làm tròn $63\\;725$ đến hàng chục nghìn: xét hàng nghìn là $3$ ($3 < 5$), giữ nguyên hàng chục nghìn, thay các hàng sau bằng $0$ ta được $60\\;000\\text{ m} = 60\\text{ km}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-11-a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3a.** Ba bạn Mai, Việt và Nam viết một số trong các số $39\\;283$, $44\\;930$, $39\\;400$. Biết số Mai viết lớn hơn số Nam viết nhưng bé hơn số Việt viết.\\nHỏi Mai đã viết số nào?",
+        "options": [
+          "39 400"
+        ],
+        "correct_index": 0,
+        "explanation": "Sắp xếp ba số theo thứ tự từ bé đến lớn: $39\\;283 < 39\\;400 < 44\\;930$. Vì số Mai viết ở giữa nên Mai viết $39\\;400$ (Nam viết $39\\;283$, Việt viết $44\\;930$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-11-b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3b.** Số Mai đã viết ($39\\;400$) làm tròn đến hàng trăm là:",
+        "options": [
+          "39 400"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $39\\;400$ có chữ số hàng chục là $0$, làm tròn đến hàng trăm giữ nguyên số $39\\;400$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-11-c",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3c.** Số Việt đã viết ($44\\;930$) làm tròn đến hàng chục nghìn là:",
+        "options": [
+          "40 000"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $44\\;930$ có chữ số hàng nghìn là $4$ ($4 < 5$), làm tròn đến hàng chục nghìn ta được $40\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-62-11-d",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3d.** Số Nam đã viết ($39\\;283$) làm tròn đến hàng nghìn là:",
+        "options": [
+          "39 000"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $39\\;283$ có chữ số hàng trăm là $2$ ($2 < 5$), làm tròn đến hàng nghìn ta được $39\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-62"
+        ]
+      }
+    ]
+  }
+]

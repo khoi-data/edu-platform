@@ -1,0 +1,414 @@
+{
+  "collection": {
+    "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 11: My family",
+    "subject_slug": "tieng_anh",
+    "grade": 3,
+    "volume": 1,
+    "units": [
+      11
+    ],
+    "exam_type": null,
+    "reference_book": "Global Success - Sách bài tập Tiếng Anh 3",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 11,
+      "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 11: My family",
+      "questions": [
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\ns___",
+            "correct_answer": "ure",
+            "choices": [
+              "ure",
+              "o"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\n___ld",
+            "correct_answer": "o",
+            "choices": [
+              "o",
+              "ure"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Look, write and read:\n1. moerth -> ___",
+            "correct_answer": "mother",
+            "choices": [
+              "mother",
+              "father",
+              "sister",
+              "brother"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Look, write and read:\n2. istres -> ___",
+            "correct_answer": "sister",
+            "choices": [
+              "sister",
+              "brother",
+              "mother",
+              "father"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Look, write and read:\n3. rotherb -> ___",
+            "correct_answer": "brother",
+            "choices": [
+              "brother",
+              "sister",
+              "father",
+              "mother"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Look, write and read:\n4. thfaer -> ___",
+            "correct_answer": "father",
+            "choices": [
+              "father",
+              "mother",
+              "brother",
+              "sister"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n1. My brother is ___ years old. (bánh nến số 20)",
+            "correct_answer": "twenty",
+            "choices": [
+              "twenty",
+              "twelve",
+              "fourteen",
+              "sixteen"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n2. My sister is ___ years old. (bánh nến số 12)",
+            "correct_answer": "twelve",
+            "choices": [
+              "twelve",
+              "twenty",
+              "thirteen",
+              "fourteen"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n3. My friend is ___ years old. (bánh nến số 14)",
+            "correct_answer": "fourteen",
+            "choices": [
+              "fourteen",
+              "fifteen",
+              "sixteen",
+              "twelve"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. It's",
+                "right": "d. my sister."
+              },
+              {
+                "left": "2. Who's",
+                "right": "a. that?"
+              },
+              {
+                "left": "3. How old",
+                "right": "e. is your brother?"
+              },
+              {
+                "left": "4. He's",
+                "right": "b. twelve years old."
+              },
+              {
+                "left": "5. She's fourteen",
+                "right": "c. years old."
+              }
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and choose:\n1. ___ old is your sister?",
+            "correct_answer": "How",
+            "choices": [
+              "How",
+              "What",
+              "Who",
+              "Where"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and choose:\n2. She ___ thirteen.",
+            "correct_answer": "is",
+            "choices": [
+              "is",
+              "are",
+              "am",
+              "be"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and choose:\n3. How old are ___?",
+            "correct_answer": "you",
+            "choices": [
+              "you",
+              "your",
+              "she",
+              "he"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and choose:\n4. He's fifteen ___.",
+            "correct_answer": "years old",
+            "choices": [
+              "years old",
+              "years",
+              "old",
+              "year"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nthis / Who's",
+            "words": [
+              "Who's",
+              "this",
+              "?"
+            ],
+            "correct_sentence": "Who's this?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nmy / It's / father",
+            "words": [
+              "It's",
+              "my",
+              "father",
+              "."
+            ],
+            "correct_sentence": "It's my father."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nHow old / is / brother / your",
+            "words": [
+              "How",
+              "old",
+              "is",
+              "your",
+              "brother",
+              "?"
+            ],
+            "correct_sentence": "How old is your brother?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nfourteen / My sister / is / years old",
+            "words": [
+              "My",
+              "sister",
+              "is",
+              "fourteen",
+              "years",
+              "old",
+              "."
+            ],
+            "correct_sentence": "My sister is fourteen years old."
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. Who's that?",
+                "right": "c. It's my mother."
+              },
+              {
+                "left": "2. How old are you?",
+                "right": "d. I'm thirteen."
+              },
+              {
+                "left": "3. How old is your sister?",
+                "right": "a. She's sixteen."
+              },
+              {
+                "left": "4. How old is your brother?",
+                "right": "b. He's eleven."
+              }
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"My name is Nam. This is my (1) ___.\"",
+            "correct_answer": "sister",
+            "choices": [
+              "sister",
+              "brother",
+              "mother",
+              "father"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"She is sixteen (2) ___ old.\"",
+            "correct_answer": "years",
+            "choices": [
+              "years",
+              "year",
+              "days",
+              "months"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"This is my (3) ___.\"",
+            "correct_answer": "brother",
+            "choices": [
+              "brother",
+              "sister",
+              "friend",
+              "father"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"He is (4) ___ years old. And look! This is me. I am eight years old.\"",
+            "correct_answer": "eleven",
+            "choices": [
+              "eleven",
+              "twelve",
+              "thirteen",
+              "ten"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\nMai: Who's (1) ___?\nBen: It's my sister.",
+            "correct_answer": "this",
+            "choices": [
+              "this",
+              "that",
+              "these",
+              "those"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\nMai: Who's this?\nBen: It's my (2) ___.",
+            "correct_answer": "sister",
+            "choices": [
+              "sister",
+              "brother",
+              "mother",
+              "father"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write (Bé gái 6 tuổi):\nMai: How old is she?\nBen: ___",
+            "words": [
+              "She's",
+              "six",
+              "years",
+              "old",
+              "."
+            ],
+            "correct_sentence": "She's six years old."
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\nMai: Who's (4) ___?\nLinh: It's my brother.",
+            "correct_answer": "that",
+            "choices": [
+              "that",
+              "this",
+              "it",
+              "he"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write (Anh trai 20 tuổi):\nMai: How old is he?\nLinh: ___",
+            "words": [
+              "He's",
+              "twenty",
+              "years",
+              "old",
+              "."
+            ],
+            "correct_sentence": "He's twenty years old."
+          }
+        }
+      ]
+    }
+  ]
+}

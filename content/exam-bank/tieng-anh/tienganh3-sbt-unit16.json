@@ -1,0 +1,383 @@
+{
+  "collection": {
+    "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 16: My pets",
+    "subject_slug": "tieng_anh",
+    "grade": 3,
+    "volume": 1,
+    "units": [
+      16
+    ],
+    "exam_type": null,
+    "reference_book": "Global Success - Sách bài tập Tiếng Anh 3",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 16,
+      "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 16: My pets",
+      "questions": [
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\ngoldf___",
+            "correct_answer": "ish",
+            "choices": [
+              "ish",
+              "og"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nd___",
+            "correct_answer": "og",
+            "choices": [
+              "og",
+              "ish"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Look, write and read:\n1. Con vẹt: ___",
+            "correct_answer": "parrot",
+            "choices": [
+              "parrot",
+              "bird",
+              "rabbit",
+              "goldfish"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Look, write and read:\n2. Con chim: ___",
+            "correct_answer": "bird",
+            "choices": [
+              "bird",
+              "parrot",
+              "goldfish",
+              "cat"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Look, write and read:\n3. Con thỏ: ___",
+            "correct_answer": "rabbit",
+            "choices": [
+              "rabbit",
+              "dog",
+              "cat",
+              "bird"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Look, write and read:\n4. Con cá vàng: ___",
+            "correct_answer": "goldfish",
+            "choices": [
+              "goldfish",
+              "parrot",
+              "rabbit",
+              "dog"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Read and match.",
+            "pairs": [
+              {
+                "left": "1. parrot",
+                "right": "d. Con vẹt"
+              },
+              {
+                "left": "2. bird",
+                "right": "c. Con chim"
+              },
+              {
+                "left": "3. rabbit",
+                "right": "b. Con thỏ"
+              },
+              {
+                "left": "4. goldfish",
+                "right": "a. Con cá vàng"
+              }
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and choose:\n1. Do you have ___ cats?",
+            "correct_answer": "any",
+            "choices": [
+              "any",
+              "a",
+              "an",
+              "one"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and choose:\n2. I have ___ parrots.",
+            "correct_answer": "some",
+            "choices": [
+              "some",
+              "an",
+              "any",
+              "much"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and choose:\n3. How ___ dogs do you have?",
+            "correct_answer": "many",
+            "choices": [
+              "many",
+              "much",
+              "old",
+              "long"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and choose:\n4. I have ___ goldfish.",
+            "correct_answer": "many",
+            "choices": [
+              "many",
+              "two",
+              "much",
+              "one"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and match.",
+            "pairs": [
+              {
+                "left": "1. Do you have any dogs?",
+                "right": "b. Yes, I do."
+              },
+              {
+                "left": "2. Do you have any rabbits?",
+                "right": "a. No, I don't."
+              },
+              {
+                "left": "3. How many parrots do you have?",
+                "right": "d. I have three."
+              },
+              {
+                "left": "4. How many birds do you have?",
+                "right": "c. I have many."
+              }
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nDo you / any cats / have",
+            "words": [
+              "Do",
+              "you",
+              "have",
+              "any",
+              "cats",
+              "?"
+            ],
+            "correct_sentence": "Do you have any cats?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nsome parrots / have / I",
+            "words": [
+              "I",
+              "have",
+              "some",
+              "parrots",
+              "."
+            ],
+            "correct_sentence": "I have some parrots."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\ndo you have / How many birds",
+            "words": [
+              "How",
+              "many",
+              "birds",
+              "do",
+              "you",
+              "have",
+              "?"
+            ],
+            "correct_sentence": "How many birds do you have?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nmany goldfish / I / have",
+            "words": [
+              "I",
+              "have",
+              "many",
+              "goldfish",
+              "."
+            ],
+            "correct_sentence": "I have many goldfish."
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. Do you have any pets?",
+                "right": "c. Yes, I do. I have a dog."
+              },
+              {
+                "left": "2. How many dogs do you have?",
+                "right": "b. I have one dog."
+              },
+              {
+                "left": "3. Do you have any cats?",
+                "right": "d. No, I don't."
+              },
+              {
+                "left": "4. What pets do you have?",
+                "right": "a. I have three birds."
+              }
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"Look at my pets. (1) ___ are many animals.\"",
+            "correct_answer": "There",
+            "choices": [
+              "There",
+              "They",
+              "These",
+              "This"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"I (2) ___ two dogs and three goldfish.\"",
+            "correct_answer": "have",
+            "choices": [
+              "have",
+              "has",
+              "do",
+              "see"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"I have two dogs and three (3) ___.\"",
+            "correct_answer": "goldfish",
+            "choices": [
+              "goldfish",
+              "parrots",
+              "birds",
+              "rabbits"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"I have four (4) ___, too.\"",
+            "correct_answer": "cats",
+            "choices": [
+              "cats",
+              "dogs",
+              "goldfish",
+              "birds"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\nDo you have any (1) ___? - Yes, I do.",
+            "correct_answer": "parrots",
+            "choices": [
+              "parrots",
+              "rabbits",
+              "cats",
+              "dogs"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\nDo you have any rabbits? - No, (2) ___.",
+            "correct_answer": "I don't",
+            "choices": [
+              "I don't",
+              "I do",
+              "she doesn't",
+              "he doesn't"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\nHow many goldfish do you have? - I have (3) ___ (4 con).",
+            "correct_answer": "four",
+            "choices": [
+              "four",
+              "five",
+              "six",
+              "three"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\nHow many cats do you have? - I have (4) ___ (7 con).",
+            "correct_answer": "seven",
+            "choices": [
+              "seven",
+              "eight",
+              "nine",
+              "six"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

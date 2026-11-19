@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { BookOpen } from 'lucide-react';
+import { TOAN3_SBT_TAP2_TOC } from '@/lib/curriculum/toan3-sbt-tap2-toc';
 import { AssessmentRenderer } from '@/components/universal/AssessmentRenderer';
 import { AssessmentResultCard } from '@/components/assessment/AssessmentResultCard';
 import { getExamQuestions, getExamInfo, saveExamResult } from './actions';
@@ -23,6 +24,10 @@ function extractDriveFileId(url?: string): string | null {
 
 function getBookPageRange(subjectSlug: string, unitNumber: number): string | null {
   if (subjectSlug === 'toan') {
+    if (unitNumber >= 45 && unitNumber <= 81) {
+      const sbt3 = TOAN3_SBT_TAP2_TOC.find(l => l.bai === unitNumber);
+      if (sbt3) return `${sbt3.bookPageStart} - ${sbt3.bookPageEnd}`;
+    }
     switch (unitNumber) {
       case 20: return "3 - 5";
       case 21: return "6 - 8";
@@ -57,6 +62,16 @@ function getBookPageRange(subjectSlug: string, unitNumber: number): string | nul
       case 8: return "36 - 39";
       case 9: return "40 - 43";
       case 10: return "44 - 47";
+      case 11: return "52 - 55";
+      case 12: return "56 - 59";
+      case 13: return "60 - 63";
+      case 14: return "64 - 67";
+      case 15: return "68 - 71";
+      case 16: return "76 - 79";
+      case 17: return "80 - 83";
+      case 18: return "84 - 87";
+      case 19: return "88 - 91";
+      case 20: return "92 - 95";
       default: return null;
     }
   }

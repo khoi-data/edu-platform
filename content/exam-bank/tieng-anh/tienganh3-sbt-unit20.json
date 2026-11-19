@@ -1,0 +1,443 @@
+{
+  "collection": {
+    "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 20: At the zoo",
+    "subject_slug": "tieng_anh",
+    "grade": 3,
+    "volume": 1,
+    "units": [
+      20
+    ],
+    "exam_type": null,
+    "reference_book": "Global Success - Sách bài tập Tiếng Anh 3",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 20,
+      "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 20: At the zoo",
+      "questions": [
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\np___ot",
+            "correct_answer": "arr",
+            "choices": [
+              "arr",
+              "anc"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nd___ing",
+            "correct_answer": "anc",
+            "choices": [
+              "anc",
+              "arr"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n1. Con vẹt: ___",
+            "correct_answer": "parrot",
+            "choices": [
+              "parrot",
+              "peacock",
+              "tiger",
+              "horse"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n2. Vườn bách thú: ___",
+            "correct_answer": "zoo",
+            "choices": [
+              "zoo",
+              "park",
+              "garden",
+              "school"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n3. Con ngựa: ___",
+            "correct_answer": "horse",
+            "choices": [
+              "horse",
+              "monkey",
+              "tiger",
+              "elephant"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n4. Con khỉ: ___",
+            "correct_answer": "monkey",
+            "choices": [
+              "monkey",
+              "tiger",
+              "horse",
+              "parrot"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n5. Con công: ___",
+            "correct_answer": "peacock",
+            "choices": [
+              "peacock",
+              "parrot",
+              "horse",
+              "monkey"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n6. Con hổ: ___",
+            "correct_answer": "tiger",
+            "choices": [
+              "tiger",
+              "monkey",
+              "horse",
+              "peacock"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n1. It is a ___ (con công).",
+            "correct_answer": "peacock",
+            "choices": [
+              "peacock",
+              "parrot",
+              "tiger",
+              "monkey"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n2. It is a ___ (con hổ).",
+            "correct_answer": "tiger",
+            "choices": [
+              "tiger",
+              "horse",
+              "elephant",
+              "peacock"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n3. The parrot is ___ (đang đếm).",
+            "correct_answer": "counting",
+            "choices": [
+              "counting",
+              "dancing",
+              "swinging",
+              "climbing"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n4. The monkey is ___ (đang đu dây).",
+            "correct_answer": "swinging",
+            "choices": [
+              "swinging",
+              "climbing",
+              "dancing",
+              "counting"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. What can you see at the zoo?",
+                "right": "e. I can see an elephant."
+              },
+              {
+                "left": "2. What is the monkey doing?",
+                "right": "a. It's swinging."
+              },
+              {
+                "left": "3. What is the tiger doing?",
+                "right": "c. It's climbing a tree."
+              },
+              {
+                "left": "4. What is the peacock doing?",
+                "right": "d. It's dancing."
+              },
+              {
+                "left": "5. What is the parrot doing?",
+                "right": "b. It's counting."
+              }
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Look, complete and read:\nWhere are they? - They are at the ___.",
+            "correct_answer": "zoo",
+            "choices": [
+              "zoo",
+              "park",
+              "garden",
+              "school"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Look, complete and read:\nWhat can you see? - I can see a ___.",
+            "correct_answer": "monkey",
+            "choices": [
+              "monkey",
+              "tiger",
+              "peacock",
+              "parrot"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Look, complete and read:\nWhat's the monkey doing? - It's ___ a tree.",
+            "correct_answer": "climbing",
+            "choices": [
+              "climbing",
+              "swinging",
+              "dancing",
+              "counting"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nan elephant / We can see",
+            "words": [
+              "We",
+              "can",
+              "see",
+              "an",
+              "elephant",
+              "."
+            ],
+            "correct_sentence": "We can see an elephant."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nis counting / The parrot",
+            "words": [
+              "The",
+              "parrot",
+              "is",
+              "counting",
+              "."
+            ],
+            "correct_sentence": "The parrot is counting."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nWhat can you see / at the zoo",
+            "words": [
+              "What",
+              "can",
+              "you",
+              "see",
+              "at",
+              "the",
+              "zoo",
+              "?"
+            ],
+            "correct_sentence": "What can you see at the zoo?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nthe horse doing / What is",
+            "words": [
+              "What",
+              "is",
+              "the",
+              "horse",
+              "doing",
+              "?"
+            ],
+            "correct_sentence": "What is the horse doing?"
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. What animals can you see?",
+                "right": "c. I can see a tiger and an elephant."
+              },
+              {
+                "left": "2. What is the tiger doing?",
+                "right": "d. It is climbing."
+              },
+              {
+                "left": "3. What is the elephant doing?",
+                "right": "a. It is drinking water."
+              },
+              {
+                "left": "4. What is the monkey doing?",
+                "right": "b. It is swinging."
+              }
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and answer:\n1. Where are you and your mother?",
+            "correct_answer": "My mother and I are at the zoo.",
+            "choices": [
+              "My mother and I are at the zoo.",
+              "We are in the park.",
+              "We are at school.",
+              "We are at home."
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and answer:\n2. What can you see?",
+            "correct_answer": "We can see many animals.",
+            "choices": [
+              "We can see many animals.",
+              "We can see birds.",
+              "We can see trees.",
+              "We can see cats."
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and answer:\n3. What is the monkey doing?",
+            "correct_answer": "It is climbing a tree.",
+            "choices": [
+              "It is climbing a tree.",
+              "It is counting.",
+              "It is dancing.",
+              "It is swimming."
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and answer:\n4. What is the parrot doing?",
+            "correct_answer": "It is counting.",
+            "choices": [
+              "It is counting.",
+              "It is climbing.",
+              "It is swinging.",
+              "It is dancing."
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and answer:\n5. What birds can you see?",
+            "correct_answer": "I can see many peacocks.",
+            "choices": [
+              "I can see many peacocks.",
+              "I can see tigers.",
+              "I can see monkeys.",
+              "I can see horses."
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n1. We are at the ___.",
+            "correct_answer": "zoo",
+            "choices": [
+              "zoo",
+              "park",
+              "garden",
+              "school"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n2. We can see a monkey. It is ___.",
+            "correct_answer": "swinging",
+            "choices": [
+              "swinging",
+              "dancing",
+              "counting",
+              "sleeping"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n3. The tiger is ___ a tree.",
+            "correct_answer": "climbing",
+            "choices": [
+              "climbing",
+              "swinging",
+              "counting",
+              "running"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n4. The peacock is ___.",
+            "correct_answer": "dancing",
+            "choices": [
+              "dancing",
+              "counting",
+              "climbing",
+              "swinging"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

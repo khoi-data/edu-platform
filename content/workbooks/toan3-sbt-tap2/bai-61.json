@@ -1,0 +1,120 @@
+[
+  {
+    "bai": 61,
+    "title": "Bài 61: Làm tròn số đến hàng nghìn, hàng chục nghìn",
+    "book_pages": "62 - 62",
+    "topic": "Chủ đề 11: Các số đến 100 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-61-1a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 1.** Viết số thích hợp vào chỗ chấm:\\n\\na) Làm tròn các số $80\\;304$, $61\\;500$, $6\\;811$ đến hàng nghìn được các số tương ứng lần lượt là: \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Lời giải:\\n- Số $80\\;304$ có chữ số hàng trăm là $3$ (nhỏ hơn $5$), ta làm tròn xuống, được $80\\;000$.\\n- Số $61\\;500$ có chữ số hàng trăm là $5$ (lớn hơn hoặc bằng $5$), ta làm tròn lên, được $62\\;000$.\\n- Số $6\\;811$ có chữ số hàng trăm là $8$ (lớn hơn hoặc bằng $5$), ta làm tròn lên, được $7\\;000$.\\nVậy các số lần lượt là: $80\\;000$, $62\\;000$, $7\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-61"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-61-1b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 1.** Viết số thích hợp vào chỗ chấm:\\n\\nb) Làm tròn các số $90\\;000$, $54\\;215$, $78\\;302$ đến hàng chục nghìn được các số tương ứng lần lượt là: \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Lời giải:\\n- Số $90\\;000$ có chữ số hàng nghìn là $0$ (nhỏ hơn $5$), ta làm tròn xuống, được $90\\;000$.\\n- Số $54\\;215$ có chữ số hàng nghìn là $4$ (nhỏ hơn $5$), ta làm tròn xuống, được $50\\;000$.\\n- Số $78\\;302$ có chữ số hàng nghìn là $8$ (lớn hơn hoặc bằng $5$), ta làm tròn lên, được $80\\;000$.\\nVậy các số lần lượt là: $90\\;000$, $50\\;000$, $80\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-61"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-61-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2.** Sau 5 năm, một gia đình thu hoạch được $97\\;418\\text{ kg}$ gỗ keo. Nếu làm tròn số đến hàng nghìn thì ta nói gia đình đó thu hoạch được khoảng bao nhiêu ki-lô-gam gỗ keo?",
+        "options": [
+          "$97\\;000\\text{ kg}$",
+          "$98\\;000\\text{ kg}$",
+          "$90\\;000\\text{ kg}$",
+          "$100\\;000\\text{ kg}$"
+        ],
+        "correct_index": 0,
+        "explanation": "Lời giải:\\nSố gỗ keo thu hoạch được là $97\\;418\\text{ kg}$.\\nKhi làm tròn số này đến hàng nghìn, ta xét chữ số hàng trăm là $4$ (nhỏ hơn $5$). Do đó, ta làm tròn xuống và giữ nguyên chữ số hàng nghìn, thay các chữ số phía sau bằng chữ số $0$.\\nTa được số $97\\;000$.\\nĐáp án đúng là: $97\\;000\\text{ kg}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-61"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-61-3a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 3 a.** Sau 15 năm, một công ty đã chế tạo được $97\\;602$ rô-bốt. Nếu làm tròn số rô-bốt đến hàng nghìn thì được số nào?",
+        "options": [
+          "$98\\;000$",
+          "$97\\;000$",
+          "$100\\;000$",
+          "$97\\;600$"
+        ],
+        "correct_index": 0,
+        "explanation": "Lời giải:\\nSố rô-bốt là $97\\;602$.\\nKhi làm tròn đến hàng nghìn, ta xét chữ số hàng trăm là $6$ (lớn hơn hoặc bằng $5$), ta cộng thêm $1$ vào chữ số hàng nghìn và thay các chữ số phía sau bằng $0$.\\n$7 + 1 = 8$, vậy ta được số $98\\;000$.\\nĐáp án đúng là: $98\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-61"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-61-3b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 3 b.** Sau 15 năm, một công ty đã chế tạo được $97\\;602$ rô-bốt. Nếu làm tròn số rô-bốt đến hàng chục nghìn thì được số nào?",
+        "options": [
+          "$100\\;000$",
+          "$90\\;000$",
+          "$98\\;000$",
+          "$97\\;000$"
+        ],
+        "correct_index": 0,
+        "explanation": "Lời giải:\\nSố rô-bốt là $97\\;602$.\\nKhi làm tròn đến hàng chục nghìn, ta xét chữ số hàng nghìn là $7$ (lớn hơn hoặc bằng $5$), ta cộng thêm $1$ vào chữ số hàng chục nghìn và thay các chữ số phía sau bằng $0$.\\n$9 + 1 = 10$, viết $0$ nhớ $1$, sang hàng trăm nghìn thành $100\\;000$.\\nĐáp án đúng là: $100\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-61"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-61-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 4.** Người ta đo được một ngọn núi trên Sao Hoả cao $21\\;229\\text{ m}$. Hãy chọn kết quả đúng khi nối số $21\\;229$ với phép làm tròn số \"Làm tròn đến hàng nghìn\".",
+        "options": [
+          "$21\\;000$",
+          "$20\\;000$",
+          "$21\\;200$",
+          "$21\\;230$"
+        ],
+        "correct_index": 0,
+        "explanation": "Lời giải:\\n- Làm tròn đến hàng trăm ($21\\;229$ -> xét chữ số hàng chục là $2$) được $21\\;200$.\\n- Làm tròn đến hàng chục ($21\\;229$ -> xét chữ số hàng đơn vị là $9$) được $21\\;230$.\\n- Làm tròn đến hàng nghìn ($21\\;229$ -> xét chữ số hàng trăm là $2 < 5$) được $21\\;000$.\\n- Làm tròn đến hàng chục nghìn ($21\\;229$ -> xét chữ số hàng nghìn là $1 < 5$) được $20\\;000$.\\nVậy phép \"Làm tròn đến hàng nghìn\" tương ứng với kết quả $21\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-61"
+        ]
+      }
+    ]
+  }
+]

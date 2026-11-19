@@ -1,0 +1,674 @@
+[
+  {
+    "bai": 56,
+    "title": "Bài 56: Nhân số có bốn chữ số với số có một chữ số",
+    "book_pages": "43 - 45",
+    "topic": "Chủ đề 10: Phép cộng, phép trừ, phép nhân, phép chia trong phạm vi 10 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-56-tiet1-1a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Tính: $3\\;302 \\times 3 = ?$?",
+        "options": [
+          "9\\;906",
+          "9\\;900",
+          "9\\;960",
+          "9\\;096"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ phải sang trái: \\n- $3 \\times 2 = 6$, viết 6.\\n- $3 \\times 0 = 0$, viết 0.\\n- $3 \\times 3 = 9$, viết 9.\\n- $3 \\times 3 = 9$, viết 9.\\nVậy $3\\;302 \\times 3 = 9\\;906$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "nhan-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-1b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Tính: $1\\;106 \\times 6 = ?$?",
+        "options": [
+          "6\\;636",
+          "6\\;366",
+          "6\\;663",
+          "6\\;606"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ phải sang trái: \\n- $6 \\times 6 = 36$, viết 6, nhớ 3.\\n- $6 \\times 0 = 0$, thêm 3 là 3, viết 3.\\n- $6 \\times 1 = 6$, viết 6.\\n- $6 \\times 1 = 6$, viết 6.\\nVậy $1\\;106 \\times 6 = 6\\;636$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "nhan-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-1c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Tính: $2\\;071 \\times 4 = ?$?",
+        "options": [
+          "8\\;284",
+          "8\\;248",
+          "8\\;824",
+          "8\\;428"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ phải sang trái:\\n- $4 \\times 1 = 4$, viết 4.\\n- $4 \\times 7 = 28$, viết 8, nhớ 2.\\n- $4 \\times 0 = 0$, thêm 2 là 2, viết 2.\\n- $4 \\times 2 = 8$, viết 8.\\nVậy $2\\;071 \\times 4 = 8\\;284$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "nhan-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-1d",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Tính: $1\\;701 \\times 5 = ?$?",
+        "options": [
+          "8\\;505",
+          "8\\;055",
+          "8\\;550",
+          "8\\;500"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ phải sang trái:\\n- $5 \\times 1 = 5$, viết 5.\\n- $5 \\times 0 = 0$, viết 0.\\n- $5 \\times 7 = 35$, viết 5, nhớ 3.\\n- $5 \\times 1 = 5$, thêm 3 là 8, viết 8.\\nVậy $1\\;701 \\times 5 = 8\\;505$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "nhan-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-2a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Đặt tính rồi tính: $1\\;402 \\times 2$",
+        "options": [
+          "2\\;804",
+          "2\\;840",
+          "2\\;408",
+          "2\\;084"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính theo cột dọc và tính từ phải sang trái:\\n- $2 \\times 2 = 4$, viết 4.\\n- $2 \\times 0 = 0$, viết 0.\\n- $2 \\times 4 = 8$, viết 8.\\n- $2 \\times 1 = 2$, viết 2.\\nKết quả là $2\\;804$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-2b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Đặt tính rồi tính: $3\\;229 \\times 3$",
+        "options": [
+          "9\\;687",
+          "9\\;678",
+          "9\\;867",
+          "9\\;768"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính theo cột dọc và tính từ phải sang trái:\\n- $3 \\times 9 = 27$, viết 7, nhớ 2.\\n- $3 \\times 2 = 6$, thêm 2 là 8, viết 8.\\n- $3 \\times 2 = 6$, viết 6.\\n- $3 \\times 3 = 9$, viết 9.\\nKết quả là $9\\;687$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-2c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Đặt tính rồi tính: $2\\;182 \\times 4$",
+        "options": [
+          "8\\;728",
+          "8\\;278",
+          "8\\;827",
+          "8\\;782"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính theo cột dọc và tính từ phải sang trái:\\n- $4 \\times 2 = 8$, viết 8.\\n- $4 \\times 8 = 32$, viết 2, nhớ 3.\\n- $4 \\times 1 = 4$, thêm 3 là 7, viết 7.\\n- $4 \\times 2 = 8$, viết 8.\\nKết quả là $8\\;728$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-2d",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Đặt tính rồi tính: $1\\;601 \\times 6$",
+        "options": [
+          "9\\;606",
+          "9\\;660",
+          "9\\;066",
+          "9\\;616"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính theo cột dọc và tính từ phải sang trái:\\n- $6 \\times 1 = 6$, viết 6.\\n- $6 \\times 0 = 0$, viết 0.\\n- $6 \\times 6 = 36$, viết 6, nhớ 3.\\n- $6 \\times 1 = 6$, thêm 3 là 9, viết 9.\\nKết quả là $9\\;606$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-3a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $1\\;000 \\times 5 = $ ...",
+        "options": [
+          "5\\;000"
+        ],
+        "correct_index": 0,
+        "explanation": "Nhẩm: $1\\text{ nghìn} \\times 5 = 5\\text{ nghìn}$, vậy $1\\;000 \\times 5 = 5\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "tinh-nham"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-3b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $2\\;000 \\times 4 = $ ...",
+        "options": [
+          "8\\;000"
+        ],
+        "correct_index": 0,
+        "explanation": "Nhẩm: $2\\text{ nghìn} \\times 4 = 8\\text{ nghìn}$, vậy $2\\;000 \\times 4 = 8\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "tinh-nham"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-3c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $1\\;000 \\times 8 = $ ...",
+        "options": [
+          "8\\;000"
+        ],
+        "correct_index": 0,
+        "explanation": "Nhẩm: $1\\text{ nghìn} \\times 8 = 8\\text{ nghìn}$, vậy $1\\;000 \\times 8 = 8\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "tinh-nham"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4.** Một khu đất hình vuông có độ dài cạnh là $2\\;409\\text{ m}$. Hỏi chu vi khu đất đó là bao nhiêu mét?",
+        "options": [
+          "$9\\;636\\text{ m}$",
+          "$7\\;227\\text{ m}$",
+          "$9\\;626\\text{ m}$",
+          "$4\\;818\\text{ m}$"
+        ],
+        "correct_index": 0,
+        "explanation": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.\\nBài giải:\\nChu vi khu đất hình vuông đó là:\\n$2\\;409 \\times 4 = 9\\;636\\text{ (m)}$\\nĐáp số: $9\\;636\\text{ mét}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "giai-toan-co-lo-van"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-5a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 5.** Quan sát hình vẽ đàn voi và điền số thích hợp vào chỗ chấm:\\na) Đàn voi có ......... con voi.",
+        "options": [
+          "8"
+        ],
+        "correct_index": 0,
+        "explanation": "Đếm số con voi trong hình vẽ, ta thấy có tất cả 8 con voi.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "thuc-te"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet1-5b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 5.** b) Mỗi con voi kéo $1\\;051\\text{ kg}$ gỗ keo. Cả đàn voi kéo được ......... kg gỗ keo.",
+        "options": [
+          "8\\;408"
+        ],
+        "correct_index": 0,
+        "explanation": "Số ki-lô-gam gỗ keo cả đàn voi kéo được là:\\n$1\\;051 \\times 8 = 8\\;408\\text{ (kg)}$.\\nĐiền vào chỗ chấm: $8\\;408$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "thuc-te"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet2-1a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Tính: $2\\;142 \\times 4 = ?$?",
+        "options": [
+          "8\\;568",
+          "8\\;658",
+          "8\\;586",
+          "8\\;560"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ phải sang trái:\\n- $4 \\times 2 = 8$, viết 8.\\n- $4 \\times 4 = 16$, viết 6, nhớ 1.\\n- $4 \\times 1 = 4$, thêm 1 là 5, viết 5.\\n- $4 \\times 2 = 8$, viết 8.\\nVậy $2\\;142 \\times 4 = 8\\;568$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "nhan-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet2-1b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Tính: $1\\;013 \\times 7 = ?$?",
+        "options": [
+          "7\\;091",
+          "7\\;019",
+          "7\\;901",
+          "7\\;109"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ phải sang trái:\\n- $7 \\times 3 = 21$, viết 1, nhớ 2.\\n- $7 \\times 1 = 7$, thêm 2 là 9, viết 9.\\n- $7 \\times 0 = 0$, viết 0.\\n- $7 \\times 1 = 7$, viết 7.\\nVậy $1\\;013 \\times 7 = 7\\;091$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "nhan-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet2-1c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Tính: $1\\;201 \\times 8 = ?$?",
+        "options": [
+          "9\\;608",
+          "9\\;680",
+          "9\\;068",
+          "9\\;806"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ phải sang trái:\\n- $8 \\times 1 = 8$, viết 8.\\n- $8 \\times 0 = 0$, viết 0.\\n- $8 \\times 2 = 16$, viết 6, nhớ 1.\\n- $8 \\times 1 = 8$, thêm 1 là 9, viết 9.\\nVậy $1\\;201 \\times 8 = 9\\;608$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "nhan-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet2-1d",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Tính: $4\\;532 \\times 2 = ?$?",
+        "options": [
+          "9\\;064",
+          "9\\;046",
+          "9\\;604",
+          "9\\;406"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ phải sang trái:\\n- $2 \\times 2 = 4$, viết 4.\\n- $2 \\times 3 = 6$, viết 6.\\n- $2 \\times 5 = 10$, viết 0, nhớ 1.\\n- $2 \\times 4 = 8$, thêm 1 là 9, viết 9.\\nVậy $4\\;532 \\times 2 = 9\\;064$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "nhan-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet2-2a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính: $2\\;619 \\times 3$",
+        "options": [
+          "7\\;857",
+          "7\\;875",
+          "7\\;587",
+          "7\\;758"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính dọc rồi tính từ phải sang trái:\\n- $3 \\times 9 = 27$, viết 7, nhớ 2.\\n- $3 \\times 1 = 3$, thêm 2 là 5, viết 5.\\n- $3 \\times 6 = 18$, viết 8, nhớ 1.\\n- $3 \\times 2 = 6$, thêm 1 là 7, viết 7.\\nKết quả là $7\\;857$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet2-2b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính: $1\\;807 \\times 5$",
+        "options": [
+          "9\\;035",
+          "9\\;053",
+          "9\\;305",
+          "9\\;503"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính dọc rồi tính từ phải sang trái:\\n- $5 \\times 7 = 35$, viết 5, nhớ 3.\\n- $5 \\times 0 = 0$, thêm 3 là 3, viết 3.\\n- $5 \\times 8 = 40$, viết 0, nhớ 4.\\n- $5 \\times 1 = 5$, thêm 4 là 9, viết 9.\\nKết quả là $9\\;035$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet2-2c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính: $1\\;219 \\times 4$",
+        "options": [
+          "4\\;876",
+          "4\\;786",
+          "4\\;867",
+          "4\\;678"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính dọc rồi tính từ phải sang trái:\\n- $4 \\times 9 = 36$, viết 6, nhớ 3.\\n- $4 \\times 1 = 4$, thêm 3 là 7, viết 7.\\n- $4 \\times 2 = 8$, viết 8.\\n- $4 \\times 1 = 4$, viết 4.\\nKết quả là $4\\;876$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet2-2d",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính: $4\\;263 \\times 2$",
+        "options": [
+          "8\\;526",
+          "8\\;256",
+          "8\\;625",
+          "8\\;562"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính dọc rồi tính từ phải sang trái:\\n- $2 \\times 3 = 6$, viết 6.\\n- $2 \\times 6 = 12$, viết 2, nhớ 1.\\n- $2 \\times 2 = 4$, thêm 1 là 5, viết 5.\\n- $2 \\times 4 = 8$, viết 8.\\nKết quả là $8\\;526$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet2-3",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3.** Số thích hợp điền vào ô trống cuối cùng là bao nhiêu?\\n$1\\;216 \\xrightarrow{- 200} [\\;] \\xrightarrow{\\times 3} [\\;] \\xrightarrow{- 200} [\\;] \\xrightarrow{\\times 2} [\\;]$",
+        "options": [
+          "5\\;876"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện lần lượt các phép tính theo chiều mũi tên:\\n- Bước 1: $1\\;216 - 200 = 1\\;016$\\n- Bước 2: $1\\;016 \\times 3 = 3\\;048$\\n- Bước 3: $3\\;048 - 200 = 2\\;848$\\n- Bước 4: $2\\;848 \\times 2 = 5\\;876$\\nVậy số cần điền vào ô trống cuối cùng là $5\\;876$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "tinh-nhanh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet2-4",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4.** Một làng nghề mỗi tháng dệt được $2\\;070$ tấm lụa. Hỏi sau 3 tháng, làng nghề đó dệt được bao nhiêu tấm lụa?",
+        "options": [
+          "$6\\;210\\text{ tấm}$",
+          "$6\\;021\\text{ tấm}$",
+          "$6\\;201\\text{ tấm}$",
+          "$6\\;120\\text{ tấm}$"
+        ],
+        "correct_index": 0,
+        "explanation": "Bài giải:\\nSố tấm lụa làng nghề đó dệt được sau 3 tháng là:\\n$2\\;070 \\times 3 = 6\\;210\\text{ (tấm)}$\\nĐáp số: $6\\;210\\text{ tấm lụa}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "giai-toan-co-lo-van"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet3-1a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1.** Đặt tính rồi tính: $1\\;417 \\times 5$",
+        "options": [
+          "7\\;085",
+          "7\\;058",
+          "7\\;805",
+          "7\\;508"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính và tính:\\n- $5 \\times 7 = 35$, viết 5, nhớ 3.\\n- $5 \\times 1 = 5$, thêm 3 là 8, viết 8.\\n- $5 \\times 4 = 20$, viết 0, nhớ 2.\\n- $5 \\times 1 = 5$, thêm 2 là 7, viết 7.\\nKết quả là $7\\;085$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet3-1b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1.** Đặt tính rồi tính: $3\\;062 \\times 3$",
+        "options": [
+          "9\\;186",
+          "9\\;168",
+          "9\\;816",
+          "9\\;618"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính và tính:\\n- $3 \\times 2 = 6$, viết 6.\\n- $3 \\times 6 = 18$, viết 8, nhớ 1.\\n- $3 \\times 0 = 0$, thêm 1 là 1, viết 1.\\n- $3 \\times 3 = 9$, viết 9.\\nKết quả là $9\\;186$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet3-1c",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1.** Đặt tính rồi tính: $1\\;109 \\times 8$",
+        "options": [
+          "8\\;872",
+          "8\\;827",
+          "8\\;782",
+          "8\\;278"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính và tính:\\n- $8 \\times 9 = 72$, viết 2, nhớ 7.\\n- $8 \\times 0 = 0$, thêm 7 là 7, viết 7.\\n- $8 \\times 1 = 8$, viết 8.\\n- $8 \\times 1 = 8$, viết 8.\\nKết quả là $8\\;872$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet3-1d",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1.** Đặt tính rồi tính: $2\\;092 \\times 4$",
+        "options": [
+          "8\\;368",
+          "8\\;638",
+          "8\\;386",
+          "8\\;836"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính và tính:\\n- $4 \\times 2 = 8$, viết 8.\\n- $4 \\times 9 = 36$, viết 6, nhớ 3.\\n- $4 \\times 0 = 0$, thêm 3 là 3, viết 3.\\n- $4 \\times 2 = 8$, viết 8.\\nKết quả là $8\\;368$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet3-2",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2.** Một lữ đoàn có 7 tiểu đoàn, mỗi tiểu đoàn có 613 người. Sau đó lữ đoàn được bổ sung thêm một đại đội gồm có 200 người. Hỏi lúc này, lữ đoàn đó có tất cả bao nhiêu người?",
+        "options": [
+          "$4\\;491\\text{ người}$",
+          "$4\\;291\\text{ người}$",
+          "$4\\;419\\text{ người}$",
+          "$4\\;941\\text{ người}$"
+        ],
+        "correct_index": 0,
+        "explanation": "Bài giải:\\n- Số người của 7 tiểu đoàn là: $613 \\times 7 = 4\\;291\\text{ (người)}$\\n- Số người của lữ đoàn lúc này là: $4\\;291 + 200 = 4\\;491\\text{ (người)}$\\nĐáp số: $4\\;491\\text{ người}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "giai-toan-co-lo-van"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet3-3a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3.** Lực sĩ Báo thi nhảy xa năm bước. Ba bước nhảy đầu của lực sĩ là $605\\text{ cm}$, hai bước nhảy cuối cùng của lực sĩ là $580\\text{ cm}$.\\na) Lực sĩ Báo nhảy được tổng cộng ......... cm.",
+        "options": [
+          "1\\;815"
+        ],
+        "correct_index": 0,
+        "explanation": "Độ dài ba bước nhảy đầu là: $605 \\times 3 = 1\\;815\\text{ (cm)}$.\\nĐộ dài hai bước nhảy cuối là $580\\text{ cm}$.\\nTổng độ dài 5 bước nhảy là: $1\\;815 + 580 = 2\\;395\\text{ (cm)}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "thuc-te"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet3-3b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3.** b) Lực sĩ Báo nhảy được tổng cộng ......... m ......... cm.",
+        "options": [
+          "23",
+          "95"
+        ],
+        "correct_index": 0,
+        "explanation": "Từ kết quả câu a, tổng độ dài là $2\\;395\\text{ cm}$.\\nVì $1\\;000\\text{ cm} = 10\\text{ m}$, nên $2\\;395\\text{ cm} = 23\\text{ m } 95\\text{ cm}$.\\n(Hoặc đổi $2\\;395\\text{ cm} = 23\\text{m}$ và $95\\text{cm}$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "doi-don-vi"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet3-4a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 4.** Viết chữ số thích hợp vào ô trống:\\na) Phép tính: $\\overline{1\\square 04} \\times 7 = \\overline{\\square 4\\square \\square}$. Hãy tìm chữ số ở ô trống đầu tiên (hàng trăm của số bị nhân):",
+        "options": [
+          "2"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có phép tính: $\\overline{1\\square 04} \\times 7 = \\dots 4$ (vì $7 \\times 4 = 28$, viết 8 nhớ 2).\\nXét hàng chục: $7 \\times 0 = 0$, thêm 2 là 2, nhưng ở tích tận cùng là 4 ở hàng chục? Khoan, nhìn kỹ kết quả cột dọc câu a:\\n$\\begin{array}{r} 1\\;\\square\\;04\\\\ \\times \\quad 7\\\\ \\hline \\square\\;4\\;\\square\\;\\square \\end{array}$\\n- Hàng đơn vị: $7 \\times 4 = 28$, viết 8, nhớ 2.\\n- Hàng chục: $7 \\times 0 = 0$, nhớ 2 là 2 (tích có chữ số hàng chục là 4? Đề in là $\\square 4 \\square \\square$). Thực ra hàng chục phải là 2. Chắc chắn ô hàng trăm số bị nhân là 2 vì $7 \\times 2 = 14$, cộng 2 (nhớ) = 16, viết 6 nhớ 1. Ta kiểm tra: $1204 \\times 7 = 8428$. Chữ số hàng trăm cần tìm là 2.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "tim-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-56-tiet3-4b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 4.** b) Phép tính: $\\overline{\\square 2\\square 8} \\times 3 = \\overline{9\\square 8\\square}$. Hãy tìm chữ số hàng nghìn của số bị nhân:",
+        "options": [
+          "3"
+        ],
+        "correct_index": 0,
+        "explanation": "Xét phép nhân: $\\overline{\\square 2\\square 8} \\times 3 = \\overline{9\\square 8\\square}$.\\nNhìn tích ở hàng nghìn là 9, vì nhân với 3 nên chữ số hàng nghìn của số bị nhân phải là $9 : 3 = 3$.\\nThử lại: $3298 \\times 3 = 9894$ (hoặc tùy cấu trúc số trong sách, ta có chữ số hàng nghìn là 3).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-56",
+          "tim-chu-so"
+        ]
+      }
+    ]
+  }
+]

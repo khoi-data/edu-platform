@@ -1,0 +1,280 @@
+[
+  {
+    "bai": 66,
+    "title": "Bài 66: Xem đồng hồ. Tháng – năm",
+    "book_pages": "75 - 77",
+    "topic": "Chủ đề 13: Đồng hồ. Tháng – năm. Tiền Việt Nam",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-66-1a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1a.** Nam đi xe đạp lúc \\ldots\\ldots giờ \\ldots\\ldots phút sáng. (Quan sát hình a trang 75)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Quan sát đồng hồ a, kim giờ chỉ qua số 6 một chút, kim phút chỉ số 3 (tương ứng với $3 \\times 5 = 15$ phút). Vậy Nam đi xe đạp lúc 6 giờ 15 phút sáng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-1b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1b.** Việt học tiếng Anh lúc \\ldots\\ldots giờ \\ldots\\ldots phút sáng. (Quan sát hình b trang 75)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Quan sát đồng hồ b, kim giờ chỉ qua số 8 một chút, kim phút chỉ số 4 (tương ứng với $4 \\times 5 = 20$ phút). Vậy Việt học tiếng Anh lúc 8 giờ 20 phút sáng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-1c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1c.** Mai cùng mẹ rửa bát lúc \\ldots\\ldots giờ \\ldots\\ldots phút trưa. (Quan sát hình c trang 75)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Quan sát đồng hồ c, kim giờ chỉ gần đến số 12, kim phút chỉ số 8 (tương ứng với $8 \\times 5 = 40$ phút, tức là kém 20 phút nữa là đến 12 giờ). Vậy Mai cùng mẹ rửa bát lúc 11 giờ 40 phút trưa.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-1d",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1d.** Rô-bốt thả diều lúc \\ldots\\ldots giờ \\ldots\\ldots phút chiều. (Quan sát hình d trang 75)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Quan sát đồng hồ d, kim giờ chỉ qua số 3 một chút, kim phút chỉ số 9 (tương ứng với $9 \\times 5 = 45$ phút). Do là buổi chiều, thời gian này tương ứng với 3 giờ 45 phút chiều hoặc 15 giờ 45 phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Nối hai chiếc đồng hồ chỉ cùng thời gian vào buổi tối (quan sát các đồng hồ cơ và đồng hồ điện tử trang 75). Đồng hồ hiển thị điện tử `22:45` tương ứng với đồng hồ kim chỉ mấy giờ?",
+        "options": [
+          "10 giờ 45 phút tối",
+          "9 giờ 55 phút tối",
+          "8 giờ 50 phút tối",
+          "11 giờ 40 phút tối"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có: $22:45$ nghĩa là 22 giờ 45 phút, hay còn gọi là 10 giờ 45 phút tối (vì $22 - 12 = 10$). Trên đồng hồ kim, kim giờ chỉ gần số 11 và kim phút chỉ số 9.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-3a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Tính: $5 \\text{ phút} + 15 \\text{ phút} = \\ldots\\ldots \\text{ phút}$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép cộng các số đo thời gian: $5 + 15 = 20$ phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-3b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3b.** Tính: $50 \\text{ phút} - 35 \\text{ phút} = \\ldots\\ldots \\text{ phút}$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép trừ các số đo thời gian: $50 - 35 = 15$ phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-3c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3c.** Tính: $12 \\text{ phút} \\times 5 = \\ldots\\ldots \\text{ phút}$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép nhân: $12 \\times 5 = 60$ phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-3d",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3d.** Tính: $45 \\text{ phút} : 3 = \\ldots\\ldots \\text{ phút}$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép chia: $45 : 3 = 15$ phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4.** Lúc này, đồng hồ đang chỉ thời gian như hình vẽ bên (3 giờ đúng). 10 phút nữa, lớp của Mai sẽ bắt đầu tiết học cuối cùng trong ngày. Hỏi đồng hồ nào dưới đây chỉ thời gian đó?",
+        "options": [
+          "Đồng hồ A (3 giờ 10 phút)",
+          "Đồng hồ B (3 giờ 15 phút)",
+          "Đồng hồ C (3 giờ 20 phút)",
+          "Đồng hồ D (3 giờ kém 10 phút)"
+        ],
+        "correct_index": 0,
+        "explanation": "Đồng hồ đề bài đang chỉ 3 giờ đúng. Thêm 10 phút nữa sẽ là 3 giờ 10 phút. Quan sát các đáp án, đồng hồ A có kim giờ chỉ số 3, kim phút chỉ số 2 (ứng với $2 \\times 5 = 10$ phút) chính là 3 giờ 10 phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-5a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1a.** Trong một năm, có \\ldots\\ldots tháng có 30 ngày.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Các tháng có 30 ngày trong năm là: tháng 4, tháng 6, tháng 9, tháng 11. Vậy có tất cả 4 tháng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-5b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1b.** Trong một năm, có \\ldots\\ldots tháng có ngày 31.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Các tháng có 31 ngày trong năm là: tháng 1, tháng 3, tháng 5, tháng 7, tháng 8, tháng 10, tháng 12. Vậy có tất cả 7 tháng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-6a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2a.** Quan sát tờ lịch tháng 12 (trang 77): Ngày thành lập Quân đội nhân dân Việt Nam là ngày 22 tháng 12. Hôm đó là thứ \\ldots\\ldots.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Quan sát tờ lịch tháng 12, ngày 22 nằm ở cột 'THỨ TƯ'. Vậy ngày 22 tháng 12 là ngày Thứ Tư.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-6b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2b.** Lớp của Rô-bốt sẽ bắt đầu kiểm tra học kì 1 từ ngày 27 đến hết ngày 29 tháng 12. Vậy thời gian kiểm tra học kì 1 của lớp đó kéo dài \\ldots\\ldots ngày.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Các ngày kiểm tra học kì 1 gồm: ngày 27, ngày 28, ngày 29. Số ngày kiểm tra là: $29 - 27 + 1 = 3$ ngày.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-7",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Gia đình Mai sẽ về thăm quê ngoại từ ngày 30 tháng 8 đến hết ngày 3 tháng 9. Hỏi chuyến đi đó kéo dài bao nhiêu ngày?",
+        "options": [
+          "3 ngày",
+          "4 ngày",
+          "5 ngày",
+          "6 ngày"
+        ],
+        "correct_index": 2,
+        "explanation": "Tháng 8 có 31 ngày. Các ngày trong chuyến đi gồm:\n- Tháng 8: ngày 30, ngày 31 (2 ngày).\n- Tháng 9: ngày 1, ngày 2, ngày 3 (3 ngày).\nTổng số ngày của chuyến đi là: $2 + 3 = 5$ ngày.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-8a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4a.** Nếu ngày 31 tháng 12 năm nay là thứ Sáu thì: Ngày Tết dương lịch năm sau là thứ \\ldots\\ldots.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ngày Tết dương lịch là ngày 1 tháng 1 của năm sau, tiếp ngay sau ngày 31 tháng 12. Nếu ngày 31 tháng 12 là thứ Sáu thì ngày 1 tháng 1 năm sau là thứ Bảy.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-66-8b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4b.** Nếu ngày 31 tháng 12 năm nay là thứ Sáu thì: Ngày 15 tháng 1 năm sau là thứ \\ldots\\ldots.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ngày 1 tháng 1 năm sau là thứ Bảy (ngày đầu tiên của năm mới). Số ngày từ ngày 1 tháng 1 đến ngày 15 tháng 1 là: $15 - 1 = 14$ ngày (đúng bằng 2 tuần lễ). Do đó, ngày 15 tháng 1 cũng là **thứ Bảy**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-66"
+        ]
+      }
+    ]
+  }
+]

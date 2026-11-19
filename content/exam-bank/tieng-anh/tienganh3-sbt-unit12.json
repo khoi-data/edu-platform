@@ -1,0 +1,386 @@
+{
+  "collection": {
+    "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 12: Jobs",
+    "subject_slug": "tieng_anh",
+    "grade": 3,
+    "volume": 1,
+    "units": [
+      12
+    ],
+    "exam_type": null,
+    "reference_book": "Global Success - Sách bài tập Tiếng Anh 3",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 12,
+      "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 12: Jobs",
+      "questions": [
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\ndoct___",
+            "correct_answer": "or",
+            "choices": [
+              "or",
+              "er"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nmoth___",
+            "correct_answer": "er",
+            "choices": [
+              "er",
+              "or"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Find the job:\n1. Người khám và chữa bệnh: ___",
+            "correct_answer": "doctor",
+            "choices": [
+              "doctor",
+              "driver",
+              "farmer",
+              "cook"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Find the job:\n2. Người dạy học sinh ở trường: ___",
+            "correct_answer": "teacher",
+            "choices": [
+              "teacher",
+              "worker",
+              "singer",
+              "nurse"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Find the job:\n3. Người chăm sóc bệnh nhân: ___",
+            "correct_answer": "nurse",
+            "choices": [
+              "nurse",
+              "cook",
+              "driver",
+              "doctor"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Find the job:\n4. Người lái xe: ___",
+            "correct_answer": "driver",
+            "choices": [
+              "driver",
+              "worker",
+              "farmer",
+              "teacher"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Read and match.",
+            "pairs": [
+              {
+                "left": "1. nurse",
+                "right": "c. Y tá"
+              },
+              {
+                "left": "2. farmer",
+                "right": "d. Nông dân"
+              },
+              {
+                "left": "3. cook",
+                "right": "b. Đầu bếp"
+              },
+              {
+                "left": "4. singer",
+                "right": "a. Ca sĩ"
+              }
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. What's",
+                "right": "c. her job?"
+              },
+              {
+                "left": "2. Is your father",
+                "right": "a. a farmer?"
+              },
+              {
+                "left": "3. She's a",
+                "right": "b. singer."
+              },
+              {
+                "left": "4. He's a",
+                "right": "d. worker."
+              }
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and match the dialogue.",
+            "pairs": [
+              {
+                "left": "1. Who's that?",
+                "right": "c. It's my father."
+              },
+              {
+                "left": "2. What's his job?",
+                "right": "b. He's a nurse."
+              },
+              {
+                "left": "3. What's her job?",
+                "right": "a. She's a doctor."
+              },
+              {
+                "left": "4. Is your mother a teacher?",
+                "right": "d. Yes, she is."
+              }
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nam / I / a pupil",
+            "words": [
+              "I",
+              "am",
+              "a",
+              "pupil",
+              "."
+            ],
+            "correct_sentence": "I am a pupil."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\na singer / Is / your / sister",
+            "words": [
+              "Is",
+              "your",
+              "sister",
+              "a",
+              "singer",
+              "?"
+            ],
+            "correct_sentence": "Is your sister a singer?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nis / My / a driver / brother",
+            "words": [
+              "My",
+              "brother",
+              "is",
+              "a",
+              "driver",
+              "."
+            ],
+            "correct_sentence": "My brother is a driver."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\njob / What's / his",
+            "words": [
+              "What's",
+              "his",
+              "job",
+              "?"
+            ],
+            "correct_sentence": "What's his job?"
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"This is my family. My mother is a (1) ___.\"",
+            "correct_answer": "doctor",
+            "choices": [
+              "doctor",
+              "teacher",
+              "pupil",
+              "cook"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"My father (2) ___ a teacher.\"",
+            "correct_answer": "is",
+            "choices": [
+              "is",
+              "are",
+              "am",
+              "have"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"I am a (3) ___.\"",
+            "correct_answer": "pupil",
+            "choices": [
+              "pupil",
+              "teacher",
+              "doctor",
+              "farmer"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"This is my family. My (4) ___ is a cook.\"",
+            "correct_answer": "mother",
+            "choices": [
+              "mother",
+              "pupil",
+              "father",
+              "sister"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"My father is (5) ___. I am a pupil, too.\"",
+            "correct_answer": "a farmer",
+            "choices": [
+              "a farmer",
+              "a doctor",
+              "a cook",
+              "a pupil"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read Ben's family text and choose True/False:\n1. His father is a farmer.",
+            "correct_answer": "False",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read Ben's family text and choose True/False:\n2. His mother is a doctor.",
+            "correct_answer": "True",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read Ben's family text and choose True/False:\n3. His brother is a cook.",
+            "correct_answer": "False",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read Ben's family text and choose True/False:\n4. Ben is a pupil.",
+            "correct_answer": "True",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n\"My name is Linh. This is my (1) f___.\"",
+            "correct_answer": "family",
+            "choices": [
+              "family",
+              "father",
+              "farmer",
+              "friend"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n\"My (2) m___ is a worker.\"",
+            "correct_answer": "mother",
+            "choices": [
+              "mother",
+              "monkey",
+              "music",
+              "milk"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n\"My father is a (3) n___.\"",
+            "correct_answer": "nurse",
+            "choices": [
+              "nurse",
+              "notebook",
+              "name",
+              "number"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n\"This is my (4) b___. He is a student.\"",
+            "correct_answer": "brother",
+            "choices": [
+              "brother",
+              "book",
+              "bag",
+              "bird"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

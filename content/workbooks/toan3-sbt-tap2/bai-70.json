@@ -1,0 +1,531 @@
+[
+  {
+    "bai": 70,
+    "title": "Bài 70: Nhân số có năm chữ số với số có một chữ số",
+    "book_pages": "90 - 92",
+    "topic": "Chủ đề 14: Phép nhân, phép chia trong phạm vi 100 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-70-1-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Tính: $24\\;316 \\times 3 = \\ldots$",
+        "options": [
+          "72\\;948",
+          "72\\;848",
+          "71\\;948",
+          "72\\;938"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ phải sang trái: $6 \\times 3 = 18$, viết 8, nhớ 1; $1 \\times 3 = 3$, thêm 1 là 4, viết 4; $3 \\times 3 = 9$, viết 9; $4 \\times 3 = 12$, viết 2, nhớ 1; $2 \\times 3 = 6$, thêm 1 là 7, viết 7. Vậy $24\\;316 \\times 3 = 72\\;948$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "nhan-so-co-nam-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-1-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Tính: $45\\;107 \\times 2 = \\ldots$",
+        "options": [
+          "90\\;214",
+          "90\\;114",
+          "90\\;204",
+          "91\\;214"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ phải sang trái: $7 \\times 2 = 14$, viết 4, nhớ 1; $0 \\times 2 = 0$, thêm 1 là 1, viết 1; $1 \\times 2 = 2$, viết 2; $5 \\times 2 = 10$, viết 0, nhớ 1; $4 \\times 2 = 8$, thêm 1 là 9, viết 9. Vậy $45\\;107 \\times 2 = 90\\;214$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "nhan-so-co-nam-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-1-3",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Tính: $4\\;713 \\times 6 = \\ldots$",
+        "options": [
+          "28\\;278",
+          "28\\;178",
+          "27\\;278",
+          "28\\;378"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ phải sang trái: $3 \\times 6 = 18$, viết 8, nhớ 1; $1 \\times 6 = 6$, thêm 1 là 7, viết 7; $7 \\times 6 = 42$, viết 2, nhớ 4; $4 \\times 6 = 24$, thêm 4 là 28, viết 28. Vậy $4\\;713 \\times 6 = 28\\;278$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "nhan-so-co-nam-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-2-a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2a.** Đặt tính rồi tính: $13\\;081 \\times 7$",
+        "options": [
+          "91\\;567",
+          "91\\;557",
+          "90\\;567",
+          "91\\;467"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện tính nhân từ phải sang trái: $1 \\times 7 = 7$, viết 7; $8 \\times 7 = 56$, viết 6, nhớ 5; $0 \\times 7 = 0$, thêm 5 là 5, viết 5; $3 \\times 7 = 21$, viết 1, nhớ 2; $1 \\times 7 = 7$, thêm 2 là 9, viết 9. Kết quả là $91\\;567$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-2-b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2b.** Đặt tính rồi tính: $24\\;170 \\times 4$",
+        "options": [
+          "96\\;680",
+          "96\\;580",
+          "97\\;680",
+          "96\\;780"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện tính nhân từ phải sang trái: $0 \\times 4 = 0$, viết 0; $7 \\times 4 = 28$, viết 8, nhớ 2; $1 \\times 4 = 4$, thêm 2 là 6, viết 6; $4 \\times 4 = 16$, viết 6, nhớ 1; $2 \\times 4 = 8$, thêm 1 là 9, viết 9. Kết quả là $96\\;680$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-3-a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3a.** Đúng ghi Đ, sai ghi S vào ô trống: $16\\;242 \\times 4 = 64\\;968$",
+        "options": [
+          "Đúng (Đ)",
+          "Sai (S)"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính nhân: $2 \\times 4 = 8$ (viết 8); $4 \\times 4 = 16$ (viết 6, nhớ 1); $2 \\times 4 = 8$, thêm 1 là 9 (viết 9); $6 \\times 4 = 24$ (viết 4, nhớ 2); $1 \\times 4 = 4$, thêm 2 là 6 (viết 6). Kết quả đúng bằng $64\\;968$. Vậy điền Đ.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "dung-sai"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-3-b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3b.** Đúng ghi Đ, sai ghi S vào ô trống: $27\\;063 \\times 3 = 61\\;089$",
+        "options": [
+          "Sai (S)",
+          "Đúng (Đ)"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính nhân: $3 \\times 3 = 9$ (viết 9); $6 \\times 3 = 18$ (viết 8, nhớ 1); $0 \\times 3 = 0$, thêm 1 là 1 (viết 1); $7 \\times 3 = 21$ (viết 1, nhớ 2); $2 \\times 3 = 6$, thêm 2 là 8 (viết 8). Kết quả đúng phải là $81\\;189$, trong khi đề ghi $61\\;089$. Vậy phép tính này sai, điền S.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "dung-sai"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4.** Mỗi lần may quần áo đồng phục cho công nhân, xưởng may dùng hết $12\\;150\\text{ m}$ vải. Hỏi 3 lần may như vậy, xưởng may đã dùng hết bao nhiêu mét vải?",
+        "options": [
+          "36\\;450\\text{ m}",
+          "36\\;350\\text{ m}",
+          "36\\;460\\text{ m}",
+          "35\\;450\\text{ m}"
+        ],
+        "correct_index": 0,
+        "explanation": "Số mét vải xưởng may đã dùng cho 3 lần là: $12\\;150 \\times 3 = 36\\;450\\text{ (m)}$. Đáp án đúng là $36\\;450\\text{ m}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "giai-toan-co-lo-van"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-5-1",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Đặt tính rồi tính: $12\\;107 \\times 8$",
+        "options": [
+          "96\\;856",
+          "96\\;756",
+          "95\\;856",
+          "96\\;846"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện nhân từ phải sang trái: $7 \\times 8 = 56$ (viết 6, nhớ 5); $0 \\times 8 = 0$, thêm 5 là 5 (viết 5); $1 \\times 8 = 8$ (viết 8); $2 \\times 8 = 16$ (viết 6, nhớ 1); $1 \\times 8 = 8$, thêm 1 là 9 (viết 9). Kết quả là $96\\;856$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-5-2",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Đặt tính rồi tính: $14\\;019 \\times 5$",
+        "options": [
+          "70\\;095",
+          "70\\;195",
+          "70\\;085",
+          "71\\;095"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện nhân từ phải sang trái: $9 \\times 5 = 45$ (viết 5, nhớ 4); $1 \\times 5 = 5$, thêm 4 là 9 (viết 9); $0 \\times 5 = 0$ (viết 0); $4 \\times 5 = 20$ (viết 0, nhớ 2); $1 \\times 5 = 5$, thêm 2 là 7 (viết 7). Kết quả là $70\\;095$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-5-3",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Đặt tính rồi tính: $13\\;109 \\times 7$",
+        "options": [
+          "91\\;763",
+          "91\\;663",
+          "90\\;763",
+          "92\\;763"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện nhân từ phải sang trái: $9 \\times 7 = 63$ (viết 3, nhớ 6); $0 \\times 7 = 0$, thêm 6 là 6 (viết 6); $1 \\times 7 = 7$ (viết 7); $3 \\times 7 = 21$ (viết 1, nhớ 2); $1 \\times 7 = 7$, thêm 2 là 9 (viết 9). Kết quả là $91\\;763$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-6-a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2a.** Tính nhẩm: $12\\;000 \\times 8 = \\ldots$",
+        "options": [
+          "96\\;000",
+          "96\\;00",
+          "86\\;000",
+          "92\\;000"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $12 \\times 8 = 96$, sau đó viết thêm ba chữ số 0 vào sau số 96 ta được $96\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "tinh-nham"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-6-b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2b.** Tính nhẩm: $13\\;000 \\times 7 = \\ldots$",
+        "options": [
+          "91\\;000",
+          "91\\;00",
+          "90\\;000",
+          "81\\;000"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $13 \\times 7 = 91$, sau đó viết thêm ba chữ số 0 vào sau số 91 ta được $91\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "tinh-nham"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-6-c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2c.** Tính nhẩm: $24\\;000 \\times 4 = \\ldots$",
+        "options": [
+          "96\\;000",
+          "86\\;000",
+          "94\\;000",
+          "98\\;000"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $24 \\times 4 = 96$, viết thêm ba chữ số 0 ta được $96\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "tinh-nham"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-6-d",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2d.** Tính nhẩm: $15\\;000 \\times 6 = \\ldots$",
+        "options": [
+          "90\\;000",
+          "90\\;00",
+          "80\\;000",
+          "95\\;000"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $15 \\times 6 = 90$, viết thêm ba chữ số 0 ta được $90\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "tinh-nham"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-7",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Số thích hợp điền vào ô trống theo chiều mũi tên là: \n$14\\;071 \\xrightarrow{\\times 7} [\\;?_1\\;] \\xrightarrow{- 5\\;928} [\\;?_2\\;]$",
+        "options": [
+          "$92\\;569$",
+          "$92\\;469$",
+          "$91\\;569$",
+          "$92\\;579$"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tính $14\\;071 \\times 7 = 98\\;497$. \nBước 2: Lấy kết quả vừa tìm được trừ đi $5\\;928$: $98\\;497 - 5\\;928 = 92\\;569$. \nVậy số cần điền vào ô trống cuối cùng là $92\\;569$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "tim-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-8",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4.** Hiện tại trong kho còn $8\\;000\\text{ l}$ dầu. Người ta đã chuyển thêm dầu vào kho 3 lần, mỗi lần $1\\;400\\text{ l}$ dầu. Hỏi sau khi chuyển, trong kho có tất cả bao nhiêu lít dầu?",
+        "options": [
+          "12\\;200\\text{ l}",
+          "12\\;100\\text{ l}",
+          "11\\;200\\text{ l}",
+          "13\\;200\\text{ l}"
+        ],
+        "correct_index": 0,
+        "explanation": "Số lít dầu chuyển thêm vào kho trong 3 lần là: $1\\;400 \\times 3 = 4\\;200\\text{ (l)}$. \nSố lít dầu trong kho có tất cả sau khi chuyển là: $8\\;000 + 4\\;200 = 12\\;200\\text{ (l)}$. \nĐáp án đúng là $12\\;200\\text{ l}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "giai-toan-co-lo-van"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-9-a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1a.** Số thích hợp điền vào các ô trống theo chiều mũi tên:\n$14\\;000 \\xrightarrow{\\times 2} [\\;?_1\\;] \\xrightarrow{\\times 3} [\\;?_2\\;]$",
+        "options": [
+          "28\\;000 và 84\\;000",
+          "28\\;000 và 56\\;000",
+          "42\\;000 và 84\\;000",
+          "28\\;000 và 74\\;000"
+        ],
+        "correct_index": 0,
+        "explanation": "Ô trống thứ nhất: $14\\;000 \\times 2 = 28\\;000$. \nÔ trống thứ hai: $28\\;000 \\times 3 = 84\\;000$. \nVậy các số cần điền là $28\\;000$ và $84\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "tinh-nham"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-9-b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1b.** Số thích hợp điền vào các ô trống theo chiều mũi tên:\n$14\\;000 \\xrightarrow{\\times 3} [\\;?_1\\;] \\xrightarrow{\\times 2} [\\;?_2\\;]$",
+        "options": [
+          "42\\;000 và 84\\;000",
+          "28\\;000 và 84\\;000",
+          "42\\;000 và 56\\;000",
+          "42\\;000 và 94\\;000"
+        ],
+        "correct_index": 0,
+        "explanation": "Ô trống thứ nhất: $14\\;000 \\times 3 = 42\\;000$. \nÔ trống thứ hai: $42\\;000 \\times 2 = 84\\;000$. \nVậy các số cần điền là $42\\;000$ và $84\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "tinh-nham"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-10-a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2a.** Đặt tính rồi tính: $23\\;072 \\times 4$",
+        "options": [
+          "92\\;288",
+          "92\\;188",
+          "91\\;288",
+          "92\\;388"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện nhân từ phải sang trái: $2 \\times 4 = 8$; $7 \\times 4 = 28$ (viết 8, nhớ 2); $0 \\times 4 = 0$, thêm 2 là 2; $3 \\times 4 = 12$ (viết 2, nhớ 1); $2 \\times 4 = 8$, thêm 1 là 9. Kết quả là $92\\;288$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-10-b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2b.** Đặt tính rồi tính: $15\\;141 \\times 6$",
+        "options": [
+          "90\\;846",
+          "90\\;746",
+          "91\\;846",
+          "90\\;856"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện nhân từ phải sang trái: $1 \\times 6 = 6$; $4 \\times 6 = 24$ (viết 4, nhớ 2); $1 \\times 6 = 6$, thêm 2 là 8; $5 \\times 6 = 30$ (viết 0, nhớ 3); $1 \\times 6 = 6$, thêm 3 là 9. Kết quả là $90\\;846$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "dat-tinh-roi-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-11",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3.** Tính giá trị của biểu thức:\n$13\\;081 \\times 7 - 37\\;149 = \\ldots$",
+        "options": [
+          "54\\;418",
+          "54\\;318",
+          "53\\;418",
+          "54\\;518"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Thực hiện phép nhân trước: $13\\;081 \\times 7 = 91\\;567$. \nBước 2: Thực hiện phép trừ: $91\\;567 - 37\\;149 = 54\\;418$. \nVậy giá trị của biểu thức là $54\\;418$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "tinh-gia-tri-bieu-thuc"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-12",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 4.** Mẹ đưa cho Mai 5 tờ tiền loại $10\\;000$ đồng. Mai mua bút và vở hết $45\\;000$ đồng. Hỏi Mai còn lại bao nhiêu tiền?",
+        "options": [
+          "5\\;000\\text{ đồng}",
+          "10\\;000\\text{ đồng}",
+          "15\\;000\\text{ đồng}",
+          "0\\text{ đồng}"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tính tổng số tiền mẹ đưa cho Mai: $10\\;000 \\times 5 = 50\\;000\\text{ (đồng)}$. \nBước 2: Tính số tiền Mai còn lại: $50\\;000 - 45\\;000 = 5\\;000\\text{ (đồng)}$. \nĐáp án đúng là $5\\;000$ đồng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "giai-toan-co-lo-van"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-13-a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 5a.** Viết số thích hợp vào chỗ chấm: Gấp số $10\\;500$ lên 4 lần rồi trừ đi $25\\;000$ ta được số $\\ldots$",
+        "options": [
+          "17\\;000",
+          "18\\;000",
+          "16\\;000",
+          "17\\;500"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Gấp số $10\\;500$ lên 4 lần: $10\\;500 \\times 4 = 42\\;000$. \nBước 2: Trừ đi $25\\;000$: $42\\;000 - 25\\;000 = 17\\;000$. \nSố cần điền là $17\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "viet-so-thich-hop"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-70-13-b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 5b.** Viết số thích hợp vào chỗ chấm: Gấp số $12\\;260$ lên 3 lần rồi cộng với $24\\;070$ ta được số $\\ldots$",
+        "options": [
+          "60\\;850",
+          "60\\;750",
+          "61\\;850",
+          "59\\;850"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Gấp số $12\\;260$ lên 3 lần: $12\\;260 \\times 3 = 36\\;780$. \nBước 2: Cộng với $24\\;070$: $36\\;780 + 24\\;070 = 60\\;850$. \nSố cần điền là $60\\;850$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-70",
+          "viet-so-thich-hop"
+        ]
+      }
+    ]
+  }
+]

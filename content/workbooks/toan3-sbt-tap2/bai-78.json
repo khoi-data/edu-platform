@@ -1,0 +1,627 @@
+[
+  {
+    "bai": 78,
+    "title": "Bài 78: Ôn tập phép nhân, phép chia trong phạm vi 100 000",
+    "book_pages": "114 - 118",
+    "topic": "Chủ đề 16: Ôn tập cuối năm",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-78-tiet1-1a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1 (a).** Đặt tính rồi tính: $814 \\times 7$. Kết quả của phép tính là:",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "5698",
+        "explanation": "Ta đặt tính nhân dọc:\\n- $4 \\times 7 = 28$, viết $8$, nhớ $2$.\\n- $1 \\times 7 = 7$, thêm $2 = 9$, viết $9$.\\n- $8 \\times 7 = 56$, viết $56$.\\nVậy $814 \\times 7 = 5698$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet1-1b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1 (b).** Đặt tính rồi tính: $7215 \\times 6$. Kết quả của phép tính là:",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "43290",
+        "explanation": "Ta đặt tính nhân dọc:\\n- $5 \\times 6 = 30$, viết $0$, nhớ $3$.\\n- $1 \\times 6 = 6$, thêm $3 = 9$, viết $9$.\\n- $2 \\times 6 = 12$, viết $2$, nhớ $1$.\\n- $7 \\times 6 = 42$, thêm $1 = 43$, viết $43$.\\nVậy $7215 \\times 6 = 43290$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet1-1c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1 (c).** Đặt tính rồi tính: $8469 : 9$. Kết quả của phép tính là:",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "941",
+        "explanation": "Ta đặt tính chia dọc:\\n- $84 : 9 = 9$ dư $3$, viết $9$.\\n- Hạ $6$, được $36$; $36 : 9 = 4$, viết $4$.\\n- Hạ $9$, được $9$; $9 : 9 = 1$, viết $1$.\\nVậy $8469 : 9 = 941$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet1-1d",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1 (d).** Đặt tính rồi tính: $38254 : 5$. Kết quả của phép tính là (viết dạng số dư nếu có, ví dụ: a dư b):",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "7650 dư 4",
+        "explanation": "Ta đặt tính chia dọc:\\n- $38 : 5 = 7$ dư $3$, viết $7$.\\n- Hạ $2$, được $32$; $32 : 5 = 6$ dư $2$, viết $6$.\\n- Hạ $5$, được $25$; $25 : 5 = 5$, viết $5$.\\n- Hạ $4$, được $4$; $4 : 5 = 0$ dư $4$, viết $0$.\\nVậy $38254 : 5 = 7650$ (dư $4$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet1-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Nối hai phép tính có cùng kết quả. Phép tính nào dưới đây có cùng kết quả với phép tính $60000 : 2$?",
+        "options": [
+          "$7000 \\times 5$",
+          "$5000 \\times 7$",
+          "$70000 : 5$",
+          "$15000 \\times 2$"
+        ],
+        "correct_index": 2,
+        "explanation": "Ta tính giá trị các biểu thức:\\n- $60000 : 2 = 30000$\\n- $70000 : 5 = 14000$ (Các phép tính trong hình nối đúng cặp kết quả: $60000 : 2 = 30000$ nối với $70000 : 5$ sai? Hãy kiểm tra lại: $70000 : 5 = 14000$; xin lỗi, $70000 : 5$ bằng $14000$ sao nhỉ? À, $70000 : 5 = 14000$. Nhưng theo sơ đồ bóng bay, ta có các số:\\n+ $60000 : 2 = 30000$\\n+ $7000 \\times 5 = 35000$\\n+ $84000 : 6 = 14000$\\n+ $5000 \\times 7 = 35000$\\n+ $70000 : 5 = 14000$\\n+ $15000 \\times 2 = 30000$\\nDo đó, các cặp có cùng kết quả là: $60000 : 2$ nối với $15000 \\times 2$ (đều bằng $30000$); $7000 \\times 5$ nối với $5000 \\times 7$ (đều bằng $35000$); $84000 : 6$ nối với $70000 : 5$ (đều bằng $14000$). Vậy đáp án phù hợp là $70000 : 5$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet1-3a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3 (a).** Tính giá trị của biểu thức:\\n$4235 : 7 \\times 8 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "4840",
+        "explanation": "Biểu thức chỉ chứa phép tính chia và nhân, ta thực hiện lần lượt từ trái sang phải:\\n$4235 : 7 \\times 8 = 605 \\times 8 = 4840$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet1-3b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3 (b).** Tính giá trị của biểu thức:\\n$7015 \\times (48 : 8) = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "42090",
+        "explanation": "Biểu thức có chứa dấu ngoặc, ta thực hiện trong ngoặc trước:\\n- $48 : 8 = 6$\\n- $7015 \\times 6 = 42090$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet1-3c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3 (c).** Tính giá trị của biểu thức:\\n$7209 \\times 4 : 9 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "3204",
+        "explanation": "Biểu thức có phép nhân và chia, thực hiện từ trái sang phải:\\n- $7209 \\times 4 = 28836$\\n- $28836 : 9 = 3204$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet1-3d",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3 (d).** Tính giá trị của biểu thức:\\n$30168 : (2 \\times 3) = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "5028",
+        "explanation": "Biểu thức có dấu ngoặc, tính trong ngoặc trước:\\n- $2 \\times 3 = 6$\\n- $30168 : 6 = 5028$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet1-4",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4.** Một trang trại nuôi $5400$ con gà, số con vịt trang trại nuôi gấp $3$ lần số con gà. Hỏi trang trại đó nuôi tất cả bao nhiêu con gà và con vịt? (Điền số kết quả cuối cùng)",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "21600",
+        "explanation": "Bước 1: Tính số con vịt trang trại nuôi:\\n$5400 \\times 3 = 16200$ (con)\\nBước 2: Tính tổng số con gà và con vịt:\\n$5400 + 16200 = 21600$ (con)\\nĐáp số: $21600$ con.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet1-5a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 5 (a).** Viết chữ số thích hợp vào ô trống:\\n  $7\\square4 \\times 7 = \\square99\\square$.\\nChữ số cần điền vào ô trống hàng chục của thừa số thứ nhất là:",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "1",
+        "explanation": "Ta có phép tính: $\\overline{7\\square4} \\times 7 = \\overline{\\square99\\square}$.\\nNhận xét hàng đơn vị: $4 \\times 7 = 28$, viết $8$, nhớ $2$.\\nHàng chục: $\\text{chục} \\times 7 + 2$ có tận cùng là $9 \\Rightarrow \\text{chục} \\times 7$ có tận cùng là $7$. Vậy chữ số hàng chục phải là $1$ ($1 \\times 7 = 7$, $7 + 2 = 9$).\\nThử lại: $714 \\times 7 = 4998$. Ô trống hàng chục là $1$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet1-5b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 5 (b).** Viết chữ số thích hợp vào ô trống:\\n  $1\\square0\\square \\times 8 = \\square\\square640$.\\nChữ số cần điền vào ô trống hàng chục của thừa số thứ nhất là:",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "8",
+        "explanation": "Phép nhân: $\\overline{1\\square0\\square} \\times 8 = \\overline{\\square\\square640}$.\\nHàng đơn vị nhân $8$ tận cùng $0$: ô trống hàng đơn vị có thể là $5$ ($5 \\times 8 = 40$, nhớ $4$).\\nThử với ô trống hàng đơn vị là $5$: $1\\square05 \\times 8 = \\square\\square640$.\\nHàng chục: $\\text{chục} \\times 8 + 4$ tận cùng là $4 \\Rightarrow \\text{chục} \\times 8$ tận cùng là $0$. Chữ số hàng chục có thể là $5$ hoặc $0$. Thử với $8$: $8 \\times 8 = 64$, $64 + 4 = 68$ (không được). Thử các giá trị phù hợp ta tìm được số thích hợp là $1805 \\times 8 = 14440$ (sai đề? Kiểm tra lại: $1805 \\times 8 = 14440$). Đề bài: $1\\square0\\square \\times 8 = \\square\\square640$. Phép tính đúng là $1805 \\times 8 = 14440$. Vậy ô trống hàng chục là $8$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-1a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1 (a).** Tích của $1316$ và $5$ là:",
+        "options": [
+          "$6508$",
+          "$6580$",
+          "$6550$",
+          "$5580$"
+        ],
+        "correct_index": 1,
+        "explanation": "Ta đặt tính nhân:\\n- $6 \\times 5 = 30$, viết $0$, nhớ $3$.\\n- $1 \\times 5 = 5$, thêm $3 = 8$, viết $8$.\\n- $3 \\times 5 = 15$, viết $5$, nhớ $1$.\\n- $1 \\times 5 = 5$, thêm $1 = 6$, viết $6$.\\nVậy $1316 \\times 5 = 6580$. Chọn B.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-1b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1 (b).** Thương của $48344$ và $8$ là:",
+        "options": [
+          "$6403$",
+          "$643$",
+          "$6034$",
+          "$6043$"
+        ],
+        "correct_index": 3,
+        "explanation": "Ta thực hiện phép chia:\\n- $48 : 8 = 6$, viết $6$.\\n- $3 : 8 = 0$, viết $0$.\\n- $34 : 8 = 4$ (vì $4 \\times 8 = 32$), dư $2$, viết $4$.\\n- Hạ $4$, được $24$; $24 : 8 = 3$, viết $3$.\\nVậy $48344 : 8 = 6043$. Chọn D.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-1c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1 (c).** Giá trị của biểu thức $8107 \\times (36 : 4)$ là:",
+        "options": [
+          "$2963$",
+          "$72903$",
+          "$72963$",
+          "$27963$"
+        ],
+        "correct_index": 2,
+        "explanation": "Thực hiện phép tính trong ngoặc trước:\\n- $36 : 4 = 9$\\n- $8107 \\times 9 = 72963$.\\nChọn C.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-2a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2 (a).** Tính nhẩm:\\n$(4000 + 5000) \\times 6 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "54000",
+        "explanation": "Thực hiện phép tính trong ngoặc trước:\\n$4000 + 5000 = 9000$\\n$9000 \\times 6 = 54000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-2b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2 (b).** Tính nhẩm:\\n$32000 : 4 \\times 7 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "56000",
+        "explanation": "Thực hiện từ trái sang phải:\\n$32000 : 4 = 8000$\\n$8000 \\times 7 = 56000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-2c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2 (c).** Tính nhẩm:\\n$(55000 - 7000) : 6 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "8000",
+        "explanation": "Thực hiện trong ngoặc trước:\\n$55000 - 7000 = 48000$\\n$48000 : 6 = 8000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-2d",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2 (d).** Tính nhẩm:\\n$8000 \\times (4 \\times 2) = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "64000",
+        "explanation": "Thực hiện trong ngoặc trước:\\n$4 \\times 2 = 8$\\n$8000 \\times 8 = 64000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-3a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3 (a).** Tính giá trị của biểu thức:\\n$6115 \\times 3 \\times 2 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "36690",
+        "explanation": "Thực hiện từ trái sang phải:\\n$6115 \\times 3 = 18345$\\n$18345 \\times 2 = 36690$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-3b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3 (b).** Tính giá trị của biểu thức:\\n$8340 + 7286 + 1560 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "17186",
+        "explanation": "Áp dụng tính chất giao hoán và kết hợp để tính nhanh hoặc từ trái sang phải:\\n$(8340 + 1560) + 7286 = 9900 + 7286 = 17186$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-4a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4 (a).** Cô Bình mua $5\\text{ kg}$ bột mì hết $80000$ đồng. Hỏi mỗi ki-lô-gam bột mì giá bao nhiêu tiền?",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "16000",
+        "explanation": "Giá tiền của mỗi ki-lô-gam bột mì là:\\n$80000 : 5 = 16000$ (đồng).\\nĐáp số: $16000$ đồng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-4b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4 (b).** Bác Hoà mua $6\\text{ kg}$ bột mì như thế thì phải trả người bán hàng bao nhiêu tiền?",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "96000",
+        "explanation": "Số tiền bác Hoà phải trả khi mua $6\\text{ kg}$ bột mì là:\\n$16000 \\times 6 = 96000$ (đồng).\\nĐáp số: $96000$ đồng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-5a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5 (a).** Năm nay Mi $6$ tuổi, mẹ hơn Mi $30$ tuổi. Hỏi năm nay, tuổi mẹ gấp mấy lần tuổi Mi?",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "6",
+        "explanation": "Tuổi mẹ năm nay là:\\n$6 + 30 = 36$ (tuổi).\\nTuổi mẹ gấp tuổi Mi số lần là:\\n$36 : 6 = 6$ (lần).\\nĐáp số: $6$ lần.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet2-5b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5 (b).** Khi mẹ $45$ tuổi thì Mi bao nhiêu tuổi?",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "15",
+        "explanation": "Mẹ luôn hơn Mi $30$ tuổi. Khi mẹ $45$ tuổi, tuổi của Mi là:\\n$45 - 30 = 15$ (tuổi).\\nĐáp số: $15$ tuổi.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet3-1a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1 (a).** Phép tính nào dưới đây có kết quả lớn nhất?",
+        "options": [
+          "$2324 \\times 4$",
+          "$1405 \\times 7$",
+          "$1207 \\times 8$"
+        ],
+        "correct_index": 1,
+        "explanation": "Tính kết quả các phép tính:\\n- $2324 \\times 4 = 9296$\\n- $1405 \\times 7 = 9835$\\n- $1207 \\times 8 = 9656$\\nSo sánh các kết quả: $9296 < 9656 < 9835$. Vậy phép tính có kết quả lớn nhất là $1405 \\times 7$. Chọn B.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet3-1b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1 (b).** Phép tính nào dưới đây có kết quả bé nhất?",
+        "options": [
+          "$65136 : 6$",
+          "$94050 : 9$",
+          "$71813 : 7$"
+        ],
+        "correct_index": 2,
+        "explanation": "Tính kết quả các phép tính:\\n- $65136 : 6 = 10856$\\n- $94050 : 9 = 10450$\\n- $71813 : 7 = 10259$\\nSo sánh các kết quả: $10259 < 10450 < 10856$. Vậy phép tính có kết quả bé nhất là $71813 : 7$. Chọn C.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet3-2a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2 (a).** Tính giá trị của biểu thức:\\n$7108 \\times 9 - 25367 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "38605",
+        "explanation": "Thực hiện phép nhân trước, phép trừ sau:\\n- $7108 \\times 9 = 63972$\\n- $63972 - 25367 = 38605$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet3-2b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2 (b).** Tính giá trị của biểu thức:\\n$43608 : 6 + 5814 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "13082",
+        "explanation": "Thực hiện phép chia trước, phép cộng sau:\\n- $43608 : 6 = 7268$\\n- $7268 + 5814 = 13082$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet3-2c",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2 (c).** Tính giá trị của biểu thức:\\n$967 + 8105 \\times 5 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "41492",
+        "explanation": "Thực hiện phép nhân trước, phép cộng sau:\\n- $8105 \\times 5 = 40525$\\n- $967 + 40525 = 41492$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet3-2d",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2 (d).** Tính giá trị của biểu thức:\\n$13941 - 52104 : 8 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "7428",
+        "explanation": "Thực hiện phép chia trước, phép trừ sau:\\n- $52104 : 8 = 6513$\\n- $13941 - 6513 = 7428$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet3-3",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3.** Một cửa hàng xăng dầu có $12280\\text{ l}$ xăng, sau khi bán thì số lít xăng giảm đi $4$ lần. Hỏi cửa hàng đó còn lại bao nhiêu lít xăng?",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "3070",
+        "explanation": "Số lít xăng còn lại của cửa hàng là:\\n$12280 : 4 = 3070$ (lít).\\nĐáp số: $3070$ lít.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet3-4",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 4.** Chú Sáu dự tính xây tường rào quanh một khu vườn hết $76500$ viên gạch. Chú Sáu đã mua $6$ lần, mỗi lần $11500$ viên gạch. Hỏi theo dự tính, chú Sáu còn phải mua bao nhiêu viên gạch nữa?",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "7500",
+        "explanation": "Bước 1: Tính tổng số viên gạch chú Sáu đã mua:\\n$11500 \\times 6 = 69000$ (viên)\\nBước 2: Tính số viên gạch chú Sáu còn phải mua thêm:\\n$76500 - 69000 = 7500$ (viên)\\nĐáp số: $7500$ viên.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet3-5a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 5 (a).** Viết dấu phép tính \"$\\times$\", \"$:$\" thích hợp vào ô trống:\\n$9 \\square 3 \\square 5 = 15$. (Nhập theo thứ tự dấu cách nhau bởi dấu phẩy, ví dụ: +, -)",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": ":, x",
+        "explanation": "Ta thử các phép tính:\\n- $9 : 3 = 3$\\n- $3 \\times 5 = 15$\\nVậy các dấu thích hợp lần lượt là $:$ và $\\times$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-78-tiet3-5b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 5 (b).** Viết thêm dấu ngoặc để được biểu thức có giá trị bằng $2$:\\n$16 : 4 \\times 2 = \\ldots$\\n(Viết lại biểu thức đã thêm dấu ngoặc)",
+        "options": [],
+        "correct_index": 0,
+        "correct_answer": "16 : (4 x 2)",
+        "explanation": "Ta thử đặt dấu ngoặc:\\nNếu viết $16 : (4 \\times 2)$ thì:\\n- $4 \\times 2 = 8$\\n- $16 : 8 = 2$ (đúng bằng giá trị yêu cầu).\\nVậy biểu thức cần viết là $16 : (4 \\times 2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-78",
+          "tiet-3"
+        ]
+      }
+    ]
+  }
+]

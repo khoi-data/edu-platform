@@ -1,0 +1,466 @@
+[
+  {
+    "bai": 59,
+    "title": "Bài 59: Các số có năm chữ số. Số 100 000",
+    "book_pages": "54 - 58",
+    "topic": "Chủ đề 11: Các số đến 100 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-59-tiet1-b1-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Hoàn thành bảng sau (theo mẫu):\n\nCho hàng chục nghìn là $1$, hàng nghìn là $8$, hàng trăm là $0$, hàng chục là $2$, hàng đơn vị là $3$. Viết số là: \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta ghép các chữ số theo thứ tự từ hàng chục nghìn đến hàng đơn vị: 1 chục nghìn, 8 nghìn, 0 trăm, 2 chục, 3 đơn vị ta được số $18\\;023$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet1-b1-2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Cho số $60\\;104$. Đọc số này là: \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số $60\\;104$ gồm 6 chục nghìn, 0 nghìn, 1 trăm, 0 chục, 4 đơn vị, đọc là: Sáu mươi nghìn một trăm linh bốn (hoặc sáu mươi nghìn một trăm khô bốn).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet1-b1-3",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Điền số và cách đọc ứng với câu: \"hai mươi chín nghìn năm trăm mười lăm\". Viết số là: \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Hai mươi chín nghìn viết là $29$; năm trăm mười lăm viết là $515$. Gộp lại ta có số $29\\;515$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet1-b2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2.** Viết số thích hợp vào chỗ chấm trên tia số:\n$49\\;994$, $49\\;995$, $49\\;996$, \\ldots\\ldots\\ldots, $49\\;998$, \\ldots\\ldots\\ldots, \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Các số trên tia số đếm thêm $1$ đơn vị liên tiếp: $49\\;994$; $49\\;995$; $49\\;996$; $49\\;997$; $49\\;998$; $49\\;999$; $50\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet1-b3a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Viết số gồm: $4$ chục nghìn, $0$ nghìn, $5$ trăm, $1$ chục và $3$ đơn vị.\nViết số: \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ghép các hàng ta được số $40\\;513$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet1-b3b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3b.** Viết số gồm: $1$ chục nghìn, $5$ nghìn, $0$ trăm, $3$ chục và $0$ đơn vị.\nViết số: \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ghép các hàng ta được số $15\\;030$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet1-b3c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3c.** Viết số gồm: $8$ chục nghìn, $9$ nghìn, $2$ trăm, $0$ chục và $5$ đơn vị.\nViết số: \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ghép các hàng ta được số $89\\;205$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet1-b3d",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3d.** Viết số gồm: $6$ chục nghìn, $0$ nghìn, $0$ trăm, $0$ chục và $0$ đơn vị.\nViết số: \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ghép các hàng ta được số $60\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet1-b5",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 5.** Số tròn chục nghìn lớn nhất và bé hơn $50\\;000$ là:",
+        "options": [
+          "A. $20\\;000$",
+          "B. $30\\;000$",
+          "C. $40\\;000$",
+          "D. $60\\;000$"
+        ],
+        "correct_index": 2,
+        "explanation": "Các số tròn chục nghìn có năm chữ số và bé hơn $50\\;000$ là: $10\\;000$, $20\\;000$, $30\\;000$, $40\\;000$. Số lớn nhất trong các số này là $40\\;000$. Do đó ta chọn C.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet2-b2a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2a.** Số liền trước của số $10\\;000$ là \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số liền trước của một số thì bé hơn số đó $1$ đơn vị. $10\\;000 - 1 = 9\\;999$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet2-b2b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2b.** Số liền sau của số $26\\;034$ là \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số liền sau lớn hơn số đó $1$ đơn vị. $26\\;034 + 1 = 26\\;035$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet2-b2c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2c.** Số liền sau của số $69\\;999$ là \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số liền sau của $69\\;999$ là $69\\;999 + 1 = 70\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet2-b2d",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2d.** Số liền trước của số $100\\;000$ là \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số liền trước của $100\\;000$ là $100\\;000 - 1 = 99\\;999$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet2-b4",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4.** Số nào dưới đây có chữ số hàng chục nghìn là $4$ và chữ số hàng trăm là $5$?",
+        "options": [
+          "A. $45\\;307$",
+          "B. $50\\;400$",
+          "C. $100\\;000$",
+          "D. $46\\;508$"
+        ],
+        "correct_index": 3,
+        "explanation": "Ta kiểm tra từng số:\n- Số $45\\;307$ có hàng chục nghìn là $4$, hàng trăm là $3$.\n- Số $50\\;400$ có hàng chục nghìn là $5$, hàng trăm là $4$.\n- Số $46\\;508$ có hàng chục nghìn là $4$, hàng nghìn là $6$, hàng trăm là $5$.\nVậy số cần tìm là $46\\;508$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet2-b5",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5.** Dùng năm thẻ số $1$, $9$, $3$, $0$, $0$ để lập các số tròn trăm có năm chữ số.\nCác số tròn trăm lập được là: \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số tròn trăm có năm chữ số tận cùng là chữ số $0$ ở hàng chục và hàng đơn vị. Các chữ số còn lại là $1, 3, 9$. Các số lập được là: $13\\;900$, $19\\;300$, $31\\;900$, $39\\;100$, $91\\;300$, $93\\;100$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet3-b1a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 1a.** Viết số thích hợp vào chỗ chấm:\n$99\\;999 = 90\\;000 + \\ldots\\ldots\\ldots + 900 + 90 + 9$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Phân tích số $99\\;999$ thành tổng các giá trị các chữ số: $99\\;999 = 90\\;000 + 9\\;000 + 900 + 90 + 9$. Số cần điền là $9\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet3-b1b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 1b.** Viết số thích hợp vào chỗ chấm:\n$27\\;000 = \\ldots\\ldots\\ldots + 7\\;000$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "$27\\;000 = 20\\;000 + 7\\;000$. Số cần điền là $20\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet3-b1c",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 1c.** Viết số thích hợp vào chỗ chấm:\n$16\\;078 = 10\\;000 + 6\\;000 + \\ldots\\ldots\\ldots + 8$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta có $16\\;078 = 10\\;000 + 6\\;000 + 70 + 8$. Số cần điền là $70$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet3-b1d",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 1d.** Viết số thích hợp vào chỗ chấm:\n$83\\;404 = 80\\;000 + 3\\;000 + 400 + \\ldots\\ldots\\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta có $83\\;404 = 80\\;000 + 3\\;000 + 400 + 4$. Số cần điền là $4$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet3-b2a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2a.** Bạn Hưng viết lên bảng một số tròn chục nghìn có năm chữ số. Bạn Hưng có thể viết số $100\\;000$. Đúng hay Sai?",
+        "options": [
+          "A. Đúng (Đ)",
+          "B. Sai (S)"
+        ],
+        "correct_index": 1,
+        "explanation": "Số $100\\;000$ là số có sáu chữ số, không phải số có năm chữ số. Do đó phát biểu này là Sai (S).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet3-b2b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2b.** Bạn Hưng viết lên bảng một số tròn chục nghìn có năm chữ số. Bạn Hưng chắc chắn viết số $60\\;000$. Đúng hay Sai?",
+        "options": [
+          "A. Đúng (Đ)",
+          "B. Sai (S)"
+        ],
+        "correct_index": 1,
+        "explanation": "Bạn Hưng có thể viết nhiều số tròn chục nghìn khác như $10\\;000$, $20\\;000$, $50\\;000$,... nên không thể khẳng định chắc chắn là viết số $60\\;000$. Do đó phát biểu này là Sai (S).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet3-b2c",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2c.** Bạn Hưng viết lên bảng một số tròn chục nghìn có năm chữ số. Bạn Hưng không thể viết số $86\\;937$. Đúng hay Sai?",
+        "options": [
+          "A. Đúng (Đ)",
+          "B. Sai (S)"
+        ],
+        "correct_index": 0,
+        "explanation": "Số $86\\;937$ không phải là số tròn chục nghìn (vì có tận là các chữ số khác $0$ ở hàng nghìn, trăm, chục, đơn vị). Do đó bạn Hưng không thể viết số này. Phát biểu là Đúng (Đ).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet3-b3",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3.** Trong nhà máy sản xuất đồ hộp, các hộp cá đã được đánh số lần lượt từ $1$ đến $45\\;887$. Ba hộp cá tiếp theo được đánh các số là: \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ba số liền tiếp tiếp theo của $45\\;887$ lần lượt là $45\\;888$; $45\\;889$; $45\\;890$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet3-b4a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 4a.** Dựa vào hình vẽ, chiều cao của cây đó là \\ldots\\ldots\\ldots cm.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Nhìn vào hình vẽ của bài, số chỉ chiều cao cây là $53\\;089$ cm.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet3-b4b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 4b.** Làm tròn chiều cao của cây đến hàng trăm được \\ldots\\ldots\\ldots cm.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số chiều cao là $53\\;089$. Chữ số hàng chục là $8$ (lớn hơn hoặc bằng $5$), nên làm tròn lên hàng trăm ta được $53\\;100$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet4-b2b",
+        "tiet": 4,
+        "type": "fill_blank",
+        "question": "**Tiết 4 - Bài 2b.** Cho dãy số: $75\\;000$, $80\\;000$, $85\\;000$. Các số tròn chục nghìn trong các số trên là: \\ldots\\ldots\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Trong dãy số trên, số $80\\;000$ là số tròn chục nghìn (còn $75\\;000$ và $85\\;000$ là số tròn nghìn nhưng không tròn chục nghìn).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-4"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-59-tiet4-b3",
+        "tiet": 4,
+        "type": "multiple_choice",
+        "question": "**Tiết 4 - Bài 3.** Tìm số từ bốn số cho trước $65\\;080$, $79\\;289$, $70\\;375$, $70\\;281$, biết rằng:\n- Hàng chục nghìn của số cần tìm là $7$.\n- Nếu làm tròn số cần tìm đến hàng chục thì chữ số hàng chục của số làm tròn là $8$.\n- Nếu làm tròn số cần tìm đến hàng trăm thì chữ số hàng trăm của số làm tròn là $3$.\nSố cần tìm là:",
+        "options": [
+          "A. $65\\;080$",
+          "B. $79\\;289$",
+          "C. $70\\;375$",
+          "D. $70\\;281$"
+        ],
+        "correct_index": 2,
+        "explanation": "Ta loại ngay $65\\;080$ vì hàng chục nghìn là $6$. Các số còn lại đều có hàng chục nghìn là $7$. Xét điều kiện làm tròn đến hàng trăm có chữ số hàng trăm là $3$:\n- Số $79\\;289$ có hàng trăm là $2$.\n- Số $70\\;375$ có hàng trăm là $3$ (làm tròn đến hàng trăm xét chữ số hàng chục là $7 \\ge 5$, tăng hàng trăm thêm $1$ thành $4$, nhưng xét theo đề bài: làm tròn đến hàng trăm giữ nguyên chữ số hàng trăm hoặc tăng lên tùy thuộc vào số nào thỏa mãn tất cả các điều kiện). Thử với $70\\;375$: làm tròn đến hàng chục: số chục là $7$ (làm tròn lên, hàng chục thành $8$), thỏa mãn chữ số hàng chục sau khi làm tròn là $8$. Làm tròn đến hàng trăm: hàng chục là $7 \\ge 5$ nên tăng hàng trăm lên $1$, từ $3$ thành $4$.\nThử tiếp $70\\;281$: hàng chục là $8$, làm tròn đến hàng chục giữ nguyên hoặc tăng; nhưng khi làm tròn đến hàng trăm của $70\\;281$ (hàng chục là $8 \\ge 5$ tăng hàng trăm lên $1$, từ $2$ thành $3$). Do đó $70\\;281$ khi làm tròn đến hàng trăm thì chữ số hàng trăm là $3$, và khi làm tròn đến hàng chục thì chữ số hàng chục là $8$. Vậy số cần tìm là $70\\;281$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-59",
+          "tiet-4"
+        ]
+      }
+    ]
+  }
+]

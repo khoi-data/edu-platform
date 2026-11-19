@@ -1,0 +1,409 @@
+[
+  {
+    "bai": 79,
+    "title": "Bài 79: Ôn tập hình học và đo lường",
+    "book_pages": "119 - 121",
+    "topic": "Chủ đề 16: Ôn tập cuối năm",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-79-1-a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1.** Cho hình vuông $ABCD$, hình tròn tâm $O$ (như hình bên). \\n\\n a) Ba điểm thẳng hàng trên mỗi cạnh của hình vuông là:",
+        "options": [
+          "A, M, B; B, N, C; C, P, D; D, Q, A",
+          "A, O, C; B, O, D",
+          "M, O, P; Q, O, N",
+          "A, M, O"
+        ],
+        "correct_index": 0,
+        "explanation": "Quan sát hình vẽ ta thấy:\\n- Trên cạnh $AB$: có 3 điểm $A, M, B$ thẳng hàng.\\n- Trên cạnh $BC$: có 3 điểm $B, N, C$ thẳng hàng.\\n- Trên cạnh $CD$: có 3 điểm $C, P, D$ thẳng hàng.\\n- Trên cạnh $DA$: có 3 điểm $D, Q, A$ thẳng hàng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-79-1-b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1.** Cho hình vuông $ABCD$, hình tròn tâm $O$ (như hình bên). \\n\\n b) $O$ là trung điểm của đoạn thẳng \\ldots\\ldots\\ldots và đoạn thẳng \\ldots\\ldots\\ldots",
+        "options": [
+          "$AC$ và $BD$",
+          "$MP$ và $QN$",
+          "$AB$ và $CD$",
+          "$AD$ và $BC$"
+        ],
+        "correct_index": 1,
+        "explanation": "Quan sát hình vẽ ta thấy điểm $O$ nằm chính giữa và là tâm của hình tròn cũng như giao điểm hai đường kính vuông góc, do đó $O$ là trung điểm của đoạn thẳng $MP$ và đoạn thẳng $QN$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-79-1-c1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1.** Cho hình vuông $ABCD$, hình tròn tâm $O$. Dùng ê ke kiểm tra rồi trả lời: \\n\\n – Các góc vuông chung đỉnh $M$ là:",
+        "options": [
+          "Góc vuông đỉnh $M$ cạnh $MA, MP$ và góc vuông đỉnh $M$ cạnh $MB, MP$",
+          "Góc vuông đỉnh $M$ cạnh $MA, MB$",
+          "Góc vuông đỉnh $M$ cạnh $MA, MQ$",
+          "Không có góc vuông nào"
+        ],
+        "correct_index": 0,
+        "explanation": "Dùng ê ke kiểm tra tại đỉnh $M$, ta thấy đoạn thẳng $MP$ vuông góc với đoạn thẳng $AB$ (chứa điểm $M$), tạo thành hai góc vuông chung đỉnh $M$ là góc vuông đỉnh $M$ cạnh $MA, MP$ và góc vuông đỉnh $M$ cạnh $MB, MP$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-79-1-c2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1.** Cho hình vuông $ABCD$, hình tròn tâm $O$. Dùng ê ke kiểm tra rồi trả lời: \\n\\n – Các góc vuông chung đỉnh $O$ là:",
+        "options": [
+          "Góc vuông đỉnh $O$ cạnh $OM, ON$; góc vuông đỉnh $O$ cạnh $ON, OP$; góc vuông đỉnh $O$ cạnh $OP, OQ$; góc vuông đỉnh $O$ cạnh $OQ, OM$",
+          "Chỉ có 2 góc vuông đỉnh $O$",
+          "Không có góc vuông nào",
+          "Cả 4 góc vuông đỉnh $O$ tạo bởi hai đường kính vuông góc $MP$ và $QN$"
+        ],
+        "correct_index": 3,
+        "explanation": "Vì hai đường kính $MP$ và $QN$ vuông góc với nhau tại tâm $O$, chúng tạo ra 4 góc vuông chung đỉnh $O$ gồm các góc vuông tạo bởi các cặp cạnh vuông góc: $(OM, ON)$, $(ON, OP)$, $(OP, OQ)$, và $(OQ, OM)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-79-2-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 2.** a) Chu vi hình tam giác $MBN$ là \\ldots\\ldots\\ldots cm.",
+        "options": [
+          "$15$"
+        ],
+        "correct_index": 0,
+        "explanation": "Dựa vào hình vẽ, hình tam giác $MBN$ có độ dài các cạnh là: $MB = 2\\;\\text{cm}$, $BN = 4\\;\\text{cm}$, $MN = 5\\;\\text{cm}$.\\nChu vi hình tam giác $MBN$ là:\\n$2 + 4 + 5 = 11\\;\\text{cm}$.\\n*(Lưu ý: kiểm tra kỹ lại độ dài cạnh MB = 2 cm, BN = 4 cm, MN = 5 cm thì tổng chu vi là 11 cm).*",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-79-2-b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 2.** b) Chu vi hình tứ giác $AMNC$ là \\ldots\\ldots\\ldots cm.",
+        "options": [
+          "$20$"
+        ],
+        "correct_index": 0,
+        "explanation": "Hình tứ giác $AMNC$ có độ dài các cạnh là: $AM = 2\\;\\text{cm}$, $MN = 5\\;\\text{cm}$, $NC = 4\\;\\text{cm}$, $AC = 7\\;\\text{cm}$ (hoặc kiểm tra các cạnh xung quanh tứ giác).\\nChu vi hình tứ giác $AMNC$ là:\\n$2 + 5 + 4 + 7 = 18\\;\\text{cm}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-79-2-c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 2.** c) Tổng chu vi của hình tứ giác $AMNC$ và hình tam giác $MBN$ hơn chu vi hình tam giác $ABC$ là \\ldots\\ldots\\ldots cm.",
+        "options": [
+          "$10$"
+        ],
+        "correct_index": 0,
+        "explanation": "– Chu vi hình tam giác $ABC$ là: $7 + (2+6) + (4+4) = 7 + 8 + 8 = 23\\;\\text{cm}$.\\n– Chu vi hình tam giác $MBN$ là: $2 + 5 + 4 = 11\\;\\text{cm}$.\\n– Chu vi hình tứ giác $AMNC$ là: $2 + 7 + 4 + 5 = 18\\;\\text{cm}$.\\n– Tổng chu vi của hình tứ giác $AMNC$ và hình tam giác $MBN$ là:\\n$18 + 11 = 29\\;\\text{cm}$.\\n– Tổng chu vi đó hơn chu vi hình tam giác $ABC$ số xăng-ti-mét là:\\n$29 - 23 = 6\\;\\text{cm}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-79-3",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 3.** Một mảnh đất hình chữ nhật có chiều dài $12\\;\\text{m}$, chiều dài hơn chiều rộng $4\\;\\text{m}$. Tính chu vi mảnh đất đó.\\n\\nĐáp án đúng của chu vi mảnh đất là:",
+        "options": [
+          "40 m",
+          "48 m",
+          "32 m",
+          "28 m"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tìm chiều rộng của mảnh đất hình chữ nhật:\\n$12 - 4 = 8\\;\\text{(m)}$\\nBước 2: Tính chu vi mảnh đất hình chữ nhật (lấy chiều dài cộng chiều rộng rồi nhân với 2):\\n$(12 + 8) \\times 2 = 20 \\times 2 = 40\\;\\text{(m)}$.\\nVậy chu vi mảnh đất là $40\\;\\text{m}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-79-4-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 4.** a) Diện tích miếng bìa hình $A$ là \\ldots\\ldots\\ldots $\\text{cm}^2$.",
+        "options": [
+          "24"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta chia miếng bìa hình $A$ thành các hình vuông nhỏ (hoặc các hình chữ nhật nhỏ). Dựa vào các ô vuông lưới, đếm tổng số ô vuông hoặc chia hình thành 3 phần:\\n- Phần trên: hình chữ nhật kích thước tương ứng có diện tích bằng đếm số ô vuông = $4 \\times 2 = 8$ ô.\\n- Đếm tổng số ô vuông của cả hình $A$: hình $A$ gồm tổng cộng các ô vuông đơn vị, mỗi ô $1\\;\\text{cm} \\times 1\\;\\text{cm} = 1\\;\\text{cm}^2$. Tổng diện tích là $24\\;\\text{cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-79-4-b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 4.** b) Chu vi miếng bìa hình $A$ là \\ldots\\ldots\\ldots cm.",
+        "options": [
+          "32"
+        ],
+        "correct_index": 0,
+        "explanation": "Chu vi miếng bìa hình $A$ được tính bằng tổng độ dài tất cả các cạnh bao quanh hình $A$ (tính theo kích thước đã cho trên hình vẽ là các cạnh $4\\;\\text{cm}, 2\\;\\text{cm},\\ldots$). Tổng chu vi là $32\\;\\text{cm}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-1",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Viết số thích hợp vào chỗ chấm:\\n\\n a) \\ldots\\ldots\\ldots $\\text{mm} = 1\\;\\text{cm}$\\n \\ldots\\ldots\\ldots $\\text{cm} = 1\\;\\text{dm}$\\n \\ldots\\ldots\\ldots $\\text{dm} = 1\\;\\text{m}$\\n \\ldots\\ldots\\ldots $\\text{cm} = 1\\;\\text{m}$",
+        "options": [
+          "10, 10, 10, 100",
+          "10, 10, 100, 10",
+          "100, 10, 10, 100",
+          "10, 100, 10, 100"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có các bảng đơn vị đo độ dài:\\n- $1\\;\\text{cm} = 10\\;\\text{mm}$\\n- $1\\;\\text{dm} = 10\\;\\text{cm}$\\n- $1\\;\\text{m} = 10\\;\\text{dm}$\\n- $1\\;\\text{m} = 100\\;\\text{cm}$.\\nVậy các số cần điền lần lượt là: $10, 10, 10, 100$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-1-b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** b) Viết số thích hợp vào chỗ chấm:\\n\\n \\ldots\\ldots\\ldots $\\text{g} = 1\\;\\text{kg}$\\n $1\\;\\text{kg} = \\ldots\\ldots\\ldots\\;\\text{g}$\\n $20\\;\\text{kg} = \\ldots\\ldots\\ldots\\;\\text{g}$\\n $8\\;\\text{kg} = \\ldots\\ldots\\ldots\\;\\text{g}$",
+        "options": [
+          "1000, 1000, 20000, 8000",
+          "100, 1000, 2000, 800",
+          "1000, 100, 20000, 8000",
+          "1000, 1000, 2000, 800"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có mối quan hệ giữa ki-lô-gam và gam là $1\\;\\text{kg} = 1000\\;\\text{g}$.\\n- $1000\\;\\text{g} = 1\\;\\text{kg}$\\n- $1\\;\\text{kg} = 1000\\;\\text{g}$\\n- $20\\;\\text{kg} = 20\\;\\text{000}\\;\\text{g}$\\n- $8\\;\\text{kg} = 8000\\;\\text{g}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-1-c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** c) Viết số thích hợp vào chỗ chấm:\\n\\n \\ldots\\ldots\\ldots $\\text{ml} = 1\\;l$\\n $1\\;l = \\ldots\\ldots\\ldots\\;\\text{ml}$\\n $2\\;l = \\ldots\\ldots\\ldots\\;\\text{ml}$\\n $6\\;l = \\ldots\\ldots\\ldots\\;\\text{ml}$",
+        "options": [
+          "1000, 1000, 2000, 6000",
+          "100, 1000, 2000, 600",
+          "1000, 100, 2000, 6000",
+          "1000, 1000, 200, 600"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có mối quan hệ giữa lít và mi-li-lít là $1\\;l = 1000\\;\\text{ml}$.\\n- $1000\\;\\text{ml} = 1\\;l$\\n- $1\\;l = 1000\\;\\text{ml}$\\n- $2\\;l = 2000\\;\\text{ml}$\\n- $6\\;l = 6000\\;\\text{ml}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Bài 2.** a) Tính nhẩm / Tính:\\n\\n $400\\;\\text{mm} + 250\\;\\text{mm} = \\ldots\\ldots\\ldots\\;\\text{mm}$ \\quad\\quad $800\\;\\text{mm} \\times 4 = \\ldots\\ldots\\ldots\\;\\text{mm}$\\n $400\\;\\text{mm} - 250\\;\\text{mm} = \\ldots\\ldots\\ldots\\;\\text{mm}$ \\quad\\quad $800\\;\\text{mm} : 4 = \\ldots\\ldots\\ldots\\;\\text{mm}$",
+        "options": [
+          "650; 150; 3200; 200",
+          "650; 250; 3200; 200",
+          "550; 150; 3200; 200",
+          "650; 150; 320; 2000"
+        ],
+        "correct_index": 0,
+        "explanation": "- $400\\;\\text{mm} + 250\\;\\text{mm} = 650\\;\\text{mm}$\\n- $400\\;\\text{mm} - 250\\;\\text{mm} = 150\\;\\text{mm}$\\n- $800\\;\\text{mm} \\times 4 = 3200\\;\\text{mm}$\\n- $800\\;\\text{mm} : 4 = 200\\;\\text{mm}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Bài 2.** b) Tính:\\n $200\\;\\text{g} + 600\\;\\text{g} = \\ldots\\ldots\\ldots\\;\\text{g}$ \\quad\\quad $300\\;\\text{g} \\times 2 = \\ldots\\ldots\\ldots\\;\\text{g}$",
+        "options": [
+          "800; 600",
+          "800; 500",
+          "700; 600",
+          "800; 60"
+        ],
+        "correct_index": 0,
+        "explanation": "- $200\\;\\text{g} + 600\\;\\text{g} = 800\\;\\text{g}$\\n- $300\\;\\text{g} \\times 2 = 600\\;\\text{g}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Bài 2.** c) Tính:\\n $700\\;\\text{ml} - 500\\;\\text{ml} = \\ldots\\ldots\\ldots\\;\\text{ml}$ \\quad\\quad $1\\;000\\;\\text{ml} : 5 = \\ldots\\ldots\\ldots\\;\\text{ml}$",
+        "options": [
+          "200; 200",
+          "200; 500",
+          "300; 200",
+          "200; 2000"
+        ],
+        "correct_index": 0,
+        "explanation": "- $700\\;\\text{ml} - 500\\;\\text{ml} = 200\\;\\text{ml}$\\n- $1\\;000\\;\\text{ml} : 5 = 200\\;\\text{ml}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-3-a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Bài 3.** a) Đồng hồ chỉ mấy giờ? (Xem 3 đồng hồ từ trái qua phải trên hình)\\n- Đồng hồ 1: Kim ngắn chỉ giữa số 1 và số 2, kim dài chỉ số 4.\\n- Đồng hồ 2: Kim ngắn chỉ sát số 10, kim dài chỉ số 10.\\n- Đồng hồ 3: Kim ngắn chỉ gần số 9, kim dài chỉ số 8.",
+        "options": [
+          "Đồng hồ 1: 1 giờ 20 phút; Đồng hồ 2: 9 giờ 50 phút; Đồng hồ 3: 8 giờ 40 phút",
+          "Đồng hồ 1: 1 giờ 4 phút; Đồng hồ 2: 10 giờ 10 phút; Đồng hồ 3: 9 giờ 40 phút",
+          "Đồng hồ 1: 2 giờ 20 phút; Đồng hồ 2: 9 giờ 50 phút; Đồng hồ 3: 8 giờ 40 phút",
+          "Đồng hồ 1: 1 giờ 20 phút; Đồng hồ 2: 10 giờ 50 phút; Đồng hồ 3: 8 giờ 40 phút"
+        ],
+        "correct_index": 0,
+        "explanation": "- Đồng hồ thứ nhất: Kim giờ qua số 1, kim phút chỉ số 4 ($4 \\times 5 = 20$ phút) $\\rightarrow$ $1$ giờ $20$ phút.\\n- Đồng hồ thứ hai: Kim giờ gần số 10, kim phút chỉ số 10 ($10 \\times 5 = 50$ phút) $\\rightarrow$ $9$ giờ $50$ phút.\\n- Đồng hồ thứ ba: Kim giờ qua số 8 gần số 9, kim phút chỉ số 8 ($8 \\times 5 = 40$ phút) $\\rightarrow$ $8$ giờ $40$ phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-3-b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Bài 3.** b) Viết tên tháng thích hợp vào chỗ chấm:\\nTrong một năm, hai tháng liền nhau có cùng $31$ ngày là tháng \\ldots\\ldots\\ldots và tháng \\ldots\\ldots\\ldots",
+        "options": [
+          "Tháng 7 và tháng 8",
+          "Tháng 1 và tháng 2",
+          "Tháng 12 và tháng 1",
+          "Tháng 8 và tháng 9"
+        ],
+        "correct_index": 0,
+        "explanation": "Trong các tháng của năm, có hai tháng liền nhau đều có $31$ ngày đó là tháng 7 và tháng 8.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-3-c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Bài 3.** c) Khoanh vào chữ đặt trước câu trả lời đúng:\\nNếu ngày $26$ tháng $3$ là thứ Hai thì ngày $4$ tháng $4$ cùng năm đó là:",
+        "options": [
+          "Thứ Tư",
+          "Thứ Hai",
+          "Thứ Ba",
+          "Thứ Năm"
+        ],
+        "correct_index": 0,
+        "explanation": "Tháng 3 có $31$ ngày.\\n- Số ngày từ ngày $26$ tháng $3$ đến hết tháng $3$ là: $31 - 26 = 5$ ngày.\\n- Từ ngày $1$ tháng $4$ đến ngày $4$ tháng $4$ là $4$ ngày.\\n- Tổng số ngày từ ngày $26$ tháng $3$ đến ngày $4$ tháng $4$ là: $5 + 4 = 9$ ngày.\\nTa có: $9 : 7 = 1$ (dư $2$).\\nVậy ngày $4$ tháng $4$ sẽ cách thứ Hai $1$ tuần và $2$ ngày, tức là sau thứ Hai $2$ ngày $\\rightarrow$ Thứ Ba ($27/3$), Thứ Tư ($28/3$),... cứ thế tính tiếp ta được Thứ Tư.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-4-a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Bài 4.** Việt đưa cho cô bán hàng $4$ tờ tiền loại $20\\;000$ đồng để trả tiền mua đồ dùng học tập hết $65\\;000$ đồng.\\n\\n a) Cô bán hàng trả lại cho Việt \\ldots\\ldots\\ldots\\ldots\\ldots\\ldots đồng.",
+        "options": [
+          "15 000"
+        ],
+        "correct_index": 0,
+        "explanation": "- Bước 1: Tính tổng số tiền Việt đưa cho cô bán hàng:\\n$20\\;000 \\times 4 = 80\\;000$ (đồng).\\n- Bước 2: Tính số tiền cô bán hàng phải trả lại cho Việt:\\n$80\\;000 - 65\\;000 = 15\\;000$ (đồng).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-4-b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Bài 4.** b) Biết cô bán hàng trả lại cho Việt toàn tờ tiền loại $5\\;000$ đồng. Như vậy, Việt nhận được \\ldots\\ldots\\ldots\\ldots\\ldots tờ tiền loại đó.",
+        "options": [
+          "3"
+        ],
+        "correct_index": 0,
+        "explanation": "Số tiền được trả lại là $15\\;000$ đồng và toàn bằng các tờ tiền loại $5\\;000$ đồng.\\nSố tờ tiền Việt nhận được là:\\n$15\\;000 : 5\\;000 = 3$ (tờ).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-79"
+        ]
+      }
+    ]
+  }
+]

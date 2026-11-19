@@ -1,0 +1,434 @@
+{
+  "collection": {
+    "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 17: Our toys",
+    "subject_slug": "tieng_anh",
+    "grade": 3,
+    "volume": 1,
+    "units": [
+      17
+    ],
+    "exam_type": null,
+    "reference_book": "Global Success - Sách bài tập Tiếng Anh 3",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 17,
+      "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 17: Our toys",
+      "questions": [
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nt___",
+            "correct_answer": "oy",
+            "choices": [
+              "oy",
+              "ite"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nk___",
+            "correct_answer": "ite",
+            "choices": [
+              "ite",
+              "oy"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n1. Xe tải: ___",
+            "correct_answer": "truck",
+            "choices": [
+              "truck",
+              "bus",
+              "car",
+              "train"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n2. Xe buýt: ___",
+            "correct_answer": "bus",
+            "choices": [
+              "bus",
+              "car",
+              "plane",
+              "ship"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n3. Ô tô con: ___",
+            "correct_answer": "car",
+            "choices": [
+              "car",
+              "bus",
+              "truck",
+              "train"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n4. Máy bay: ___",
+            "correct_answer": "plane",
+            "choices": [
+              "plane",
+              "ship",
+              "kite",
+              "car"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n5. Tàu thủy: ___",
+            "correct_answer": "ship",
+            "choices": [
+              "ship",
+              "train",
+              "plane",
+              "bus"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n1. He has ___ (một chú gấu bông).",
+            "correct_answer": "a teddy bear",
+            "choices": [
+              "a teddy bear",
+              "a doll",
+              "a kite",
+              "a robot"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n2. She has ___ (một cái diều).",
+            "correct_answer": "a kite",
+            "choices": [
+              "a kite",
+              "a plane",
+              "a doll",
+              "a ship"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n3. He has ___ (hai đoàn tàu hỏa).",
+            "correct_answer": "two trains",
+            "choices": [
+              "two trains",
+              "three trains",
+              "two planes",
+              "two ships"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, complete and read:\n4. She has ___ (ba chiếc máy bay).",
+            "correct_answer": "three planes",
+            "choices": [
+              "three planes",
+              "two planes",
+              "three kites",
+              "three cars"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. What toys do you have?",
+                "right": "b. I have a car and a train."
+              },
+              {
+                "left": "2. Does she have a doll?",
+                "right": "d. Yes, she does."
+              },
+              {
+                "left": "3. Does he have a robot?",
+                "right": "e. No, he doesn't."
+              },
+              {
+                "left": "4. How many planes does he have?",
+                "right": "c. He has three planes."
+              },
+              {
+                "left": "5. How many kites do they have?",
+                "right": "a. They have two kites."
+              }
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and choose:\n1. She has ___ doll.",
+            "correct_answer": "a",
+            "choices": [
+              "a",
+              "an",
+              "two",
+              "some"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and choose:\n2. He has two ___.",
+            "correct_answer": "ships",
+            "choices": [
+              "ships",
+              "ship",
+              "planes",
+              "plane"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and choose:\n3. How many cars ___ she have?",
+            "correct_answer": "does",
+            "choices": [
+              "does",
+              "do",
+              "is",
+              "has"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and choose:\n4. Does he have any kites? - Yes, he ___.",
+            "correct_answer": "does",
+            "choices": [
+              "does",
+              "do",
+              "is",
+              "has"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and choose:\n5. There are three trains in ___ bedroom.",
+            "correct_answer": "the",
+            "choices": [
+              "the",
+              "a",
+              "an",
+              "these"
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\ntwo ships / has / He",
+            "words": [
+              "He",
+              "has",
+              "two",
+              "ships",
+              "."
+            ],
+            "correct_sentence": "He has two ships."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\none teddy bear / She / has",
+            "words": [
+              "She",
+              "has",
+              "one",
+              "teddy",
+              "bear",
+              "."
+            ],
+            "correct_sentence": "She has one teddy bear."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nin the bedroom / three trains / There are",
+            "words": [
+              "There",
+              "are",
+              "three",
+              "trains",
+              "in",
+              "the",
+              "bedroom",
+              "."
+            ],
+            "correct_sentence": "There are three trains in the bedroom."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\ndoes she have / How many trucks",
+            "words": [
+              "How",
+              "many",
+              "trucks",
+              "does",
+              "she",
+              "have",
+              "?"
+            ],
+            "correct_sentence": "How many trucks does she have?"
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. Does he have any toys?",
+                "right": "c. Yes, he has a plane."
+              },
+              {
+                "left": "2. How many cars does she have?",
+                "right": "d. She has four cars."
+              },
+              {
+                "left": "3. What toys do they have?",
+                "right": "b. They have two dolls and a kite."
+              },
+              {
+                "left": "4. Does she have a teddy bear?",
+                "right": "a. No, she doesn't."
+              }
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and choose True/False:\n1. Linh has two trains.",
+            "correct_answer": "False",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and choose True/False:\n2. Nam has three planes.",
+            "correct_answer": "True",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and choose True/False:\n3. Mai has one doll.",
+            "correct_answer": "True",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and choose True/False:\n4. Ben has four ships.",
+            "correct_answer": "False",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and choose True/False:\n5. Lucy has two kites.",
+            "correct_answer": "True",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\nHe has two ships and ___ (1 đoàn tàu hỏa).",
+            "correct_answer": "one train",
+            "choices": [
+              "one train",
+              "two trains",
+              "one plane",
+              "one car"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\nShe has one doll and ___ (3 cái diều).",
+            "correct_answer": "three kites",
+            "choices": [
+              "three kites",
+              "two kites",
+              "four kites",
+              "one kite"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\nHe has one plane and ___ (4 ô tô con).",
+            "correct_answer": "four cars",
+            "choices": [
+              "four cars",
+              "three cars",
+              "two cars",
+              "five cars"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

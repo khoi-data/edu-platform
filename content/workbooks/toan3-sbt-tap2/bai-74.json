@@ -1,0 +1,137 @@
+[
+  {
+    "bai": 74,
+    "title": "Bài 74: Khả năng xảy ra của một sự kiện",
+    "book_pages": "103 - 104",
+    "topic": "Chủ đề 15: Làm quen với yếu tố thống kê, xác suất",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-74-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "Khoanh vào chữ đặt trước câu trả lời đúng.\\n\\nTrong lớp của Mai có một chiếc nón kì diệu như hình vẽ dưới đây:\\n- Chiếc nón chia thành các phần bằng nhau có màu xanh và màu trắng.\\n\\nMai quay chiếc nón đó một lần và quan sát màu sắc của miền mà mũi tên chỉ vào. Khẳng định nào sau đây là đúng?",
+        "options": [
+          "Mũi tên chắc chắn chỉ vào miền màu xanh.",
+          "Mũi tên không thể chỉ vào miền màu trắng.",
+          "Mũi tên có thể chỉ vào miền màu xanh hoặc màu trắng.",
+          "Mũi tên có thể chỉ vào miền màu đỏ."
+        ],
+        "correct_index": 2,
+        "explanation": "Quan sát chiếc nón kì diệu, ta thấy trên nón có cả các miền màu xanh và các miền màu trắng. Do đó, khi Mai quay chiếc nón, mũi tên có thể chỉ vào miền màu xanh hoặc miền màu trắng. Vậy đáp án C là đúng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-74"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-74-2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "Viết tiếp vào chỗ chấm cho thích hợp.\\n\\nTrong hộp có $2$ cái bút màu xanh và $1$ cái bút màu đen. Việt nhắm mắt và lấy $2$ cái bút ra khỏi hộp cùng lúc.\\n\\nCác khả năng có thể xảy ra khi Việt lấy bút ra khỏi hộp là: \\ldots",
+        "options": [],
+        "correct_index": null,
+        "explanation": "Trong hộp chỉ có bút màu xanh và bút màu đen. Khi Việt lấy ra $2$ cái bút cùng lúc, các khả năng có thể xảy ra là:\\n- Lấy được $2$ cái bút màu xanh.\\n- Lấy được $1$ cái bút màu xanh và $1$ cái bút màu đen.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-74"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-74-3a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "Điền Đúng (Đ) hoặc Sai (S) cho câu sau:\\n\\nNam đã nướng $4$ chiếc bánh quy có bề ngoài giống hệt nhau, nhưng phần nhân khác nhau: $2$ chiếc bánh mứt dâu, $1$ chiếc bánh mứt cam và $1$ chiếc bánh mứt nho. Nam đang chọn một chiếc bánh trong số bánh đó để ăn.\\n\\na) Chắc chắn Nam sẽ chọn được bánh mứt dâu.",
+        "options": [
+          "Đ (Đúng)",
+          "S (Sai)"
+        ],
+        "correct_index": 1,
+        "explanation": "Vì có tổng cộng $4$ chiếc bánh với nhiều loại nhân khác nhau (mứt dâu, mứt cam, mứt nho) nên Nam có thể chọn được bánh mứt dâu hoặc bánh khác, do đó khẳng định 'Chắc chắn Nam sẽ chọn được bánh mứt dâu' là Sai.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-74"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-74-3b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "Điền Đúng (Đ) hoặc Sai (S) cho câu sau:\\n\\nNam đã nướng $4$ chiếc bánh quy có bề ngoài giống hệt nhau, nhưng phần nhân khác nhau: $2$ chiếc bánh mứt dâu, $1$ chiếc bánh mứt cam và $1$ chiếc bánh mứt nho. Nam đang chọn một chiếc bánh trong số bánh đó để ăn.\\n\\nb) Có thể Nam sẽ chọn được bánh mứt nho.",
+        "options": [
+          "Đ (Đúng)",
+          "S (Sai)"
+        ],
+        "correct_index": 0,
+        "explanation": "Vì trong số bánh có $1$ chiếc bánh mứt nho nên Nam hoàn toàn có khả năng chọn được chiếc bánh này. Khẳng định này là Đúng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-74"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-74-3c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "Điền Đúng (Đ) hoặc Sai (S) cho câu sau:\\n\\nNam đã nướng $4$ chiếc bánh quy có bề ngoài giống hệt nhau, nhưng phần nhân khác nhau: $2$ chiếc bánh mứt dâu, $1$ chiếc bánh mứt cam và $1$ chiếc bánh mứt nho. Nam đang chọn một chiếc bánh trong số bánh đó để ăn.\\n\\nc) Nam không thể chọn được bánh mứt cam.",
+        "options": [
+          "Đ (Đúng)",
+          "S (Sai)"
+        ],
+        "correct_index": 1,
+        "explanation": "Trong số các chiếc bánh có $1$ chiếc bánh mứt cam, nên Nam vẫn có khả năng chọn được nó. Do đó câu 'Nam không thể chọn được bánh mứt cam' là Sai.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-74"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-74-3d",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "Điền Đúng (Đ) hoặc Sai (S) cho câu sau:\\n\\nNam đã nướng $4$ chiếc bánh quy có bề ngoài giống hệt nhau, nhưng phần nhân khác nhau: $2$ chiếc bánh mứt dâu, $1$ chiếc bánh mứt cam và $1$ chiếc bánh mứt nho. Nam đang chọn một chiếc bánh trong số bánh đó để ăn.\\n\\nd) Có thể Nam sẽ chọn được bánh mứt táo.",
+        "options": [
+          "Đ (Đúng)",
+          "S (Sai)"
+        ],
+        "correct_index": 1,
+        "explanation": "Vì Nam chỉ nướng bánh mứt dâu, mứt cam và mứt nho, hoàn toàn không có bánh mứt táo, nên Nam không thể chọn được bánh mứt táo. Khẳng định này là Sai.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-74"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-74-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "Khoanh vào chữ đặt trước câu trả lời đúng.\\n\\nRô-bốt có $2$ xúc xắc gồm $6$ mặt (từ $1$ đến $6$ chấm). Bạn ấy đã gieo $2$ xúc xắc đó, quan sát mặt trên và tính tổng số chấm nhận được. Hỏi trong số những sự kiện dưới đây, sự kiện nào không thể xảy ra?\\n\\nA. Rô-bốt nhận được tổng bằng $12$.\\nB. Rô-bốt nhận được tổng bằng $5$.\\nC. Rô-bốt nhận được tổng bằng $8$.\\nD. Rô-bốt nhận được tổng bằng $1$.",
+        "options": [
+          "Rô-bốt nhận được tổng bằng 12.",
+          "Rô-bốt nhận được tổng bằng 5.",
+          "Rô-bốt nhận được tổng bằng 8.",
+          "Rô-bốt nhận được tổng bằng 1."
+        ],
+        "correct_index": 3,
+        "explanation": "Mỗi con xúc xắc có số chấm ít nhất là $1$. Khi gieo $2$ con xúc xắc, tổng số chấm nhỏ nhất có thể nhận được là $1 + 1 = 2$. Do đó, tổng số chấm không bao giờ bằng $1$. Vì vậy, sự kiện 'Rô-bốt nhận được tổng bằng $1$' không thể xảy ra.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-74"
+        ]
+      }
+    ]
+  }
+]

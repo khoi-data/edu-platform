@@ -1,0 +1,277 @@
+[
+  {
+    "bai": 65,
+    "title": "Bài 65: Luyện tập chung",
+    "book_pages": "73 - 74",
+    "topic": "Chủ đề 12: Phép cộng, phép trừ trong phạm vi 100 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-65-1-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 1.** Tính nhẩm.\\\\na) $40\\;000 + 5\\;000 - 30\\;000 = $ \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện lần lượt từ trái sang phải:\\\\n$40\\;000 + 5\\;000 = 45\\;000$\\\\n$45\\;000 - 30\\;000 = 15\\;000$\\\\nVậy số cần điền là $15\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-1-b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 1.** Tính nhẩm.\\\\nb) $14\\;000 - 8\\;000 + 20\\;000 = $ \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện lần lượt từ trái sang phải:\\\\n$14\\;000 - 8\\;000 = 6\\;000$\\\\n$6\\;000 + 20\\;000 = 26\\;000$\\\\nVậy số cần điền là $26\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-1-c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 1.** Tính nhẩm.\\\\nc) $90\\;000 - (50\\;000 + 30\\;000) = $ \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Biểu thức có dấu ngoặc, ta tính trong ngoặc trước:\\\\n$50\\;000 + 30\\;000 = 80\\;000$\\\\nSau đó thực hiện phép trừ bên ngoài:\\\\n$90\\;000 - 80\\;000 = 10\\;000$\\\\nVậy số cần điền là $10\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-1-d",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 1.** Tính nhẩm.\\\\nd) $80\\;000 - (70\\;000 - 50\\;000) = $ \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Biểu thức có dấu ngoặc, ta tính trong ngoặc trước:\\\\n$70\\;000 - 50\\;000 = 20\\;000$\\\\nSau đó thực hiện phép trừ bên ngoài:\\\\n$80\\;000 - 20\\;000 = 60\\;000$\\\\nVậy số cần điền là $60\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-2-a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2.** Đúng ghi Đ, sai ghi S?\\\\na)\\\\n$$\\begin{array}{r} + \\begin{array}{r} 54\\;627 \\\\ 38\\;165 \\\\ \\hline 92\\;792 \\end{array} \\end{array}$$",
+        "options": [
+          "Đúng (Đ)",
+          "Sai (S)"
+        ],
+        "correct_index": 1,
+        "explanation": "Ta đặt tính và tính lại như sau:\\\\n$7 + 5 = 12$, viết $2$ nhớ $1$\\\\n$2 + 6 = 8$, thêm $1 = 9$, viết $9$\\\\n$6 + 1 = 7$, viết $7$\\\\n$4 + 8 = 12$, viết $2$ nhớ $1$\\\\n$5 + 3 = 8$, thêm $1 = 9$, viết $9$\\\\nKết quả đúng phải là $92\\;792$? Không phải, ta tính lại: $54\\;627 + 38\\;165 = 92\\;792$. Vậy phép tính này **Đúng**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-2-b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2.** Đúng ghi Đ, sai ghi S?\\\\nb)\\\\n$$\\begin{array}{r} + \\begin{array}{r} 67\\;180 \\\\ 735 \\\\ \\hline 67\\;815 \\end{array} \\end{array}$$",
+        "options": [
+          "Đúng (Đ)",
+          "Sai (S)"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta tính lại:\\\\n$0 + 5 = 5$, viết $5$\\\\n$8 + 3 = 11$, viết $1$ nhớ $1$\\\\n$1 + 7 = 8$, thêm $1 = 9$, viết $9$\\\\n$7$ hạ $7$\\\\n$6$ hạ $6$\\\\nKết quả là $67\\;915$ mà trong bài ghi $67\\;815$ nên đây là phép tính **Sai**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-2-c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2.** Đúng ghi Đ, sai ghi S?\\\\nc)\\\\n$$\\begin{array}{r} - \\begin{array}{r} 95\\;684 \\\\ 68\\;29 \\\\ \\hline 27\\;494 \\end{array} \\end{array}$$",
+        "options": [
+          "Đúng (Đ)",
+          "Sai (S)"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính lại như sau:\\\\n$14 - 9 = 5$, viết $5$\\\\n$8 - 2 = 6$, bớt $1 = 5$, viết $5$\\\\nDo đó ở hàng chục kết quả phải là $5$, nhưng ở đề bài ghi $9$. Vậy phép tính này là **Sai**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-2-d",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2.** Đúng ghi Đ, sai ghi S?\\\\nd)\\\\n$$\\begin{array}{r} - \\begin{array}{r} 83\\;657 \\\\ 71\\;482 \\\\ \\hline 12\\;175 \\end{array} \\end{array}$$",
+        "options": [
+          "Đúng (Đ)",
+          "Sai (S)"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta tính lại:\\\\n$7 - 2 = 5$, viết $5$\\\\n$15 - 8 = 7$, viết $7$ nhớ $1$\\\\n$4 + 1 = 5$; $6 - 5 = 1$, viết $1$\\\\n$3 - 1 = 2$, viết $2$\\\\n$8 - 7 = 1$, viết $1$\\\\nKết quả là $12\\;175$. Phép tính này hoàn toàn **Đúng**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-3-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 3.** Đặt tính rồi tính: $6\\;385 + 2\\;706$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính thẳng cột và tính từ phải sang trái:\\\\n$6\\;385 + 2\\;706 = 9\\;091$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-3-b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 3.** Đặt tính rồi tính: $35\\;082 + 29\\;246$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính thẳng cột và tính từ phải sang trái:\\\\n$35\\;082 + 29\\;246 = 64\\;328$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-3-c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 3.** Đặt tính rồi tính: $76\\;548 - 9\\;175$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính thẳng cột và tính từ phải sang trái:\\\\n$76\\;548 - 9\\;175 = 67\\;373$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-3-d",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Bài 3.** Đặt tính rồi tính: $12\\;394 - 857$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính thẳng cột và tính từ phải sang trái:\\\\n$12\\;394 - 857 = 11\\;537$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-4-a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Bài 4.** Dịp đầu năm học mới, một cửa hàng có $15\\;500$ cuốn sách giáo khoa và $12\\;800$ cuốn sách tham khảo. Cửa hàng đã bán đi $8\\;300$ cuốn sách giáo khoa và $7\\;650$ cuốn sách tham khảo. Hỏi:\\\\na) Cửa hàng còn lại bao nhiêu cuốn sách giáo khoa, bao nhiêu cuốn sách tham khảo?\\\\n- Số sách giáo khoa còn lại là: \\ldots cuốn.\\\\n- Số sách tham khảo còn lại là: \\ldots cuốn.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "- Số sách giáo khoa còn lại là:\\\\n$15\\;500 - 8\\;300 = 7\\;200$ (cuốn)\\\\n- Số sách tham khảo còn lại là:\\\\n$12\\;800 - 7\\;650 = 5\\;150$ (cuốn)",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-4-b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Bài 4.** (Tiếp theo)\\\\nb) Cửa hàng còn lại tất cả bao nhiêu cuốn sách giáo khoa và sách tham khảo?\\\\nTrả lời: \\ldots cuốn.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Tổng số sách giáo khoa và sách tham khảo còn lại là:\\\\n$7\\;200 + 5\\;150 = 12\\;350$ (cuốn)\\\\nĐáp số: $12\\;350$ cuốn sách.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-5-a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Bài 5.** Tính giá trị của biểu thức:\\\\na) $7\\;483 + 9\\;300 - 14\\;783 = $ \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép tính từ trái sang phải:\\\\n$7\\;483 + 9\\;300 = 16\\;783$\\\\n$16\\;783 - 14\\;783 = 2\\;000$\\\\nVậy kết quả là $2\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-5-b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Bài 5.** Tính giá trị của biểu thức:\\\\nb) $21\\;548 - (16\\;500 + 3\\;500) = $ \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Tính trong ngoặc trước:\\\\n$16\\;500 + 3\\;500 = 20\\;000$\\\\nThực hiện phép trừ bên ngoài:\\\\n$21\\;548 - 20\\;000 = 1\\;548$\\\\nVậy kết quả là $1\\;548$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-65-5-c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Bài 5.** Tính giá trị của biểu thức:\\\\nc) $35\\;740 - (29\\;563 - 2\\;193) = $ \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Tính trong ngoặc trước:\\\\n$29\\;563 - 2\\;193 = 27\\;370$\\\\nThực hiện phép trừ bên ngoài:\\\\n$35\\;740 - 27\\;370 = 8\\;370$\\\\nVậy kết quả là $8\\;370$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-65"
+        ]
+      }
+    ]
+  }
+]

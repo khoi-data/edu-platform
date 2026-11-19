@@ -1,0 +1,510 @@
+[
+  {
+    "bai": 69,
+    "title": "Bài 69: Luyện tập chung",
+    "book_pages": "85 - 89",
+    "topic": "Chủ đề 13: Đồng hồ. Tháng – năm. Tiền Việt Nam",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-69-t1-b1a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Dưới đây là đồng hồ chỉ thời gian bắt đầu của 4 môn học trong buổi sáng: Đạo đức, Toán, Tiếng Việt và Mĩ thuật. Biết môn Toán bắt đầu sớm nhất và môn Đạo đức học vào tiết cuối cùng. Rô-bốt học Mĩ thuật sau khi học Tiếng Việt. Hỏi môn **Đạo đức** bắt đầu vào lúc mấy giờ?\\n\\nĐạo đức: \\\\ldots\\ldots giờ \\\\ldots\\ldots phút",
+        "options": [
+          "10 giờ 10 phút",
+          "7 giờ 15 phút",
+          "8 giờ 5 phút",
+          "9 giờ kém 5 phút"
+        ],
+        "correct_index": 0,
+        "explanation": "Quan sát các đồng hồ:\n- Đồng hồ 1 chỉ 7 giờ 15 phút (môn Toán bắt đầu sớm nhất vì là 7 giờ 15 phút).\n- Đồng hồ 2 chỉ 8 giờ 5 phút (môn Tiếng Việt).\n- Đồng hồ 3 chỉ 9 giờ kém 5 phút hay 8 giờ 55 phút (môn Mĩ thuật học sau Tiếng Việt).\n- Đồng hồ 4 chỉ 10 giờ 10 phút (môn Đạo đức học vào tiết cuối cùng).\nVậy môn Đạo đức bắt đầu lúc **10 giờ 10 phút**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t1-b1b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1 (tiếp theo).** Hỏi môn **Toán** bắt đầu vào lúc mấy giờ?\\n\\nToán: \\\\ldots\\ldots giờ \\\\ldots\\ldots phút",
+        "options": [
+          "7 giờ 15 phút",
+          "8 giờ 5 phút",
+          "8 giờ 55 phút",
+          "10 giờ 10 phút"
+        ],
+        "correct_index": 0,
+        "explanation": "Theo đề bài, môn Toán bắt đầu sớm nhất trong 4 môn. Quan sát đồng hồ thứ nhất, kim giờ chỉ qua số 7, kim phút chỉ số 3 (tức là 15 phút), ta có thời gian là **7 giờ 15 phút**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t1-b1c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1 (tiếp theo).** Hỏi môn **Tiếng Việt** bắt đầu vào lúc mấy giờ?\\n\\nTiếng Việt: \\\\ldots\\ldots giờ \\\\ldots\\ldots phút",
+        "options": [
+          "8 giờ 5 phút",
+          "7 giờ 15 phút",
+          "8 giờ 55 phút",
+          "10 giờ 10 phút"
+        ],
+        "correct_index": 0,
+        "explanation": "Quan sát đồng hồ thứ hai ta thấy kim giờ chỉ qua số 8 một chút, kim phút chỉ số 1 (tức là 5 phút). Vậy môn Tiếng Việt bắt đầu vào lúc **8 giờ 5 phút**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t1-b1d",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1 (tiếp theo).** Hỏi môn **Mĩ thuật** bắt đầu vào lúc mấy giờ?\\n\\nMĩ thuật: \\\\ldots\\ldots giờ \\\\ldots\\ldots phút",
+        "options": [
+          "8 giờ 55 phút",
+          "8 giờ 5 phút",
+          "7 giờ 15 phút",
+          "10 giờ 10 phút"
+        ],
+        "correct_index": 0,
+        "explanation": "Quan sát đồng hồ thứ ba ta thấy kim giờ gần đến số 9, kim phút chỉ số 11 (tức là 55 phút). Vậy môn Mĩ thuật bắt đầu vào lúc **8 giờ 55 phút**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t1-b2a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2a.** Quan sát tờ lịch tháng 6 (có các ngày từ 1 đến 30 tháng 6). Một túi bánh mì có hạn sử dụng là 4 ngày kể từ ngày sản xuất. Mai đã mua 1 túi bánh mì có ghi ngày sản xuất là ngày 8 tháng 6. Vậy hạn sử dụng của túi bánh mì đó là ngày \\\\ldots\\ldots tháng \\\\ldots\\ldots",
+        "options": [
+          "ngày 12 tháng 6",
+          "ngày 11 tháng 6",
+          "ngày 9 tháng 6",
+          "ngày 13 tháng 6"
+        ],
+        "correct_index": 0,
+        "explanation": "Hạn sử dụng là 4 ngày kể từ ngày sản xuất (ngày 8):\n- Ngày thứ nhất: 8 tháng 6\n- Ngày thứ hai: 9 tháng 6\n- Ngày thứ ba: 10 tháng 6\n- Ngày thứ tư: 11 tháng 6\n- Hết hạn vào cuối ngày thứ tư, tức là sang ngày **12 tháng 6** túi bánh mì hết hạn (hoặc tính: $8 + 4 = 12$). Vậy hạn sử dụng đến ngày **12 tháng 6**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t1-b2b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2b.** Một hộp cà phê hoà tan có 10 gói. Mỗi ngày bố của Mai đều pha 1 gói cà phê. Bố đã mở hộp cà phê đó vào **thứ Năm của tuần thứ hai** (ngày 14 tháng 6). Bố sẽ mở hộp cà phê tiếp theo vào ngày \\\\ldots\\ldots tháng \\\\ldots\\ldots",
+        "options": [
+          "ngày 24 tháng 6",
+          "ngày 23 tháng 6",
+          "ngày 25 tháng 6",
+          "ngày 22 tháng 6"
+        ],
+        "correct_index": 0,
+        "explanation": "Hộp cà phê có 10 gói, mỗi ngày uống 1 gói nên hộp cà phê dùng được trong 10 ngày. Bố mở hộp vào ngày 14 tháng 6.\nSố ngày hộp cà phê đó dùng hết là từ ngày 14 đến hết ngày 23 tháng 6 (vì $14 + 10 - 1 = 23$).\nVậy đến ngày 24 tháng 6, bố sẽ phải mở hộp cà phê tiếp theo.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t1-b2c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2c.** Gia đình Mai đã lên kế hoạch đi chơi vào ngày 26 tháng 6. Nhưng vì lịch công tác đột xuất của bố mà gia đình phải dời kế hoạch đó sang ngày **Chủ nhật của tuần kế tiếp**, đó là ngày \\\\ldots\\ldots tháng \\\\ldots\\ldots",
+        "options": [
+          "ngày 3 tháng 7",
+          "ngày 27 tháng 6",
+          "ngày 4 tháng 7",
+          "ngày 2 tháng 7"
+        ],
+        "correct_index": 0,
+        "explanation": "Ngày 26 tháng 6 là ngày Chủ nhật (tuần cuối cùng của tháng 6 trong lịch). Tuần kế tiếp (sang tháng 7) ngày Chủ nhật sẽ là ngày đầu tiên của tháng 7 cộng thêm các ngày tiếp theo. Dựa vào tờ lịch:\n- Ngày 26/6 là Chủ nhật.\n- Tháng 6 có 30 ngày (ngày 30/6 là thứ Năm).\n- Ngày 1/7 là thứ Sáu, ngày 2/7 là thứ Bảy, ngày **3/7** là Chủ nhật tuần kế tiếp.\nVậy đó là ngày **3 tháng 7**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t1-b3",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Mẹ đưa Nam đi mua sách. Nam đã chọn một cuốn sách về khoa học. Mẹ đã đưa cho người bán 2 tờ $20\\;000$ đồng và 1 tờ $10\\;000$ đồng. Sau đó, người bán đưa lại cho mẹ $5\\;000$ đồng tiền thừa. Cuốn sách đó có giá \\\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots đồng.",
+        "options": [
+          "45 000",
+          "50 000",
+          "35 000",
+          "55 000"
+        ],
+        "correct_index": 0,
+        "explanation": "- Số tiền mẹ đưa cho người bán là: $20\\;000 + 20\\;000 + 10\\;000 = 50\\;000$ (đồng).\n- Số tiền cuốn sách là tổng số tiền đưa trừ đi tiền thừa: $50\\;000 - 5\\;000 = 45\\;000$ (đồng).\nVậy cuốn sách có giá **45 000 đồng**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t1-b4a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4a.** Viết số thích hợp vào chỗ chấm: \\\\n $4 \\text{ giờ} = \\\\ldots\\ldots \\text{ phút}$",
+        "options": [
+          "240",
+          "120",
+          "60",
+          "300"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có $1 \\text{ giờ} = 60 \\text{ phút}$. Vậy $4 \\text{ giờ} = 60 \\text{ phút} \\times 4 = 240 \\text{ phút}$. Điền số **240**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t1-b4b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4b.** Viết số thích hợp vào chỗ chấm: \\\\n $4 \\text{ giờ } 30 \\text{ phút} = \\\\ldots\\ldots \\text{ phút}$",
+        "options": [
+          "270",
+          "240",
+          "250",
+          "300"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có $4 \\text{ giờ} = 240 \\text{ phút}$. Do đó $4 \\text{ giờ } 30 \\text{ phút} = 240 \\text{ phút} + 30 \\text{ phút} = 270 \\text{ phút}$. Điền số **270**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t1-b5",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 5.** Dưới đây là đồng hồ chỉ thời gian lúc Rô-bốt bắt đầu rời khỏi nhà và lúc Rô-bốt đến sân bóng. Rô-bốt đi từ nhà đến sân bóng hết \\\\ldots\\ldots\\ldots\\ldots phút.\\n*(Đồng hồ rời nhà chỉ 3 giờ đúng; đồng hồ đến sân bóng chỉ 3 giờ 20 phút)*",
+        "options": [
+          "20",
+          "15",
+          "30",
+          "25"
+        ],
+        "correct_index": 0,
+        "explanation": "- Thời gian Rô-bốt rời nhà là 3 giờ đúng (3 giờ 0 phút).\n- Thời gian Rô-bốt đến sân bóng là 3 giờ 20 phút.\n- Thời gian đi là: $3 \\text{ giờ } 20 \\text{ phút} - 3 \\text{ giờ} = 20 \\text{ phút}$.\nVậy Rô-bốt đi hết **20** phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t2-b1a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1a.** Sáng thứ Hai, Rô-bốt có ba môn học là: Toán, Âm nhạc và Tiếng Anh. Dưới đây là thời gian mà Rô-bốt đang tham gia học các môn học đó (đồng hồ 1: 8 giờ 10 phút; đồng hồ 2: 9 giờ kém 5 phút; đồng hồ 3: 8 giờ). Hỏi Rô-bốt học môn gì sau cùng?",
+        "options": [
+          "Tiếng Anh",
+          "Toán",
+          "Âm nhạc",
+          "Không xác định"
+        ],
+        "correct_index": 0,
+        "explanation": "Quan sát thời gian trên các đồng hồ từ sớm đến muộn:\\n- Đồng hồ chỉ 8 giờ: Học Toán (đầu tiên).\\n- Đồng hồ chỉ 8 giờ 10 phút: Học Âm nhạc (thứ hai).\\n- Đồng hồ chỉ 8 giờ 55 phút (9 giờ kém 5): Học Tiếng Anh (sau cùng).\\nVậy Rô-bốt học môn **Tiếng Anh** sau cùng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t2-b1b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1b.** Chiều thứ Hai, Rô-bốt có ba môn học là: Toán, Tiếng Việt và Giáo dục thể chất. Dưới đây là thời gian học các môn (đồng hồ 1: 2 giờ 10 phút; đồng hồ 2: 2 giờ đúng; đồng hồ 3: 2 giờ 35 phút). Hỏi Rô-bốt học môn gì đầu tiên?",
+        "options": [
+          "Toán",
+          "Tiếng Việt",
+          "Giáo dục thể chất",
+          "Cả ba môn cùng lúc"
+        ],
+        "correct_index": 0,
+        "explanation": "So sánh các mốc thời gian buổi chiều:\\n- Đồng hồ 2 chỉ 2 giờ đúng: Môn Toán (sớm nhất).\\n- Đồng hồ 1 chỉ 2 giờ 10 phút: Môn Giáo dục thể chất.\\n- Đồng hồ 3 chỉ 2 giờ 35 phút: Môn Tiếng Việt.\\nVậy Rô-bốt học môn **Toán** đầu tiên.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t2-b2",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Mai mua 2 cái bút chì và 1 cục tẩy hết $13\\;000$ đồng. Việt mua 1 cái bút chì và 1 cục tẩy như thế hết $8\\;000$ đồng. Vậy 1 cái bút chì có giá là \\\\ldots\\ldots\\ldots\\ldots\\ldots đồng, 1 cục tẩy có giá là \\\\ldots\\ldots\\ldots\\ldots\\ldots đồng.",
+        "options": [
+          "5 000 và 3 000",
+          "3 000 và 5 000",
+          "6 000 và 2 000",
+          "4 000 và 4 000"
+        ],
+        "correct_index": 0,
+        "explanation": "- Mai mua: 2 bút + 1 tẩy = $13\\;000$ đồng.\\n- Việt mua: 1 bút + 1 tẩy = $8\\;000$ đồng.\\n- Giá tiền của 1 cái bút chì là: $13\\;000 - 8\\;000 = 5\\;000$ (đồng).\\n- Giá tiền của 1 cục tẩy là: $8\\;000 - 5\\;000 = 3\\;000$ (đồng).\\nVậy bút chì giá **5 000 đồng**, cục tẩy giá **3 000 đồng**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t2-b3a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3a.** Quan sát lịch tháng 7: Mai học bơi vào sáng thứ Bảy hằng tuần. Vậy trong tháng 7, Mai học bơi vào các ngày: \\\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots",
+        "options": [
+          "6, 13, 20, 27",
+          "7, 14, 21, 28",
+          "5, 12, 19, 26",
+          "1, 8, 15, 22, 29"
+        ],
+        "correct_index": 0,
+        "explanation": "Nhìn vào cột \"THỨ BẢY\" của tờ lịch tháng 7, các ngày thứ Bảy là: ngày 6, ngày 13, ngày 20 và ngày 27. Vậy Mai học bơi vào các ngày **6, 13, 20, 27**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t2-b3b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3b.** Vào ngày 20 tháng 7, gia đình Nam hoàn thành chuyến đi xuyên Việt kéo dài 10 ngày. Vậy gia đình Nam bắt đầu chuyến đi đó vào ngày \\\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots",
+        "options": [
+          "11 tháng 7",
+          "10 tháng 7",
+          "12 tháng 7",
+          "9 tháng 7"
+        ],
+        "correct_index": 0,
+        "explanation": "Chuyến đi kéo dài 10 ngày và kết thúc vào ngày 20 tháng 7.\\nNgày bắt đầu chuyến đi là: $20 - 10 + 1 = 11$ (hoặc đếm lùi 10 ngày bao gồm cả ngày 20: 20, 19, 18, 17, 16, 15, 14, 13, 12, 11).\\nVậy gia đình Nam bắt đầu chuyến đi vào ngày **11 tháng 7**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t2-b4",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4.** Mai sinh ngày 23 tháng 4 và Việt sinh ngày 13 tháng 4. Biết năm nay, sinh nhật của Việt là một ngày Chủ nhật. Vậy năm nay, sinh nhật của Mai là thứ \\\\ldots\\ldots",
+        "options": [
+          "thứ Tư",
+          "thứ Ba",
+          "thứ Năm",
+          "thứ Hai"
+        ],
+        "correct_index": 0,
+        "explanation": "- Ngày sinh của Việt: 13 tháng 4 (là Chủ nhật).\\n- Ngày sinh của Mai: 23 tháng 4.\\n- Khoảng cách số ngày giữa hai ngày sinh là: $23 - 13 = 10$ (ngày).\\n- Ta có $10 = 1$ tuần dư $3$ ngày.\\n- Kể từ Chủ nhật, tiến thêm 3 ngày nữa: Thứ Hai (1 ngày), Thứ Ba (2 ngày), Thứ Tư (3 ngày).\\nVậy sinh nhật của Mai là **thứ Tư**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t3-b1a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1a.** Bây giờ là 8 giờ. Một giờ trước, trọng tài đã thổi còi bắt đầu hiệp 1 của trận bóng đá giữa Việt Nam và Thái Lan. Hỏi đồng hồ nào chỉ lúc trận đấu bắt đầu?",
+        "options": [
+          "Đồng hồ A (7 giờ đúng)",
+          "Đồng hồ B (8 giờ đúng)",
+          "Đồng hồ C (9 giờ đúng)",
+          "Đồng hồ D (7 giờ 30 phút)"
+        ],
+        "correct_index": 0,
+        "explanation": "Bây giờ là 8 giờ. Một giờ trước là: $8 \\text{ giờ} - 1 \\text{ giờ} = 7 \\text{ giờ}$.\\nĐồng hồ chỉ 7 giờ đúng là **Đồng hồ A** (kim giờ chỉ số 7, kim phút chỉ số 12).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t3-b1b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1b.** 30 phút trước là 2 giờ 15 phút, các bạn lớp 3A bắt đầu làm bài kiểm tra cuối học kì 2. Hỏi đồng hồ nào chỉ thời điểm bây giờ?",
+        "options": [
+          "Đồng hồ B (2 giờ 45 phút)",
+          "Đồng hồ A (2 giờ 15 phút)",
+          "Đồng hồ C (3 giờ kém 15 phút)",
+          "Đồng hồ D (3 giờ đúng)"
+        ],
+        "correct_index": 0,
+        "explanation": "30 phút trước là 2 giờ 15 phút. Vậy thời điểm bây giờ (sau đó 30 phút) là:\\n$2 \\text{ giờ } 15 \\text{ phút} + 30 \\text{ phút} = 2 \\text{ giờ } 45 \\text{ phút}$.\\nĐồng hồ B chỉ 2 giờ 45 phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t3-b2a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2a.** Viết số thích hợp vào chỗ chấm:\\\\n$3 \\text{ giờ } 20 \\text{ phút} = \\\\ldots\\ldots \\text{ phút}$",
+        "options": [
+          "200",
+          "180",
+          "210",
+          "140"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có $1 \\text{ giờ} = 60 \\text{ phút}$, nên $3 \\text{ giờ} = 60 \\times 3 = 180 \\text{ phút}$.\\nDo đó $3 \\text{ giờ } 20 \\text{ phút} = 180 + 20 = 200 \\text{ phút}$. Điền số **200**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t3-b2b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2b.** Viết số thích hợp vào chỗ chấm:\\\\n$1 \\text{ tuần } 3 \\text{ ngày} = \\\\ldots\\ldots \\text{ ngày}$",
+        "options": [
+          "10",
+          "7",
+          "14",
+          "12"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có $1 \\text{ tuần} = 7 \\text{ ngày}$. Vậy $1 \\text{ tuần } 3 \\text{ ngày} = 7 + 3 = 10 \\text{ ngày}$. Điền số **10**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t3-b2c",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2c.** Viết số thích hợp vào chỗ chấm:\\\\n$2 \\text{ ngày } 6 \\text{ giờ} = \\\\ldots\\ldots \\text{ giờ}$",
+        "options": [
+          "54",
+          "48",
+          "50",
+          "60"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có $1 \\text{ ngày} = 24 \\text{ giờ}$, nên $2 \\text{ ngày} = 24 \\times 2 = 48 \\text{ giờ}$.\\nDo đó $2 \\text{ ngày } 6 \\text{ giờ} = 48 + 6 = 54 \\text{ giờ}$. Điền số **54**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t3-b2d",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2d.** Viết số thích hợp vào chỗ chấm:\\\\n$1 \\text{ năm } 4 \\text{ tháng} = \\\\ldots\\ldots \\text{ tháng}$",
+        "options": [
+          "16",
+          "12",
+          "15",
+          "14"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có $1 \\text{ năm} = 12 \\text{ tháng}$. Vậy $1 \\text{ năm } 4 \\text{ tháng} = 12 + 4 = 16 \\text{ tháng}$. Điền số **16**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t3-b3",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3.** Gia đình Nam dự định về quê thăm ông bà vào thứ Bảy, ngày 6 tháng 11, nhưng hôm đó ông bà đi du lịch. Vì vậy, gia đình Nam đã lùi kế hoạch lại 1 tuần. Sau đó, vì ảnh hưởng của bão mà gia đình Nam phải lùi kế hoạch thêm 1 tuần nữa và họ về thăm ông bà vào Chủ nhật của tuần đó. Vậy gia đình Nam về quê thăm ông bà vào ngày \\\\ldots\\ldots tháng \\\\ldots\\ldots",
+        "options": [
+          "21 tháng 11",
+          "20 tháng 11",
+          "14 tháng 11",
+          "22 tháng 11"
+        ],
+        "correct_index": 0,
+        "explanation": "- Dự định ban đầu: Thứ Bảy, ngày 6 tháng 11.\\n- Lùi 1 tuần: Thứ Bảy, ngày $6 + 7 = 13$ tháng 11.\\n- Lùi thêm 1 tuần nữa: Thứ Bảy, ngày $13 + 7 = 20$ tháng 11.\\n- Họ về vào Chủ nhật của tuần đó (ngày ngay sau thứ Bảy): $20 + 1 = 21$ tháng 11.\\nVậy gia đình Nam về vào ngày **21 tháng 11**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-69-t3-b4",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 4.** Bây giờ, bốn chiếc đồng hồ treo tường tại một cửa hàng hiển thị thời gian: Đồng hồ 1 (4 giờ 20 phút), Đồng hồ 2 (4 giờ 25 phút), Đồng hồ 3 (4 giờ 15 phút), Đồng hồ 4 (8 giờ 55 phút). Biết trong số đó có: một đồng hồ chạy đúng giờ, một đồng hồ chạy chậm 5 phút, một đồng hồ chạy nhanh 5 phút, một đồng hồ bị hết pin từ hôm qua. Hỏi bây giờ là mấy giờ?",
+        "options": [
+          "4 giờ 20 phút",
+          "4 giờ 15 phút",
+          "4 giờ 25 phút",
+          "8 giờ 55 phút"
+        ],
+        "correct_index": 0,
+        "explanation": "Các thời gian trên 4 đồng hồ lần lượt là: $4 \\text{ giờ } 20 \\text{ phút}$, $4 \\text{ giờ } 25 \\text{ phút}$, $4 \\text{ giờ } 15 \\text{ phút}$, và $8 \\text{ giờ } 55 \\text{ phút}$ (đồng hồ hết pin từ hôm qua nên chỉ giờ sai hẳn).\\nTrong 3 đồng hồ còn lại ($4\\text{h}15$, $4\\text{h}20$, $4\\text{h}25$), nếu giờ đúng là $4\\text{ giờ } 20 \\text{ phút}$:\\n- Đồng hồ chạy chậm 5 phút sẽ chỉ: $4\\text{h}20 - 5\\text{p} = 4\\text{h}15$.\\n- Đồng hồ chạy nhanh 5 phút sẽ chỉ: $4\\text{h}20 + 5\\text{p} = 4\\text{h}25$.\\nNhư vậy hoàn toàn khớp với 3 giá trị đồng hồ hiển thị. Vậy giờ đúng hiện tại là **4 giờ 20 phút**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-69"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,463 @@
+[
+  {
+    "bai": 64,
+    "title": "Bài 64: Phép trừ trong phạm vi 100 000",
+    "book_pages": "70 - 72",
+    "topic": "Chủ đề 12: Phép cộng, phép trừ trong phạm vi 100 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-64-tiet1-1a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính: $68\\;372 - 25\\;634 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Đặt tính rồi tính từ phải sang trái:\\n- $12 - 4 = 8$, viết $8$ (nhớ $1$).\\n- $7 - 3 - 1 = 3$, viết $3$.\\n- $13 - 6 = 7$, viết $7$ (nhớ $1$).\\n- $8 - 5 - 1 = 2$, viết $2$.\\n- $6 - 2 = 4$, viết $4$.\\nKết quả là $42\\;738$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet1-1b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính: $82\\;709 - 7\\;425 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Đặt tính rồi tính từ phải sang trái:\\n- $9 - 5 = 4$, viết $4$.\\n- $10 - 2 = 8$, viết $8$ (nhớ $1$).\\n- $7 - 4 - 1 = 2$, viết $2$.\\n- $12 - 7 = 5$, viết $5$ (nhớ $1$).\\n- $8 - 1 = 7$, viết $7$.\\nKết quả là $75\\;284$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet1-1c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính: $45\\;381 - 836 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Đặt tính rồi tính từ phải sang trái:\\n- $11 - 6 = 5$, viết $5$ (nhớ $1$).\\n- $8 - 3 - 1 = 4$, viết $4$.\\n- $13 - 8 = 5$, viết $5$ (nhớ $1$).\\n- $5 - 1 = 4$, viết $4$.\\n- Hạ $4$, viết $4$.\\nKết quả là $44\\;545$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet1-1d",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính: $71\\;528 - 53\\;074 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Đặt tính rồi tính từ phải sang trái:\\n- $8 - 4 = 4$, viết $4$.\\n- $12 - 7 = 5$, viết $5$ (nhớ $1$).\\n- $5 - 0 - 1 = 4$, viết $4$.\\n- $11 - 3 = 8$, viết $8$ (nhớ $1$).\\n- $7 - 5 - 1 = 1$, viết $1$.\\nKết quả là $18\\;454$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet1-2a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2.** Đặt tính rồi tính: $58\\;394 - 23\\;547 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện trừ theo cột dọc từ phải sang trái:\\n- $14 - 7 = 7$ (nhớ $1$)\\n- $9 - 4 - 1 = 4$\\n- $13 - 5 = 8$ (nhớ $1$)\\n- $8 - 3 - 1 = 4$\\n- $5 - 2 = 3$\\nKết quả là $34\\;847$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet1-2b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2.** Đặt tính rồi tính: $37\\;468 - 75 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện trừ theo cột dọc từ phải sang trái:\\n- $8 - 5 = 3$\\n- $16 - 7 = 9$ (nhớ $1$)\\n- $4 - 1 = 3$\\n- Hạ $7$\\n- Hạ $3$\\nKết quả là $37\\;393$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet1-2c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2.** Đặt tính rồi tính: $52\\;647 - 8\\;245 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện trừ theo cột dọc từ phải sang trái:\\n- $7 - 5 = 2$\\n- $4 - 4 = 0$\\n- $6 - 2 = 4$\\n- $12 - 8 = 4$ (nhớ $1$)\\n- $5 - 1 = 4$\\nKết quả là $44\\;402$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet1-3a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $14\\;000 - 6\\;000 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $14\\text{ nghìn} - 6\\text{ nghìn} = 8\\text{ nghìn}$. Vậy $14\\;000 - 6\\;000 = 8\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet1-3b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $16\\;000 - 9\\;000 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $16\\text{ nghìn} - 9\\text{ nghìn} = 7\\text{ nghìn}$. Vậy $16\\;000 - 9\\;000 = 7\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet1-3c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $13\\;000 - 7\\;000 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $13\\text{ nghìn} - 7\\text{ nghìn} = 6\\text{ nghìn}$. Vậy $13\\;000 - 7\\;000 = 6\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet1-3d",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $17\\;000 - 8\\;000 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $17\\text{ nghìn} - 8\\text{ nghìn} = 9\\text{ nghìn}$. Vậy $17\\;000 - 8\\;000 = 9\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet1-4",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4.** Theo kế hoạch, nông trường Đất Xanh dự định trồng $45\\;000$ cây lấy gỗ để phủ xanh đồi trọc. Đợt 1 nông trường trồng được $14\\;500$ cây, đợt 2 nông trường trồng được $16\\;200$ cây. Hỏi nông trường đó còn phải trồng bao nhiêu cây nữa thì hoàn thành kế hoạch? (Điền số cây)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tính tổng số cây nông trường đã trồng trong 2 đợt:\\n$14\\;500 + 16\\;200 = 30\\;700$ (cây)\\nBước 2: Tính số cây còn phải trồng để hoàn thành kế hoạch:\\n$45\\;000 - 30\\;700 = 14\\;300$ (cây).\\nĐáp số: $14\\;300$ cây.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-1a1",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1a.** Tính nhẩm: $70\\;000 - 50\\;000 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $7\\text{ chục nghìn} - 5\\text{ chục nghìn} = 2\\text{ chục nghìn}$. Vậy $70\\;000 - 50\\;000 = 20\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-1a2",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1a.** Tính nhẩm: $80\\;000 - 40\\;000 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $8\\text{ chục nghìn} - 4\\text{ chục nghìn} = 4\\text{ chục nghìn}$. Vậy $80\\;000 - 40\\;000 = 40\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-1a3",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1a.** Tính nhẩm: $60\\;000 - 20\\;000 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $6\\text{ chục nghìn} - 2\\text{ chục nghìn} = 4\\text{ chục nghìn}$. Vậy $60\\;000 - 20\\;000 = 40\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-1a4",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1a.** Tính nhẩm: $100\\;000 - 50\\;000 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $10\\text{ chục nghìn} - 5\\text{ chục nghìn} = 5\\text{ chục nghìn}$. Vậy $100\\;000 - 50\\;000 = 50\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-1b1",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1b.** Tính nhẩm: $25\\;000 - 5\\;000 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $25\\text{ nghìn} - 5\\text{ nghìn} = 20\\text{ nghìn}$. Vậy $25\\;000 - 5\\;000 = 20\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-1b2",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1b.** Tính nhẩm: $39\\;000 - 8\\;000 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $39\\text{ nghìn} - 8\\text{ nghìn} = 31\\text{ nghìn}$. Vậy $39\\;000 - 8\\;000 = 31\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-1b3",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1b.** Tính nhẩm: $42\\;000 - 6\\;000 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $42\\text{ nghìn} - 6\\text{ nghìn} = 36\\text{ nghìn}$. Vậy $42\\;000 - 6\\;000 = 36\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-1b4",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1b.** Tính nhẩm: $54\\;000 - 24\\;000 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $54\\text{ nghìn} - 24\\text{ nghìn} = 30\\text{ nghìn}$. Vậy $54\\;000 - 24\\;000 = 30\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-2a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính: $71\\;629 - 46\\;354 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện trừ từ phải sang trái:\\n- $9 - 4 = 5$\\n- $12 - 5 = 7$ (nhớ $1$)\\n- $6 - 3 - 1 = 2$\\n- $11 - 6 = 5$ (nhớ $1$)\\n- $7 - 4 - 1 = 2$\\nKết quả là $25\\;275$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-2b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính: $37\\;285 - 6\\;569 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện trừ từ phải sang trái:\\n- $15 - 9 = 6$ (nhớ $1$)\\n- $8 - 6 - 1 = 1$\\n- $12 - 5 = 7$ (nhớ $1$)\\n- $7 - 6 - 1 = 0$\\n- Hạ $3$\\nKết quả là $30\\;716$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-2c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính: $19\\;628 - 573 = \\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện trừ từ phải sang trái:\\n- $8 - 3 = 5$\\n- $12 - 7 = 5$ (nhớ $1$)\\n- $6 - 5 - 1 = 0$\\n- Hạ $9$\\n- Hạ $1$\\nKết quả là $19\\;055$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-3",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Khoanh vào chữ đặt trước câu trả lời đúng.\\nCho biểu thức $\\mathscr{M} = 60\\;000 - 8\\;000 + 4\\;035$ và biểu thức $\\mathscr{N} = 89\\;740 - 3\\;700 - 30\\;000$. Hỏi giá trị của biểu thức nào lớn hơn?",
+        "options": [
+          "Giá trị của biểu thức $\\mathscr{M}$ lớn hơn giá trị của biểu thức $\\mathscr{N}$.",
+          "Giá trị của biểu thức $\\mathscr{M}$ bằng giá trị của biểu thức $\\mathscr{N}$.",
+          "Giá trị của biểu thức $\\mathscr{M}$ bé hơn giá trị của biểu thức $\\mathscr{N}$.",
+          "Không thể so sánh được."
+        ],
+        "correct_index": 2,
+        "explanation": "Tính giá trị từng biểu thức:\\n- $\\mathscr{M} = 52\\;000 + 4\\;035 = 56\\;035$.\\n- $\\mathscr{N} = 86\\;040 - 30\\;000 = 56\\;040$.\\nVì $56\\;035 < 56\\;040$ nên giá trị biểu thức $\\mathscr{M}$ bé hơn giá trị biểu thức $\\mathscr{N}$.\\nChọn C.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-4",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4.** Một tàu đánh bắt cá xa bờ, tháng 8 đánh bắt được $8\\;670\\text{ kg}$ cá, tháng 9 đánh bắt được ít hơn tháng 8 là $2\\;490\\text{ kg}$ cá. Hỏi trong cả hai tháng, tàu đó đã đánh bắt được bao nhiêu ki-lô-gam cá?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tính số ki-lô-gam cá đánh bắt được trong tháng 9:\\n$8\\;670 - 2\\;490 = 6\\;180$ (kg)\\nBước 2: Tính tổng số ki-lô-gam cá đánh bắt được trong cả hai tháng:\\n$8\\;670 + 6\\;180 = 14\\;850$ (kg).\\nĐáp số: $14\\;850\\text{ kg}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-5a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5.** Số bé nhất có năm chữ số khác nhau là gì?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số bé nhất có năm chữ số khác nhau là $10\\;234$ (chữ số hàng chục nghìn là $1$, hàng nghìn là $0$, hàng trăm là $2$, hàng chục là $3$, hàng đơn vị là $4$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-5b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5.** Số bé nhất có năm chữ số là gì?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số bé nhất có năm chữ số (các chữ số không nhất thiết khác nhau) là $10\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-64-tiet2-5c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5.** Hiệu của số bé nhất có năm chữ số khác nhau và số bé nhất có năm chữ số là bao nhiêu?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số bé nhất có năm chữ số khác nhau là $10\\;234$.\\nSố bé nhất có năm chữ số là $10\\;000$.\\nHiệu của hai số đó là: $10\\;234 - 10\\;000 = 234$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-64",
+          "tiet-2"
+        ]
+      }
+    ]
+  }
+]

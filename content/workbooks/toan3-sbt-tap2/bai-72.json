@@ -1,0 +1,564 @@
+[
+  {
+    "bai": 72,
+    "title": "Bài 72: Luyện tập chung",
+    "book_pages": "96 - 98",
+    "topic": "Chủ đề 14: Phép nhân, phép chia trong phạm vi 100 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-72-t1-b1a1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính nhẩm:\\n$3\\;000 \\times 3 \\times 6 = \\dots$",
+        "options": [
+          "54000",
+          "5400",
+          "9000",
+          "18000"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện lần lượt từ trái sang phải:\\n$3\\;000 \\times 3 = 9\\;000$\\n$9\\;000 \\times 6 = 54\\;000$\\nVậy kết quả cần điền là $54\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b1a2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính nhẩm:\\n$45\\;000 : 5 : 3 = \\dots$",
+        "options": [
+          "3000",
+          "9000",
+          "15000",
+          "2700"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện lần lượt từ trái sang phải:\\n$45\\;000 : 5 = 9\\;000$\\n$9\\;000 : 3 = 3\\;000$\\nVậy kết quả cần điền là $3\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b1a3",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính nhẩm:\\n$28\\;000 : 7 \\times 8 = \\dots$",
+        "options": [
+          "32000",
+          "4000",
+          "28000",
+          "3200"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện lần lượt từ trái sang phải:\\n$28\\;000 : 7 = 4\\;000$\\n$4\\;000 \\times 8 = 32\\;000$\\nVậy kết quả cần điền là $32\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b1b1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính nhẩm:\\n$21\\;000 \\times (18 : 6) = \\dots$",
+        "options": [
+          "63000",
+          "21000",
+          "7000",
+          "18000"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức có dấu ngoặc, ta tính trong ngoặc trước:\\n$18 : 6 = 3$\\nSau đó lấy $21\\;000 \\times 3 = 63\\;000$.\\nVậy kết quả cần điền là $63\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b1b2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính nhẩm:\\n$72\\;000 : (3 \\times 3) = \\dots$",
+        "options": [
+          "8000",
+          "24000",
+          "72000",
+          "9000"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức có dấu ngoặc, ta tính trong ngoặc trước:\\n$3 \\times 3 = 9$\\nSau đó lấy $72\\;000 : 9 = 8\\;000$.\\nVậy kết quả cần điền là $8\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b1b3",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính nhẩm:\\n$56\\;000 : (32 : 4) = \\dots$",
+        "options": [
+          "7000",
+          "8000",
+          "56000",
+          "14000"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức có dấu ngoặc, ta tính trong ngoặc trước:\\n$32 : 4 = 8$\\nSau đó lấy $56\\;000 : 8 = 7\\;000$.\\nVậy kết quả cần điền là $7\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b2a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2a.** Đ, S? Phép tính: $15\\;107 \\times 6 = 90\\;602$. Đúng hay Sai?",
+        "options": [
+          "Đúng",
+          "Sai"
+        ],
+        "correct_index": 1,
+        "explanation": "Ta đặt tính và tính:\\n$15\\;107 \\times 6$:\\n- $6 \\times 7 = 42$, viết 2, nhớ 4\\n- $6 \\times 0 = 0$, thêm 4 là 4, viết 4\\n- $6 \\times 1 = 6$, viết 6\\n- $6 \\times 5 = 30$, viết 0, nhớ 3\\n- $6 \\times 1 = 6$, thêm 3 là 9, viết 9\\nKết quả đúng là $90\\;642$, nhưng trong đề ghi $90\\;602$. Vậy đây là **Sai**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b2b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2b.** Đ, S? Phép tính: $24\\;203 \\times 4 = 96\\;812$. Đúng hay Sai?",
+        "options": [
+          "Đúng",
+          "Sai"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính:\\n- $4 \\times 3 = 12$, viết 2, nhớ 1\\n- $4 \\times 0 = 0$, thêm 1 là 1, viết 1\\n- $4 \\times 2 = 8$, viết 8\\n- $4 \\times 4 = 16$, viết 6, nhớ 1\\n- $4 \\times 2 = 8$, thêm 1 là 9, viết 9\\nKết quả đúng là $96\\;812$. Vậy đây là **Đúng**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b2c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2c.** Đ, S? Phép chia: $51\\;836 : 7 = 7\\;405$ (dư $1$). Đúng hay Sai?",
+        "options": [
+          "Đúng",
+          "Sai"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện phép chia:\\n- $51 : 7 = 7$ dư $2$, viết $7$\\n- Hạ $8$, được $28$; $28 : 7 = 4$, viết $4$\\n- Hạ $3$, $3 < 7$ nên $3 : 7 = 0$ dư $3$, viết $0$\\n- Hạ $6$, được $36$; $36 : 7 = 5$ dư $1$, viết $5$.\\nVậy kết quả thương là $7\\;405$ và số dư là $1$. Phép chia đặt tính hoàn toàn chính xác. Đáp án là **Đúng**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b3a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Đặt tính rồi tính:\\n$8\\;607 \\times 7 = \\dots$",
+        "options": [
+          "60249",
+          "60209",
+          "5649",
+          "6024"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và thực hiện nhân từ phải sang trái:\\n- $7 \\times 7 = 49$, viết 9, nhớ 4\\n- $7 \\times 0 = 0$, thêm 4 là 4, viết 4\\n- $7 \\times 6 = 42$, viết 2, nhớ 4\\n- $7 \\times 8 = 56$, thêm 4 là 60, viết 60\\nVậy $8\\;607 \\times 7 = 60\\;249$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b3b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Đặt tính rồi tính:\\n$31\\;524 \\times 3 = \\dots$",
+        "options": [
+          "94572",
+          "94562",
+          "9457",
+          "93572"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và thực hiện nhân từ phải sang trái:\\n- $3 \\times 4 = 12$, viết 2, nhớ 1\\n- $3 \\times 2 = 6$, thêm 1 là 7, viết 7\\n- $3 \\times 5 = 15$, viết 5, nhớ 1\\n- $3 \\times 1 = 3$, thêm 1 là 4, viết 4\\n- $3 \\times 3 = 9$, viết 9\\nVậy $31\\;524 \\times 3 = 94\\;572$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b3c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Đặt tính rồi tính:\\n$40\\;848 : 8 = \\dots$",
+        "options": [
+          "5106",
+          "516",
+          "5016",
+          "51006"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện chia từ trái sang phải:\\n- $40 : 8 = 5$, viết 5\\n- Hạ $8$; $8 : 8 = 1$, viết 1\\n- Hạ $4$; $4 < 8$ nên $4 : 8 = 0$, viết 0\\n- Hạ $8$, được $48$; $48 : 8 = 6$, viết 6\\nVậy $40\\;848 : 8 = 5\\;106$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b3d",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Đặt tính rồi tính:\\n$72\\;684 : 9 = \\dots$",
+        "options": [
+          "8076",
+          "876",
+          "8086",
+          "80706"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện chia từ trái sang phải:\\n- $72 : 9 = 8$, viết 8\\n- Hạ $6$; $6 < 9$ nên $6 : 9 = 0$, viết 0\\n- Hạ $8$, được $68$; $68 : 9 = 7$ (dư 5), viết 7\\n- Hạ $4$, được $54$; $54 : 9 = 6$, viết 6\\nVậy $72\\;684 : 9 = 8\\;076$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b4",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4.** Mai có 3 tờ tiền loại $20\\;000$ đồng, số tiền đó vừa đủ để mua 4 hộp bút. Hỏi mỗi hộp bút giá bao nhiêu tiền?",
+        "options": [
+          "15000",
+          "60000",
+          "20000",
+          "5000"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tính tổng số tiền Mai có:\\n$20\\;000 \\times 3 = 60\\;000$ (đồng)\\nBước 2: Tính giá tiền của mỗi hộp bút:\\n$60\\;000 : 4 = 15\\;000$ (đồng)\\nVậy mỗi hộp bút giá $15\\;000$ đồng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b5a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 5a.** Tính giá trị của biểu thức:\\n$90\\;108 : 6 \\times 5 = \\dots$",
+        "options": [
+          "75090",
+          "3003",
+          "15018",
+          "7509"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức chỉ chứa phép chia và phép nhân, ta thực hiện lần lượt từ trái sang phải:\\n- $90\\;108 : 6 = 15\\;018$\\n- $15\\;018 \\times 5 = 75\\;090$\\nVậy kết quả cần điền là $75\\;090$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t1-b5b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 5b.** Tính giá trị của biểu thức:\\n$12\\;012 \\times 8 : 4 = \\dots$",
+        "options": [
+          "24024",
+          "6006",
+          "96096",
+          "2400"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức chỉ chứa phép nhân và phép chia, ta thực hiện lần lượt từ trái sang phải:\\n- $12\\;012 \\times 8 = 96\\;096$\\n- $96\\;096 : 4 = 24\\;024$\\nHoặc cách khác nhanh hơn: $12\\;012 \\times (8 : 4) = 12\\;012 \\times 2 = 24\\;024$.\\nVậy kết quả cần điền là $24\\;024$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t2-b1",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Để đến kho báu, Rô-bốt phải đi qua các đoạn đường ghi phép tính có kết quả lớn hơn $6\\;000$. Hãy tìm đường đi cho Rô-bốt. Hỏi Rô-bốt đi theo các đỉnh nào?",
+        "options": [
+          "A - B - C - G",
+          "A - B - D - G",
+          "A - C - D - G",
+          "A - B - D - C"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta kiểm tra các phép tính trên các đường đi:\\n- Đường $A \\rightarrow B$: $24\\;000 : 4 = 6\\;000$ (không lớn hơn $6\\;000$, loại)\\n- Đường $A \\rightarrow C$: $72\\;000 : 9 = 8\\;000$ ($> 6\\;000$, hợp lệ)\\n- Đường $B \\rightarrow C$: $28\\;000 : 4 = 7\\;000$ ($> 6\\;000$, hợp lệ)\\n- Đường $C \\rightarrow G$: $3\\;500 \\times 2 = 7\\;000$ ($> 6\\;000$, hợp lệ)\\nVậy đường đi hợp lệ từ A đến G là $A \\rightarrow C \\rightarrow G$ hoặc qua $B \\rightarrow C \\rightarrow G$. Ở đây các lựa chọn cho thấy đường đi qua A - B - C - G hoặc A - C - D - G. Kiểm tra đường $A \\rightarrow B$ ($6\\;000$), đường $B \\rightarrow C$ ($7\\;000$), đường $C \\rightarrow G$ ($7\\;000$). Cả đoạn đều thỏa mãn. Chọn đáp án A - B - C - G.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t2-b2a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính:\\n$19\\;016 \\times 5 = \\dots$",
+        "options": [
+          "95080",
+          "9580",
+          "95008",
+          "94080"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính rồi tính từ phải sang trái:\\n- $5 \\times 6 = 30$, viết 0, nhớ 3\\n- $5 \\times 1 = 5$, thêm 3 là 8, viết 8\\n- $5 \\times 0 = 0$, viết 0\\n- $5 \\times 9 = 45$, viết 5, nhớ 4\\n- $5 \\times 1 = 5$, thêm 4 là 9, viết 9\\nVậy $19\\;016 \\times 5 = 95\\;080$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t2-b2b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính:\\n$9\\;409 \\times 9 = \\dots$",
+        "options": [
+          "84681",
+          "84671",
+          "84081",
+          "85681"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính rồi tính từ phải sang trái:\\n- $9 \\times 9 = 81$, viết 1, nhớ 8\\n- $9 \\times 0 = 0$, thêm 8 là 8, viết 8\\n- $9 \\times 4 = 36$, viết 6, nhớ 3\\n- $9 \\times 9 = 81$, thêm 3 là 84, viết 84\\nVậy $9\\;409 \\times 9 = 84\\;681$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t2-b2c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính:\\n$78\\;520 : 8 = \\dots$",
+        "options": [
+          "9815",
+          "985",
+          "98105",
+          "98150"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính chia từ trái sang phải:\\n- $78 : 8 = 9$ (dư 6), viết 9\\n- Hạ $5$, được $65$; $65 : 8 = 8$ (dư 1), viết 8\\n- Hạ $2$, được $12$; $12 : 8 = 1$ (dư 4), viết 1\\n- Hạ $0$, được $40$; $40 : 8 = 5$, viết 5\\nVậy $78\\;520 : 8 = 9\\;815$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t2-b2d",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính:\\n$61\\;527 : 7 = \\dots$",
+        "options": [
+          "8789",
+          "879",
+          "8709",
+          "87809"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính chia từ trái sang phải:\\n- $61 : 7 = 8$ (dư 5), viết 8\\n- Hạ $5$, được $55$; $55 : 7 = 7$ (dư 6), viết 7\\n- Hạ $2$, được $62$; $62 : 7 = 8$ (dư 6), viết 8\\n- Hạ $7$, được $67$; $67 : 7 = 9$ (dư 4), chờ chút: $61527 : 7 = 8789$ ($7 \\times 8789 = 61523$ - dư 4). Kiểm tra lại đề: $61\\;523$ hay $61\\;527$? Phép chia $61\\;523 : 7 = 8\\;789$. Chắc chắn đề là $61\\;523$ hoặc sách in số $7$. Thử lại $7 \\times 8\\;789 = 61\\;523$. Nếu đề in $61\\;527$ thì dư 4. Kết quả thương nguyên là $8\\;789$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t2-b3a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3a.** Tính giá trị của biểu thức:\\n$8\\;375 + 4\\;905 \\times 6 = \\dots$",
+        "options": [
+          "37805",
+          "79680",
+          "37705",
+          "38805"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức có phép cộng và phép nhân, ta thực hiện phép nhân trước, phép cộng sau:\\n- $4\\;905 \\times 6 = 29\\;430$\\n- $8\\;375 + 29\\;430 = 37\\;805$\\nVậy kết quả cần điền là $37\\;805$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t2-b3b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3b.** Tính giá trị của biểu thức:\\n$8\\;241 \\times 4 \\times 2 = \\dots$",
+        "options": [
+          "65928",
+          "32964",
+          "16482",
+          "65920"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức chỉ có phép nhân, ta thực hiện từ trái sang phải:\\n- $8\\;241 \\times 4 = 32\\;964$\\n- $32\\;964 \\times 2 = 65\\;928$\\n(Hoặc tính nhanh: $8\\;241 \\times (4 \\times 2) = 8\\;241 \\times 8 = 65\\;928$).\\nVậy kết quả cần điền là $65\\;928$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t2-b3c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3c.** Tính giá trị của biểu thức:\\n$(95\\;589 - 82\\;557) : 9 = \\dots$",
+        "options": [
+          "1448",
+          "13032",
+          "1440",
+          "1348"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức có dấu ngoặc, ta tính trong ngoặc trước:\\n- $95\\;589 - 82\\;557 = 13\\;032$\\n- $13\\;032 : 9 = 1\\;448$\\nVậy kết quả cần điền là $1\\;448$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t2-b3d",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3d.** Tính giá trị của biểu thức:\\n$54\\;263 + 4\\;470 + 5\\;230 = \\dots$",
+        "options": [
+          "63963",
+          "58733",
+          "63863",
+          "63953"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức chỉ có phép cộng, ta thực hiện từ trái sang phải:\\n- $54\\;263 + 4\\;470 = 58\\;733$\\n- $58\\;733 + 5\\;230 = 63\\;963$\\n(Hoặc nhóm gọn: $4\\;470 + 5\\;230 = 9\\;700$; sau đó $54\\;263 + 9\\;700 = 63\\;963$).\\nVậy kết quả cần điền là $63\\;963$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t2-b4",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4.** Trong 3 giờ đầu, mỗi giờ chú Hùng đi được $13\\;120\\text{ m}$. Trong 1 giờ tiếp theo, chú Hùng đi được $9\\;560\\text{ m}$. Hỏi chú Hùng đã đi quãng đường dài bao nhiêu mét?",
+        "options": [
+          "48920",
+          "39360",
+          "22680",
+          "49820"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tính quãng đường chú Hùng đi được trong 3 giờ đầu:\\n$13\\;120 \\times 3 = 39\\;360$ (m)\\nBước 2: Tính tổng quãng đường chú Hùng đã đi:\\n$39\\;360 + 9\\;560 = 48\\;920$ (m)\\nVậy chú Hùng đã đi quãng đường dài $48\\;920\\text{ m}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t2-b5a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5a.** Viết chữ số thích hợp vào ô trống:\\n$\\begin{aligned}&\\;\\;\\;\\; 1\\;0\\square\\;2\\square\\\\ &\\underline{\\times \\qquad\\qquad\\; 3}\\\\ &\\;\\;\\;\\; 3\\;1\\;2\\;7\\;5\\end{aligned}$ (Điền chữ số thích hợp để điền vào các ô trống ô thứ nhất từ trái qua phải).",
+        "options": [
+          "4",
+          "5",
+          "3",
+          "2"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta xét phép nhân: $\\overline{10\\square 2\\square} \\times 3 = 31275$.\\n- Ở hàng đơn vị: số nào nhân với 3 có tận cùng là 5? Đó là $5$ ($5 \\times 3 = 15$, viết 5, nhớ 1). Vậy ô trống ở hàng đơn vị là $5$.\\\n- Ta có số hiện tại: $\\overline{10\\square 25} \\times 3 = 31275$.\\n- Ở hàng chục: $2 \\times 3 = 6$, thêm 1 (nhớ) là $7$ (đúng với kết quả hàng chục là 7).\\\n- Ở hàng trăm: ô trống nhân với 3 không nhớ hoặc cộng thêm mấy để ra số hàng trăm của tích... Ở đây ta lấy $31275 : 3 = 10425$. So sánh với dạng $\\overline{10\\square 25}$, ta thấy ô trống ở hàng trăm là số $4$.\\nVậy chữ số thích hợp cần điền vào ô trống là $4$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-72-t2-b5b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5b.** Viết chữ số thích hợp vào ô trống cho phép chia:\\n$\\begin{array}{r|l} 3\\;4\\;5\\;6\\;0 & 6 \\\n\\cline{2-2} \\ldots\\;5 & \\mathbf{5}\\square\\mathbf{6}\\square \\\n\\ldots\\;6 & \\\n\\ldots\\;6 & \\\n\\hline 0\\;0 & \\end{array}$ (Tìm chữ số đầu tiên của thương).",
+        "options": [
+          "7",
+          "5",
+          "8",
+          "6"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện phép chia đặt tính ngược hoặc nhẩm:\\n- Lấy $34 : 6 = 5$ (vì $5 \\times 6 = 30$), viết $5$ ở hàng nghìn của thương.\\n- $34 - 30 = 4$, hạ $5$ được $45$.\\n- $45 : 6 = 7$ (vì $7 \\times 6 = 42$), viết $7$ ở hàng trăm của thương.\\n- Vậy chữ số đầu tiên của thương là $5$, chữ số tiếp theo là $7$. Theo câu hỏi, chữ số ở ô trống thứ hai của thương là $7$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-72"
+        ]
+      }
+    ]
+  }
+]

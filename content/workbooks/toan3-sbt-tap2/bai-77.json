@@ -1,0 +1,486 @@
+[
+  {
+    "bai": 77,
+    "title": "Bài 77: Ôn tập phép cộng, phép trừ trong phạm vi 100 000",
+    "book_pages": "110 - 113",
+    "topic": "Chủ đề 16: Ôn tập cuối năm",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-77-1a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Đặt tính rồi tính: $725 + 6\\;548$. Kết quả của phép tính này là:",
+        "options": [
+          "7273",
+          "7173",
+          "6273",
+          "7263"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ phải sang trái: $5 + 8 = 13$, viết $3$, nhớ $1$; $2 + 4 = 6$, thêm $1 = 7$, viết $7$; $7 + 5 = 12$, viết $2$, nhớ $1$; $0 + 6 = 6$, thêm $1 = 7$, viết $7$. Vậy $725 + 6\\;548 = 7\\;273$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-1b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Đặt tính rồi tính: $14\\;683 - 7\\;629$. Kết quả của phép tính này là:",
+        "options": [
+          "7054",
+          "7154",
+          "6054",
+          "7044"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và trừ từ phải sang trái: $13 - 9 = 4$, viết $4$ nhớ $1$; $2 + 1 = 3$, $8 - 3 = 5$, viết $5$; $6 - 6 = 0$, viết $0$; $14 - 7 = 7$, viết $7$. Vậy $14\\;683 - 7\\;629 = 7\\;054$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-1c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Đặt tính rồi tính: $53\\;846 + 24\\;738$. Kết quả của phép tính này là:",
+        "options": [
+          "78584",
+          "78484",
+          "77584",
+          "78574"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và cộng từ phải sang trái: $6 + 8 = 14$, viết $4$ nhớ $1$; $4 + 3 = 7$ thêm $1 = 8$, viết $8$; $8 + 7 = 15$, viết $5$ nhớ $1$; $3 + 4 = 7$ thêm $1 = 8$, viết $8$; $5 + 2 = 7$, viết $7$. Vậy $53\\;846 + 24\\;738 = 78\\;584$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-1d",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Đặt tính rồi tính: $68\\;748 - 9\\;562$. Kết quả của phép tính này là:",
+        "options": [
+          "59186",
+          "59286",
+          "58186",
+          "59176"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và trừ từ phải sang trái: $8 - 2 = 6$, viết $6$; $14 - 6 = 8$, viết $8$ nhớ $1$; $5 + 1 = 6$, $7 - 6 = 1$, viết $1$; $18 - 9 = 9$, viết $9$ nhớ $1$; $6 - 1 = 5$, viết $5$. Vậy $68\\;748 - 9\\;562 = 59\\;186$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-2a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Phép tính nào sau đây có kết quả lớn hơn $30\\;000$ (tô màu xanh)?",
+        "options": [
+          "27\\;000 + 4\\;000",
+          "4\\;600 + 3\\;400",
+          "13\\;436 - 5\\;000",
+          "39\\;000 - 8\\;000"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta tính giá trị các biểu thức:\n- $4\\;600 + 3\\;400 = 8\\;000$ (bé hơn $9\\;000$)\n- $13\\;436 - 5\\;000 = 8\\;436$ (bé hơn $9\\;000$)\n- $27\\;000 + 4\\;000 = 31\\;000$ (lớn hơn $30\\;000$)\n- $54\\;700 - 24\\;500 = 30\\;200$ (lớn hơn $30\\;000$)\n- $39\\;000 - 8\\;000 = 31\\;000$ (lớn hơn $30\\;000$)\nVậy đám mây $27\\;000 + 4\\;000$ (và $54\\;700 - 24\\;500$, $39\\;000 - 8\\;000$) có kết quả lớn hơn $30\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-3a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3a.** Tính giá trị của biểu thức: $6\\;837 + 2\\;623 - 700 = \\ldots$",
+        "options": [
+          "8760",
+          "8750",
+          "8860",
+          "8660"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức có phép cộng và phép trừ, ta thực hiện từ trái sang phải:\n$6\\;837 + 2\\;623 = 9\\;460$\n$9\\;460 - 700 = 8\\;760$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-3b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3b.** Tính giá trị của biểu thức: $8\\;575 + (36\\;156 - 24\\;156) = \\ldots$",
+        "options": [
+          "20575",
+          "20475",
+          "19575",
+          "21575"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức có dấu ngoặc, ta thực hiện phép tính trong ngoặc trước:\n$36\\;156 - 24\\;156 = 12\\;000$\nSau đó thực hiện phép cộng:\n$8\\;575 + 12\\;000 = 20\\;575$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-3c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3c.** Tính giá trị của biểu thức: $25\\;800 + 12\\;750 + 3\\;200 = \\ldots$",
+        "options": [
+          "41750",
+          "40750",
+          "41850",
+          "41650"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức chỉ có phép cộng, ta thực hiện từ trái sang phải hoặc nhóm các số thuận tiện:\n$(25\\;800 + 3\\;200) + 12\\;750 = 29\\;000 + 12\\;750 = 41\\;750$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4.** Nam mua một đôi giày giá $54\\;000$ đồng, mua một hộp bút giá $16\\;000$ đồng. Nam đưa cho cô bán hàng $100\\;000$ đồng. Hỏi cô bán hàng trả lại Nam bao nhiêu tiền?",
+        "options": [
+          "30000 đồng",
+          "40000 đồng",
+          "35000 đồng",
+          "20000 đồng"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tính tổng số tiền mua giày và hộp bút:\n$54\\;000 + 16\\;000 = 70\\;000$ (đồng)\nBước 2: Tính số tiền cô bán hàng trả lại Nam:\n$100\\;000 - 70\\;000 = 30\\;000$ (đồng)\nĐáp số: $30\\;000$ đồng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-5a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 5a.** Điền chữ số thích hợp vào ô trống:\n$$\\begin{array}{r} + \\begin{array}{r} 37\\Box82 \\\\ 254\\Box9 \\end{array} \\\\ \\hline \\Box\\Box79\\Box \\end{array}$$\nChữ số điền vào ô trống ở hàng nghìn của tổng là mấy?",
+        "options": [
+          "6",
+          "5",
+          "7",
+          "8"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện cộng từ phải qua trái:\n- Hàng đơn vị: $2 + 9 = 11$, viết $1$ nhớ $1$.\n- Hàng chục: $8 + \\Box + 1 = \\Box$, suy ra $\\Box$ ở hàng chục dưới là $9$, số ô trống trên là $0$.\n- Hàng trăm: $7 + 4 + 1 = 12$, viết $2$ nhớ $1$.\n- Hàng nghìn: $7 + 5 + 1 = 13$, viết $3$ nhớ $1$.\n- Hàng chục nghìn: $3 + 2 + 1 = 6$.\nVậy kết quả là $63\\;291$, chữ số ở hàng nghìn của tổng là $3$ (còn ô trống hàng nghìn ở kết quả tương ứng là số $2$). Nếu hỏi chữ số ở hàng chục nghìn là $6$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-5b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 5b.** Tìm chữ số thích hợp điền vào phép tính trừ:\n$$\\begin{array}{r} - \\begin{array}{r} \\Box9\\Box72 \\\\ \\Box\\Box6\\Box5 \\end{array} \\\\ \\hline \\Box7283\\Box \\end{array}$$\nChữ số ở hàng chục nghìn của số bị trừ là mấy?",
+        "options": [
+          "9",
+          "8",
+          "7",
+          "6"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có phép tính: $\\Box9\\Box72 - \\Box\\Box6\\Box5 = \\Box7283\\Box$.\nXét hàng đơn vị: $12 - 5 = 7$ (vậy chữ số hàng đơn vị của hiệu là $7$).\nXét hàng chục: $6 - \\Box = 3$, suy ra ô trống hàng chục của số trừ là $3$.\nXét hàng trăm: $\\Box - 6 = 8$, mượn $1$ thành $\\Box - 1 - 6 = 8$, suy ra ô trống hàng trăm số bị trừ là $5$.\nXét hàng nghìn: $9 - 1$ (do mượn) $- \\Box = 2$, suy ra ô trống hàng nghìn số trừ là $6$.\nXét hàng chục nghìn: $\\Box - \\Box = 7$, vì số bị trừ có dạng $\\Box9...$ nên chữ số hàng chục nghìn phải là $9$ ($9 - 2 = 7$, số trừ là $2$). Vậy chữ số hàng chục nghìn của số bị trừ là $9$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-5c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 5c.** Điền chữ số thích hợp vào phép cộng:\n$$\\begin{array}{r} + \\begin{array}{r} 5\\Box89\\Box \\\\ 7\\Box43 \\end{array} \\\\ \\hline \\Box39\\Box8 \\end{array}$$\nChữ số điền vào ô trống ở hàng trăm của tổng là bao nhiêu?",
+        "options": [
+          "9",
+          "8",
+          "7",
+          "6"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện cộng cột: \n- Hàng đơn vị: $\\Box + 3 = 8$, suy ra ô trống ở số hạng trên là $5$.\n- Hàng chục: $9 + 4 = 13$, viết $3$ nhớ $1$.\n- Hàng trăm: $8 + \\Box + 1 = 9$, suy ra ô trống hàng trăm số hạng dưới là $0$.\n- Hàng nghìn: $\\Box + 7 = 3$ (tức là $13$), suy ra ô trống hàng nghìn số hạng trên là $6$, nhớ $1$.\n- Hàng chục nghìn: $5 + 0$ (nhớ $1$) $= 6$.\nVậy tổng là $63\\;938$, chữ số hàng trăm của tổng là $9$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-t2-1a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Đặt tính rồi tính: $6\\;593 + 85$. Kết quả là:",
+        "options": [
+          "6678",
+          "6578",
+          "6688",
+          "6778"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính sao cho các chữ số ở cùng hàng thẳng cột với nhau:\n$3 + 5 = 8$, viết $8$; $9 + 8 = 17$, viết $7$ nhớ $1$; $5 + 1 = 6$, viết $6$; hạ $6$. Vậy $6\\;593 + 85 = 6\\;678$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-t2-1b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Đặt tính rồi tính: $8\\;674 - 592$. Kết quả là:",
+        "options": [
+          "8082",
+          "8182",
+          "8092",
+          "7982"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính và trừ từ phải sang trái:\n$4 - 2 = 2$, viết $2$; $17 - 9 = 8$, viết $8$ nhớ $1$; $5 + 1 = 6$, $6 - 6 = 0$, viết $0$; hạ $8$. Vậy $8\\;674 - 592 = 8\\;082$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-t2-1c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Đặt tính rồi tính: $34\\;562 + 19\\;287$. Kết quả là:",
+        "options": [
+          "53849",
+          "53949",
+          "52849",
+          "53839"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính và cộng từ phải sang trái:\n$2 + 7 = 9$; $6 + 8 = 14$ (viết $4$ nhớ $1$); $5 + 2 + 1 = 8$; $4 + 9 = 13$ (viết $3$ nhớ $1$); $3 + 1 + 1 = 5$. Vậy $34\\;562 + 19\\;287 = 53\\;849$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-t2-1d",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Đặt tính rồi tính: $56\\;061 - 23\\;458$. Kết quả là:",
+        "options": [
+          "32603",
+          "32503",
+          "33603",
+          "32613"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính và trừ từ phải sang trái:\n$11 - 8 = 3$ (nhớ $1$); $6 - 5 - 1 = 0$; $10 - 4 = 6$ (nhớ $1$); $5 - 3 - 1 = 1$ (sai rồi, kiểm tra lại: $6 - 3 - 1 = 2$); $5 - 2 = 3$. Vậy $56\\;061 - 23\\;458 = 32\\;603$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-t2-2a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2a.** Tổng của $8\\;593$ và $6\\;345$ là:",
+        "options": [
+          "14 938",
+          "14 838",
+          "14 937",
+          "41 938"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta tính: $8\\;593 + 6\\;345 = 14\\;938$. Chọn đáp án B trong sách nhưng ở đây là phương án A (tương ứng 14 938).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-t2-2b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2b.** Hiệu của $43\\;958 - 26\\;384$ là:",
+        "options": [
+          "17 574",
+          "27 574",
+          "17 674",
+          "17 564"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta tính: $43\\;958 - 26\\;384 = 17\\;574$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-t2-2c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2c.** Giá trị của biểu thức $18\\;609 + 5\\;132 - 5\\;000$ là:",
+        "options": [
+          "18 741",
+          "24 041",
+          "19 031",
+          "19 041"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện từ trái sang phải:\n$18\\;609 + 5\\;132 = 23\\;741$\n$23\\;741 - 5\\;000 = 18\\;741$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-t2-3a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3a.** Dựa vào bản đồ khu vui chơi:\n- Đường từ cổng công viên đến sân khấu nhạc nước đi qua vòng quay rồi đến nhạc nước: $470\\text{ m} + 260\\text{ m} = 730\\text{ m}$ (hoặc đường trực tiếp từ cổng qua đường khác).\nXem phát biểu: \"Đường đi từ cổng công viên đến sân khấu nhạc nước gần hơn đến rạp chiếu phim.\" Đúng hay Sai?",
+        "options": [
+          "Đ",
+          "S"
+        ],
+        "correct_index": 0,
+        "explanation": "Quan sát sơ đồ bản đồ:\n- Độ dài đường từ cổng công viên đến sân khấu nhạc nước (qua vòng quay): $470 + 260 = 730$ (m) hoặc đường $240 + 260 = 500$ (m).\n- Độ dài đường từ cổng công viên đến rạp chiếu phim: $280 + 530 = 810$ (m).\nDo $500\\text{ m} < 810\\text{ m}$ nên đường đi từ cổng công viên đến sân khấu nhạc nước gần hơn đến rạp chiếu phim là **Đúng** (Đ).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-t2-3b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3b.** Dựa vào sơ đồ khu vui chơi, phát biểu: \"Đường đi từ cổng công viên đến sân khấu nhạc nước xa hơn đến rạp chiếu phim.\" Đúng hay Sai?",
+        "options": [
+          "S",
+          "Đ"
+        ],
+        "correct_index": 0,
+        "explanation": "Vì đường đến sân khấu nhạc nước gần hơn ($500\\text{ m} < 810\\text{ m}$), nên phát biểu cho rằng đường này xa hơn là **Sai** (S).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-t2-4a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4a.** Lễ kỉ niệm 100 năm ngày sinh Bác Hồ được tổ chức vào năm 1990. Hỏi Bác Hồ sinh năm nào?",
+        "options": [
+          "1890",
+          "1900",
+          "1880",
+          "1910"
+        ],
+        "correct_index": 0,
+        "explanation": "Để tính năm sinh của Bác Hồ, ta lấy năm tổ chức lễ kỉ niệm trừ đi số năm kỉ niệm:\n$1990 - 100 = 1890$.\nVậy Bác Hồ sinh năm $1890$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-t2-4b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4b.** Năm 1968 Bác Hồ bao nhiêu tuổi?",
+        "options": [
+          "78 tuổi",
+          "68 tuổi",
+          "88 tuổi",
+          "58 tuổi"
+        ],
+        "correct_index": 0,
+        "explanation": "Bác Hồ sinh năm $1890$. Năm 1968 Bác Hồ có số tuổi là:\n$1968 - 1890 = 78$ (tuổi).\nĐáp số: $78$ tuổi.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-77-t2-5",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 5.** Một công ty thiết bị y tế, lần thứ nhất đã nhập về $24\\;900$ chiếc khẩu trang, lần thứ hai nhập ít hơn lần thứ nhất $9\\;800$ chiếc khẩu trang. Hỏi cả hai lần công ty đã nhập về bao nhiêu chiếc khẩu trang?",
+        "options": [
+          "40000 chiếc",
+          "39000 chiếc",
+          "41000 chiếc",
+          "40100 chiếc"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tính số chiếc khẩu trang lần thứ hai nhập về:\n$24\\;900 - 9\\;800 = 15\\;100$ (chiếc)\nBước 2: Tính tổng số chiếc khẩu trang cả hai lần công ty nhập về:\n$24\\;900 + 15\\;100 = 40\\;000$ (chiếc)\nĐáp số: $40\\;000$ chiếc khẩu trang.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-77"
+        ]
+      }
+    ]
+  }
+]

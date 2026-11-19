@@ -1,0 +1,453 @@
+[
+  {
+    "bai": 50,
+    "title": "Bài 50: Chu vi hình tam giác, hình tứ giác, hình chữ nhật, hình vuông",
+    "book_pages": "18 - 22",
+    "topic": "Chủ đề 9: Chu vi, diện tích một số hình phẳng",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-50-1a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1a.** Tính chu vi hình tam giác có độ dài các cạnh là $4$ cm, $7$ cm và $10$ cm.",
+        "options": [
+          "$21$ cm",
+          "$17$ cm",
+          "$14$ cm",
+          "$25$ cm"
+        ],
+        "correct_index": 0,
+        "explanation": "Để tính chu vi hình tam giác, chúng ta cộng độ dài của ba cạnh lại với nhau.\nVậy, chu vi hình tam giác là: $4 + 7 + 10 = 21$ (cm).\nChúc mừng con đã tính đúng!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-tam-giac"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-1b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1b.** Tính chu vi hình tam giác có độ dài các cạnh là $15$ dm, $20$ dm và $30$ dm.",
+        "options": [
+          "$65$ dm",
+          "$55$ dm",
+          "$70$ dm",
+          "$45$ dm"
+        ],
+        "correct_index": 0,
+        "explanation": "Chu vi hình tam giác bằng tổng độ dài ba cạnh của nó.\nVậy, chu vi hình tam giác là: $15 + 20 + 30 = 65$ (dm).\nCon giỏi lắm!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-tam-giac"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-1c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1c.** Tính chu vi hình tam giác có độ dài các cạnh là $9$ dm, $9$ dm và $9$ dm.",
+        "options": [
+          "$27$ dm",
+          "$18$ dm",
+          "$36$ dm",
+          "$9$ dm"
+        ],
+        "correct_index": 0,
+        "explanation": "Vì đây là một hình tam giác có ba cạnh bằng nhau nên chúng ta có thể tính chu vi bằng cách cộng ba cạnh lại hoặc lấy độ dài một cạnh nhân với $3$.\nVậy, chu vi hình tam giác là: $9 + 9 + 9 = 27$ (dm) hoặc $9 \\times 3 = 27$ (dm).\nCon đã làm rất tốt!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-tam-giac"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Tính chu vi hình tứ giác có độ dài các cạnh là $20$ dm, $30$ dm, $20$ dm và $30$ dm.",
+        "options": [
+          "$100$ dm",
+          "$70$ dm",
+          "$80$ dm",
+          "$120$ dm"
+        ],
+        "correct_index": 0,
+        "explanation": "Chu vi hình tứ giác bằng tổng độ dài của bốn cạnh của nó.\nVậy, chu vi hình tứ giác là: $20 + 30 + 20 + 30 = 100$ (dm).\nCon đã giải quyết bài toán này rất nhanh!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-tu-giac"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-3a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3a.** Để làm đồ chơi, Rô-bốt cắt các miếng bìa có kích thước như hình dưới đây. Chu vi của miếng bìa hình tam giác là bao nhiêu? (Xem hình tam giác ở trang 19)",
+        "options": [
+          "$42$ cm",
+          "$45$ cm",
+          "$40$ cm",
+          "$30$ cm"
+        ],
+        "correct_index": 0,
+        "explanation": "Hình tam giác có các cạnh là $15$ cm, $15$ cm và $12$ cm.\nChu vi hình tam giác là tổng độ dài ba cạnh.\nChu vi của miếng bìa hình tam giác là: $15 + 15 + 12 = 42$ (cm).\nCon rất thông minh!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-tam-giac"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-3b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3b.** Để làm đồ chơi, Rô-bốt cắt các miếng bìa có kích thước như hình dưới đây. Chu vi của miếng bìa hình tứ giác là bao nhiêu? (Xem hình tứ giác ở trang 19)",
+        "options": [
+          "$85$ cm",
+          "$80$ cm",
+          "$90$ cm",
+          "$75$ cm"
+        ],
+        "correct_index": 0,
+        "explanation": "Hình tứ giác có các cạnh là $15$ cm, $20$ cm, $30$ cm và $20$ cm.\nChu vi hình tứ giác là tổng độ dài bốn cạnh.\nChu vi của miếng bìa hình tứ giác là: $15 + 20 + 30 + 20 = 85$ (cm).\nCon đã giải quyết xuất sắc bài toán này!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-tu-giac"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-4a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4.** Trong các hình dưới đây (ở trang 19), hình nào có chu vi lớn nhất?",
+        "options": [
+          "Hình tam giác có các cạnh $7$ cm, $7$ cm, $7$ cm",
+          "Hình tứ giác có các cạnh $4$ cm, $3$ cm, $6$ cm, $5$ cm",
+          "Hình tứ giác có các cạnh $4$ cm, $4$ cm, $7$ cm, $4$ cm",
+          "Hai hình có chu vi bằng nhau và lớn nhất"
+        ],
+        "correct_index": 0,
+        "explanation": "Đầu tiên, chúng ta cùng tính chu vi của từng hình nhé:\n*   **Hình tam giác** có các cạnh $7$ cm, $7$ cm, $7$ cm. Chu vi là: $7 + 7 + 7 = 21$ (cm).\n*   **Hình tứ giác thứ nhất** (hình thang) có các cạnh $4$ cm, $3$ cm, $6$ cm, $5$ cm. Chu vi là: $4 + 3 + 6 + 5 = 18$ (cm).\n*   **Hình tứ giác thứ hai** có các cạnh $4$ cm, $4$ cm, $7$ cm, $4$ cm. Chu vi là: $4 + 4 + 7 + 4 = 19$ (cm).\nSo sánh các chu vi: $21$ cm $>$ $19$ cm $>$ $18$ cm.\nVậy, hình tam giác có chu vi lớn nhất ($21$ cm).\nCon đã làm rất đúng!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "so-sanh-chu-vi"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-4b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4.** Trong các hình dưới đây (ở trang 19), hình nào có chu vi bé nhất?",
+        "options": [
+          "Hình tứ giác có các cạnh $4$ cm, $3$ cm, $6$ cm, $5$ cm",
+          "Hình tam giác có các cạnh $7$ cm, $7$ cm, $7$ cm",
+          "Hình tứ giác có các cạnh $4$ cm, $4$ cm, $7$ cm, $4$ cm",
+          "Hai hình có chu vi bằng nhau và bé nhất"
+        ],
+        "correct_index": 0,
+        "explanation": "Chúng ta đã tính chu vi của từng hình ở câu trước:\n*   Chu vi hình tam giác: $21$ cm.\n*   Chu vi hình tứ giác thứ nhất (hình thang): $18$ cm.\n*   Chu vi hình tứ giác thứ hai: $19$ cm.\nSo sánh các chu vi: $18$ cm $<$ $19$ cm $<$ $21$ cm.\nVậy, hình tứ giác có các cạnh $4$ cm, $3$ cm, $6$ cm, $5$ cm có chu vi bé nhất ($18$ cm).\nCon đã rất cẩn thận và chính xác!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "so-sanh-chu-vi"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t2-1a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Hoàn thành bảng sau (theo mẫu):\nNếu cạnh hình vuông là $5$ dm thì chu vi hình vuông là bao nhiêu?",
+        "options": [
+          "$20$ dm",
+          "$10$ dm",
+          "$25$ dm",
+          "$15$ dm"
+        ],
+        "correct_index": 0,
+        "explanation": "Chu vi hình vuông bằng độ dài một cạnh nhân với $4$.\nNếu cạnh hình vuông là $5$ dm thì chu vi hình vuông là: $5 \\times 4 = 20$ (dm).\nCon đã nhớ công thức rất tốt!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-hinh-vuong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t2-1b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Hoàn thành bảng sau (theo mẫu):\nNếu cạnh hình vuông là $8$ m thì chu vi hình vuông là bao nhiêu?",
+        "options": [
+          "$32$ m",
+          "$16$ m",
+          "$64$ m",
+          "$24$ m"
+        ],
+        "correct_index": 0,
+        "explanation": "Chu vi hình vuông bằng độ dài một cạnh nhân với $4$.\nNếu cạnh hình vuông là $8$ m thì chu vi hình vuông là: $8 \\times 4 = 32$ (m).\nCon là một nhà toán học nhỏ tuổi rất cừ!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-hinh-vuong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t2-1c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Hoàn thành bảng sau (theo mẫu):\nNếu cạnh hình vuông là $10$ dm thì chu vi hình vuông là bao nhiêu?",
+        "options": [
+          "$40$ dm",
+          "$20$ dm",
+          "$100$ dm",
+          "$30$ dm"
+        ],
+        "correct_index": 0,
+        "explanation": "Chu vi hình vuông bằng độ dài một cạnh nhân với $4$.\nNếu cạnh hình vuông là $10$ dm thì chu vi hình vuông là: $10 \\times 4 = 40$ (dm).\nCon đã hoàn thành bảng rất nhanh chóng!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-hinh-vuong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t2-2a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2a.** Tính chu vi hình chữ nhật có chiều dài $7$ cm, chiều rộng $3$ cm.",
+        "options": [
+          "$20$ cm",
+          "$10$ cm",
+          "$21$ cm",
+          "$14$ cm"
+        ],
+        "correct_index": 0,
+        "explanation": "Chu vi hình chữ nhật bằng tổng chiều dài và chiều rộng, sau đó nhân với $2$.\nChu vi hình chữ nhật là: $(7 + 3) \\times 2 = 10 \\times 2 = 20$ (cm).\nCon làm rất tốt!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-hinh-chu-nhat"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t2-2b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2b.** Tính chu vi hình chữ nhật có chiều dài $6$ m, chiều rộng $3$ m.",
+        "options": [
+          "$18$ m",
+          "$9$ m",
+          "$12$ m",
+          "$24$ m"
+        ],
+        "correct_index": 0,
+        "explanation": "Chu vi hình chữ nhật bằng tổng chiều dài và chiều rộng, sau đó nhân với $2$.\nChu vi hình chữ nhật là: $(6 + 3) \\times 2 = 9 \\times 2 = 18$ (m).\nCon đã giải bài này một cách chính xác!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-hinh-chu-nhat"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t2-3a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3a.** Bạn Nam dùng các que tính để xếp thành một hình chữ nhật. Biết chiều dài được xếp bởi $5$ que tính và chiều rộng được xếp bởi $3$ que tính. Để vừa đủ que tính xếp thành hình chữ nhật như trên, bạn Nam cần bao nhiêu que tính?",
+        "options": [
+          "$16$ que tính",
+          "$8$ que tính",
+          "$15$ que tính",
+          "$13$ que tính"
+        ],
+        "correct_index": 0,
+        "explanation": "Số que tính cần dùng chính là chu vi của hình chữ nhật được xếp.\nChu vi hình chữ nhật được tính bằng: (chiều dài + chiều rộng) $\\times 2$.\nVậy số que tính bạn Nam cần là: $(5 + 3) \\times 2 = 8 \\times 2 = 16$ (que tính).\nCon đã giải quyết bài toán này rất tốt!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "ung-dung-chu-vi"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t2-3b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3b.** Với $16$ que tính trên, có thể dùng hết số que tính đó để xếp thành một hình vuông được không? Nếu có, em hãy tính xem mỗi cạnh hình vuông được xếp bởi mấy que tính.",
+        "options": [
+          "Có, mỗi cạnh được xếp bởi $4$ que tính",
+          "Không thể xếp thành hình vuông",
+          "Có, mỗi cạnh được xếp bởi $8$ que tính",
+          "Có, mỗi cạnh được xếp bởi $3$ que tính"
+        ],
+        "correct_index": 0,
+        "explanation": "Một hình vuông có $4$ cạnh bằng nhau.\nNếu có $16$ que tính để xếp thành hình vuông, thì số que tính ở mỗi cạnh sẽ là: $16 \\div 4 = 4$ (que tính).\nVì $16$ chia hết cho $4$ nên có thể dùng hết số que tính để xếp thành hình vuông, và mỗi cạnh của hình vuông sẽ được xếp bởi $4$ que tính.\nCon đã suy luận rất logic!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "ung-dung-chu-vi",
+          "hinh-vuong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t3-1a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1.** Nối hình với số đo là chu vi của hình đó. Tính chu vi của hình chữ nhật có chiều dài $6$ cm và chiều rộng $3$ cm.",
+        "options": [
+          "$18$ cm",
+          "$32$ cm",
+          "$19$ cm",
+          "$9$ cm"
+        ],
+        "correct_index": 0,
+        "explanation": "Hình chữ nhật có chiều dài $6$ cm và chiều rộng $3$ cm.\nChu vi hình chữ nhật là: $(6 + 3) \\times 2 = 9 \\times 2 = 18$ (cm).\nCon nhớ công thức rất tốt!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-hinh-chu-nhat"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t3-1b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1.** Nối hình với số đo là chu vi của hình đó. Tính chu vi của hình vuông có cạnh $8$ cm.",
+        "options": [
+          "$32$ cm",
+          "$18$ cm",
+          "$19$ cm",
+          "$16$ cm"
+        ],
+        "correct_index": 0,
+        "explanation": "Hình vuông có cạnh là $8$ cm.\nChu vi hình vuông là: $8 \\times 4 = 32$ (cm).\nCon là một học sinh rất giỏi!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-hinh-vuong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t3-1c",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1.** Nối hình với số đo là chu vi của hình đó. Tính chu vi của hình tứ giác có các cạnh là $3$ cm, $4$ cm, $7$ cm và $5$ cm.",
+        "options": [
+          "$19$ cm",
+          "$32$ cm",
+          "$18$ cm",
+          "$20$ cm"
+        ],
+        "correct_index": 0,
+        "explanation": "Hình tứ giác có các cạnh là $3$ cm, $4$ cm, $7$ cm và $5$ cm.\nChu vi hình tứ giác là tổng độ dài bốn cạnh: $3 + 4 + 7 + 5 = 19$ (cm).\nCon đã giải bài này rất chính xác!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "chu-vi-tu-giac"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t3-2a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2.** Rô-bốt sử dụng một đoạn dây vừa đủ để trang trí viền của bức tranh hình chữ nhật có chiều dài $12$ dm và chiều rộng $80$ cm. Nam đã giải như sau: Độ dài đoạn dây Rô-bốt đã dùng là: $(12 + 80) \\times 2 = 184$ (cm). Theo em, Nam tính đúng hay sai?",
+        "options": [
+          "Sai",
+          "Đúng"
+        ],
+        "correct_index": 0,
+        "explanation": "Nam tính sai rồi!\nTrước khi cộng và nhân, chúng ta cần đổi hai độ dài về cùng một đơn vị đo.\nChiều dài bức tranh là $12$ dm, chiều rộng là $80$ cm. Nam đã cộng $12$ với $80$ mà không đổi đơn vị.\n$12$ dm $= 120$ cm.\nĐộ dài đoạn dây phải là: $(120 + 80) \\times 2 = 200 \\times 2 = 400$ (cm).\nCon rất cẩn thận và phát hiện ra lỗi sai!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "doi-don-vi",
+          "chu-vi-hinh-chu-nhat"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t3-2b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2.** Rô-bốt sử dụng một đoạn dây vừa đủ để trang trí viền của bức tranh hình chữ nhật có chiều dài $12$ dm và chiều rộng $80$ cm. Vậy độ dài đúng của đoạn dây mà Rô-bốt đã dùng là bao nhiêu?",
+        "options": [
+          "$400$ cm",
+          "$184$ cm",
+          "$200$ cm",
+          "$160$ cm"
+        ],
+        "correct_index": 0,
+        "explanation": "Đầu tiên, chúng ta đổi đơn vị để chúng thống nhất:\n$12$ dm $= 120$ cm.\nSau đó, tính chu vi (độ dài đoạn dây) theo công thức chu vi hình chữ nhật:\nĐộ dài đoạn dây Rô-bốt đã dùng là: $(120 + 80) \\times 2 = 200 \\times 2 = 400$ (cm).\nCon rất giỏi khi tự mình tính ra đáp án đúng!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "doi-don-vi",
+          "chu-vi-hinh-chu-nhat"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-50-t3-3",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3.** Cô Hương làm một hàng rào quanh vườn hoa có dạng hình chữ nhật với chiều dài $8$ m và chiều rộng $4$ m. Cô có để lối vào $1$ m (như hình vẽ). Hỏi hàng rào đó dài bao nhiêu mét?",
+        "options": [
+          "$23$ m",
+          "$24$ m",
+          "$12$ m",
+          "$20$ m"
+        ],
+        "correct_index": 0,
+        "explanation": "Đầu tiên, chúng ta tính chu vi của vườn hoa hình chữ nhật:\nChu vi vườn hoa là: $(8 + 4) \\times 2 = 12 \\times 2 = 24$ (m).\nVì cô Hương có để lối vào $1$ m nên độ dài hàng rào sẽ ngắn hơn chu vi $1$ m.\nĐộ dài hàng rào là: $24 - 1 = 23$ (m).\nCon đã giải quyết bài toán ứng dụng rất khéo léo!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-50",
+          "ung-dung-chu-vi",
+          "chu-vi-hinh-chu-nhat"
+        ]
+      }
+    ]
+  }
+]

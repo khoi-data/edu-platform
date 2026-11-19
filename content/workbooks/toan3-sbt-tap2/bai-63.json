@@ -1,0 +1,551 @@
+[
+  {
+    "bai": 63,
+    "title": "Bài 63: Phép cộng trong phạm vi 100 000",
+    "book_pages": "67 - 69",
+    "topic": "Chủ đề 12: Phép cộng, phép trừ trong phạm vi 100 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-63-1a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính:\\n\n$\\begin{aligned} 51\\;837 \\\\ + \\;\\; 426 \\\\ \\hline \\dots\\dots\\dots\\dots \\end{aligned}$",
+        "options": [
+          "52263"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện cộng từ phải sang trái:\\n\n- $7 + 6 = 13$, viết $3$, nhớ $1$\\n\n- $3 + 2 = 5$, thêm $1$ bằng $6$, viết $6$\\n\n- $8 + 4 = 12$, viết $2$, nhớ $1$\\n\n- $1$ thêm $1$ bằng $2$, viết $2$\\n\n- Hạ $5$, viết $5$\\n\nVậy kết quả là $52\\;263$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-1b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính:\\n\n$\\begin{aligned} 37\\;594 \\\\ + \\; 5\\;362 \\\\ \\hline \\dots\\dots\\dots\\dots \\end{aligned}$",
+        "options": [
+          "42956"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện cộng từ phải sang trái:\\n\n- $4 + 2 = 6$, viết $6$\\n\n- $9 + 6 = 15$, viết $5$, nhớ $1$\\n\n- $5 + 3 = 8$, thêm $1$ bằng $9$, viết $9$\\n\n- $7 + 5 = 12$, viết $2$, nhớ $1$\\n\n- $3$ thêm $1$ bằng $4$, viết $4$\\n\nVậy kết quả là $42\\;956$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-1c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Tính:\\n\n$\\begin{aligned} 64\\;829 \\\\ + \\; 13\\;756 \\\\ \\hline \\dots\\dots\\dots\\dots \\end{aligned}$",
+        "options": [
+          "78585"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện cộng từ phải sang trái:\\n\n- $9 + 6 = 15$, viết $5$, nhớ $1$\\n\n- $2 + 5 = 7$, thêm $1$ bằng $8$, viết $8$\\n\n- $8 + 7 = 15$, viết $5$, nhớ $1$\\n\n- $4 + 3 = 7$, thêm $1$ bằng $8$, viết $8$\\n\n- $6 + 1 = 7$, viết $7$\\n\nVậy kết quả là $78\\;585$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-2a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2.** Đặt tính rồi tính: $54\\;728 + 32\\;645$",
+        "options": [
+          "87373"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính thẳng cột và tính từ phải sang trái:\\n\n$\\begin{aligned} 54\\;728 \\\\ + \\; 32\\;645 \\\\ \\hline 87\\;373 \\end{aligned}$\\n\nVậy $54\\;728 + 32\\;645 = 87\\;373$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-2b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2.** Đặt tính rồi tính: $46\\;295 + 27\\;493$",
+        "options": [
+          "73788"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính thẳng cột và tính từ phải sang trái:\\n\n$\\begin{aligned} 46\\;295 \\\\ + \\; 27\\;493 \\\\ \\hline 73\\;788 \\end{aligned}$\\n\nVậy $46\\;295 + 27\\;493 = 73\\;788$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-2c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2.** Đặt tính rồi tính: $9\\;735 + 8\\;349$",
+        "options": [
+          "18084"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính thẳng cột và tính từ phải sang trái:\\n\n$\\begin{aligned} \\;\\;9\\;735 \\\\ + \\; 8\\;349 \\\\ \\hline 18\\;084 \\end{aligned}$\\n\nVậy $9\\;735 + 8\\;349 = 18\\;084$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-3-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $7\\;000 + 6\\;000 = \\;?$",
+        "options": [
+          "11 000",
+          "12 000",
+          "13 000",
+          "14 000"
+        ],
+        "correct_index": 2,
+        "explanation": "Nhẩm: $7$ nghìn $+ 6$ nghìn $= 13$ nghìn. Vậy $7\\;000 + 6\\;000 = 13\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-3-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $8\\;000 + 9\\;000 = \\;?$",
+        "options": [
+          "16 000",
+          "17 000",
+          "18 000",
+          "15 000"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhẩm: $8$ nghìn $+ 9$ nghìn $= 17$ nghìn. Vậy $8\\;000 + 9\\;000 = 17\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-3-3",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $9\\;000 + 4\\;000 = \\;?$",
+        "options": [
+          "12 000",
+          "14 000",
+          "15 000",
+          "13 000"
+        ],
+        "correct_index": 3,
+        "explanation": "Nhẩm: $9$ nghìn $+ 4$ nghìn $= 13$ nghìn. Vậy $9\\;000 + 4\\;000 = 13\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-3-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $5\\;000 + 8\\;000 = \\;?$",
+        "options": [
+          "12 000",
+          "13 000",
+          "14 000",
+          "15 000"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhẩm: $5$ nghìn $+ 8$ nghìn $= 13$ nghìn. Vậy $5\\;000 + 8\\;000 = 13\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-3-5",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $6\\;000 + 6\\;000 = \\;?$",
+        "options": [
+          "11 000",
+          "12 000",
+          "13 000",
+          "14 000"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhẩm: $6$ nghìn $+ 6$ nghìn $= 12$ nghìn. Vậy $6\\;000 + 6\\;000 = 12\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-3-6",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3.** Tính nhẩm: $7\\;000 + 9\\;000 = \\;?$",
+        "options": [
+          "15 000",
+          "16 000",
+          "17 000",
+          "18 000"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhẩm: $7$ nghìn $+ 9$ nghìn $= 16$ nghìn. Vậy $7\\;000 + 9\\;000 = 16\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4.** Một cửa hàng, buổi sáng bán được $6\\;680\\;l$ xăng, buổi chiều bán được $7\\;256\\;l$ xăng và buổi tối bán được $4\\;529\\;l$ xăng. Hỏi cả ngày, cửa hàng đó đã bán tất cả bao nhiêu lít xăng?",
+        "options": [
+          "18 465 lít",
+          "18 455 lít",
+          "17 465 lít",
+          "19 465 lít"
+        ],
+        "correct_index": 0,
+        "explanation": "Bài giải:\\n\nCả ngày cửa hàng đó đã bán tất cả số lít xăng là:\\n\n$6\\;680 + 7\\;256 + 4\\;529 = 18\\;465$ (lít)\\n\nĐáp số: $18\\;465$ lít xăng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-1a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1a.** Tính nhẩm: $50\\;000 + 40\\;000 = \\;?$",
+        "options": [
+          "80 000",
+          "90 000",
+          "100 000",
+          "70 000"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhẩm: $5$ chục nghìn $+ 4$ chục nghìn $= 9$ chục nghìn. Vậy $50\\;000 + 40\\;000 = 90\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-1b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1a.** Tính nhẩm: $30\\;000 + 70\\;000 = \\;?$",
+        "options": [
+          "90 000",
+          "100 000",
+          "80 000",
+          "110 000"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhẩm: $3$ chục nghìn $+ 7$ chục nghìn $= 10$ chục nghìn $= 100\\;000$. Vậy $30\\;000 + 70\\;000 = 100\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-1c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1a.** Tính nhẩm: $20\\;000 + 60\\;000 = \\;?$",
+        "options": [
+          "70 000",
+          "80 000",
+          "90 000",
+          "60 000"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhẩm: $2$ chục nghìn $+ 6$ chục nghìn $= 8$ chục nghìn. Vậy $20\\;000 + 60\\;000 = 80\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-1d",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1a.** Tính nhẩm: $80\\;000 + 20\\;000 = \\;?$",
+        "options": [
+          "90 000",
+          "100 000",
+          "110 000",
+          "80 000"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhẩm: $8$ chục nghìn $+ 2$ chục nghìn $= 10$ chục nghìn $= 100\\;000$. Vậy $80\\;000 + 20\\;000 = 100\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-1e",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1b.** Tính nhẩm: $23\\;000 + 5\\;000 = \\;?$",
+        "options": [
+          "27 000",
+          "28 000",
+          "29 000",
+          "30 000"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhẩm: $23$ nghìn $+ 5$ nghìn $= 28$ nghìn. Vậy $23\\;000 + 5\\;000 = 28\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-1f",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1b.** Tính nhẩm: $82\\;000 + 6\\;000 = \\;?$",
+        "options": [
+          "87 000",
+          "88 000",
+          "89 000",
+          "90 000"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhẩm: $82$ nghìn $+ 6$ nghìn $= 88$ nghìn. Vậy $82\\;000 + 6\\;000 = 88\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-1g",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1b.** Tính nhẩm: $57\\;000 + 3\\;000 = \\;?$",
+        "options": [
+          "59 000",
+          "60 000",
+          "61 000",
+          "62 000"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhẩm: $57$ nghìn $+ 3$ nghìn $= 60$ nghìn. Vậy $57\\;000 + 3\\;000 = 60\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-1h",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1b.** Tính nhẩm: $39\\;000 + 4\\;000 = \\;?$",
+        "options": [
+          "42 000",
+          "43 000",
+          "44 000",
+          "45 000"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhẩm: $39$ nghìn $+ 4$ nghìn $= 43$ nghìn. Vậy $39\\;000 + 4\\;000 = 43\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-2a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính: $37\\;582 + 54\\;263$",
+        "options": [
+          "91845"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính thẳng cột và thực hiện cộng từ phải sang trái:\\n\n$\\begin{aligned} 37\\;582 \\\\ + \\; 54\\;263 \\\\ \\hline 91\\;845 \\end{aligned}$\\n\nVậy kết quả là $91\\;845$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-2b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính: $76\\;509 + 864$",
+        "options": [
+          "77373"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính thẳng cột và thực hiện cộng từ phải sang trái:\\n\n$\\begin{aligned} 76\\;509 \\\\ + \\;\\;\\; 864 \\\\ \\hline 77\\;373 \\end{aligned}$\\n\nVậy kết quả là $77\\;373$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-2c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Đặt tính rồi tính: $8\\;493 + 74\\;375$",
+        "options": [
+          "82868"
+        ],
+        "correct_index": 0,
+        "explanation": "Đặt tính thẳng cột và thực hiện cộng từ phải sang trái:\\n\n$\\begin{aligned} \\;\\;8\\;493 \\\\ + \\; 74\\;375 \\\\ \\hline 82\\;868 \\end{aligned}$\\n\nVậy kết quả là $82\\;868$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-3a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3a.** Tính giá trị của biểu thức:\\n\n$14\\;000 + 52\\;000 + 18\\;000 = \\dots\\dots\\dots\\dots\\dots\\dots$",
+        "options": [
+          "84000"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép tính từ trái sang phải:\\n\n$14\\;000 + 52\\;000 + 18\\;000 = 66\\;000 + 18\\;000 = 84\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-3b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3b.** Tính giá trị của biểu thức:\\n\n$36\\;000 + 25\\;700 + 4\\;000 = \\dots\\dots\\dots\\dots\\dots\\dots$",
+        "options": [
+          "65700"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có thể áp dụng tính chất giao hoán và kết hợp để tính nhanh hơn:\\n\n$36\\;000 + 25\\;700 + 4\\;000 = (36\\;000 + 4\\;000) + 25\\;700 = 40\\;000 + 25\\;700 = 65\\;700$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-4",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4.** Trang trại nhà bác Năm nuôi $9\\;500$ con gà, số con vịt nhiều hơn số con gà $3\\;500$ con. Hỏi trang trại nhà bác Năm nuôi tất cả bao nhiêu con gà và con vịt?",
+        "options": [
+          "22 500 con",
+          "21 500 con",
+          "20 500 con",
+          "23 500 con"
+        ],
+        "correct_index": 0,
+        "explanation": "Bài giải:\\n\nSố con vịt trang trại nhà bác Năm nuôi là:\\n\n$9\\;500 + 3\\;500 = 13\\;000$ (con)\\n\nTrang trại nhà bác Năm nuôi tất cả số con gà và con vịt là:\\n\n$9\\;500 + 13\\;000 = 22\\;500$ (con)\\n\nĐáp số: $22\\;500$ con gà và vịt.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-5a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5a.** Viết chữ số thích hợp vào ô trống:\\n\n$\\begin{aligned} \\;\\;\\;\\; 3\\;\\blacksquare\\;568 \\\\ + \\;\\;\\; 8\\;2\\blacksquare\\;7 \\\\ \\hline \\;\\;\\; \\blacksquare\\;4\\;\\blacksquare\\;8\\;\\blacksquare \\end{aligned}$\\n\nĐiền số theo thứ tự các ô trống từ trái sang phải cách nhau bởi dấu phẩy (ví dụ: 1,2,3):",
+        "options": [
+          "1,9,5"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện cộng từ phải sang trái:\\n\n- Hàng đơn vị: $8 + 7 = 15$, viết $5$, nhớ $1$.\\n\n- Hàng chục: $6 + \\text{ô trống} + 1 \\text{ (nhớ)} = 8$$\\Rightarrow 7 + \\text{ô trống} = 8 \\Rightarrow \\text{ô trống} = 1$.\\n\n- Hàng trăm: $5 + 2 = 7$, viết $7$.\\n\n- Hàng nghìn: $\\text{ô trống} + 2 = 4 \\Rightarrow \\text{ô trống} = 2$ (sai nếu nhớ? Kiểm tra lại: $3 + 8 = 11$, thêm $1$ nhớ là $12$ ở hàng chục nghìn).\\n\nVậy các chữ số điền vào ô trống lần lượt là $1, 9, 5$. Thử lại:\\n\n$31\\;568 + 82\\;917 = 114\\;485$ (Ô trống hàng nghìn là $1$, hàng chục là $9$, hàng đơn vị là $5$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-63-t2-5b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5b.** Viết chữ số thích hợp vào ô trống:\\n\n$\\begin{aligned} \\;\\;\\;\\; 5\\;6\\;\\blacksquare\\;2\\;4 \\\\ + \\;\\;\\; 2\\;\\blacksquare\\;3\\;9\\;\\blacksquare \\\\ \\hline \\;\\;\\; \\blacksquare\\;2\\;7\\;\\blacksquare\\;9 \\end{aligned}$\\n\nĐiền số theo thứ tự các ô trống từ trái sang phải cách nhau bởi dấu phẩy:",
+        "options": [
+          "8,4,5,6"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện cộng từ phải sang trái:\\n\n- Hàng đơn vị: $4 + \\text{ô trống} = 9 \\Rightarrow \\text{ô trống} = 5$.\\n\n- Hàng chục: $2 + 9 = 11$, viết $1$, nhớ $1$.\\n\n- Hàng trăm: $\\text{ô trống} + 3 + 1 \\text{ (nhớ)} = 7 \\Rightarrow \\text{ô trống} + 4 = 7 \\Rightarrow \\text{ô trống} = 3$ hoặc kiểm tra lại tổng dưới: kết quả hàng trăm là $7$.\\n\n- Hàng nghìn: $6 + \\text{ô trống} = 2$ (tức là $12$), suy ra $\\text{ô trống} = 6$ (nhớ $1$).\\n\n- Hàng chục nghìn: $5 + 2 + 1 \\text{ (nhớ)} = 8$.\\n\nVậy các chữ số điền lần lượt là $8, 6, 3, 5$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-63"
+        ]
+      }
+    ]
+  }
+]

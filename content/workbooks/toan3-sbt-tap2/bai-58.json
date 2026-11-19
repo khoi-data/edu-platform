@@ -1,0 +1,559 @@
+[
+  {
+    "bai": 58,
+    "title": "Bài 58: Luyện tập chung",
+    "book_pages": "49 - 53",
+    "topic": "Chủ đề 10: Phép cộng, phép trừ, phép nhân, phép chia trong phạm vi 10 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-58-t1-1-a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Đặt tính rồi tính: $4\\;618 \\times 2$. Kết quả của phép tính này là:",
+        "options": [
+          "$9\\;226$",
+          "$9\\;236$",
+          "$8\\;236$",
+          "$9\\;126$"
+        ],
+        "correct_index": 1,
+        "explanation": "Ta đặt tính và tính từ phải sang trái:\\n- $2 \\times 8 = 16$, viết $6$, nhớ $1$.\\n- $2 \\times 1 = 2$, thêm $1 = 3$, viết $3$.\\n- $2 \\times 6 = 12$, viết $2$, nhớ $1$.\\n- $2 \\times 4 = 8$, thêm $1 = 9$, viết $9$.\\nVậy $4\\;618 \\times 2 = 9\\;236$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "nhan-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t1-1-b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Đặt tính rồi tính: $1\\;702 \\times 5$. Kết quả của phép tính này là:",
+        "options": [
+          "$5\\;510$",
+          "$8\\;510$",
+          "$8\\;500$",
+          "$5\\;010$"
+        ],
+        "correct_index": 1,
+        "explanation": "Ta đặt tính và tính từ phải sang trái:\\n- $5 \\times 2 = 10$, viết $0$, nhớ $1$.\\n- $5 \\times 0 = 0$, thêm $1 = 1$, viết $1$.\\n- $5 \\times 7 = 35$, viết $5$, nhớ $3$.\\n- $5 \\times 1 = 5$, thêm $3 = 8$, viết $8$.\\nVậy $1\\;702 \\times 5 = 8\\;510$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "nhan-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t1-1-c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Đặt tính rồi tính: $4\\;970 : 7$. Kết quả của phép tính này là:",
+        "options": [
+          "$710$",
+          "$701$",
+          "$720$",
+          "$610$"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện chia từ trái sang phải:\\n- $49 : 7 = 7$, viết $7$.\\n- $7 : 7 = 1$, viết $1$.\\n- $0 : 7 = 0$, viết $0$.\\nVậy $4\\;970 : 7 = 710$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "chia-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t1-1-d",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1.** Đặt tính rồi tính: $8\\;192 : 8$. Kết quả của phép tính này là:",
+        "options": [
+          "$1\\;024$",
+          "$1\\;124$",
+          "$1\\;014$",
+          "$1\\;022$"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện chia từ trái sang phải:\\n- $8 : 8 = 1$, viết $1$.\\n- Lấy $1$ chia $8$ được $0$, viết $0$.\\n- $19 : 8 = 2$ (dư $3$), viết $2$.\\n- Hạ $2$ được $32$, $32 : 8 = 4$, viết $4$.\\nVậy $8\\;192 : 8 = 1\\;024$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "chia-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t1-2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2.** Trâu rừng cân nặng $909\\;\\text{kg}$. Voi cân nặng gấp $5$ lần trâu rừng, voi cân nặng gấp $9$ lần gấu trắng. Hỏi gấu trắng cân nặng bao nhiêu ki-lô-gam?\\n\\n**Trả lời:** Gấu trắng cân nặng ........ $\\text{kg}$.",
+        "options": [
+          "$505$"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tính cân nặng của voi:\\n$909 \\times 5 = 4\\;545 \\; (\\text{kg})$.\\nBước 2: Tính cân nặng của gấu trắng (lấy cân nặng của voi chia cho $9$):\\n$4\\;545 : 9 = 505 \\; (\\text{kg})$.\\nVậy gấu trắng cân nặng $505\\;\\text{kg}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "giai-toan-co-lo-van"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t1-3-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Số thích hợp điền vào ô trống là: $\\square \\times 3 = 3\\;156$.\\n\\n**Trả lời:** Số cần điền là ........",
+        "options": [
+          "$1\\;052$"
+        ],
+        "correct_index": 0,
+        "explanation": "Muốn tìm thừa số chưa biết, ta lấy tích chia cho thừa số đã biết:\\n$3\\;156 : 3 = 1\\;052$.\\nVậy số cần điền là $1\\;052$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "tim-thua-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t1-3-b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3b.** Số thích hợp điền vào ô trống là: $\\square : 6 = 704$.\\n\\n**Trả lời:** Số cần điền là ........",
+        "options": [
+          "$4\\;224$"
+        ],
+        "correct_index": 0,
+        "explanation": "Muốn tìm số bị chia, ta lấy thương nhân với số chia:\\n$704 \\times 6 = 4\\;224$.\\nVậy số cần điền là $4\\;224$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "tim-so-bi-chia"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t1-4-a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4a.** Cà cuống có quãng đường bơi ngắn hơn là cà cuống nào?\\nQuan sát hình vẽ: Cà cuống A bơi theo đường gấp khúc gồm $2$ đoạn bằng nhau, mỗi đoạn dài $1\\;246\\;\\text{cm}$. Cà cuống B bơi theo đường gấp khúc gồm $3$ đoạn bằng nhau, mỗi đoạn dài $728\\;\\text{cm}$.",
+        "options": [
+          "Cà cuống A",
+          "Cà cuống B",
+          "Cả hai bơi quãng đường bằng nhau",
+          "Không xác định được"
+        ],
+        "correct_index": 1,
+        "explanation": "- Quãng đường bơi của cà cuống A là: $1\\;246 \\times 2 = 2\\;492\\;(\\text{cm})$.\\n- Quãng đường bơi của cà cuống B là: $728 \\times 3 = 2\\;184\\;(\\text{cm})$.\\nVì $2\\;184\\;\\text{cm} < 2\\;492\\;\\text{cm}$, quãng đường bơi của cà cuống B ngắn hơn.\\nVậy cà cuống có quãng đường bơi ngắn hơn là **cà cuống B**.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "so-sanh-quang-duong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t1-4-b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4b.** Quãng đường bơi của tôm là đường gấp khúc gồm $7$ đoạn dài bằng nhau. Biết quãng đường tôm bơi dài bằng quãng đường bơi của cà cuống A. Mỗi đoạn của đường gấp khúc tôm bơi dài bao nhiêu xăng-ti-mét?\\n\\n**Trả lời:** Mỗi đoạn dài ........ $\\text{cm}$.",
+        "options": [
+          "$356$"
+        ],
+        "correct_index": 0,
+        "explanation": "- Quãng đường bơi của cà cuống A (và cũng là quãng đường tôm bơi) là:\\n$1\\;246 \\times 2 = 2\\;492\\;(\\text{cm})$.\\n- Độ dài mỗi đoạn của đường gấp khúc tôm bơi là:\\n$2\\;492 : 7 = 356\\;(\\text{cm})$.\\nVậy mỗi đoạn dài $356\\;\\text{cm}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "bai-toan-thuc-te"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t1-5-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 5a.** Biết $7$ cục pin như nhau nặng $2\\;135\\;\\text{g}$. Rô-bốt A nặng $2\\;000\\;\\text{g}$. Rô-bốt B nặng $1\\;500\\;\\text{g}$.\\n- Mỗi cục pin cân nặng ........ $\\text{g}$.",
+        "options": [
+          "$305$"
+        ],
+        "correct_index": 0,
+        "explanation": "Cân nặng của một cục pin là:\\n$2\\;135 : 7 = 305\\;(\\text{g})$.\\nVậy mỗi cục pin cân nặng $305\\;\\text{g}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "can-nang"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t1-5-b1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 5b (Rô-bốt A).** Quan sát hình vẽ: Rô-bốt A được lắp thêm $5$ cục pin.\\n- Rô-bốt A cân nặng ........ $\\text{g}$.",
+        "options": [
+          "$3\\;525$"
+        ],
+        "correct_index": 0,
+        "explanation": "- Mỗi cục pin nặng: $2\\;135 : 7 = 305\\;(\\text{g})$.\\n- Tổng khối lượng $5$ cục pin lắp thêm là: $305 \\times 5 = 1\\;525\\;(\\text{g})$.\\n- Tổng cân nặng của rô-bốt A sau khi lắp pin là: $2\\;000 + 1\\;525 = 3\\;525\\;(\\text{g})$.\\nVậy rô-bốt A cân nặng $3\\;525\\;\\text{g}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "can-nang"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t1-5-b2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 5b (Rô-bốt B).** Quan sát hình vẽ: Rô-bốt B được lắp thêm $6$ cục pin.\\n- Rô-bốt B cân nặng ........ $\\text{g}$.",
+        "options": [
+          "$3\\;330$"
+        ],
+        "correct_index": 0,
+        "explanation": "- Mỗi cục pin nặng: $2\\;135 : 7 = 305\\;(\\text{g})$.\\n- Tổng khối lượng $6$ cục pin lắp thêm là: $305 \\times 6 = 1\\;830\\;(\\text{g})$.\\n- Tổng cân nặng của rô-bốt B sau khi lắp pin là: $1\\;500 + 1\\;830 = 3\\;330\\;(\\text{g})$.\\nVậy rô-bốt B cân nặng $3\\;330\\;\\text{g}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "can-nang"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t2-1-a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Đặt tính rồi tính: $2\\;537 : 5$. Kết quả của phép chia này là:",
+        "options": [
+          "$507$ (dư $2$)",
+          "$570$ (dư $2$)",
+          "$507$ (dư $0$)",
+          "$506$ (dư $1$)"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện chia:\\n- $25 : 5 = 5$, viết $5$.\\n- $3 : 5 = 0$, viết $0$ (hạ $7$ thành $37$).\\n- $37 : 5 = 7$ (dư $2$), viết $7$.\\nVậy $2\\;537 : 5 = 507$ (dư $2$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "chia-co-du"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t2-1-b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Đặt tính rồi tính: $3\\;280 : 4$. Kết quả của phép chia này là:",
+        "options": [
+          "$820$",
+          "$802$",
+          "$810$",
+          "$920$"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện chia:\\n- $32 : 4 = 8$, viết $8$.\\n- $8 : 4 = 2$, viết $2$.\\n- $0 : 4 = 0$, viết $0$.\\nVậy $3\\;280 : 4 = 820$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "chia-het"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t2-1-c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Đặt tính rồi tính: $1\\;041 \\times 7$. Kết quả của phép tính này là:",
+        "options": [
+          "$7\\;287$",
+          "$7\\;297$",
+          "$7\\;187$",
+          "$8\\;287$"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta nhân từ phải sang trái:\\n- $7 \\times 1 = 7$, viết $7$.\\n- $7 \\times 4 = 28$, viết $8$, nhớ $2$.\\n- $7 \\times 0 = 0$, thêm $2 = 2$, viết $2$.\\n- $7 \\times 1 = 7$, viết $7$.\\nVậy $1\\;041 \\times 7 = 7\\;287$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "nhan-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t2-1-d",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1.** Đặt tính rồi tính: $3\\;027 \\times 3$. Kết quả của phép tính này là:",
+        "options": [
+          "$9\\;081$",
+          "$9\\;071$",
+          "$9\\;181$",
+          "$9\\;061$"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta nhân từ phải sang trái:\\n- $3 \\times 7 = 21$, viết $1$, nhớ $2$.\\n- $3 \\times 2 = 6$, thêm $2 = 8$, viết $8$.\\n- $3 \\times 0 = 0$, viết $0$.\\n- $3 \\times 3 = 9$, viết $9$.\\nVậy $3\\;027 \\times 3 = 9\\;081$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "nhan-so-co-bon-chu-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t2-2-a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2a.** Ở khu vui chơi, bác Phong muốn gắn các dây đèn dọc theo mỗi cạnh của nóc ngôi nhà dạng khối lập phương. Mỗi cạnh cần gắn một dây đèn dài $480\\;\\text{cm}$.\\na) Bác Phong cần gắn ........ dây đèn.",
+        "options": [
+          "$12$"
+        ],
+        "correct_index": 0,
+        "explanation": "Khối lập phương có $12$ cạnh. Do đó, bác Phong cần gắn tất cả $12$ dây đèn cho các cạnh của nóc nhà và các cạnh xung quanh (hoặc theo đề bài hình khối lập phương có tổng cộng $12$ cạnh).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "hinh-hoc"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t2-2-b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2b.** Tổng độ dài các dây đèn đó là ........ xăng-ti-mét.",
+        "options": [
+          "$5\\;760$"
+        ],
+        "correct_index": 0,
+        "explanation": "Khối lập phương có $12$ cạnh. Tổng độ dài các dây đèn là:\\n$480 \\times 12 = 5\\;760\\;(\\text{cm})$.\\n(Hoặc: $480 \\times 12 = 5\\;760$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "tinh-toan"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t2-3",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Chú ốc sên A chỉ bò theo đường nét liền, chú ốc sên B chỉ bò theo đường nét đứt. Cả hai chú ốc sên đều bò đến chiếc lá ghi kết quả của phép tính trên mình chú ốc sên đó.\\nPhép tính trên mình chú ốc sên B là gì và kết quả tương ứng là bao nhiêu?",
+        "options": [
+          "$7\\;010 : 7 = 1\\;001$ (dư $3$)",
+          "$7\\;010 : 7 = 1\\;001$ (dư $2$)",
+          "$7\\;010 : 7 = 1\\;000$",
+          "$7\\;010 : 7 = 7\\;210$"
+        ],
+        "correct_index": 0,
+        "explanation": "Ốc sên B mang phép tính $7\\;010 : 7$:\\n- $7 : 7 = 1$, viết $1$.\\n- $0 : 7 = 0$, viết $0$.\\n- $1 : 7 = 0$ (dư $1$), hạ $0$ thành $10$.\\n- $10 : 7 = 1$ (dư $3$).\\nVậy $7\\;010 : 7 = 1\\;001$ (dư $3$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "chia-co-du"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t2-4",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4.** Người khổng lồ nào nâng được nhiều ki-lô-gam nhất?\\nQuan sát hình vẽ có $3$ người khổng lồ A, B, C và trọng lượng các vật họ nâng:\\n- A nâng hai con vật nặng $460\\;\\text{kg}$ và $21\\;\\text{kg}$.\\n- B nâng voi và cún con nặng $4\\;300\\;\\text{kg}$ và $21\\;\\text{kg}$.\\n- C nâng một khối trụ nặng $3\\;500\\;\\text{kg}$.\\nChọn chữ cái thích hợp điền vào chỗ chấm: Người khổng lồ ....... nâng được nhiều ki-lô-gam nhất.",
+        "options": [
+          "B",
+          "A",
+          "C",
+          "Không xác định"
+        ],
+        "correct_index": 0,
+        "explanation": "Tính tổng khối lượng mỗi người khổng lồ nâng được:\\n- Người A: $460 + 21 = 481\\;(\\text{kg})$.\\n- Người B: $4\\;300 + 21 = 4\\;321\\;(\\text{kg})$.\\n- Người C: $3\\;500\\;(\\text{kg})$.\\nSo sánh: $481 < 3\\;500 < 4\\;321$.\\nVậy người khổng lồ B nâng được số ki-lô-gam lớn nhất.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "so-sanh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t3-1-a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1a.** Tính giá trị của biểu thức: $(3\\;000 + 618) : 3$. Kết quả là:",
+        "options": [
+          "$1\\;206$",
+          "$1\\;205$",
+          "$1\\;026$",
+          "$1\\;106$"
+        ],
+        "correct_index": 0,
+        "explanation": "Biểu thức có dấu ngoặc, ta tính trong ngoặc trước:\\n- $3\\;000 + 618 = 3\\;618$\\n- $3\\;618 : 3 = 1\\;206$\\nVậy giá trị biểu thức là $1\\;206$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "tinh-gia-tri-bieu-thuc"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t3-1-b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1b.** Tính giá trị của biểu thức: $(1\\;216 + 807) \\times 4$. Kết quả là:",
+        "options": [
+          "$8\\;092$",
+          "$8\\;082$",
+          "$8\\;192$",
+          "$7\\;092$"
+        ],
+        "correct_index": 0,
+        "explanation": "Tính trong ngoặc trước:\\n- $1\\;216 + 807 = 2\\;023$\\n- $2\\;023 \\times 4 = 8\\;092$\\nVậy giá trị biểu thức là $8\\;092$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "tinh-gia-tri-bieu-thuc"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t3-1-c",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1c.** Tính giá trị của biểu thức: $8\\;412 : (3 + 3)$. Kết quả là:",
+        "options": [
+          "$1\\;402$",
+          "$1\\;420$",
+          "$1\\;302$",
+          "$1\\;502$"
+        ],
+        "correct_index": 0,
+        "explanation": "Tính trong ngoặc trước:\\n- $3 + 3 = 6$\\n- $8\\;412 : 6 = 1\\;402$\\nVậy giá trị biểu thức là $1\\;402$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "tinh-gia-tri-bieu-thuc"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t3-1-d",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1d.** Tính giá trị của biểu thức: $913 \\times (10 - 3)$. Kết quả là:",
+        "options": [
+          "$6\\;391$",
+          "$6\\;291$",
+          "$6\\;381$",
+          "$7\\;391$"
+        ],
+        "correct_index": 0,
+        "explanation": "Tính trong ngoặc trước:\\n- $10 - 3 = 7$\\n- $913 \\times 7 = 6\\;391$\\nVậy giá trị biểu thức là $6\\;391$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "tinh-gia-tri-bieu-thuc"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t3-2",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2.** Một chiếc xe chở $7\\;530\\;l$ dầu. Người ta hút xuống một số lít dầu thì số lít dầu còn lại bằng số lít dầu ban đầu giảm đi $5$ lần. Hỏi trên xe còn lại bao nhiêu lít dầu?\\n\\n**Trả lời:** Trên xe còn lại ........ lít dầu.",
+        "options": [
+          "$1\\;506$"
+        ],
+        "correct_index": 0,
+        "explanation": "Số lít dầu còn lại trên xe bằng số lít dầu ban đầu giảm đi $5$ lần, tức là lấy tổng số lít dầu ban đầu chia cho $5$:\\n$7\\;530 : 5 = 1\\;506\\;(l)$.\\nVậy trên xe còn lại $1\\;506$ lít dầu.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "giai-toan-co-lo-van"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t3-3",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3.** Nhà vua cho đắp một đoạn đê dài để ngăn lụt. Đắp $1\\;\\text{m}$ đê cần dùng hết $7$ quan tiền. Nhà vua đã chi hết $3\\;514$ quan tiền.\\nNhà vua đã cho đắp ........ $\\text{m}$ đê.",
+        "options": [
+          "$502$"
+        ],
+        "correct_index": 0,
+        "explanation": "Để tính số mét đê nhà vua đã cho đắp, ta lấy tổng số tiền đã chi chia cho số tiền đắp $1\\;\\text{m}$ đê:\\n$3\\;514 : 7 = 502\\;(\\text{m})$.\\nVậy nhà vua đã cho đắp $502\\;\\text{m}$ đê.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "giai-toan-co-lo-van"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t3-4-a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 4a.** Thời nhà Lý, một cung điện gồm bốn toà nhà vây quanh một cái sân có dạng hình vuông. Người ta lợp ngói ba toà nhà A, B và C, mỗi toà nhà dùng hết $1\\;708$ viên ngói, còn toà nhà D dùng hết $2\\;715$ viên ngói.\\na) Lợp cả cung điện cần ........ viên ngói.",
+        "options": [
+          "$7\\;839$"
+        ],
+        "correct_index": 0,
+        "explanation": "Số viên ngói dùng cho $3$ toà nhà A, B, C là:\\n$1\\;708 \\times 3 = 5\\;124\\;(\\text{viên})$.\\nTổng số viên ngói lợp cả cung điện là:\\n$5\\;124 + 2\\;715 = 7\\;839\\;(\\text{viên})$.\\nVậy lợp cả cung điện cần $7\\;839$ viên ngói.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "bai-toan-thuc-te"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-58-t3-4-b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 4b.** Khi lợp đến nửa toà nhà A thì vừa hết ngói. Để lợp xong toà nhà A thì cần ........ viên ngói nữa.",
+        "options": [
+          "$854$"
+        ],
+        "correct_index": 0,
+        "explanation": "Mỗi toà nhà A, B, C dùng hết $1\\;708$ viên ngói. Lợp đến nửa toà nhà tức là dùng được một nửa số ngói của toà nhà đó:\\n$1\\;708 : 2 = 854\\;(\\text{viên})$.\\nVậy để lợp xong toà nhà A thì cần thêm $854$ viên ngói nữa.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-58",
+          "bai-toan-thuc-te"
+        ]
+      }
+    ]
+  }
+]

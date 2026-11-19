@@ -1,0 +1,540 @@
+[
+  {
+    "bai": 81,
+    "title": "Bài 81: Ôn tập chung",
+    "book_pages": "124 - 128",
+    "topic": "Chủ đề 16: Ôn tập cuối năm",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-81-1-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Viết số và cách đọc số đó vào bảng (dòng thứ hai với các chữ số hàng chục nghìn là $2$, nghìn là $1$, trăm là $6$, chục là $7$, đơn vị là $4$).\n\na) Viết số:",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ghép các chữ số theo thứ tự từ hàng chục nghìn đến hàng đơn vị ta được số $21\\;674$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-1-2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Đọc số ứng với hàng thứ hai ($21\\;674$):",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số $21\\;674$ đọc là: hai mươi mốt nghìn sáu trăm bảy mươi tư.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-1-3",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Điền số viết và cách đọc ở dòng thứ ba (chục nghìn: $6$, nghìn: $0$, trăm: $5$, chục: $1$, đơn vị: $5$).\n\na) Viết số:",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Viết số: $60\\;515$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-1-4",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Đọc số ứng với hàng thứ ba ($60\\;515$):",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số $60\\;515$ đọc là: sáu mươi nghìn năm trăm mười lăm.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-1-5",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Điền số viết và cách đọc ở dòng thứ tư (chục nghìn: trống, nghìn: $8$, trăm: $0$, chục: $9$, đơn vị: $1$).\n\na) Viết số:",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số có nghìn là $8$, trăm là $0$, chục là $9$, đơn vị là $1$ (chục nghìn không có) là số $8\\;091$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-1-6",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Đọc số ứng với hàng thứ tư ($8\\;091$):",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số $8\\;091$ đọc là: tám nghìn không trăm chín mươi mốt.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-1-7",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Điền số viết và cách đọc ở dòng thứ năm (chục nghìn: $1$, nghìn: $9$, trăm: $0$, chục: $0$, đơn vị: $7$).\n\na) Viết số:",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ghép các chữ số ta được số $19\\;007$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-1-8",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Đọc số ứng với hàng thứ năm ($19\\;007$):",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số $19\\;007$ đọc là: mười chín nghìn không trăm lẻ bảy.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2 a).** Cho các số: $32\\;541$; $23\\;514$; $32\\;415$; $25\\;143$. Số lớn nhất trong các số trên là:",
+        "options": [
+          "$32\\;415$",
+          "$32\\;541$",
+          "$25\\;143$",
+          "$23\\;514$"
+        ],
+        "correct_index": 1,
+        "explanation": "So sánh các hàng từ trái sang phải: Các số bắt đầu bằng $3$ là $32\\;541$ và $32\\;415$. So sánh hàng trăm: $5 > 4$ nên $32\\;541$ là số lớn nhất.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2a-min",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2 a).** Cho các số: $32\\;541$; $23\\;514$; $32\\;415$; $25\\;143$. Số bé nhất trong các số trên là:",
+        "options": [
+          "$25\\;143$",
+          "$32\\;415$",
+          "$23\\;514$",
+          "$32\\;541$"
+        ],
+        "correct_index": 2,
+        "explanation": "So sánh các số bắt đầu bằng $2$ là $23\\;514$ và $25\\;143$. So sánh hàng nghìn: $3 < 5$ nên $23\\;514$ là số bé nhất.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2b-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2 b).** Viết các số $32\\;541$; $23\\;514$; $32\\;415$; $25\\;143$ theo thứ tự từ bé đến lớn:",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thứ tự từ bé đến lớn là: $23\\;514$; $25\\;143$; $32\\;415$; $32\\;541$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2b-2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2 b).** Viết các số $32\\;541$; $23\\;514$; $32\\;415$; $25\\;143$ theo thứ tự từ lớn đến bé:",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thứ tự từ lớn đến bé là: $32\\;541$; $32\\;415$; $25\\;143$; $23\\;514$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-3a-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3 a).** Tính: $28\\;094 + 57\\;285 = ?$",
+        "options": [
+          "$85\\;379$",
+          "$85\\;279$",
+          "$84\\;379$",
+          "$85\\;389$"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện cộng theo cột dọc từ phải sang trái:\n$4 + 5 = 9$\n$9 + 8 = 17$, viết $7$ nhớ $1$\n$0 + 2 = 2$, thêm $1 = 3$\n$8 + 7 = 15$, viết $5$ nhớ $1$\n$2 + 5 = 7$, thêm $1 = 8$\nKết quả là $85\\;379$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-3a-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3 a).** Tính: $57\\;285 - 28\\;094 = ?$",
+        "options": [
+          "$29\\;191$",
+          "$29\\;291$",
+          "$28\\;191$",
+          "$29\\;181$"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện trừ theo cột dọc từ phải sang trái:\n$5 - 4 = 1$\n$18 - 9 = 9$ (mượn $1$)\n$1 - 0 = 1$\n$17 - 8 = 9$ (mượn $1$)\n$4 - 2 = 2$\nKết quả là $29\\;191$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-3b-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3 b).** Tính: $26\\;173 \\times 3 = ?$",
+        "options": [
+          "$78\\;519$",
+          "$78\\;419$",
+          "$78\\;529$",
+          "$77\\;519$"
+        ],
+        "correct_index": 0,
+        "explanation": "Nhân lần lượt từ phải sang trái:\n$3 \\times 3 = 9$\n$7 \\times 3 = 21$, viết $1$ nhớ $2$\n$1 \\times 3 = 3$, thêm $2 = 5$\n$6 \\times 3 = 18$, viết $8$ nhớ $1$\n$2 \\times 3 = 6$, thêm $1 = 7$\nKết quả là $78\\;519$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-3b-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3 b).** Tính: $41\\;304 : 8 = ?$",
+        "options": [
+          "$5\\;163$",
+          "$5\\;173$",
+          "$5\\;063$",
+          "$5\\;263$"
+        ],
+        "correct_index": 0,
+        "explanation": "Chia từ trái sang phải:\n$41 : 8 = 5$ dư $1$\nHạ $3$, được $13$; $13 : 8 = 1$ dư $5$\nHạ $0$, được $50$; $50 : 8 = 6$ dư $2$\nHạ $4$, được $24$; $24 : 8 = 3$\nKết quả là $5\\;163$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4.** Một cửa hàng trong một buổi đã bán được $8$ can nước mắm, mỗi can $5\\;l$ và một can $10\\;l$. Hỏi trong buổi đó, cửa hàng đã bán được bao nhiêu lít nước mắm?",
+        "options": [
+          "$50\\;l$",
+          "$40\\;l$",
+          "$45\\;l$",
+          "$55\\;l$"
+        ],
+        "correct_index": 0,
+        "explanation": "Số lít nước mắm trong $8$ can (mỗi can $5\\;l$) là: $8 \\times 5 = 40\\;(l)$.\nTổng số lít nước mắm cửa hàng đã bán là: $40 + 10 = 50\\;(l)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-5a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 5 a).** Tính giá trị biểu thức: $4\\;675 + 3\\;518 - 5\\;946 = ?$ ngang",
+        "options": [
+          "$2\\;247$",
+          "$2\\;147$",
+          "$2\\;347$",
+          "$2\\;257$"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép tính từ trái sang phải:\n$4\\;675 + 3\\;518 = 8\\;193$\n$8\\;193 - 5\\;946 = 2\\;247$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-5b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 5 b).** Tính giá trị biểu thức: $(274 + 518) : 4 = ?$",
+        "options": [
+          "$198$",
+          "$188$",
+          "$208$",
+          "$196$"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép tính trong ngoặc trước:\n$274 + 518 = 792$\nSau đó chia cho $4$:\n$792 : 4 = 198$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-1a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1 a).** Quan sát cân ở hình vẽ (cân túi đường cùng các quả cân $500\\;g$ và $200\\;g$), túi đường cân nặng bao nhiêu gam?",
+        "options": [
+          "$700\\;g$",
+          "$800\\;g$",
+          "$600\\;g$",
+          "$500\\;g$"
+        ],
+        "correct_index": 0,
+        "explanation": "Khối lượng túi đường bằng tổng các quả cân trên đĩa bên kia: $500\\;g + 200\\;g = 700\\;g$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-1b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1 b).** Quan sát cân túi muối cùng các quả cân ($100\\;g$ và $500\\;g$), túi muối cân nặng bao nhiêu gam?",
+        "options": [
+          "$600\\;g$",
+          "$500\\;g$",
+          "$700\\;g$",
+          "$400\\;g$"
+        ],
+        "correct_index": 0,
+        "explanation": "Khối lượng túi muối bằng tổng các quả cân: $100\\;g + 500\\;g = 600\\;g$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-1c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1 c).** Túi đường và túi muối cân nặng tất cả bao nhiêu gam?",
+        "options": [
+          "$1\\;300\\;g$",
+          "$1\\;200\\;g$",
+          "$1\\;400\\;g$",
+          "$1\\;100\\;g$"
+        ],
+        "correct_index": 0,
+        "explanation": "Túi đường nặng $700\\;g$, túi muối nặng $600\\;g$. Cả hai túi nặng: $700 + 600 = 1\\;300\\;(g)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-1d",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1 d).** Túi đường nặng hơn túi muối bao nhiêu gam?",
+        "options": [
+          "$100\\;g$",
+          "$200\\;g$",
+          "$150\\;g$",
+          "$50\\;g$"
+        ],
+        "correct_index": 0,
+        "explanation": "Túi đường nặng $700\\;g$, túi muối nặng $600\\;g$. Túi đường nặng hơn túi muối: $700 - 600 = 100\\;(g)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-2",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2.** Nam đi học từ nhà lúc $7$ giờ $5$ phút và $25$ phút sau thì đến trường. Vậy Nam đến trường lúc mấy giờ?",
+        "options": [
+          "$7$ giờ $30$ phút",
+          "$7$ giờ $25$ phút",
+          "$7$ giờ $35$ phút",
+          "$8$ giờ $00$ phút"
+        ],
+        "correct_index": 0,
+        "explanation": "Thời điểm Nam đến trường là: $7$ giờ $5$ phút $+ 25$ phút $= 7$ giờ $30$ phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-3a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3 a).** Tính giá trị biểu thức: $24\\;728 : 4 \\times 3 = ?$",
+        "options": [
+          "$18\\;546$",
+          "$18\\;446$",
+          "$19\\;546$",
+          "$18\\;646$"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép tính từ trái sang phải:\n$24\\;728 : 4 = 6\\;182$\n$6\\;182 \\times 3 = 18\\;546$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-3b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3 b).** Tính giá trị biểu thức: $305 \\times (812 - 802) = ?$",
+        "options": [
+          "$3\\;050$",
+          "$3\\;000$",
+          "$3\\;500$",
+          "$3\\;150$"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép tính trong ngoặc trước:\n$812 - 802 = 10$\nSau đó nhân với $305$:\n$305 \\times 10 = 3\\;050$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-4a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4 a).** Tính diện tích hình vuông có chu vi $36\\;cm$.",
+        "options": [
+          "$81\\;cm^2$",
+          "$36\\;cm^2$",
+          "$64\\;cm^2$",
+          "$100\\;cm^2$"
+        ],
+        "correct_index": 0,
+        "explanation": "Cạnh hình vuông là: $36 : 4 = 9\\;(cm)$.\nDiện tích hình vuông là: $9 \\times 9 = 81\\;(cm^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-4b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4 b).** Tính chu vi hình chữ nhật có chiều rộng bằng cạnh hình vuông ở câu a ($9\\;cm$) và chiều dài hơn chiều rộng $3\\;cm$.",
+        "options": [
+          "$42\\;cm$",
+          "$36\\;cm$",
+          "$48\\;cm$",
+          "$24\\;cm$"
+        ],
+        "correct_index": 0,
+        "explanation": "Chiều rộng hình chữ nhật là $9\\;cm$.\nChiều dài hình chữ nhật là: $9 + 3 = 12\\;(cm)$.\nChu vi hình chữ nhật là: $(12 + 9) \\times 2 = 42\\;(cm)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-81-2-5",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 5.** Sà lan thứ nhất chở được $1\\;250$ thùng hàng. Sà lan thứ hai chở được gấp đôi số thùng hàng ở sà lan thứ nhất. Hỏi cả hai sà lan chở được bao nhiêu thùng hàng?",
+        "options": [
+          "$3\\;750$ thùng hàng",
+          "$2\\;500$ thùng hàng",
+          "$3\\;500$ thùng hàng",
+          "$4\\;000$ thùng hàng"
+        ],
+        "correct_index": 0,
+        "explanation": "Số thùng hàng sà lan thứ hai chở được là: $1\\;250 \\times 2 = 2\\;500$ (thùng).\nTổng số thùng hàng cả hai sà lan chở được là: $1\\;250 + 2\\;500 = 3\\;750$ (thùng).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-81"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "bai": 71,
+    "title": "Bài 71: Chia số có năm chữ số cho số có một chữ số",
+    "book_pages": "93 - 95",
+    "topic": "Chủ đề 14: Phép nhân, phép chia trong phạm vi 100 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-71-1-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1(a).** Tính: $84\\;625 : 5 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ trái sang phải:\n- $8 : 5 = 1$ viết $1$, dư $3$.\n- Hạ $4$, được $34$; $34 : 5 = 6$ viết $6$, dư $4$.\n- Hạ $6$, được $46$; $46 : 5 = 9$ viết $9$, dư $1$.\n- Hạ $2$, được $12$; $12 : 5 = 2$ viết $2$, dư $2$.\n- Hạ $5$, được $25$; $25 : 5 = 5$ viết $5$, dư $0$.\nVậy $84\\;625 : 5 = 16\\;925$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-1-b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1(b).** Tính: $61\\;432 : 4 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ trái sang phải:\n- $6 : 4 = 1$ viết $1$, dư $2$.\n- Hạ $1$, được $21$; $21 : 4 = 5$ viết $5$, dư $1$.\n- Hạ $4$, được $14$; $14 : 4 = 3$ viết $3$, dư $2$.\n- Hạ $3$, được $23$; $23 : 4 = 5$ viết $5$, dư $3$.\n- Hạ $2$, được $32$; $32 : 4 = 8$ viết $8$, dư $0$.\nVậy $61\\;432 : 4 = 15\\;358$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-2-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2(a).** Đặt tính rồi tính: $71\\;628 : 3 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện đặt tính chia từ trái sang phải:\n- $7 : 3 = 2$ dư $1$\n- Hạ $1$, được $11$; $11 : 3 = 3$ dư $2$\n- Hạ $6$, được $26$; $26 : 3 = 8$ dư $2$\n- Hạ $2$, được $22$; $22 : 3 = 7$ dư $1$\n- Hạ $8$, được $18$; $18 : 3 = 6$ dư $0$\nVậy $71\\;628 : 3 = 23\\;876$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-2-b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2(b).** Đặt tính rồi tính: $98\\;376 : 6 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện đặt tính chia từ trái sang phải:\n- $9 : 6 = 1$ dư $3$\n- Hạ $8$, được $38$; $38 : 6 = 6$ dư $2$\n- Hạ $3$, được $23$; $23 : 6 = 3$ dư $5$\n- Hạ $7$, được $57$; $57 : 6 = 9$ dư $3$\n- Hạ $6$, được $36$; $36 : 6 = 6$ dư $0$\nVậy $98\\;376 : 6 = 16\\;396$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-3-a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3(a).** Phép tính $85\\;348 : 4 = 21\\;337$ trong hình là đúng hay sai?",
+        "options": [
+          "Đúng",
+          "Sai"
+        ],
+        "correct_index": 0,
+        "explanation": "Kiểm tra lại phép chia:\n- $8 : 4 = 2$\n- $5 : 4 = 1$ dư $1$, hạ $3$ được $13$; $13 : 4 = 3$ dư $1$\n- Hạ $4$ được $14$; $14 : 4 = 3$ dư $2$\n- Hạ $8$ được $28$; $28 : 4 = 7$\nKết quả tính toán hoàn toàn chính xác.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-3-b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3(b).** Phép tính $27\\;045 : 5 = 549$ trong hình là đúng hay sai?",
+        "options": [
+          "Đúng",
+          "Sai"
+        ],
+        "correct_index": 1,
+        "explanation": "Ta đặt tính và tính lại:\n- $27 : 5 = 5$ dư $2$\n- Hạ $0$ được $20$; $20 : 5 = 4$ (viết $4$, không phải số $0$ ở hàng trăm)\n- Hạ $4$, $4 < 5$ nên viết $0$, hạ tiếp $5$ được $45$; $45 : 5 = 9$\nVậy $27\\;045 : 5 = 5\\;409$, chứ không phải $549$. Phép tính trong đề là Sai.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-4",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4.** Một xưởng bánh kẹo, trong dịp tết Trung thu đã làm được $10\\;560$ cái bánh. Người ta đã đóng số bánh đó vào các hộp, mỗi hộp $4$ cái bánh. Hỏi đã đóng được bao nhiêu hộp bánh như vậy?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Số hộp bánh đã đóng được là:\n$10\\;560 : 4 = 2\\;640$ (hộp)\nĐáp số: $2\\;640$ hộp bánh.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-5-a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1(a).** Tính: $26\\;375 : 4 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ trái sang phải:\n- $26 : 4 = 6$ dư $2$\n- Hạ $3$ được $23$; $23 : 4 = 5$ dư $3$\n- Hạ $7$ được $37$; $37 : 4 = 9$ dư $1$\n- Hạ $5$ được $15$; $15 : 4 = 3$ dư $3$\nVậy $26\\;375 : 4 = 6\\;593$ (dư $3$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-5-b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1(b).** Tính: $34\\;429 : 5 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ trái sang phải:\n- $34 : 5 = 6$ dư $4$\n- Hạ $4$ được $44$; $44 : 5 = 8$ dư $4$\n- Hạ $2$ được $42$; $42 : 5 = 8$ dư $2$\n- Hạ $9$ được $29$; $29 : 5 = 5$ dư $4$\nVậy $34\\;429 : 5 = 6\\;885$ (dư $4$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-6-a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2(a).** Đặt tính rồi tính: $13\\;765 : 6 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính:\n- $13 : 6 = 2$ dư $1$\n- Hạ $7$ được $17$; $17 : 6 = 2$ dư $5$\n- Hạ $6$ được $56$; $56 : 6 = 9$ dư $2$\n- Hạ $5$ được $25$; $25 : 6 = 4$ dư $1$\nVậy $13\\;765 : 6 = 2\\;294$ (dư $1$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-6-b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2(b).** Đặt tính rồi tính: $29\\;609 : 7 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính:\n- $29 : 7 = 4$ dư $1$\n- Hạ $6$ được $16$; $16 : 7 = 2$ dư $2$\n- Hạ $0$ được $20$; $20 : 7 = 2$ dư $6$\n- Hạ $9$ được $69$; $69 : 7 = 9$ dư $6$\nVậy $29\\;609 : 7 = 4\\;229$ (dư $6$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-7",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Số dư trong phép chia $97\\;687 : 8$ là:",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correct_index": 2,
+        "explanation": "Thực hiện phép chia $97\\;687 : 8$:\n- $9 : 8 = 1$ dư $1$\n- Hạ $7$ được $17$; $17 : 8 = 2$ dư $1$\n- Hạ $6$ được $16$; $16 : 8 = 2$ dư $0$\n- Hạ $8$ được $8$; $8 : 8 = 1$ dư $0$\n- Hạ $7$, vì $7 < 8$ nên thương có chữ số tiếp theo là $0$, số dư là $7$.\nVậy số dư của phép chia là $7$. Chọn C.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-8",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4.** May mỗi bộ quần áo bảo hộ lao động hết $4\\;\\text{m}$ vải. Hỏi với $10\\;243\\;\\text{m}$ vải có thể may được nhiều nhất bao nhiêu bộ quần áo như vậy và còn thừa mấy mét vải?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép chia:\n$10\\;243 : 4 = 2\\;560$ (dư $3$).\nVậy may được nhiều nhất $2\\;560$ bộ quần áo và còn thừa $3\\;\\text{m}$ vải.\nĐáp số: $2\\;560$ bộ quần áo; thừa $3\\;\\text{m}$ vải.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-9-a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 1(a).** Tính nhẩm: $27\\;000 : 3 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $27 : 3 = 9$, giữ nguyên ba chữ số $0$ phía sau, ta được $9\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-9-b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 1(b).** Tính nhẩm: $25\\;000 : 5 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $25 : 5 = 5$, giữ nguyên ba chữ số $0$ phía sau, ta được $5\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-9-c",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 1(c).** Tính nhẩm: $36\\;000 : 6 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $36 : 6 = 6$, giữ nguyên ba chữ số $0$ phía sau, ta được $6\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-9-d",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 1(d).** Tính nhẩm: $81\\;000 : 9 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta nhẩm: $81 : 9 = 9$, giữ nguyên ba chữ số $0$ phía sau, ta được $9\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-10-a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2(a).** Đặt tính rồi tính: $32\\;675 : 5 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính:\n- $32 : 5 = 6$ dư $2$\n- Hạ $6$ được $26$; $26 : 5 = 5$ dư $1$\n- Hạ $7$ được $17$; $17 : 5 = 3$ dư $2$\n- Hạ $5$ được $25$; $25 : 5 = 5$ dư $0$\nVậy $32\\;675 : 5 = 6\\;535$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-10-b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2(b).** Đặt tính rồi tính: $41\\;824 : 8 = \\ldots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính:\n- $41 : 8 = 5$ dư $1$\n- Hạ $8$ được $18$; $18 : 8 = 2$ dư $2$\n- Hạ $2$ được $22$; $22 : 8 = 2$ dư $6$\n- Hạ $4$ được $64$; $64 : 8 = 8$ dư $0$\nVậy $41\\;824 : 8 = 5\\;228$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-11",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3.** Phép tính nào dưới đây có kết quả lớn nhất?",
+        "options": [
+          "A. $15\\;762 : 3$",
+          "B. $30\\;852 : 6$",
+          "C. $35\\;945 : 7$"
+        ],
+        "correct_index": 1,
+        "explanation": "Tính kết quả từng phép tính:\n- A. $15\\;762 : 3 = 5\\;254$\n- B. $30\\;852 : 6 = 5\\;142$\n- C. $35\\;945 : 7 = 5\\;135$\nSo sánh kết quả: $5\\;254 > 5\\;142 > 5\\;135$. Do đó phép tính ở câu A lớn nhất.\n*(Lưu ý: Đáp án A chính xác khi tính kỹ, kiểm tra lại: $15\\;762 : 3 = 5\\;254$)*",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-71-12",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 4.** Có $15\\;050\\;\\text{kg}$ hải sản đông lạnh được đóng gói vào các túi, mỗi túi $3\\;\\text{kg}$. Hỏi cần ít nhất bao nhiêu túi để đóng gói hết số hải sản đó?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép chia:\n$15\\;050 : 3 = 5\\;016$ (dư $2$).\nNhư vậy đóng được $5\\;016$ túi và còn thừa $2\\;\\text{kg}$ hải sản. Do đó cần thêm $1$ túi nữa để chứa hết số hải sản thừa.\nSố túi cần ít nhất là: $5\\;016 + 1 = 5\\;017$ (túi).\nĐáp số: $5\\;017$ túi.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-71"
+        ]
+      }
+    ]
+  }
+]

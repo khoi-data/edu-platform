@@ -1,0 +1,484 @@
+[
+  {
+    "bai": 46,
+    "title": "Bài 46: So sánh các số trong phạm vi 10 000",
+    "book_pages": "7 - 9",
+    "topic": "Chủ đề 8: Các số đến 10 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-46-1-1a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1a.** Điền dấu thích hợp vào chỗ trống: $2\\;194 \\ldots 395$",
+        "correct_answer": "$>$",
+        "explanation": "Để so sánh hai số $2\\;194$ và $395$: \n\nSố $2\\;194$ có 4 chữ số.\nSố $395$ có 3 chữ số.\n\nVì số có nhiều chữ số hơn thì lớn hơn, nên $2\\;194 > 395$.\n\nVậy, dấu cần điền là $'$.\n\nBạn giỏi lắm!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-1-1b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1b.** Điền dấu thích hợp vào chỗ trống: $4\\;198 \\ldots 4\\;200$",
+        "correct_answer": "$<$",
+        "explanation": "Để so sánh hai số $4\\;198$ và $4\\;200$: \n\nCả hai số đều có 4 chữ số. Ta sẽ so sánh từng cặp chữ số từ hàng lớn nhất (hàng nghìn) sang hàng bé hơn.\n\n- Chữ số hàng nghìn: Đều là $4$.\n- Chữ số hàng trăm: Của $4\\;198$ là $1$, của $4\\;200$ là $2$. \n\nVì $1 < 2$, nên $4\\;198 < 4\\;200$.\n\nVậy, dấu cần điền là $<$.\n\nBạn thật xuất sắc!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-1-1c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1c.** Điền dấu thích hợp vào chỗ trống: $5\\;100 \\ldots 5\\;099$",
+        "correct_answer": "$>$",
+        "explanation": "Để so sánh hai số $5\\;100$ và $5\\;099$: \n\nCả hai số đều có 4 chữ số. Ta sẽ so sánh từng cặp chữ số từ hàng lớn nhất (hàng nghìn) sang hàng bé hơn.\n\n- Chữ số hàng nghìn: Đều là $5$.\n- Chữ số hàng trăm: Của $5\\;100$ là $1$, của $5\\;099$ là $0$.\n\nVì $1 > 0$, nên $5\\;100 > 5\\;099$.\n\nVậy, dấu cần điền là $'$.\n\nBạn đã làm rất tốt!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-1-1d",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1d.** Điền dấu thích hợp vào chỗ trống: $7\\;000 \\ldots 7\\;010$",
+        "correct_answer": "$<$",
+        "explanation": "Để so sánh hai số $7\\;000$ và $7\\;010$: \n\nCả hai số đều có 4 chữ số. Ta sẽ so sánh từng cặp chữ số từ hàng lớn nhất (hàng nghìn) sang hàng bé hơn.\n\n- Chữ số hàng nghìn: Đều là $7$.\n- Chữ số hàng trăm: Đều là $0$.\n- Chữ số hàng chục: Của $7\\;000$ là $0$, của $7\\;010$ là $1$.\n\nVì $0 < 1$, nên $7\\;000 < 7\\;010$.\n\nVậy, dấu cần điền là $<$.\n\nTuyệt vời!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-1-1e",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1e.** Điền dấu thích hợp vào chỗ trống: $899 \\ldots 1\\;000$",
+        "correct_answer": "$<$",
+        "explanation": "Để so sánh hai số $899$ và $1\\;000$: \n\nSố $899$ có 3 chữ số.\nSố $1\\;000$ có 4 chữ số.\n\nVì số có ít chữ số hơn thì bé hơn, nên $899 < 1\\;000$.\n\nVậy, dấu cần điền là $<$.\n\nBạn rất thông minh!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-1-1g",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1g.** Điền dấu thích hợp vào chỗ trống: $3\\;257 \\ldots 3\\;000 + 200 + 50 + 7$",
+        "correct_answer": "$=$",
+        "explanation": "Để điền dấu thích hợp, trước tiên ta tính giá trị của biểu thức ở vế phải:\n\n$3\\;000 + 200 + 50 + 7 = 3\\;257$\n\nBây giờ ta so sánh $3\\;257$ với $3\\;257$. \n\nHai số này bằng nhau.\n\nVậy, dấu cần điền là $=$.\n\nChúc mừng bạn!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-1-2a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2a.** Viết số thích hợp vào chỗ chấm.\nTừ các số $3\\;198$, $3\\;891$, $3\\;819$, cửa hàng ghi số bé nhất đưa kiến đến chỗ \\ldots",
+        "correct_answer": "$3\\;198$",
+        "explanation": "Để tìm số bé nhất trong các số $3\\;198$, $3\\;891$, $3\\;819$, ta so sánh các chữ số từ trái sang phải (từ hàng nghìn đến hàng đơn vị).\n\n-   **So sánh hàng nghìn**: Cả ba số đều có chữ số hàng nghìn là $3$.\n-   **So sánh hàng trăm**: \n    *   Số $3\\;198$ có chữ số hàng trăm là $1$.\n    *   Số $3\\;891$ có chữ số hàng trăm là $8$.\n    *   Số $3\\;819$ có chữ số hàng trăm là $8$.\n\nVì $1$ là chữ số hàng trăm bé nhất ($1 < 8$), nên số $3\\;198$ là số bé nhất trong ba số đã cho.\n\nVậy, cửa hàng ghi số bé nhất là $3\\;198$. Bạn thật cẩn thận!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so",
+          "sap-xep-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-1-2b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2b.** Viết số thích hợp vào chỗ chấm.\nTừ các số $3\\;198$, $3\\;891$, $3\\;819$, cửa hàng ghi số lớn nhất đưa kiến đến chỗ \\ldots",
+        "correct_answer": "$3\\;891$",
+        "explanation": "Để tìm số lớn nhất trong các số $3\\;198$, $3\\;891$, $3\\;819$, ta so sánh các chữ số từ trái sang phải (từ hàng nghìn đến hàng đơn vị).\n\n-   **So sánh hàng nghìn**: Cả ba số đều có chữ số hàng nghìn là $3$.\n-   **So sánh hàng trăm**: \n    *   Số $3\\;198$ có chữ số hàng trăm là $1$.\n    *   Số $3\\;891$ có chữ số hàng trăm là $8$.\n    *   Số $3\\;819$ có chữ số hàng trăm là $8$.\n\nVì $1 < 8$, nên số $3\\;198$ là số bé nhất. Bây giờ, ta cần so sánh hai số còn lại là $3\\;891$ và $3\\;819$ để tìm số lớn nhất.\n\n-   **So sánh hàng chục** (của $3\\;891$ và $3\\;819$):\n    *   Số $3\\;891$ có chữ số hàng chục là $9$.\n    *   Số $3\\;819$ có chữ số hàng chục là $1$.\n\nVì $9 > 1$, nên $3\\;891 > 3\\;819$. \n\nVậy, số $3\\;891$ là số lớn nhất.\n\nBạn thật giỏi giang!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so",
+          "sap-xep-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-1-3a-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Các đồ vật được cho với cân nặng như sau: Đường: $1\\;000$ g; Sữa bột: $980$ g; Dầu ăn: $1\\;890$ g; Nồi: $1\\;200$ g.\nTrong các đồ vật trên, đồ vật nặng nhất là \\ldots",
+        "correct_answer": "Dầu ăn",
+        "explanation": "Để tìm đồ vật nặng nhất, ta cần so sánh cân nặng của chúng:\n$1\\;000$ g (Đường), $980$ g (Sữa bột), $1\\;890$ g (Dầu ăn), $1\\;200$ g (Nồi).\n\n1.  **Số chữ số**: Số $980$ (Sữa bột) có 3 chữ số, các số còn lại có 4 chữ số. Vậy $980$ là số bé nhất.\n2.  **So sánh các số có 4 chữ số**: $1\\;000$, $1\\;890$, $1\\;200$.\n    *   Chữ số hàng nghìn: Đều là $1$.\n    *   Chữ số hàng trăm: \n        *   $1\\;000$ có $0$ trăm.\n        *   $1\\;890$ có $8$ trăm.\n        *   $1\\;200$ có $2$ trăm.\n    *   Vì $8$ là chữ số hàng trăm lớn nhất ($8 > 2 > 0$), nên $1\\;890$ là số lớn nhất.\n\nVậy, đồ vật nặng nhất là Dầu ăn ($1\\;890$ g). Bạn đã làm rất tốt!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so",
+          "sap-xep-khoi-luong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-1-3a-2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Các đồ vật được cho với cân nặng như sau: Đường: $1\\;000$ g; Sữa bột: $980$ g; Dầu ăn: $1\\;890$ g; Nồi: $1\\;200$ g.\nTrong các đồ vật trên, đồ vật nhẹ nhất là \\ldots",
+        "correct_answer": "Sữa bột",
+        "explanation": "Để tìm đồ vật nhẹ nhất, ta cần so sánh cân nặng của chúng:\n$1\\;000$ g (Đường), $980$ g (Sữa bột), $1\\;890$ g (Dầu ăn), $1\\;200$ g (Nồi).\n\n1.  **Số chữ số**: Số $980$ (Sữa bột) có 3 chữ số. Các số còn lại ($1\\;000$, $1\\;890$, $1\\;200$) có 4 chữ số.\n\nVì số có ít chữ số hơn thì bé hơn, nên $980$ là số bé nhất.\n\nVậy, đồ vật nhẹ nhất là Sữa bột ($980$ g). Bạn đã làm rất tốt!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so",
+          "sap-xep-khoi-luong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-1-3b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3b.** Các đồ vật được cho với cân nặng như sau: Đường: $1\\;000$ g; Sữa bột: $980$ g; Dầu ăn: $1\\;890$ g; Nồi: $1\\;200$ g.\nTên các đồ vật theo thứ tự từ nhẹ nhất đến nặng nhất là \\ldots",
+        "correct_answer": "Sữa bột, Đường, Nồi, Dầu ăn",
+        "explanation": "Các cân nặng của đồ vật là: $1\\;000$ g (Đường), $980$ g (Sữa bột), $1\\;890$ g (Dầu ăn), $1\\;200$ g (Nồi).\n\nĐể sắp xếp các đồ vật theo thứ tự từ nhẹ nhất đến nặng nhất, ta cần sắp xếp các số đo cân nặng từ bé đến lớn:\n\n1.  Số $980$ có 3 chữ số, là số bé nhất.\n2.  Các số còn lại ($1\\;000$, $1\\;890$, $1\\;200$) đều có 4 chữ số và chữ số hàng nghìn là $1$. Ta so sánh chữ số hàng trăm:\n    *   $1\\;000$ có $0$ trăm.\n    *   $1\\;200$ có $2$ trăm.\n    *   $1\\;890$ có $8$ trăm.\n\nVậy, thứ tự các số từ bé đến lớn là: $980 < 1\\;000 < 1\\;200 < 1\\;890$.\n\nTương ứng với các đồ vật là: Sữa bột, Đường, Nồi, Dầu ăn.\n\nBạn đã làm rất chính xác!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so",
+          "sap-xep-khoi-luong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-1-4a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4a.** Viết tiếp vào chỗ chấm cho thích hợp.\nTừ các tấm thẻ ghi số $5, 9, 0, 4$ lập được số có bốn chữ số lớn nhất là \\ldots",
+        "correct_answer": "$9\\;540$",
+        "explanation": "Để lập số có bốn chữ số lớn nhất từ các tấm thẻ $5, 9, 0, 4$, ta xếp các chữ số theo thứ tự giảm dần từ hàng nghìn đến hàng đơn vị:\n\n1.  **Hàng nghìn**: Chọn chữ số lớn nhất là $9$.\n2.  **Hàng trăm**: Chọn chữ số lớn nhất trong các chữ số còn lại ($5, 0, 4$) là $5$.\n3.  **Hàng chục**: Chọn chữ số lớn nhất trong các chữ số còn lại ($0, 4$) là $4$.\n4.  **Hàng đơn vị**: Chữ số còn lại là $0$.\n\nVậy, số có bốn chữ số lớn nhất lập được là $9\\;540$. Bạn thật tuyệt vời!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "lap-so",
+          "so-lon-nhat"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-1-4b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4b.** Viết tiếp vào chỗ chấm cho thích hợp.\nTừ các tấm thẻ ghi số $5, 9, 0, 4$ lập được số có bốn chữ số bé nhất là \\ldots",
+        "correct_answer": "$4\\;059$",
+        "explanation": "Để lập số có bốn chữ số bé nhất từ các tấm thẻ $5, 9, 0, 4$, ta xếp các chữ số theo thứ tự tăng dần từ hàng nghìn đến hàng đơn vị, nhưng lưu ý chữ số hàng nghìn không thể là $0$:\n\n1.  **Hàng nghìn**: Chọn chữ số bé nhất khác $0$ là $4$.\n2.  **Hàng trăm**: Chọn chữ số bé nhất trong các chữ số còn lại ($5, 9, 0$) là $0$.\n3.  **Hàng chục**: Chọn chữ số bé nhất trong các chữ số còn lại ($5, 9$) là $5$.\n4.  **Hàng đơn vị**: Chữ số còn lại là $9$.\n\nVậy, số có bốn chữ số bé nhất lập được là $4\\;059$. Bạn đã hoàn thành xuất sắc!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "lap-so",
+          "so-be-nhat"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-1a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1a.** Chọn dấu thích hợp để điền vào chỗ trống: $8\\;500 \\ldots 7\\;989$",
+        "options": [
+          "$>$",
+          "$<$",
+          "$=$",
+          "Không xác định"
+        ],
+        "correct_index": 0,
+        "explanation": "Để so sánh hai số $8\\;500$ và $7\\;989$: \n\nTa so sánh chữ số hàng nghìn của hai số:\n- Chữ số hàng nghìn của $8\\;500$ là $8$.\n- Chữ số hàng nghìn của $7\\;989$ là $7$.\n\nVì $8 > 7$, nên $8\\;500 > 7\\;989$.\n\nVậy, dấu cần điền là $'$.\n\nBạn thật giỏi!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-1b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1b.** Chọn dấu thích hợp để điền vào chỗ trống: $2\\;400 \\ldots 2\\;000 + 400$",
+        "options": [
+          "$>$",
+          "$<$",
+          "$=$",
+          "Không xác định"
+        ],
+        "correct_index": 2,
+        "explanation": "Trước hết, ta tính tổng ở vế phải của phép so sánh:\n$2\\;000 + 400 = 2\\;400$\n\nBây giờ ta so sánh $2\\;400$ với $2\\;400$.\n\nVì hai số này bằng nhau, nên $2\\;400 = 2\\;000 + 400$.\n\nVậy, dấu cần điền là $=$.\n\nBạn đã làm rất tốt!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so",
+          "phep-cong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-1c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1c.** Chọn dấu thích hợp để điền vào chỗ trống: $3\\;870 \\ldots 3\\;780$",
+        "options": [
+          "$>$",
+          "$<$",
+          "$=$",
+          "Không xác định"
+        ],
+        "correct_index": 0,
+        "explanation": "Để so sánh hai số $3\\;870$ và $3\\;780$: \n\nCả hai số đều có 4 chữ số. Ta sẽ so sánh từng cặp chữ số từ hàng lớn nhất (hàng nghìn) sang hàng bé hơn.\n\n- Chữ số hàng nghìn: Đều là $3$.\n- Chữ số hàng trăm: Của $3\\;870$ là $8$, của $3\\;780$ là $7$.\n\nVì $8 > 7$, nên $3\\;870 > 3\\;780$.\n\nVậy, dấu cần điền là $'$.\n\nTuyệt vời!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-1d",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1d.** Chọn dấu thích hợp để điền vào chỗ trống: $4\\;020 \\ldots 4\\;000 + 20$",
+        "options": [
+          "$>$",
+          "$<$",
+          "$=$",
+          "Không xác định"
+        ],
+        "correct_index": 2,
+        "explanation": "Trước hết, ta tính tổng ở vế phải của phép so sánh:\n$4\\;000 + 20 = 4\\;020$\n\nBây giờ ta so sánh $4\\;020$ với $4\\;020$.\n\nVì hai số này bằng nhau, nên $4\\;020 = 4\\;000 + 20$.\n\nVậy, dấu cần điền là $=$.\n\nChúc mừng bạn đã hoàn thành câu này!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so",
+          "phep-cong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-1e",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1e.** Chọn dấu thích hợp để điền vào chỗ trống: $2\\;187 \\ldots 1\\;872$",
+        "options": [
+          "$>$",
+          "$<$",
+          "$=$",
+          "Không xác định"
+        ],
+        "correct_index": 0,
+        "explanation": "Để so sánh hai số $2\\;187$ và $1\\;872$: \n\nTa so sánh chữ số hàng nghìn của hai số:\n- Chữ số hàng nghìn của $2\\;187$ là $2$.\n- Chữ số hàng nghìn của $1\\;872$ là $1$.\n\nVì $2 > 1$, nên $2\\;187 > 1\\;872$.\n\nVậy, dấu cần điền là $'$.\n\nBạn thật thông minh!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-1g",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1g.** Chọn dấu thích hợp để điền vào chỗ trống: $700 + 8 \\ldots 7\\;008$",
+        "options": [
+          "$>$",
+          "$<$",
+          "$=$",
+          "Không xác định"
+        ],
+        "correct_index": 1,
+        "explanation": "Trước hết, ta tính tổng ở vế trái của phép so sánh:\n$700 + 8 = 708$\n\nBây giờ ta so sánh $708$ với $7\\;008$.\n\n- Số $708$ có 3 chữ số.\n- Số $7\\;008$ có 4 chữ số.\n\nVì số có ít chữ số hơn thì bé hơn, nên $708 < 7\\;008$.\n\nVậy, dấu cần điền là $<$.\n\nBạn đã làm rất cẩn thận!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so",
+          "phep-cong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-1h",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1h.** Chọn dấu thích hợp để điền vào chỗ trống: $7\\;645 \\ldots 7\\;654$",
+        "options": [
+          "$>$",
+          "$<$",
+          "$=$",
+          "Không xác định"
+        ],
+        "correct_index": 1,
+        "explanation": "Để so sánh hai số $7\\;645$ và $7\\;654$: \n\nCả hai số đều có 4 chữ số. Ta sẽ so sánh từng cặp chữ số từ hàng lớn nhất (hàng nghìn) sang hàng bé hơn.\n\n- Chữ số hàng nghìn: Đều là $7$.\n- Chữ số hàng trăm: Đều là $6$.\n- Chữ số hàng chục: Của $7\\;645$ là $4$, của $7\\;654$ là $5$.\n\nVì $4 < 5$, nên $7\\;645 < 7\\;654$.\n\nVậy, dấu cần điền là $<$.\n\nBạn đã giải quyết rất chính xác!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-1k",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1k.** Chọn dấu thích hợp để điền vào chỗ trống: $3\\;451 \\ldots 3\\;000 + 400 + 50 + 1$",
+        "options": [
+          "$>$",
+          "$<$",
+          "$=$",
+          "Không xác định"
+        ],
+        "correct_index": 2,
+        "explanation": "Trước hết, ta tính tổng ở vế phải của phép so sánh:\n$3\\;000 + 400 + 50 + 1 = 3\\;451$\n\nBây giờ ta so sánh $3\\;451$ với $3\\;451$.\n\nVì hai số này bằng nhau, nên $3\\;451 = 3\\;000 + 400 + 50 + 1$.\n\nVậy, dấu cần điền là $=$.\n\nBạn đã làm rất tuyệt vời!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so",
+          "phep-cong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-2a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Mai có bốn cuốn sách. Trên bìa sau của mỗi cuốn sách có ghi một trong các số: $3\\;001$, $2\\;999$, $2\\;998$, $3\\;000$. Mai cần xếp các cuốn sách đó lên giá sách theo thứ tự từ cuốn sách ghi số bé nhất đến cuốn sách ghi số lớn nhất.\nVậy cuốn sách đầu tiên được xếp lên giá sách là cuốn sách ghi số \\ldots",
+        "correct_answer": "$2\\;998$",
+        "explanation": "Các số ghi trên bìa sách là: $3\\;001$, $2\\;999$, $2\\;998$, $3\\;000$.\n\nĐể tìm cuốn sách đầu tiên (ghi số bé nhất), ta so sánh các số:\n\n1.  **So sánh chữ số hàng nghìn**: \n    *   Số $2\\;999$ và $2\\;998$ có chữ số hàng nghìn là $2$.\n    *   Số $3\\;001$ và $3\\;000$ có chữ số hàng nghìn là $3$.\n    *   Vì $2 < 3$, nên các số bắt đầu bằng $2$ sẽ bé hơn các số bắt đầu bằng $3$. \n\n2.  **So sánh hai số bắt đầu bằng $2$**: $2\\;999$ và $2\\;998$.\n    *   Chữ số hàng nghìn và hàng trăm, hàng chục đều giống nhau ($299$).\n    *   Chữ số hàng đơn vị: Của $2\\;999$ là $9$, của $2\\;998$ là $8$.\n    *   Vì $8 < 9$, nên $2\\;998 < 2\\;999$.\n\nVậy, số bé nhất là $2\\;998$. Cuốn sách đầu tiên được xếp lên giá sách là cuốn sách ghi số $2\\;998$.\n\nBạn thật giỏi!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "sap-xep-so",
+          "so-be-nhat"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-2b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Mai có bốn cuốn sách. Trên bìa sau của mỗi cuốn sách có ghi một trong các số: $3\\;001$, $2\\;999$, $2\\;998$, $3\\;000$. Mai cần xếp các cuốn sách đó lên giá sách theo thứ tự từ cuốn sách ghi số bé nhất đến cuốn sách ghi số lớn nhất.\nVậy cuốn sách cuối cùng được xếp lên giá sách là cuốn sách ghi số \\ldots",
+        "correct_answer": "$3\\;001$",
+        "explanation": "Các số ghi trên bìa sách là: $3\\;001$, $2\\;999$, $2\\;998$, $3\\;000$.\n\nĐể tìm cuốn sách cuối cùng (ghi số lớn nhất), ta so sánh các số:\n\n1.  **So sánh chữ số hàng nghìn**: \n    *   Số $2\\;999$ và $2\\;998$ có chữ số hàng nghìn là $2$.\n    *   Số $3\\;001$ và $3\\;000$ có chữ số hàng nghìn là $3$.\n    *   Vì $3 > 2$, nên các số bắt đầu bằng $3$ sẽ lớn hơn các số bắt đầu bằng $2$. \n\n2.  **So sánh hai số bắt đầu bằng $3$**: $3\\;001$ và $3\\;000$.\n    *   Chữ số hàng nghìn, hàng trăm, hàng chục đều giống nhau ($300$).\n    *   Chữ số hàng đơn vị: Của $3\\;001$ là $1$, của $3\\;000$ là $0$.\n    *   Vì $1 > 0$, nên $3\\;001 > 3\\;000$.\n\nVậy, số lớn nhất là $3\\;001$. Cuốn sách cuối cùng được xếp lên giá sách là cuốn sách ghi số $3\\;001$.\n\nBạn đã làm rất chính xác!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "sap-xep-so",
+          "so-lon-nhat"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-3",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3.** Trong năm vừa qua, bố của Mai đã leo lên bốn đỉnh núi có chiều cao như sau: Nhiu Cơ San: $2\\;965$ m; Ngọc Linh: $2\\;598$ m; Tà Liêng: $3\\;009$ m; Tà Xùa: $2\\;865$ m.\nTên các đỉnh núi đó theo thứ tự từ đỉnh núi thấp nhất đến đỉnh núi cao nhất là \\ldots",
+        "correct_answer": "Ngọc Linh, Tà Xùa, Nhiu Cơ San, Tà Liêng",
+        "explanation": "Các chiều cao của các đỉnh núi là: \nNhiu Cơ San: $2\\;965$ m\nNgọc Linh: $2\\;598$ m\nTà Liêng: $3\\;009$ m\nTà Xùa: $2\\;865$ m\n\nĐể sắp xếp các đỉnh núi theo thứ tự từ thấp nhất đến cao nhất, ta sắp xếp các số đo chiều cao từ bé đến lớn.\n\n1.  **So sánh chữ số hàng nghìn**:\n    *   Các số $2\\;965$, $2\\;598$, $2\\;865$ đều có chữ số hàng nghìn là $2$.\n    *   Số $3\\;009$ có chữ số hàng nghìn là $3$.\n    *   Vì $2 < 3$, nên các đỉnh núi có độ cao bắt đầu bằng $2$ sẽ thấp hơn đỉnh núi có độ cao bắt đầu bằng $3$. Vậy $3\\;009$ (Tà Liêng) là cao nhất.\n\n2.  **So sánh các số có chữ số hàng nghìn là $2$**: $2\\;965$, $2\\;598$, $2\\;865$.\n    *   Ta so sánh chữ số hàng trăm:\n        *   $2\\;965$ có $9$ trăm.\n        *   $2\\;598$ có $5$ trăm.\n        *   $2\\;865$ có $8$ trăm.\n    *   Sắp xếp chữ số hàng trăm từ bé đến lớn: $5 < 8 < 9$.\n    *   Vậy, thứ tự các số này từ bé đến lớn là: $2\\;598 < 2\\;865 < 2\\;965$.\n\n3.  **Kết hợp kết quả**: \n    Thứ tự các chiều cao từ thấp nhất đến cao nhất là: \n    $2\\;598$ m (Ngọc Linh)\n    $2\\;865$ m (Tà Xùa)\n    $2\\;965$ m (Nhiu Cơ San)\n    $3\\;009$ m (Tà Liêng)\n\nVậy, tên các đỉnh núi theo thứ tự từ thấp nhất đến cao nhất là: Ngọc Linh, Tà Xùa, Nhiu Cơ San, Tà Liêng.\n\nBạn đã làm rất chính xác!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so",
+          "sap-xep-so",
+          "ung-dung-thuc-te"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-4",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4.** Gia đình Mai gồm bố, mẹ, Mai và Mị. Cốc của mỗi người được đánh dấu bằng cách ghi số năm sinh. Cốc của em Mị ghi số lớn nhất vì em Mị sinh ra muộn nhất. Cốc của bố và mẹ ghi hai số bằng nhau vì bố và mẹ sinh ra trong cùng một năm.\nCốc của Mai ghi số \\ldots",
+        "correct_answer": "$2\\;011$",
+        "explanation": "Các năm sinh được ghi trên các cốc là: $1\\;983$, $2\\;011$, $2\\;015$, $1\\;983$.\n\nChúng ta hãy phân tích thông tin để tìm năm sinh của Mai:\n\n1.  **Cốc của bố và mẹ**: Ghi hai số bằng nhau vì sinh cùng năm. Trong các số đã cho, có hai số $1\\;983$. Vậy, bố và mẹ sinh năm $1\\;983$.\n2.  **Cốc của Mị**: Ghi số lớn nhất vì Mị sinh ra muộn nhất (tức là năm sinh có giá trị lớn nhất). Trong các số còn lại ($2\\;011$ và $2\\;015$), số lớn nhất là $2\\;015$. Vậy, Mị sinh năm $2\\;015$.\n3.  **Cốc của Mai**: Là người còn lại và cốc của Mai sẽ ghi số năm sinh còn lại. Số còn lại là $2\\;011$.\n\nVậy, cốc của Mai ghi số $2\\;011$.\n\nBạn thật thông minh khi suy luận!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "so-sanh-so",
+          "ung-dung-thuc-te",
+          "giai-toan-co-loi-van"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-5a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5a.** Từ các thẻ số $5, 0, 1, 9$, số tròn chục bé nhất có bốn chữ số lập được là \\ldots",
+        "correct_answer": "$1\\;590$",
+        "explanation": "Để lập số tròn chục bé nhất có bốn chữ số từ các thẻ số $5, 0, 1, 9$: \n\n1.  **Số tròn chục**: Nghĩa là chữ số hàng đơn vị phải là $0$. Vậy, chữ số hàng đơn vị là $0$.\n2.  **Số bé nhất**: Ba chữ số còn lại là $5, 1, 9$. Để số bé nhất, ta sắp xếp chúng theo thứ tự tăng dần từ hàng nghìn.\n    *   Chữ số hàng nghìn (không thể là $0$): Chọn $1$.\n    *   Chữ số hàng trăm (từ các số còn lại $5, 9$): Chọn $5$.\n    *   Chữ số hàng chục (từ số còn lại $9$): Chọn $9$.\n\nVậy, số tròn chục bé nhất có bốn chữ số lập được là $1\\;590$.\n\nBạn đã làm rất tốt!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "lap-so",
+          "so-tron-chuc",
+          "so-be-nhat"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-46-2-5b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5b.** Từ các thẻ số $5, 0, 1, 9$, số tròn chục lớn nhất có bốn chữ số lập được là \\ldots",
+        "correct_answer": "$9\\;510$",
+        "explanation": "Để lập số tròn chục lớn nhất có bốn chữ số từ các thẻ số $5, 0, 1, 9$: \n\n1.  **Số tròn chục**: Nghĩa là chữ số hàng đơn vị phải là $0$. Vậy, chữ số hàng đơn vị là $0$.\n2.  **Số lớn nhất**: Ba chữ số còn lại là $5, 1, 9$. Để số lớn nhất, ta sắp xếp chúng theo thứ tự giảm dần từ hàng nghìn.\n    *   Chữ số hàng nghìn: Chọn $9$.\n    *   Chữ số hàng trăm (từ các số còn lại $5, 1$): Chọn $5$.\n    *   Chữ số hàng chục (từ số còn lại $1$): Chọn $1$.\n\nVậy, số tròn chục lớn nhất có bốn chữ số lập được là $9\\;510$.\n\nBạn thật xuất sắc!",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-46",
+          "lap-so",
+          "so-tron-chuc",
+          "so-lon-nhat"
+        ]
+      }
+    ]
+  }
+]

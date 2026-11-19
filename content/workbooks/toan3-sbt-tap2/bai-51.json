@@ -1,0 +1,301 @@
+[
+  {
+    "bai": 51,
+    "title": "Bài 51: Diện tích của một hình. Xăng-ti-mét vuông",
+    "book_pages": "23 - 25",
+    "topic": "Chủ đề 9: Chu vi, diện tích một số hình phẳng",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-51-1-2a-hinhA",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2a.** Viết số thích hợp vào chỗ chấm. \\nHình $\\mathcal{A}$ gồm $\\ldots$ ô vuông.",
+        "correct_answer": "15",
+        "explanation": "Để tìm số ô vuông mà hình $\\mathcal{A}$ gồm, chúng ta sẽ đếm tất cả các ô vuông nhỏ tạo nên hình đó nhé! \\nQuan sát hình $\\mathcal{A}$ (hình con chó): \\n- Hàng thứ nhất (từ dưới lên): có $3$ ô vuông.\\n- Hàng thứ hai: có $3$ ô vuông.\\n- Hàng thứ ba: có $3$ ô vuông.\\n- Hàng thứ tư: có $4$ ô vuông.\\n- Hàng thứ năm (trên cùng): có $2$ ô vuông.\\nTổng số ô vuông là: $3 + 3 + 3 + 4 + 2 = 15$ ô vuông.\\nVậy hình $\\mathcal{A}$ gồm $15$ ô vuông.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "dem-o-vuong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-1-2a-hinhB",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2a.** Viết số thích hợp vào chỗ chấm. \\nHình $\\mathcal{B}$ gồm $\\ldots$ ô vuông.",
+        "correct_answer": "15",
+        "explanation": "Để tìm số ô vuông mà hình $\\mathcal{B}$ gồm, chúng ta sẽ đếm tất cả các ô vuông nhỏ tạo nên hình đó nhé! \\nQuan sát hình $\\mathcal{B}$ (hình rô-bốt): \\n- Phần chân dưới (tổng cộng 2 chân): Mỗi chân gồm 2 ô vuông, tổng cộng $2 \\times 2 = 4$ ô vuông.\\n- Phần thân dưới: Có $3$ ô vuông (nằm giữa hai chân).\\n- Phần thân giữa: Có $3$ ô vuông.\\n- Phần tay (tổng cộng 2 tay): Mỗi tay gồm 2 ô vuông, tổng cộng $2 \\times 2 = 4$ ô vuông.\\n- Phần đầu (trên cùng): Có $1$ ô vuông.\\nTổng số ô vuông là: $4 + 3 + 3 + 4 + 1 = 15$ ô vuông.\\nVậy hình $\\mathcal{B}$ gồm $15$ ô vuông.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "dem-o-vuong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-1-2b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2b.** Khoanh vào chữ đặt trước câu trả lời đúng. \\nDiện tích hình $\\mathcal{A}$ và hình $\\mathcal{B}$ như thế nào?",
+        "options": [
+          "A. Diện tích hình $\\mathcal{A}$ lớn hơn diện tích hình $\\mathcal{B}$.",
+          "B. Diện tích hình $\\mathcal{B}$ lớn hơn diện tích hình $\\mathcal{A}$.",
+          "C. Diện tích hình $\\mathcal{A}$ bằng diện tích hình $\\mathcal{B}$."
+        ],
+        "correct_index": 2,
+        "explanation": "Ở câu 2a, chúng ta đã đếm được: \\n- Hình $\\mathcal{A}$ gồm $15$ ô vuông. \\n- Hình $\\mathcal{B}$ gồm $15$ ô vuông. \\nVì cả hai hình đều gồm $15$ ô vuông nên diện tích của chúng bằng nhau. \\nVậy, đáp án đúng là C. Diện tích hình $\\mathcal{A}$ bằng diện tích hình $\\mathcal{B}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "so-sanh-dien-tich"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-1-3",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3.** Đ, S? \\nCho hai hình $\\mathcal{M}$ và $\\mathcal{N}$ như hình vẽ. So sánh diện tích của hai hình này.",
+        "options": [
+          "A. Diện tích hình $\\mathcal{M}$ lớn hơn diện tích hình $\\mathcal{N}$.",
+          "B. Diện tích hình $\\mathcal{M}$ bằng diện tích hình $\\mathcal{N}$.",
+          "C. Diện tích hình $\\mathcal{M}$ bé hơn diện tích hình $\\mathcal{N}$."
+        ],
+        "correct_index": 0,
+        "explanation": "Để so sánh diện tích hai hình, chúng ta cần đếm số ô vuông của mỗi hình nhé! \\n\\n**Đối với hình $\\mathcal{M}$:** \\n- Hàng thứ nhất (từ dưới lên): có $1$ ô vuông. \\n- Hàng thứ hai: có $3$ ô vuông. \\n- Hàng thứ ba: có $3$ ô vuông. \\n- Hàng thứ tư (trên cùng): có $1$ ô vuông. \\nVậy, hình $\\mathcal{M}$ gồm $1 + 3 + 3 + 1 = 8$ ô vuông. \\n\\n**Đối với hình $\\mathcal{N}$:** \\nHình $\\mathcal{N}$ là một hình tam giác được tạo từ các ô vuông và các nửa ô vuông. \\n- Các ô vuông nguyên vẹn: có $2$ ô vuông (một ở hàng thứ hai từ dưới lên, một ở hàng thứ ba từ dưới lên, đều nằm ở giữa). \\n- Các nửa ô vuông: \\n    - Ở hàng thứ nhất (từ dưới lên): có $2$ nửa ô vuông (tạo thành $1$ ô vuông). \\n    - Ở hàng thứ hai: có $2$ nửa ô vuông (tạo thành $1$ ô vuông). \\n    - Ở hàng thứ ba (trên cùng): có $2$ nửa ô vuông (tạo thành $1$ ô vuông). \\nVậy, hình $\\mathcal{N}$ gồm $2 \\text{ (nguyên)} + 1 \\text{ (hàng 1)} + 1 \\text{ (hàng 2)} + 1 \\text{ (hàng 3)} = 5$ ô vuông. \\n\\nSo sánh: Diện tích hình $\\mathcal{M}$ là $8$ ô vuông, diện tích hình $\\mathcal{N}$ là $5$ ô vuông. \\nVì $8 > 5$, nên diện tích hình $\\mathcal{M}$ lớn hơn diện tích hình $\\mathcal{N}$. \\nVậy, đáp án đúng là A.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "so-sanh-dien-tich"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-4",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4.** Khoanh vào chữ đặt trước câu trả lời đúng. \\nHình chú vịt gồm bao nhiêu ô vuông?",
+        "options": [
+          "A. 10 ô vuông",
+          "B. 12 ô vuông",
+          "C. 11 ô vuông"
+        ],
+        "correct_index": 1,
+        "explanation": "Để biết hình chú vịt gồm bao nhiêu ô vuông, chúng mình cùng đếm các ô vuông nhỏ tạo nên hình nhé! \\nQuan sát hình chú vịt: \\n- Hàng thứ nhất (từ dưới lên): có $2$ ô vuông (là chân). \\n- Hàng thứ hai: có $3$ ô vuông (là phần bụng dưới). \\n- Hàng thứ ba: có $4$ ô vuông (là phần bụng giữa và đầu). \\n- Hàng thứ tư: có $2$ ô vuông (là phần đầu trên). \\n- Hàng thứ năm (trên cùng, phần đuôi): có $1$ ô vuông. \\nTổng số ô vuông là: $2 + 3 + 4 + 2 + 1 = 12$ ô vuông. \\nVậy hình chú vịt gồm $12$ ô vuông. Đáp án đúng là B.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "dem-o-vuong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-1a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1a.** Hoàn thành bảng sau (theo mẫu). \\nViết cách đọc của $35 \\text{ cm}^2$: $\\ldots$.",
+        "correct_answer": "Ba mươi lăm xăng-ti-mét vuông",
+        "explanation": "Số $35$ đọc là 'ba mươi lăm'. Đơn vị $\\text{cm}^2$ đọc là 'xăng-ti-mét vuông'. \\nVậy $35 \\text{ cm}^2$ đọc là 'Ba mươi lăm xăng-ti-mét vuông'.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "doc-viet-dien-tich"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-1b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1b.** Hoàn thành bảng sau (theo mẫu). \\nViết cách đọc của $3\\;004 \\text{ cm}^2$: $\\ldots$.",
+        "correct_answer": "Ba nghìn không trăm linh tư xăng-ti-mét vuông",
+        "explanation": "Số $3\\;004$ đọc là 'ba nghìn không trăm linh tư'. Đơn vị $\\text{cm}^2$ đọc là 'xăng-ti-mét vuông'. \\nVậy $3\\;004 \\text{ cm}^2$ đọc là 'Ba nghìn không trăm linh tư xăng-ti-mét vuông'.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "doc-viet-dien-tich"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-1c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1c.** Hoàn thành bảng sau (theo mẫu). \\nViết $8\\;407 \\text{ cm}^2$ bằng chữ: $\\ldots$.",
+        "correct_answer": "Tám nghìn bốn trăm linh bảy xăng-ti-mét vuông",
+        "explanation": "Số $8\\;407$ đọc là 'tám nghìn bốn trăm linh bảy'. Đơn vị $\\text{cm}^2$ đọc là 'xăng-ti-mét vuông'. \\nVậy $8\\;407 \\text{ cm}^2$ đọc là 'Tám nghìn bốn trăm linh bảy xăng-ti-mét vuông'.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "doc-viet-dien-tich"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-1d",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1d.** Hoàn thành bảng sau (theo mẫu). \\nViết $9\\;056 \\text{ cm}^2$ bằng chữ: $\\ldots$.",
+        "correct_answer": "Chín nghìn không trăm năm mươi sáu xăng-ti-mét vuông",
+        "explanation": "Số $9\\;056$ đọc là 'chín nghìn không trăm năm mươi sáu'. Đơn vị $\\text{cm}^2$ đọc là 'xăng-ti-mét vuông'. \\nVậy $9\\;056 \\text{ cm}^2$ đọc là 'Chín nghìn không trăm năm mươi sáu xăng-ti-mét vuông'.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "doc-viet-dien-tich"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-2a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2a.** Viết số thích hợp vào chỗ chấm. \\nHình $\\mathcal{A}$ gồm $\\ldots$ ô vuông $1 \\text{ cm}^2$. \\nDiện tích hình $\\mathcal{A}$ bằng $\\ldots \\text{ cm}^2$.",
+        "correct_answer": "20;20",
+        "explanation": "Để tìm số ô vuông và diện tích của hình $\\mathcal{A}$, chúng mình cùng đếm các ô vuông nhỏ nhé! \\nQuan sát hình $\\mathcal{A}$: \\n- Hàng thứ nhất (từ dưới lên): có $3$ ô vuông.\\n- Hàng thứ hai: có $3$ ô vuông.\\n- Hàng thứ ba: có $3$ ô vuông.\\n- Hàng thứ tư: có $3$ ô vuông.\\n- Hàng thứ năm: có $3$ ô vuông.\\n- Hàng thứ sáu: có $2$ ô vuông.\\n- Hàng thứ bảy: có $2$ ô vuông.\\n- Hàng thứ tám (trên cùng): có $1$ ô vuông.\\nTổng số ô vuông là: $3 + 3 + 3 + 3 + 3 + 2 + 2 + 1 = 20$ ô vuông. \\nVì mỗi ô vuông có diện tích là $1 \\text{ cm}^2$, nên diện tích hình $\\mathcal{A}$ là $20 \\times 1 = 20 \\text{ cm}^2$. \\nVậy, Hình $\\mathcal{A}$ gồm $20$ ô vuông $1 \\text{ cm}^2$. Diện tích hình $\\mathcal{A}$ bằng $20 \\text{ cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "dem-o-vuong",
+          "xang-ti-met-vuong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-2b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2b.** Viết số thích hợp vào chỗ chấm. \\nHình $\\mathcal{B}$ gồm $\\ldots$ ô vuông $1 \\text{ cm}^2$. \\nDiện tích hình $\\mathcal{B}$ bằng $\\ldots \\text{ cm}^2$.",
+        "correct_answer": "16;16",
+        "explanation": "Để tìm số ô vuông và diện tích của hình $\\mathcal{B}$, chúng mình cùng đếm các ô vuông nhỏ nhé! \\nQuan sát hình $\\mathcal{B}$ (hình ngôi nhà): \\n- Phần thân nhà hình chữ nhật (4 cột, 3 hàng): có $4 \\times 3 = 12$ ô vuông. \\n- Phần mái nhà: \\n    - Hàng dưới của mái: có $2$ ô vuông nguyên vẹn ở giữa và $2$ nửa ô vuông ở hai bên (tạo thành $1$ ô vuông). Vậy hàng này có $2 + 1 = 3$ ô vuông. \\n    - Hàng trên của mái (chóp nhọn): có $2$ nửa ô vuông (tạo thành $1$ ô vuông). \\nTổng số ô vuông là: $12 + 3 + 1 = 16$ ô vuông. \\nVì mỗi ô vuông có diện tích là $1 \\text{ cm}^2$, nên diện tích hình $\\mathcal{B}$ là $16 \\times 1 = 16 \\text{ cm}^2$. \\nVậy, Hình $\\mathcal{B}$ gồm $16$ ô vuông $1 \\text{ cm}^2$. Diện tích hình $\\mathcal{B}$ bằng $16 \\text{ cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "dem-o-vuong",
+          "xang-ti-met-vuong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-3a1",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3a.** Tính (theo mẫu). \\n$537 \\text{ cm}^2 + 638 \\text{ cm}^2 = \\ldots \\text{ cm}^2$",
+        "correct_answer": "1175",
+        "explanation": "Để thực hiện phép cộng này, chúng ta chỉ cần cộng các số lại với nhau và giữ nguyên đơn vị diện tích là $\\text{cm}^2$. \\n$537 + 638 = 1175$. \\nVậy, $537 \\text{ cm}^2 + 638 \\text{ cm}^2 = 1175 \\text{ cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "phep-cong"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-3a2",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3a.** Tính (theo mẫu). \\n$2\\;385 \\text{ cm}^2 - 917 \\text{ cm}^2 = \\ldots \\text{ cm}^2$",
+        "correct_answer": "1468",
+        "explanation": "Để thực hiện phép trừ này, chúng ta chỉ cần trừ các số lại với nhau và giữ nguyên đơn vị diện tích là $\\text{cm}^2$. \\n$2\\;385 - 917 = 1468$. \\nVậy, $2\\;385 \\text{ cm}^2 - 917 \\text{ cm}^2 = 1468 \\text{ cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "phep-tru"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-3b1",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3b.** Tính (theo mẫu). \\n$219 \\text{ cm}^2 \\times 4 = \\ldots \\text{ cm}^2$",
+        "correct_answer": "876",
+        "explanation": "Để thực hiện phép nhân này, chúng ta chỉ cần nhân số $219$ với $4$ và giữ nguyên đơn vị diện tích là $\\text{cm}^2$. \\n$219 \\times 4 = 876$. \\nVậy, $219 \\text{ cm}^2 \\times 4 = 876 \\text{ cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "phep-nhan"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-3b2",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3b.** Tính (theo mẫu). \\n$525 \\text{ cm}^2 : 5 = \\ldots \\text{ cm}^2$",
+        "correct_answer": "105",
+        "explanation": "Để thực hiện phép chia này, chúng ta chỉ cần chia số $525$ cho $5$ và giữ nguyên đơn vị diện tích là $\\text{cm}^2$. \\n$525 : 5 = 105$. \\nVậy, $525 \\text{ cm}^2 : 5 = 105 \\text{ cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "phep-chia"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-4-wordproblem",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4.** Tờ giấy màu đỏ có diện tích là $950 \\text{ cm}^2$. Tờ giấy màu vàng có diện tích là $670 \\text{ cm}^2$. Hỏi diện tích tờ giấy màu vàng bé hơn diện tích tờ giấy màu đỏ là bao nhiêu xăng-ti-mét vuông?",
+        "correct_answer": "280",
+        "explanation": "Để biết diện tích tờ giấy màu vàng bé hơn diện tích tờ giấy màu đỏ là bao nhiêu xăng-ti-mét vuông, chúng ta sẽ thực hiện phép trừ diện tích tờ giấy màu đỏ cho diện tích tờ giấy màu vàng nhé. \\nPhép tính là: $950 - 670 = 280$. \\nVậy, diện tích tờ giấy màu vàng bé hơn diện tích tờ giấy màu đỏ là $280 \\text{ cm}^2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "bai-toan-co-loi-van",
+          "phep-tru"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-51-2-5",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 5.** Viết số thích hợp vào chỗ chấm. \\nHai bạn kiến đen đang sơn lại một mặt bên của rô-bốt rùa (như hình vẽ). Các bạn sơn các ô xen kẽ hai màu xanh và trắng, mỗi ô có diện tích $1 \\text{ cm}^2$. \\nVậy một mặt bên của rô-bốt rùa sẽ có $\\ldots \\text{ cm}^2$ được sơn màu xanh và $\\ldots \\text{ cm}^2$ được sơn màu trắng.",
+        "correct_answer": "26;25",
+        "explanation": "Đầu tiên, chúng ta cần đếm tổng số ô vuông của mặt bên rô-bốt rùa để tìm tổng diện tích nhé! \\nQuan sát hình rô-bốt rùa: \\n- Phần thân hình chữ nhật lớn (bao gồm 5 hàng và 6 cột): có $5 \\times 6 = 30$ ô vuông. \\n- Phần chóp thân trên: có $4$ ô vuông (nằm trên phần chữ nhật lớn). \\n- Phần chân (4 chân): Mỗi chân có hình chữ L, gồm $3$ ô vuông. Vậy $4$ chân có $4 \\times 3 = 12$ ô vuông. \\n- Phần đầu và cổ: Gồm $5$ ô vuông (2 ô cổ, 2 ô đầu dưới, 1 ô đầu trên). \\nTổng số ô vuông của rô-bốt rùa là: $30 + 4 + 12 + 5 = 51$ ô vuông. \\nVì mỗi ô vuông có diện tích $1 \\text{ cm}^2$, nên tổng diện tích là $51 \\text{ cm}^2$. \\nHai bạn kiến sơn xen kẽ hai màu xanh và trắng. Với tổng số $51$ ô vuông (là số lẻ), sẽ có một màu được sơn $26$ ô vuông và màu còn lại được sơn $25$ ô vuông. \\nVậy, một mặt bên của rô-bốt rùa sẽ có $26 \\text{ cm}^2$ được sơn màu xanh và $25 \\text{ cm}^2$ được sơn màu trắng (hoặc ngược lại, tùy vào màu bắt đầu sơn). \\nĐáp án: $26;25$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-51",
+          "dien-tich",
+          "dem-o-vuong",
+          "bai-toan-co-loi-van"
+        ]
+      }
+    ]
+  }
+]

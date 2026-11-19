@@ -1,0 +1,577 @@
+[
+  {
+    "bai": 73,
+    "title": "Bài 73: Thu thập, phân loại, ghi chép số liệu. Bảng số liệu",
+    "book_pages": "99 - 102",
+    "topic": "Chủ đề 15: Làm quen với yếu tố thống kê, xác suất",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-73-tiet1-1a-mai",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1a.** Một nhóm gồm 4 bạn cùng tham gia một cuộc thi toán. Mỗi bạn đã đưa ra câu trả lời cho 20 câu hỏi và số câu trả lời đúng được ghi nhận như trong bảng (mỗi gạch là một câu trả lời đúng). Hỏi bạn **Mai** trả lời đúng bao nhiêu câu?",
+        "options": [
+          "12",
+          "13",
+          "14",
+          "15"
+        ],
+        "correct_index": 2,
+        "explanation": "Nhìn vào hàng của Mai: có 2 bó gạch, mỗi bó 5 gạch (tổng là 10) và thêm 4 gạch lẻ. Vậy Mai trả lời đúng $5 + 5 + 4 = 14$ câu.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet1-1a-viet",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1a.** Dựa vào bảng số liệu của bài 1, hỏi bạn **Việt** trả lời đúng bao nhiêu câu?",
+        "options": [
+          "13",
+          "14",
+          "15",
+          "16"
+        ],
+        "correct_index": 2,
+        "explanation": "Nhìn vào hàng của Việt: có 3 bó gạch, mỗi bó 5 gạch. Vậy Việt trả lời đúng $5 + 5 + 5 = 15$ câu.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet1-1a-robot",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1a.** Dựa vào bảng số liệu của bài 1, hỏi bạn **Rô-bốt** trả lời đúng bao nhiêu câu?",
+        "options": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "correct_index": 1,
+        "explanation": "Nhìn vào hàng của Rô-bốt: có 2 bó gạch (10 câu) và thêm 1 gạch lẻ. Vậy Rô-bốt trả lời đúng $10 + 1 = 11$ câu.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet1-1a-nam",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1a.** Dựa vào bảng số liệu của bài 1, hỏi bạn **Nam** trả lời đúng bao nhiêu câu?",
+        "options": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "correct_index": 2,
+        "explanation": "Nhìn vào hàng của Nam: có 2 bó gạch (10 câu) và thêm 2 gạch lẻ. Vậy Nam trả lời đúng $10 + 2 = 12$ câu.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet1-1b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1b.** Dựa vào kết quả ở bài 1a (Mai: 14, Việt: 15, Rô-bốt: 11, Nam: 12), bạn nào trả lời đúng nhiều câu hỏi nhất?",
+        "options": [
+          "Mai",
+          "Việt",
+          "Rô-bốt",
+          "Nam"
+        ],
+        "correct_index": 1,
+        "explanation": "So sánh số câu đúng của các bạn: $15 > 14 > 12 > 11$. Vậy bạn Việt trả lời đúng nhiều câu hỏi nhất (15 câu).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet1-1c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1c.** Với mỗi câu trả lời đúng, người chơi nhận được 1 điểm. Bạn có số điểm cao nhất (Việt: 15 điểm) nhận được nhiều hơn bạn có số điểm thấp nhất (Rô-bốt: 11 điểm) bao nhiêu điểm?",
+        "options": [
+          "3 điểm",
+          "4 điểm",
+          "5 điểm",
+          "6 điểm"
+        ],
+        "correct_index": 1,
+        "explanation": "Bạn có số điểm cao nhất là Việt với 15 điểm. Bạn có số điểm thấp nhất là Rô-bốt với 11 điểm. Số điểm nhiều hơn là: $15 - 11 = 4$ (điểm).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet2-1a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1a.** Quan sát bảng số liệu về số quả trứng gà đẻ trong tuần (Thứ Hai: 6, Thứ Ba: 3, Thứ Tư: 8, Thứ Năm: 10, Thứ Sáu: 2, Thứ Bảy: 7, Chủ nhật: 4). Vào thứ mấy thì gà đẻ ít trứng nhất?",
+        "options": [
+          "Thứ Ba",
+          "Thứ Năm",
+          "Thứ Sáu",
+          "Chủ nhật"
+        ],
+        "correct_index": 2,
+        "explanation": "So sánh số quả trứng các ngày trong tuần: $2 < 3 < 4 < 6 < 7 < 8 < 10$. Số trứng ít nhất là 2 quả, ứng với ngày Thứ Sáu.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet2-1b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1b.** Dựa vào bảng số liệu trên, vào thứ mấy thì gà đẻ nhiều trứng nhất?",
+        "options": [
+          "Thứ Tư",
+          "Thứ Năm",
+          "Thứ Bảy",
+          "Thứ Hai"
+        ],
+        "correct_index": 1,
+        "explanation": "So sánh số quả trứng các ngày trong tuần: $10$ là số lớn nhất, ứng với ngày Thứ Năm.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet2-1c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1c.** Vào các thứ nào đàn gà đẻ được ít hơn 7 quả trứng?",
+        "options": [
+          "Thứ Hai, Thứ Ba, Thứ Tư, Thứ Sáu, Chủ nhật",
+          "Thứ Hai, Thứ Ba, Thứ Sáu, Chủ nhật",
+          "Thứ Ba, Thứ Sáu, Chủ nhật",
+          "Thứ Hai, Thứ Ba, Thứ Tư, Thứ Bảy"
+        ],
+        "correct_index": 1,
+        "explanation": "Tìm các ngày có số trứng nhỏ hơn 7: Thứ Hai (6), Thứ Ba (3), Thứ Sáu (2), Chủ nhật (4).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet2-1d",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1d.** Trong tuần vừa qua, đàn gà đã đẻ được tất cả bao nhiêu quả trứng?",
+        "options": [
+          "38 quả",
+          "39 quả",
+          "40 quả",
+          "41 quả"
+        ],
+        "correct_index": 2,
+        "explanation": "Tổng số quả trứng trong tuần là: $6 + 3 + 8 + 10 + 2 + 7 + 4 = 40$ (quả).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet2-1e",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1e.** Trong hai ngày cuối tuần (Thứ Bảy và Chủ nhật), Mai thu hoạch được bao nhiêu quả trứng?",
+        "options": [
+          "10 quả",
+          "11 quả",
+          "12 quả",
+          "13 quả"
+        ],
+        "correct_index": 1,
+        "explanation": "Số quả trứng thu hoạch được trong hai ngày cuối tuần là: $7 + 4 = 11$ (quả).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet2-2a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2a.** Quan sát bảng số liệu về số túi bột mì bán được trong 4 tuần (Tuần 4: Bột mì đa dụng: 30 túi, Bột bánh mì: 20 túi). Trong tuần cuối cùng của tháng, cửa hàng đã bán được bao nhiêu túi bột mì đa dụng và bao nhiêu túi bột bánh mì?",
+        "options": [
+          "30 túi bột mì đa dụng và 20 túi bột bánh mì",
+          "20 túi bột mì đa dụng và 30 túi bột bánh mì",
+          "25 túi bột mì đa dụng và 50 túi bột bánh mì",
+          "30 túi bột mì đa dụng và 30 túi bột bánh mì"
+        ],
+        "correct_index": 0,
+        "explanation": "Nhìn vào cột Tuần 4 của bảng: Hàng 'Bột mì đa dụng (túi)' là 30, hàng 'Bột bánh mì (túi)' là 20. Vậy cửa hàng bán được 30 túi bột mì đa dụng và 20 túi bột bánh mì.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet2-2b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2b.** Dựa vào bảng số liệu, mỗi tuần cửa hàng bán được số túi bột bánh mì là: Tuần 1: ... túi; tuần 2: ... túi; tuần 3: ... túi; tuần 4: ... túi.",
+        "options": [
+          "30; 50; 10; 20",
+          "20; 25; 25; 30",
+          "30; 25; 10; 20",
+          "20; 50; 10; 30"
+        ],
+        "correct_index": 0,
+        "explanation": "Nhìn vào hàng 'Bột bánh mì (túi)' lần lượt qua các cột Tuần 1, 2, 3, 4 ta có số liệu: 30, 50, 10, 20.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet2-2c",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2c.** Trong tuần đầu tiên (Tuần 1), cửa hàng bán được tất cả bao nhiêu túi bột mì (gồm cả bột mì đa dụng và bột bánh mì)?",
+        "options": [
+          "45 túi",
+          "50 túi",
+          "55 túi",
+          "60 túi"
+        ],
+        "correct_index": 1,
+        "explanation": "Ở tuần 1, số túi bột mì đa dụng là 20, bột bánh mì là 30. Tổng số túi bột mì bán được ở tuần 1 là: $20 + 30 = 50$ (túi).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet2-2d",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2d.** Trong tuần thứ ba (Tuần 3), loại bột nào bán được nhiều túi hơn?",
+        "options": [
+          "Bột mì đa dụng",
+          "Bột bánh mì",
+          "Hai loại bán bằng nhau",
+          "Không xác định được"
+        ],
+        "correct_index": 0,
+        "explanation": "Ở tuần 3, bột mì đa dụng bán được 25 túi, bột bánh mì bán được 10 túi. Vì $25 > 10$ nên bột mì đa dụng bán được nhiều túi hơn.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet3-1a-3cuon",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1a.** Từ kết quả khảo sát số sách đã đọc của các bạn (An: 3, Bình: 2, Cường: 4, Dung: 3, Giang: 3, Hoa: 3, Khánh: 4, Nam: 5, Ngọc: 4, Phương: 3, Việt: 3, Mai: 3), hãy cho biết có bao nhiêu bạn đọc **3 cuốn sách**?",
+        "options": [
+          "5 bạn",
+          "6 bạn",
+          "7 bạn",
+          "8 bạn"
+        ],
+        "correct_index": 2,
+        "explanation": "Đếm số bạn đọc 3 cuốn sách gồm: An, Dung, Giang, Hoa, Phương, Việt, Mai. Tổng cộng có 7 bạn.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet3-1a-4cuon",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1a.** Từ kết quả khảo sát ở bài 1, có bao nhiêu bạn đọc **4 cuốn sách**?",
+        "options": [
+          "2 bạn",
+          "3 bạn",
+          "4 bạn",
+          "5 bạn"
+        ],
+        "correct_index": 1,
+        "explanation": "Đếm số bạn đọc 4 cuốn sách gồm: Cường, Khánh, Ngọc. Tổng cộng có 3 bạn.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet3-1a-5cuon",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1a.** Từ kết quả khảo sát ở bài 1, có bao nhiêu bạn đọc **5 cuốn sách**?",
+        "options": [
+          "1 bạn",
+          "2 bạn",
+          "3 bạn",
+          "4 bạn"
+        ],
+        "correct_index": 0,
+        "explanation": "Đếm số bạn đọc 5 cuốn sách gồm: Nam. Tổng cộng có 1 bạn.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet3-1b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1b.** Các bạn tham gia cuộc khảo sát đã đọc tất cả bao nhiêu cuốn sách?",
+        "options": [
+          "35 cuốn sách",
+          "38 cuốn sách",
+          "40 cuốn sách",
+          "42 cuốn sách"
+        ],
+        "correct_index": 1,
+        "explanation": "Cộng số sách của tất cả các bạn: $3 + 2 + 4 + 3 + 3 + 3 + 4 + 5 + 4 + 3 + 3 + 3 = 38$ (cuốn sách).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet3-2a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2a.** Quan sát bảng số liệu về số vật nuôi của 4 trang trại A (Cừu: 80, Bò sữa: 45), B (Cừu: 200, Bò sữa: 50), C (Cừu: 30, Bò sữa: 100), D (Cừu: 75, Bò sữa: 90). Trang trại nào nuôi nhiều bò sữa nhất?",
+        "options": [
+          "Trang trại A",
+          "Trang trại B",
+          "Trang trại C",
+          "Trang trại D"
+        ],
+        "correct_index": 2,
+        "explanation": "So sánh số bò sữa của các trang trại: $100 > 90 > 50 > 45$. Vậy trang trại C nuôi nhiều bò sữa nhất (100 con).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet3-2b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2b.** Dựa vào bảng số liệu trên, trang trại nào nuôi nhiều cừu nhất?",
+        "options": [
+          "Trang trại A",
+          "Trang trại B",
+          "Trang trại C",
+          "Trang trại D"
+        ],
+        "correct_index": 1,
+        "explanation": "So sánh số cừu của các trang trại: $200 > 80 > 75 > 30$. Vậy trang trại B nuôi nhiều cừu nhất (200 con).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet3-2c",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2c.** Trang trại D nuôi tất cả bao nhiêu con cừu và bò sữa?",
+        "options": [
+          "155 con",
+          "165 con",
+          "175 con",
+          "185 con"
+        ],
+        "correct_index": 1,
+        "explanation": "Trang trại D nuôi 75 con cừu và 90 con bò sữa. Tổng số con là: $75 + 90 = 165$ (con).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet3-2d",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 2d.** Bốn trang trại này có tất cả bao nhiêu con cừu?",
+        "options": [
+          "375 con",
+          "385 con",
+          "395 con",
+          "405 con"
+        ],
+        "correct_index": 1,
+        "explanation": "Tổng số cừu của cả 4 trang trại là: $80 + 200 + 30 + 75 = 385$ (con).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet3-3a-nu-hanhdong",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3a.** Quan sát bảng số liệu về số bạn yêu thích các thể loại phim của lớp 3A (Tổng số học sinh nữ thích phim hành động là bao nhiêu, biết Tổng số học sinh thích phim hành động là 16 và Nam là 15)?",
+        "options": [
+          "1 học sinh",
+          "2 học sinh",
+          "3 học sinh",
+          "4 học sinh"
+        ],
+        "correct_index": 0,
+        "explanation": "Số học sinh nữ thích phim hành động là: $16 - 15 = 1$ (học sinh).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet3-3a-tong-giaituong",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3a.** Tổng số học sinh yêu thích phim giả tưởng là bao nhiêu (biết Nữ: 7, Nam: 10)?",
+        "options": [
+          "15 học sinh",
+          "16 học sinh",
+          "17 học sinh",
+          "18 học sinh"
+        ],
+        "correct_index": 2,
+        "explanation": "Tổng số học sinh yêu thích phim giả tưởng là: $7 + 10 = 17$ (học sinh).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet3-3b-nu",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3b.** Dựa vào bảng số liệu, phim nào được các bạn nữ yêu thích nhất (Nữ thích phim giả tưởng: 7, phim hài: 11, phim hành động: 1)?",
+        "options": [
+          "Phim giả tưởng",
+          "Phim hài",
+          "Phim hành động",
+          "Không có phim nào"
+        ],
+        "correct_index": 1,
+        "explanation": "So sánh số bạn nữ thích các loại phim: $11 > 7 > 1$. Vậy phim hài được các bạn nữ yêu thích nhất.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-73-tiet3-3b-nam",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3b.** Phim nào được các bạn nam yêu thích nhất (Nam thích phim giả tưởng: 10, tổng số phim hài là 20 trừ đi 11 bạn nữ là 9 bạn nam, phim hành động: 15)?",
+        "options": [
+          "Phim giả tưởng",
+          "Phim hài",
+          "Phim hành động",
+          "Phim giả tưởng và phim hài"
+        ],
+        "correct_index": 2,
+        "explanation": "Số bạn nam thích phim hài là: $20 - 11 = 9$. So sánh số bạn nam thích các loại phim: $15$ (hành động) $> 10$ (giả tưởng) $> 9$ (hài). Vậy phim hành động được các bạn nam yêu thích nhất.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-73",
+          "tiet-3"
+        ]
+      }
+    ]
+  }
+]

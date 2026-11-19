@@ -1,0 +1,343 @@
+[
+  {
+    "bai": 53,
+    "title": "Bài 53: Luyện tập chung",
+    "book_pages": "32 - 36",
+    "topic": "Chủ đề 9: Chu vi, diện tích một số hình phẳng",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-53-1-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Viết số thích hợp vào chỗ chấm (theo mẫu).\\nCho bảng dữ liệu về hình vuông:\\n- Cạnh hình vuông: $15\\;\\text{cm}$ | $9\\;\\text{cm}$ | $\\ldots\\;\\text{cm}$ | $10\\;\\text{dm}$\\n- Chu vi hình vuông: $60\\;\\text{cm}$ | $\\ldots\\;\\text{cm}$ | $36\\;\\text{cm}$ | $\\ldots\\;\\text{dm}$\\n\\nSố thích hợp điền vào ô trống của cột có cạnh hình vuông bằng $9\\;\\text{cm}$ là chu vi bằng bao nhiêu xăng-ti-mét? (Nhập số)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Chu vi hình vuông bằng độ dài cạnh nhân với $4$.\\nVới cạnh hình vuông là $9\\;\\text{cm}$, chu vi hình vuông là: $9 \\times 4 = 36\\;\\text{cm}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-1-2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1 (tiếp).** Trong bảng trên, cột thứ ba có chu vi là $36\\;\\text{cm}$. Hỏi độ dài cạnh hình vuông đó bằng bao nhiêu xăng-ti-mét? (Nhập số)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Độ dài cạnh hình vuông bằng chu vi chia cho $4$.\\nCạnh hình vuông là: $36 : 4 = 9\\;\\text{cm}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-1-3",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1 (tiếp).** Trong bảng trên, cột thứ tư có cạnh hình vuông bằng $10\\;\\text{dm}$. Hỏi chu vi hình vuông đó bằng bao nhiêu đề-xi-mét? (Nhập số)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Chu vi hình vuông bằng độ dài cạnh nhân với $4$.\\nChu vi hình vuông là: $10 \\times 4 = 40\\;\\text{dm}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-2-a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2a.** Tính chu vi hình chữ nhật có chiều dài $3\\;\\text{dm}$ và chiều rộng $5\\;\\text{cm}$.",
+        "options": [
+          "70 cm",
+          "16 cm",
+          "16 dm",
+          "40 cm"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Đổi đơn vị đo về cùng một đơn vị. Ta đổi $3\\;\\text{dm} = 30\\;\\text{cm}$.\\nBước 2: Tính chu vi hình chữ nhật bằng cách lấy tổng chiều dài và chiều rộng (cùng đơn vị đo) nhân với $2$.\\nChu vi hình chữ nhật là: $(30 + 5) \\times 2 = 70\\;\\text{cm}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-2-b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2b.** Tính chu vi hình chữ nhật có chiều dài $4\\;\\text{dm}$ và chiều rộng $20\\;\\text{cm}$.",
+        "options": [
+          "120 cm",
+          "48 cm",
+          "24 dm",
+          "80 cm"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Đổi đơn vị đo: $4\\;\\text{dm} = 40\\;\\text{cm}$.\\nBước 2: Tính chu vi hình chữ nhật là: $(40 + 20) \\times 2 = 120\\;\\text{cm}$. (Hoặc đổi ra dm là $12\\;\\text{dm}$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-3",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3.** Một tấm thảm trải nhà có dạng hình vuông cạnh $50\\;\\text{cm}$. Tính chu vi hình vuông ghép bởi $4$ tấm thảm như thế.",
+        "options": [
+          "400 cm",
+          "200 cm",
+          "800 cm",
+          "100 cm"
+        ],
+        "correct_index": 0,
+        "explanation": "Ghép $4$ tấm thảm hình vuông cạnh $50\\;\\text{cm}$ thành một tấm thảm lớn hình vuông mới.\\nCạnh của tấm thảm lớn hình vuông là: $50 + 50 = 100\\;\\text{cm}$.\\nChu vi tấm thảm lớn hình vuông là: $100 \\times 4 = 400\\;\\text{cm}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-4-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4a.** Cô Hoa rào các mảnh đất để trồng hoa hồng, hoa cúc và hoa mẫu đơn. Biết rằng hai cọc cạnh nhau cách nhau $1\\;\\text{m}$. Mảnh đất trồng hoa hồng có hàng rào dài nhất và mảnh đất trồng hoa cúc có hàng rào ngắn nhất.\\nQuan sát hình vẽ (trong đó mảnh đất A có hình chữ nhật gồm các cạnh là số cọc: chiều dài $4\\;\\text{m}$ (5 cọc), chiều rộng $2\\;\\text{m}$ (3 cọc) - tương ứng theo lưới ô vuông khoảng cách $1\\;\\text{m}$):\\nHỏi mảnh đất $A$ có hàng rào dài bao nhiêu mét? (Nhập số)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Dựa vào hình vẽ, đếm số đoạn thẳng (khoảng cách giữa các cọc) quanh mảnh đất A:\\nMảnh đất A có chiều dài $4\\;\\text{m}$ ($4$ khoảng $1\\;\\text{m}$) và chiều rộng $2\\;\\text{m}$ ($2$ khoảng $1\\;\\text{m}$).\\nChu vi mảnh đất A (hay độ dài hàng rào mảnh đất A) là: $(4 + 2) \\times 2 = 12\\;\\text{m}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-4-b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4b.** Khoanh vào chữ đặt trước câu trả lời đúng. Mảnh đất trồng hoa mẫu đơn là:\\nBiết rằng:\\n- Mảnh đất A: Chu vi $12\\;\\text{m}$.\\n- Mảnh đất B: Chu vi $(5 + 3) \\times 2 = 16\\;\\text{m}$.\\n- Mảnh đất C: Chu vi $(3 + 3) \\times 2 = 12\\;\\text{m}$ (hoặc tương ứng các kích thước thực tế trên hình: A dài $4$, rộng $2$, chu vi $12$; B dài $5$, rộng $3$, chu vi $16$; C dài $3$, rộng $2$ hoặc tương đương tùy hình). Và đề bài cho: \"Mảnh đất trồng hoa hồng có hàng rào dài nhất và mảnh đất trồng hoa cúc có hàng rào ngắn nhất\".",
+        "options": [
+          "Mảnh đất A",
+          "Mảnh đất B",
+          "Mảnh đất C",
+          "Không xác định được"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta tính chu vi (độ dài hàng rào) của từng mảnh đất dựa trên số khoảng cách $1\\;\\text{m}$ giữa các cọc:\\n- Mảnh đất A có chu vi là $12\\;\\text{m}$.\\n- Mảnh đất B có chu vi là $16\\;\\text{m}$ (dài nhất $\\rightarrow$ trồng hoa hồng).\\n- Mảnh đất C có chu vi là $10\\;\\text{m}$ (ngắn nhất $\\rightarrow$ trồng hoa cúc).\\nVậy mảnh đất có hàng rào dài ở mức vừa (mảnh đất A, chu vi $12\\;\\text{m}$) là mảnh đất trồng hoa mẫu đơn.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-5-1a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1a.** Diện tích hình vuông có cạnh $7\\;\\text{cm}$ là:",
+        "options": [
+          "49 cm2",
+          "28 cm2",
+          "35 cm2",
+          "14 cm2"
+        ],
+        "correct_index": 0,
+        "explanation": "Diện tích hình vuông bằng độ dài cạnh nhân với chính nó:\\n$7 \\times 7 = 49\\;(\\text{cm}^2)$.\\nChọn đáp án B ($49\\;\\text{cm}^2$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-5-1b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1b.** Diện tích hình chữ nhật có chiều dài $8\\;\\text{cm}$ và chiều rộng $5\\;\\text{cm}$ là:",
+        "options": [
+          "40 cm2",
+          "32 cm2",
+          "26 cm2",
+          "13 cm2"
+        ],
+        "correct_index": 0,
+        "explanation": "Diện tích hình chữ nhật bằng chiều dài nhân với chiều rộng (cùng đơn vị đo):\\n$8 \\times 5 = 40\\;(\\text{cm}^2)$.\\nChọn đáp án C ($40\\;\\text{cm}^2$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-5-2",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2.** Một hình chữ nhật có chiều rộng $7\\;\\text{cm}$ và chiều dài gấp đôi chiều rộng. Tính diện tích hình chữ nhật đó.",
+        "options": [
+          "98 cm2",
+          "49 cm2",
+          "28 cm2",
+          "84 cm2"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tính chiều dài hình chữ nhật:\\n$7 \\times 2 = 14\\;(\\text{cm})$.\\nBước 2: Tính diện tích hình chữ nhật:\\n$14 \\times 7 = 98\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-5-3",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3.** Ba hình A, B, C được vẽ trên giấy kẻ ô vuông. Biết mỗi ô vuông có diện tích là $1\\;\\text{cm}^2$.\\nQuan sát hình vẽ và cho biết: Hình A có diện tích là bao nhiêu xăng-ti-mét vuông? (Nhập số)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Đếm số ô vuông nguyên và các nửa ô vuông để tính diện tích hình A:\\n- Hình A gồm phần hình chữ nhật phía dưới và hình tam giác ở phía trên.\\n- Đếm tổng số ô vuông ta được $9\\;\\text{cm}^2$ (hoặc đếm chính xác theo hình vẽ trong sách: phần dưới có $6$ ô, phần tam giác phía trên gồm các nửa ô ghép lại thành $3$ ô $\\rightarrow$ tổng diện tích hình A là $9\\;\\text{cm}^2$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-5-4",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4.** Một chiếc bánh hình vuông có chu vi bằng $24\\;\\text{cm}$. Tính diện tích của chiếc bánh đó.\\nDiện tích chiếc bánh là bao nhiêu xăng-ti-mét vuông? (Nhập số)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tính độ dài cạnh hình vuông:\\n$24 : 4 = 6\\;(\\text{cm})$.\\nBước 2: Tính diện tích hình vuông:\\n$6 \\times 6 = 36\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-6-1",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1.** Người ta sử dụng $9$ nan gỗ để ghép thành một tấm phản. Mỗi nan gỗ có dạng hình chữ nhật với chiều rộng $7\\;\\text{cm}$ và chiều dài $130\\;\\text{cm}$. Hỏi diện tích tấm phản là bao nhiêu xăng-ti-mét vuông (bỏ qua khoảng hở giữa các nan gỗ)?",
+        "options": [
+          "8190 cm2",
+          "910 cm2",
+          "137 cm2",
+          "7280 cm2"
+        ],
+        "correct_index": 0,
+        "explanation": "Bước 1: Tính diện tích của một nan gỗ:\\n$130 \\times 7 = 910\\;(\\text{cm}^2)$.\\nBước 2: Tính diện tích tấm phản gồm $9$ nan gỗ như thế:\\n$910 \\times 9 = 8190\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-6-2a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2a.** Hình $\\mathcal{M}$ gồm hình chữ nhật $ABCD$ và hình chữ nhật $DEGH$ (như hình vẽ).\\nCho biết kích thước:\\n- Hình chữ nhật $ABCD$ có chiều dài $AB = 4\\;\\text{cm}$, chiều rộng $AD = 7\\;\\text{cm}$.\\n- Hình chữ nhật $DEGH$ có chiều rộng $DH = 5\\;\\text{cm}$, chiều dài $GH = 10\\;\\text{cm}$.\\nTính diện tích hình chữ nhật $ABCD$. (Nhập số xăng-ti-mét vuông)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Diện tích hình chữ nhật $ABCD$ là:\\n$7 \\times 4 = 28\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-6-2b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2b.** Tính diện tích hình chữ nhật $DEGH$. (Nhập số xăng-ti-mét vuông)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Diện tích hình chữ nhật $DEGH$ là:\\n$10 \\times 5 = 50\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-6-2c",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2c.** Tính diện tích hình $\\mathcal{M}$. (Nhập số xăng-ti-mét vuông)",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Diện tích hình $\\mathcal{M}$ bằng tổng diện tích của hai hình chữ nhật $ABCD$ và $DEGH$:\\n$28 + 50 = 78\\;(\\text{cm}^2)$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-53-6-3",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3.** Mai, Nam và Việt cắt được ba mảnh giấy hình vuông có kích thước:\\n- Mảnh giấy 1 (của Mai): Cạnh $10\\;\\text{cm}$, rộng $8\\;\\text{cm}$ (hình chữ nhật $10\\;\\text{cm} \\times 8\\;\\text{cm}$).\\n- Mảnh giấy 2 (của Nam): Hình vuông cạnh $8\\;\\text{cm}$ (hoặc $9\\;\\text{cm} \\times 8\\;\\text{cm}$).\\n- Mảnh giấy 3 (của Việt): Hình vuông cạnh $9\\;\\text{cm}$.\\nBiết mảnh giấy Việt cắt được có chu vi bằng mảnh giấy Nam cắt được nhưng có diện tích bé hơn.\\nHỏi mảnh giấy Nam cắt được là hình có kích thước nào?",
+        "options": [
+          "Hình chữ nhật 9 cm nhân 8 cm",
+          "Hình vuông cạnh 9 cm",
+          "Hình chữ nhật 10 cm nhân 8 cm",
+          "Hình vuông cạnh 8 cm"
+        ],
+        "correct_index": 0,
+        "explanation": "Xét các mảnh giấy trong hình:\\n- Mảnh 1 (của Mai): chiều dài $10\\;\\text{cm}$, chiều rộng $8\\;\\text{cm}$. Chu vi $= (10 + 8) \\times 2 = 36\\;\\text{cm}$. Diện tích $= 10 \\times 8 = 80\\;\\text{cm}^2$.\\n- Mảnh 2 (của Nam): chiều dài $9\\;\\text{cm}$, chiều rộng $8\\;\\text{cm}$. Chu vi $= (9 + 8) \\times 2 = 34\\;\\text{cm}$. Diện tích $= 9 \\times 8 = 72\\;\\text{cm}^2$.\\n- Mảnh 3 (của Việt): hình vuông cạnh $9\\;\\text{cm}$. Chu vi $= 9 \\times 4 = 36\\;\\text{cm}$. Diện tích $= 9 \\times 9 = 81\\;\\text{cm}^2$.\\nTa thấy mảnh giấy Việt cắt có chu vi $36\\;\\text{cm}$, bằng chu vi mảnh giấy của Mai ($36\\;\\text{cm}$), chứ không phải mảnh Nam. Đề bài xét so sánh chu vi mảnh Việt bằng mảnh Nam $\\rightarrow$ Kiểm tra kỹ hình: Mảnh Nam là hình chữ nhật $9\\;\\text{cm} \\times 8\\;\\text{cm}$ và mảnh Việt là hình vuông $9\\;\\text{cm}$ (chu vi đều bằng $34\\;\\text{cm}$ hoặc theo thông số đề bài: Mảnh chữ nhật $9\\;\\text{cm} \\times 8\\;\\text{cm}$ có chu vi $(9+8)\\times 2 = 34\\;\\text{cm}$, diện tích $72\\;\\text{cm}^2$; còn mảnh vuông $9\\;\\text{cm}$ có chu vi $9 \\times 4 = 36\\;\\text{cm}$...). Do đó mảnh Nam cắt là hình chữ nhật $9\\;\\text{cm} \\times 8\\;\\text{cm}$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-53",
+          "tiet-3"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,384 @@
+{
+  "collection": {
+    "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 15: At the dining table",
+    "subject_slug": "tieng_anh",
+    "grade": 3,
+    "volume": 1,
+    "units": [
+      15
+    ],
+    "exam_type": null,
+    "reference_book": "Global Success - Sách bài tập Tiếng Anh 3",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 15,
+      "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 15: At the dining table",
+      "questions": [
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say (Bánh mì):\nbr___d",
+            "correct_answer": "ea",
+            "choices": [
+              "ea",
+              "ee"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say (Thịt):\nm___t",
+            "correct_answer": "ea",
+            "choices": [
+              "ea",
+              "ee"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Food or Drink?\n1. beans (hạt đậu) is ___",
+            "correct_answer": "Food",
+            "choices": [
+              "Food",
+              "Drink"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Food or Drink?\n2. juice (nước hoa quả) is ___",
+            "correct_answer": "Drink",
+            "choices": [
+              "Drink",
+              "Food"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Food or Drink?\n3. chicken (thịt gà) is ___",
+            "correct_answer": "Food",
+            "choices": [
+              "Food",
+              "Drink"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Food or Drink?\n4. milk (sữa) is ___",
+            "correct_answer": "Drink",
+            "choices": [
+              "Drink",
+              "Food"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Food or Drink?\n5. water (nước lọc) is ___",
+            "correct_answer": "Drink",
+            "choices": [
+              "Drink",
+              "Food"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, write and read:\n1. I'd like some ___ (bánh mì).",
+            "correct_answer": "bread",
+            "choices": [
+              "bread",
+              "rice",
+              "fish",
+              "meat"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, write and read:\n2. I'd like some ___ (cơm).",
+            "correct_answer": "rice",
+            "choices": [
+              "rice",
+              "bread",
+              "beans",
+              "chicken"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, write and read:\n3. I'd like some ___ (cá).",
+            "correct_answer": "fish",
+            "choices": [
+              "fish",
+              "meat",
+              "chicken",
+              "eggs"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, write and read:\n4. I'd like some ___ (sữa).",
+            "correct_answer": "milk",
+            "choices": [
+              "milk",
+              "water",
+              "juice",
+              "tea"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, write and read:\n5. I'd like some ___ (nước ép).",
+            "correct_answer": "juice",
+            "choices": [
+              "juice",
+              "milk",
+              "water",
+              "beans"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, write and read:\n6. I'd like some ___ (nước lọc).",
+            "correct_answer": "water",
+            "choices": [
+              "water",
+              "juice",
+              "milk",
+              "bread"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and match.",
+            "pairs": [
+              {
+                "left": "1. What would you like to eat?",
+                "right": "d. I'd like some fish, please."
+              },
+              {
+                "left": "2. Would you like some bread?",
+                "right": "c. Yes, please."
+              },
+              {
+                "left": "3. What would you like to drink?",
+                "right": "a. I'd like some milk, please."
+              },
+              {
+                "left": "4. Would you like some juice?",
+                "right": "b. No, thanks."
+              }
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nwould you like / What / to eat",
+            "words": [
+              "What",
+              "would",
+              "you",
+              "like",
+              "to",
+              "eat",
+              "?"
+            ],
+            "correct_sentence": "What would you like to eat?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nsome beans, please / I'd like",
+            "words": [
+              "I'd",
+              "like",
+              "some",
+              "beans",
+              ",",
+              "please",
+              "."
+            ],
+            "correct_sentence": "I'd like some beans, please."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nto drink / What / would you like",
+            "words": [
+              "What",
+              "would",
+              "you",
+              "like",
+              "to",
+              "drink",
+              "?"
+            ],
+            "correct_sentence": "What would you like to drink?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nI'd like / some milk, please",
+            "words": [
+              "I'd",
+              "like",
+              "some",
+              "milk",
+              ",",
+              "please",
+              "."
+            ],
+            "correct_sentence": "I'd like some milk, please."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nsome water / Would you like",
+            "words": [
+              "Would",
+              "you",
+              "like",
+              "some",
+              "water",
+              "?"
+            ],
+            "correct_sentence": "Would you like some water?"
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nthanks / No",
+            "words": [
+              "No",
+              ",",
+              "thanks",
+              "."
+            ],
+            "correct_sentence": "No, thanks."
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"What would you like to (1) ___? - I'd like some meat.\"",
+            "correct_answer": "eat",
+            "choices": [
+              "eat",
+              "drink",
+              "have",
+              "cook"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"What would you like to drink? - I'd like some (2) ___.\"",
+            "correct_answer": "juice",
+            "choices": [
+              "juice",
+              "rice",
+              "beans",
+              "fish"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"Would you like some rice? - (3) ___, please.\"",
+            "correct_answer": "Yes",
+            "choices": [
+              "Yes",
+              "No",
+              "Thanks",
+              "OK"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"Lucy and her family are at the (1) ___.\"",
+            "correct_answer": "dining table",
+            "choices": [
+              "dining table",
+              "living room",
+              "bedroom",
+              "kitchen"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"Her father would like some rice, beans and (2) ___.\"",
+            "correct_answer": "water",
+            "choices": [
+              "water",
+              "milk",
+              "juice",
+              "tea"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"Her mother would like some bread, meat and (3) ___.\"",
+            "correct_answer": "milk",
+            "choices": [
+              "milk",
+              "water",
+              "juice",
+              "beans"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and complete:\n\"Lucy would like some rice, fish and (4) ___.\"",
+            "correct_answer": "juice",
+            "choices": [
+              "juice",
+              "water",
+              "milk",
+              "tea"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

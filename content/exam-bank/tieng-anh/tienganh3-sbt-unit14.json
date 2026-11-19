@@ -1,0 +1,457 @@
+{
+  "collection": {
+    "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 14: My bedroom",
+    "subject_slug": "tieng_anh",
+    "grade": 3,
+    "volume": 1,
+    "units": [
+      14
+    ],
+    "exam_type": null,
+    "reference_book": "Global Success - Sách bài tập Tiếng Anh 3",
+    "status": "published"
+  },
+  "exams": [
+    {
+      "exam_number": 14,
+      "title": "Tiếng Anh 3 - Luyện theo sách bài tập - Unit 14: My bedroom",
+      "questions": [
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nd___",
+            "correct_answer": "oor",
+            "choices": [
+              "oor",
+              "oom"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 1. Complete and say:\nr___",
+            "correct_answer": "oom",
+            "choices": [
+              "oom",
+              "oor"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n1. Across (Cửa sổ): ___",
+            "correct_answer": "window",
+            "choices": [
+              "window",
+              "door",
+              "bedroom",
+              "desk"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n2. Across (Phòng ngủ): ___",
+            "correct_answer": "bedroom",
+            "choices": [
+              "bedroom",
+              "desk",
+              "window",
+              "door"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n3. Down (Bàn học): ___",
+            "correct_answer": "desk",
+            "choices": [
+              "desk",
+              "door",
+              "lamp",
+              "chair"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n4. Down (Cửa ra vào): ___",
+            "correct_answer": "door",
+            "choices": [
+              "door",
+              "desk",
+              "window",
+              "lamp"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 2. Do the puzzle:\n5. Down (Đèn ngủ): ___",
+            "correct_answer": "lamp",
+            "choices": [
+              "lamp",
+              "bed",
+              "chair",
+              "desk"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, write and read:\n1. The door is ___ (nhỏ).",
+            "correct_answer": "small",
+            "choices": [
+              "small",
+              "big",
+              "old",
+              "new"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, write and read:\n2. The window is ___ (to/lớn).",
+            "correct_answer": "big",
+            "choices": [
+              "big",
+              "small",
+              "old",
+              "new"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, write and read:\n3. There are two ___ (những chiếc giường).",
+            "correct_answer": "beds",
+            "choices": [
+              "beds",
+              "chairs",
+              "desks",
+              "doors"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, write and read:\n4. There are three ___ (những chiếc ghế).",
+            "correct_answer": "chairs",
+            "choices": [
+              "chairs",
+              "beds",
+              "lamps",
+              "desks"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "A. Phonics and Vocabulary - 3. Look, write and read:\n5. There is one ___ (bàn học).",
+            "correct_answer": "desk",
+            "choices": [
+              "desk",
+              "chair",
+              "bed",
+              "lamp"
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 1. Read and match.",
+            "pairs": [
+              {
+                "left": "1. Is the room big?",
+                "right": "c. Yes, it is."
+              },
+              {
+                "left": "2. Are the doors old?",
+                "right": "d. No, they aren't."
+              },
+              {
+                "left": "3. There is a bed",
+                "right": "b. in the bedroom."
+              },
+              {
+                "left": "4. There are two windows",
+                "right": "a. in the living room."
+              }
+            ]
+          }
+        },
+        {
+          "type": "matching",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 2. Read and match.",
+            "pairs": [
+              {
+                "left": "1. The bed is",
+                "right": "c. new."
+              },
+              {
+                "left": "2. The windows are",
+                "right": "d. big."
+              },
+              {
+                "left": "3. The desk is",
+                "right": "b. old."
+              },
+              {
+                "left": "4. The chairs are",
+                "right": "a. small."
+              }
+            ]
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nThe bed / new / is",
+            "words": [
+              "The",
+              "bed",
+              "is",
+              "new",
+              "."
+            ],
+            "correct_sentence": "The bed is new."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nThere is / in the room / a table",
+            "words": [
+              "There",
+              "is",
+              "a",
+              "table",
+              "in",
+              "the",
+              "room",
+              "."
+            ],
+            "correct_sentence": "There is a table in the room."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\nold / is / The chair",
+            "words": [
+              "The",
+              "chair",
+              "is",
+              "old",
+              "."
+            ],
+            "correct_sentence": "The chair is old."
+          }
+        },
+        {
+          "type": "sentence_reorder",
+          "metadata_json": {
+            "question": "B. Sentence Patterns - 3. Make sentences:\ntwo windows / are / There / in the living room",
+            "words": [
+              "There",
+              "are",
+              "two",
+              "windows",
+              "in",
+              "the",
+              "living",
+              "room",
+              "."
+            ],
+            "correct_sentence": "There are two windows in the living room."
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"Look at my (1) ___. It is big.\"",
+            "correct_answer": "bedroom",
+            "choices": [
+              "bedroom",
+              "bathroom",
+              "kitchen",
+              "house"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"It is (2) ___.\"",
+            "correct_answer": "big",
+            "choices": [
+              "big",
+              "small",
+              "old",
+              "tiny"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"(3) ___ a bed and a desk.\"",
+            "correct_answer": "There's",
+            "choices": [
+              "There's",
+              "There are",
+              "They're",
+              "It's"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"There are two (4) ___.\"",
+            "correct_answer": "chairs",
+            "choices": [
+              "chairs",
+              "beds",
+              "desks",
+              "doors"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 1. Read and complete:\n\"(5) ___ new.\"",
+            "correct_answer": "They're",
+            "choices": [
+              "They're",
+              "There's",
+              "It's",
+              "He's"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and choose True/False:\n1. The bedroom is small.",
+            "correct_answer": "False",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and choose True/False:\n2. There is a bed in the room.",
+            "correct_answer": "True",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and choose True/False:\n3. The desk is old.",
+            "correct_answer": "False",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and choose True/False:\n4. There are three chairs.",
+            "correct_answer": "False",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "D. Reading - 2. Read and choose True/False:\n5. The chairs are new.",
+            "correct_answer": "True",
+            "choices": [
+              "True",
+              "False"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n\"This is my (1) b___.\"",
+            "correct_answer": "bedroom",
+            "choices": [
+              "bedroom",
+              "bathroom",
+              "book",
+              "bag"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n\"There is a (2) b___.\"",
+            "correct_answer": "bed",
+            "choices": [
+              "bed",
+              "book",
+              "bird",
+              "boy"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n\"The room is (3) b___.\"",
+            "correct_answer": "big",
+            "choices": [
+              "big",
+              "bad",
+              "blue",
+              "brown"
+            ]
+          }
+        },
+        {
+          "type": "fill_blank",
+          "metadata_json": {
+            "question": "E. Writing - 1. Look and write:\n\"There are two (4) w___.\"",
+            "correct_answer": "windows",
+            "choices": [
+              "windows",
+              "water",
+              "workers",
+              "words"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

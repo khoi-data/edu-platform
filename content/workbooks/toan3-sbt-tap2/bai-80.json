@@ -1,0 +1,362 @@
+[
+  {
+    "bai": 80,
+    "title": "Bài 80: Ôn tập bảng số liệu, khả năng xảy ra của một sự kiện",
+    "book_pages": "122 - 123",
+    "topic": "Chủ đề 16: Ôn tập cuối năm",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-80-1a-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1.** Dựa vào bảng số liệu về số học sinh đăng kí tham gia 3 môn thi đấu tại hội trại của lớp 3A, mỗi cột của bảng trên cho biết điều gì?",
+        "options": [
+          "Cho biết số học sinh nam và nữ đăng kí tham gia từng môn thi đấu cụ thể.",
+          "Cho biết số học sinh tham gia của từng giới tính (Nam hoặc Nữ).",
+          "Cho biết tổng số học sinh của lớp 3A.",
+          "Cho biết tên của ba môn thi đấu tại hội trại."
+        ],
+        "correct_index": 0,
+        "explanation": "Quan sát bảng số liệu ta thấy mỗi cột (từ trái qua phải sau cột số học sinh) tương ứng với một môn thi đấu: Nhảy bao bố, Bịt mặt đập niêu, Tìm kẹo trong đĩa bột. Do đó, mỗi cột cho biết số học sinh nam và nữ đăng kí tham gia từng môn thi đấu cụ thể.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-1a-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1.** Dựa vào bảng số liệu, mỗi hàng của bảng trên (hàng Nữ và hàng Nam) cho biết điều gì?",
+        "options": [
+          "Cho biết số lượng học sinh nữ hoặc học sinh nam tham gia ở từng môn thi đấu.",
+          "Cho biết tên của các bạn học sinh tham gia.",
+          "Cho biết điểm số của từng đội thi.",
+          "Cho biết tổng số học sinh đạt giải."
+        ],
+        "correct_index": 0,
+        "explanation": "Mỗi hàng trong bảng phân chia rõ ràng theo giới tính (hàng Nữ, hàng Nam), cho biết số lượng học sinh nữ và nam đăng kí tham gia ở mỗi môn thi đấu.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-1b-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1b.** Dựa vào bảng, môn thi nào có nhiều bạn nữ đăng kí tham gia nhất?",
+        "options": [
+          "Bịt mặt đập niêu",
+          "Nhảy bao bố",
+          "Tìm kẹo trong đĩa bột",
+          "Cả ba môn đều bằng nhau"
+        ],
+        "correct_index": 0,
+        "explanation": "Nhìn vào hàng 'Nữ', ta thấy số lượng học sinh nữ tham gia các môn lần lượt là: Nhảy bao bố: 4, Bịt mặt đập niêu: 5, Tìm kẹo trong đĩa bột: 3. Vì $5 > 4 > 3$, nên môn Bịt mặt đập niêu có nhiều bạn nữ đăng kí tham gia nhất (5 bạn nữ).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-1b-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1b.** Dựa vào bảng, môn thi nào có ít bạn nữ đăng kí tham gia nhất?",
+        "options": [
+          "Tìm kẹo trong đĩa bột",
+          "Nhảy bao bố",
+          "Bịt mặt đập niêu",
+          "Không có môn nào"
+        ],
+        "correct_index": 0,
+        "explanation": "Số bạn nữ đăng kí các môn lần lượt là: Nhảy bao bố (4), Bịt mặt đập niêu (5), Tìm kẹo trong đĩa bột (3). Vì $3 < 4 < 5$, nên môn Tìm kẹo trong đĩa bột có ít bạn nữ tham gia nhất (3 bạn).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-1c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1c.** Biết mỗi bạn trong lớp 3A đều đăng kí tham gia đúng một môn thi đấu. Hỏi lớp 3A có tất cả bao nhiêu học sinh?",
+        "options": [
+          "27 học sinh",
+          "25 học sinh",
+          "24 học sinh",
+          "28 học sinh"
+        ],
+        "correct_index": 0,
+        "explanation": "Tổng số học sinh lớp 3A là tổng số học sinh nữ và nam tham gia tất cả các môn:\n- Tổng số bạn nữ: $4 + 5 + 3 = 12$ (học sinh).\n- Tổng số bạn nam: $5 + 4 + 6 = 15$ (học sinh).\n- Tổng số học sinh cả lớp là: $12 + 15 = 27$ (học sinh).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-2a-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2a.** Hoàn thành bảng số liệu: Số hạt đậu không nảy mầm của bạn Rô-bốt là bao nhiêu?",
+        "options": [
+          "0",
+          "20",
+          "7",
+          "10"
+        ],
+        "correct_index": 0,
+        "explanation": "Bạn Rô-bốt gieo tổng cộng 20 hạt và có 20 hạt nảy mầm. Vậy số hạt không nảy mầm là: $20 - 20 = 0$ (hạt).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-2a-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2a.** Hoàn thành bảng số liệu: Tổng số hạt đậu của bạn Việt là bao nhiêu?",
+        "options": [
+          "25",
+          "18",
+          "7",
+          "20"
+        ],
+        "correct_index": 0,
+        "explanation": "Bạn Việt có 18 hạt nảy mầm và 7 hạt không nảy mầm. Tổng số hạt đậu bạn Việt gieo là: $18 + 7 = 25$ (hạt).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-2a-3",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2a.** Hoàn thành bảng số liệu: Số hạt đậu không nảy mầm của bạn Nam là bao nhiêu?",
+        "options": [
+          "10",
+          "15",
+          "25",
+          "5"
+        ],
+        "correct_index": 0,
+        "explanation": "Bạn Nam có tổng cộng 25 hạt và có 15 hạt nảy mầm. Số hạt đậu không nảy mầm của Nam là: $25 - 15 = 10$ (hạt).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-2a-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2a.** Hoàn thành bảng số liệu: Tổng số hạt đậu của bạn Mai là bao nhiêu?",
+        "options": [
+          "30",
+          "20",
+          "10",
+          "25"
+        ],
+        "correct_index": 0,
+        "explanation": "Bạn Mai có 20 hạt nảy mầm và 10 hạt không nảy mầm. Tổng số hạt đậu Mai gieo là: $20 + 10 = 30$ (hạt).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-2b-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2b.** Dựa vào bảng số liệu, bạn nào gieo nhiều hạt nhất?",
+        "options": [
+          "Mai",
+          "Việt",
+          "Nam",
+          "Rô-bốt"
+        ],
+        "correct_index": 0,
+        "explanation": "Tổng số hạt gieo của từng bạn là:\n- Rô-bốt: 20 hạt\n- Việt: $18 + 7 = 25$ hạt\n- Nam: 25 hạt\n- Mai: $20 + 10 = 30$ hạt\nVì $30 > 25 > 20$, bạn Mai gieo nhiều hạt nhất (30 hạt).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-2b-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2b.** Dựa vào bảng số liệu, bạn nào có nhiều hạt nảy mầm nhất?",
+        "options": [
+          "Rô-bốt và Mai",
+          "Việt",
+          "Nam",
+          "Chỉ có Mai"
+        ],
+        "correct_index": 0,
+        "explanation": "Số hạt nảy mầm của các bạn lần lượt là: Rô-bốt (20), Việt (18), Nam (15), Mai (20). Hai bạn Rô-bốt và Mai có số hạt nảy mầm nhiều nhất (cùng là 20 hạt).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-2b-3",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2b.** Dựa vào bảng số liệu, bạn nào có ít hạt nảy mầm nhất?",
+        "options": [
+          "Nam",
+          "Việt",
+          "Rô-bốt",
+          "Mai"
+        ],
+        "correct_index": 0,
+        "explanation": "Số hạt nảy mầm của Nam là 15 hạt, ít nhất trong số các bạn (Rô-bốt: 20, Việt: 18, Mai: 20).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-2b-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2b.** Cả bốn bạn có tổng số bao nhiêu hạt đậu nảy mầm?",
+        "options": [
+          "73 hạt",
+          "53 hạt",
+          "80 hạt",
+          "70 hạt"
+        ],
+        "correct_index": 0,
+        "explanation": "Tổng số hạt nảy mầm của cả bốn bạn là: $20 + 18 + 15 + 20 = 73$ (hạt).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-3a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 3a.** Rô-bốt đang ngồi dưới cây táo thần có quả táo màu đỏ và màu xanh. Một quả táo rụng xuống trúng quyển sách: \"Quả táo đó chắc chắn là táo đỏ hoặc táo xanh.\" Phát biểu này Đúng hay Sai?",
+        "options": [
+          "Đúng (Đ)",
+          "Sai (S)"
+        ],
+        "correct_index": 0,
+        "explanation": "Đề bài cho biết trên cây chỉ có quả táo màu đỏ và màu xanh. Do đó, quả táo rụng xuống chắc chắn phải là táo đỏ hoặc táo xanh. Phát biểu này là Đúng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-3b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 3b.** \"Quả táo đó có thể là táo xanh.\" Phát biểu này Đúng hay Sai?",
+        "options": [
+          "Đúng (Đ)",
+          "Sai (S)"
+        ],
+        "correct_index": 0,
+        "explanation": "Vì trên cây có cả táo màu xanh, nên sự kiện quả táo rụng xuống có thể là táo xanh hoàn toàn có thể xảy ra. Phát biểu này là Đúng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-3c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 3c.** \"Quả táo đó có thể là táo vàng.\" Phát biểu này Đúng hay Sai?",
+        "options": [
+          "Sai (S)",
+          "Đúng (Đ)"
+        ],
+        "correct_index": 0,
+        "explanation": "Trên cây chỉ có táo màu đỏ và màu xanh, không có táo màu vàng. Do đó không thể có quả táo vàng rơi xuống. Phát biểu này là Sai.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-3d",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 3d.** \"Quả táo đó không thể là táo đỏ.\" Phát biểu này Đúng hay Sai?",
+        "options": [
+          "Sai (S)",
+          "Đúng (Đ)"
+        ],
+        "correct_index": 0,
+        "explanation": "Trên cây có táo màu đỏ, nên quả táo rơi xuống hoàn toàn có thể là táo đỏ. Nói \"không thể là táo đỏ\" là sai.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-80-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 4.** Trong hộp của Nam có 2 viên bi màu đỏ và 2 viên bi màu vàng. Nam không nhìn vào hộp và lấy ra 1 viên bi, rồi tặng số viên bi còn lại cho Việt. Việt có thể nhận được các viên bi màu gì?",
+        "options": [
+          "1 viên bi màu đỏ và 2 viên bi màu vàng hoặc 2 viên bi màu đỏ và 1 viên bi màu vàng",
+          "2 viên bi màu đỏ và 2 viên bi màu vàng",
+          "Chỉ 1 viên bi màu đỏ và 1 viên bi màu vàng",
+          "3 viên bi màu đỏ hoặc 3 viên bi màu vàng"
+        ],
+        "correct_index": 0,
+        "explanation": "Hộp ban đầu có 2 bi đỏ và 2 bi vàng (tổng 4 viên). Nam lấy ra 1 viên bi:\n- Trường hợp 1: Nam lấy ra 1 viên bi đỏ, trong hộp còn lại 1 viên bi đỏ và 2 viên bi vàng để tặng Việt.\n- Trường hợp 2: Nam lấy ra 1 viên bi vàng, trong hộp còn lại 2 viên bi đỏ và 1 viên bi vàng để tặng Việt.\nVậy Việt có thể nhận được 1 viên bi màu đỏ và 2 viên bi màu vàng hoặc 2 viên bi màu đỏ và 1 viên bi màu vàng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-80"
+        ]
+      }
+    ]
+  }
+]

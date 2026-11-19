@@ -1,0 +1,224 @@
+[
+  {
+    "bai": 48,
+    "title": "Bài 48: Làm tròn số đến hàng chục, hàng trăm",
+    "book_pages": "13 - 13",
+    "topic": "Chủ đề 8: Các số đến 10 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-48-1-a-tens",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1. Số ?**\nKhi làm tròn số $5\\;072$ đến hàng chục, ta được số nào?",
+        "options": [
+          "$5\\;070$",
+          "$5\\;080$",
+          "$5\\;000$",
+          "$5\\;100$"
+        ],
+        "correct_index": 0,
+        "explanation": "Để làm tròn số $5\\;072$ đến hàng chục, chúng ta cần nhìn vào chữ số ở hàng đơn vị.\nChữ số hàng đơn vị là $2$. Vì $2$ nhỏ hơn $5$, ta sẽ làm tròn xuống.\nGiữ nguyên chữ số hàng chục ($7$) và thay chữ số hàng đơn vị bằng $0$.\nVậy, $5\\;072$ làm tròn đến hàng chục là $5\\;070$.\nĐáp án đúng là $5\\;070$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-48",
+          "lam-tron-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-48-1-a-hundreds",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1. Số ?**\nKhi làm tròn số $5\\;072$ đến hàng trăm, ta được số nào?",
+        "options": [
+          "$5\\;100$",
+          "$5\\;000$",
+          "$5\\;070$",
+          "$5\\;080$"
+        ],
+        "correct_index": 0,
+        "explanation": "Để làm tròn số $5\\;072$ đến hàng trăm, chúng ta cần nhìn vào chữ số ở hàng chục.\nChữ số hàng chục là $7$. Vì $7$ lớn hơn hoặc bằng $5$, ta sẽ làm tròn lên.\nChữ số hàng trăm là $0$, làm tròn lên thành $1$. Các chữ số hàng chục và đơn vị thay bằng $0$.\nVậy, $5\\;072$ làm tròn đến hàng trăm là $5\\;100$.\nĐáp án đúng là $5\\;100$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-48",
+          "lam-tron-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-48-1-b-tens",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1. Số ?**\nKhi làm tròn số $8\\;135$ đến hàng chục, ta được số nào?",
+        "options": [
+          "$8\\;140$",
+          "$8\\;130$",
+          "$8\\;100$",
+          "$8\\;200$"
+        ],
+        "correct_index": 0,
+        "explanation": "Để làm tròn số $8\\;135$ đến hàng chục, chúng ta cần nhìn vào chữ số ở hàng đơn vị.\nChữ số hàng đơn vị là $5$. Vì $5$ lớn hơn hoặc bằng $5$, ta sẽ làm tròn lên.\nChữ số hàng chục là $3$, làm tròn lên thành $4$. Chữ số hàng đơn vị thay bằng $0$.\nVậy, $8\\;135$ làm tròn đến hàng chục là $8\\;140$.\nĐáp án đúng là $8\\;140$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-48",
+          "lam-tron-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-48-1-b-hundreds",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1. Số ?**\nKhi làm tròn số $8\\;135$ đến hàng trăm, ta được số nào?",
+        "options": [
+          "$8\\;100$",
+          "$8\\;200$",
+          "$8\\;130$",
+          "$8\\;140$"
+        ],
+        "correct_index": 0,
+        "explanation": "Để làm tròn số $8\\;135$ đến hàng trăm, chúng ta cần nhìn vào chữ số ở hàng chục.\nChữ số hàng chục là $3$. Vì $3$ nhỏ hơn $5$, ta sẽ làm tròn xuống.\nGiữ nguyên chữ số hàng trăm ($1$) và thay các chữ số hàng chục, hàng đơn vị bằng $0$.\nVậy, $8\\;135$ làm tròn đến hàng trăm là $8\\;100$.\nĐáp án đúng là $8\\;100$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-48",
+          "lam-tron-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-48-1-c-tens",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1. Số ?**\nKhi làm tròn số $9\\;588$ đến hàng chục, ta được số nào?",
+        "options": [
+          "$9\\;590$",
+          "$9\\;580$",
+          "$9\\;500$",
+          "$9\\;600$"
+        ],
+        "correct_index": 0,
+        "explanation": "Để làm tròn số $9\\;588$ đến hàng chục, chúng ta cần nhìn vào chữ số ở hàng đơn vị.\nChữ số hàng đơn vị là $8$. Vì $8$ lớn hơn hoặc bằng $5$, ta sẽ làm tròn lên.\nChữ số hàng chục là $8$, làm tròn lên thành $9$. Chữ số hàng đơn vị thay bằng $0$.\nVậy, $9\\;588$ làm tròn đến hàng chục là $9\\;590$.\nĐáp án đúng là $9\\;590$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-48",
+          "lam-tron-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-48-1-c-hundreds",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 1. Số ?**\nKhi làm tròn số $9\\;588$ đến hàng trăm, ta được số nào?",
+        "options": [
+          "$9\\;600$",
+          "$9\\;500$",
+          "$9\\;580$",
+          "$9\\;590$"
+        ],
+        "correct_index": 0,
+        "explanation": "Để làm tròn số $9\\;588$ đến hàng trăm, chúng ta cần nhìn vào chữ số ở hàng chục.\nChữ số hàng chục là $8$. Vì $8$ lớn hơn hoặc bằng $5$, ta sẽ làm tròn lên.\nChữ số hàng trăm là $5$, làm tròn lên thành $6$. Các chữ số hàng chục và đơn vị thay bằng $0$.\nVậy, $9\\;588$ làm tròn đến hàng trăm là $9\\;600$.\nĐáp án đúng là $9\\;600$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-48",
+          "lam-tron-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-48-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 2. Viết tiếp vào chỗ chấm cho thích hợp.**\nĐỉnh núi Khang Su Văn (Lai Châu) cao $3\\;012$ m. Khi làm tròn số đo đó đến hàng trăm, Nam nói 'Đỉnh núi Khang Su Văn cao khoảng $3\\;000$ m', Mai nói 'Đỉnh núi đó cao khoảng $3\\;100$ m'. Theo em, bạn nào nói đúng?",
+        "options": [
+          "Nam",
+          "Mai",
+          "Cả Nam và Mai đều đúng",
+          "Cả Nam và Mai đều sai"
+        ],
+        "correct_index": 0,
+        "explanation": "Chúng ta cần làm tròn số $3\\;012$ đến hàng trăm.\nĐể làm tròn đến hàng trăm, ta xét chữ số ở hàng chục, đó là chữ số $1$.\nVì $1$ nhỏ hơn $5$, ta làm tròn xuống. Tức là giữ nguyên chữ số hàng trăm ($0$) và thay các chữ số hàng chục, hàng đơn vị bằng $0$.\nVậy, $3\\;012$ làm tròn đến hàng trăm là $3\\;000$.\nDo đó, Nam nói đúng còn Mai nói sai.\nĐáp án đúng là Nam.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-48",
+          "lam-tron-so",
+          "ung-dung"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-48-3-a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 3. Viết tiếp vào chỗ chấm cho thích hợp.**\nRô-bốt cùng Mai ghé thăm vườn quốc gia và gặp một con hà mã nặng $3\\;945$ kg.\nMai nói: 'Con hà mã đó nặng khoảng $3\\;900$ kg'.\nHãy cho biết Mai đã làm tròn số $3\\;945$ kg đến hàng nào để được $3\\;900$ kg?",
+        "options": [
+          "chục",
+          "trăm",
+          "nghìn",
+          "đơn vị"
+        ],
+        "correct_index": 1,
+        "explanation": "Số hà mã nặng là $3\\;945$ kg.\nMai nói 'Con hà mã đó nặng khoảng $3\\;900$ kg'.\nĐể làm tròn $3\\;945$ thành $3\\;900$, chúng ta đã làm tròn đến hàng trăm.\nCụ thể, chữ số hàng chục của $3\\;945$ là $4$. Vì $4$ nhỏ hơn $5$, ta làm tròn xuống, giữ nguyên chữ số hàng trăm là $9$ và thay chữ số hàng chục, đơn vị bằng $0$.\nVậy, Mai đã làm tròn số đến hàng trăm.\nĐáp án đúng là trăm.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-48",
+          "lam-tron-so",
+          "ung-dung"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-48-3-b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 3. Viết tiếp vào chỗ chấm cho thích hợp.**\nRô-bốt cùng Mai ghé thăm vườn quốc gia và gặp một con hà mã nặng $3\\;945$ kg.\nRô-bốt nói: 'Con hà mã đó nặng khoảng $3\\;950$ kg'.\nHãy cho biết Rô-bốt đã làm tròn số $3\\;945$ kg đến hàng nào để được $3\\;950$ kg?",
+        "options": [
+          "chục",
+          "trăm",
+          "nghìn",
+          "đơn vị"
+        ],
+        "correct_index": 0,
+        "explanation": "Số hà mã nặng là $3\\;945$ kg.\nRô-bốt nói 'Con hà mã đó nặng khoảng $3\\;950$ kg'.\nĐể làm tròn $3\\;945$ thành $3\\;950$, chúng ta đã làm tròn đến hàng chục.\nCụ thể, chữ số hàng đơn vị của $3\\;945$ là $5$. Vì $5$ lớn hơn hoặc bằng $5$, ta làm tròn lên, chữ số hàng chục là $4$ thành $5$, và thay chữ số hàng đơn vị bằng $0$.\nVậy, Rô-bốt đã làm tròn số đến hàng chục.\nĐáp án đúng là chục.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-48",
+          "lam-tron-so",
+          "ung-dung"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-48-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Bài 4. Viết số thích hợp vào chỗ chấm.**\nDựa vào quy tắc làm tròn số, một chiếc máy đã lần lượt biến các số $2\\;517$, $7\\;512$, $1\\;275$ thành các số tương ứng là $2\\;520$, $7\\;510$, $1\\;280$. Vậy chiếc máy đó sẽ biến số $5\\;271$ thành số nào?",
+        "options": [
+          "$5\\;270$",
+          "$5\\;280$",
+          "$5\\;200$",
+          "$5\\;300$"
+        ],
+        "correct_index": 0,
+        "explanation": "Chúng ta hãy cùng phân tích cách chiếc máy làm tròn các số:\n- Từ $2\\;517$ thành $2\\;520$: Chữ số hàng đơn vị là $7$. Vì $7 \\ge 5$, làm tròn lên hàng chục, $1$ thành $2$. Đây là làm tròn đến hàng chục.\n- Từ $7\\;512$ thành $7\\;510$: Chữ số hàng đơn vị là $2$. Vì $2 < 5$, làm tròn xuống hàng chục, giữ nguyên $1$. Đây cũng là làm tròn đến hàng chục.\n- Từ $1\\;275$ thành $1\\;280$: Chữ số hàng đơn vị là $5$. Vì $5 \\ge 5$, làm tròn lên hàng chục, $7$ thành $8$. Đây cũng là làm tròn đến hàng chục.\nVậy, chiếc máy này làm tròn số đến hàng chục.\nBây giờ, chúng ta sẽ áp dụng quy tắc này cho số $5\\;271$.\nĐể làm tròn $5\\;271$ đến hàng chục, chúng ta xét chữ số hàng đơn vị là $1$.\nVì $1 < 5$, ta làm tròn xuống. Giữ nguyên chữ số hàng chục là $7$ và thay chữ số hàng đơn vị bằng $0$.\nVậy, số $5\\;271$ sẽ biến thành $5\\;270$.\nĐáp án đúng là $5\\;270$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-48",
+          "lam-tron-so",
+          "quy-tac-may"
+        ]
+      }
+    ]
+  }
+]

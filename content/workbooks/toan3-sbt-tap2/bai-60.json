@@ -1,0 +1,375 @@
+[
+  {
+    "bai": 60,
+    "title": "Bài 60: So sánh các số trong phạm vi 100 000",
+    "book_pages": "59 - 61",
+    "topic": "Chủ đề 11: Các số đến 100 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-60-1a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1a.** Điền dấu thích hợp ($\text{Đ}$ hoặc $\text{S}$) vào ô trống: $4\\;832 < 14\\;920$",
+        "options": [
+          "Đúng (Đ)",
+          "Sai (S)"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta so sánh hai số $4\\;832$ và $14\\;920$. Số $4\\;832$ có 4 chữ số, số $14\\;920$ có 5 chữ số. Số có ít chữ số hơn thì bé hơn. Do đó $4\\;832 < 14\\;920$ là phát biểu Đúng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-1b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1b.** Điền dấu thích hợp ($\text{Đ}$ hoặc $\text{S}$) vào ô trống: $47\\;399 > 50\\;000$",
+        "options": [
+          "Đúng (Đ)",
+          "Sai (S)"
+        ],
+        "correct_index": 1,
+        "explanation": "So sánh hàng chục nghìn của hai số: $4 < 5$, nên $47\\;399 < 50\\;000$. Do đó phát biểu $47\\;399 > 50\\;000$ là Sai.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-1c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1c.** Điền dấu thích hợp ($\text{Đ}$ hoặc $\text{S}$) vào ô trống: $52\\;000 < 51\\;999$",
+        "options": [
+          "Đúng (Đ)",
+          "Sai (S)"
+        ],
+        "correct_index": 1,
+        "explanation": "So sánh hàng nghìn của hai số: $2 > 1$, nên $52\\;000 > 51\\;999$. Do đó phát biểu $52\\;000 < 51\\;999$ là Sai.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-1d",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1d.** Điền dấu thích hợp ($\text{Đ}$ hoặc $\text{S}$) vào ô trống: $60\\;000 + 6 = 60\\;006$",
+        "options": [
+          "Đúng (Đ)",
+          "Sai (S)"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện phép tính: $60\\;000 + 6 = 60\\;006$. Do đó biểu thức hai vế bằng nhau, phát biểu là Đúng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-2a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2a.** Điền dấu thích hợp ($>; <; =$) vào chỗ chấm: $32\\;160 \\;\\ldots\\; 32\\;200$",
+        "options": [
+          ">",
+          "<",
+          "="
+        ],
+        "correct_index": 1,
+        "explanation": "Cả hai số đều có 5 chữ số và hàng chục nghìn, hàng nghìn giống nhau ($32$). So sánh đến hàng trăm: $1 < 2$, nên $32\\;160 < 32\\;200$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-2b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2b.** Điền dấu thích hợp ($>; <; =$) vào chỗ chấm: $57\\;950 \\;\\ldots\\; 56\\;950$",
+        "options": [
+          ">",
+          "<",
+          "="
+        ],
+        "correct_index": 0,
+        "explanation": "So sánh hàng nghìn của hai số: $7 > 6$, nên $57\\;950 > 56\\;950$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-2c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2c.** Điền dấu thích hợp ($>; <; =$) vào chỗ chấm: $34\\;890 \\;\\ldots\\; 30\\;000 + 4\\;000 + 800 + 90$",
+        "options": [
+          ">",
+          "<",
+          "="
+        ],
+        "correct_index": 2,
+        "explanation": "Ta có tổng các số bên phải là: $30\\;000 + 4\\;000 + 800 + 90 = 34\\;890$. Vì hai vế đều bằng nhau nên ta điền dấu $=$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-3",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 3.** Ô tô xuất phát từ điểm dưới cùng và di chuyển theo các ngã rẽ ghi số **lớn hơn** ở mỗi ngã ba/ngã tư để đi đến địa điểm cuối cùng. Hỏi ô tô sẽ đi đến địa điểm nào?",
+        "options": [
+          "Sân vận động",
+          "Trường tiểu học",
+          "Khu sinh thái",
+          "Bệnh viện"
+        ],
+        "correct_index": 3,
+        "explanation": "Từ điểm xuất phát, so sánh hai nhánh: $32\\;728$ và $40\\;050$, chọn số lớn hơn là $40\\;050$. Tiếp tục tại ngã rẽ tiếp theo, so sánh các nhánh, chọn số lớn hơn để đi theo hướng bên phải và cuối cùng đi tới Bệnh viện.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-4-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4 (Ý 1).** Lượng hàng hoá của các tàu: Tàu 1 chở $27\\;000\\text{ kg}$, Tàu 2 chở $41\\;000\\text{ kg}$, Tàu 3 chở $29\\;000\\text{ kg}$. Biết tàu **Đại Dương** chở hàng hoá nặng nhất. Hỏi tàu Đại Dương là tàu nào?",
+        "options": [
+          "Tàu chở $27\\;000\\text{ kg}$",
+          "Tàu chở $41\\;000\\text{ kg}$",
+          "Tàu chở $29\\;000\\text{ kg}$"
+        ],
+        "correct_index": 1,
+        "explanation": "So sánh lượng hàng hóa của các tàu: $27\\;000 < 29\\;000 < 41\\;000$. Tàu chở nặng nhất là tàu có số lớn nhất ($41\\;000\\text{ kg}$), đó chính là tàu Đại Dương.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-1a-tiet2",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1a.** Theo số liệu năm 2019, số dân của bốn dân tộc: Thổ ($91\\;430$), Bru Vân Kiều ($94\\;598$), Tà Ôi ($52\\;356$), La Chí ($15\\;126$). Viết các số dân trên theo thứ tự từ bé đến lớn: \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Sắp xếp các số từ bé đến lớn dựa vào việc so sánh giá trị: $15\\;126 < 52\\;356 < 91\\;430 < 94\\;598$. Các số theo thứ tự là: $15\\;126$, $52\\;356$, $91\\;430$, $94\\;598$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-1b1",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1b (Ý 1).** Trong bốn dân tộc trên, dân tộc nào **đông dân nhất**?",
+        "options": [
+          "Dân tộc Thổ",
+          "Dân tộc Bru Vân Kiều",
+          "Dân tộc Tà Ôi",
+          "Dân tộc La Chí"
+        ],
+        "correct_index": 1,
+        "explanation": "Số dân lớn nhất là $94\\;598$ người, thuộc về dân tộc Bru Vân Kiều.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-1b2",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1b (Ý 2).** Trong bốn dân tộc trên, dân tộc nào **ít dân nhất**?",
+        "options": [
+          "Dân tộc Thổ",
+          "Dân tộc Bru Vân Kiều",
+          "Dân tộc Tà Ôi",
+          "Dân tộc La Chí"
+        ],
+        "correct_index": 3,
+        "explanation": "Số dân nhỏ nhất là $15\\;126$ người, thuộc về dân tộc La Chí.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-2a",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2a.** Dựa vào bảng số lượt xem các chương trình: Tiếng Anh lớp 3 ($73\\;353$), Thủ công lớp 3 ($32\\;795$), Ca nhạc thiếu nhi ($45\\;728$), Kĩ năng sống ($78\\;000$). Chương trình có lượt xem **nhiều nhất** là:",
+        "options": [
+          "Tiếng Anh lớp 3",
+          "Thủ công lớp 3",
+          "Ca nhạc thiếu nhi",
+          "Kĩ năng sống"
+        ],
+        "correct_index": 3,
+        "explanation": "So sánh các số lượt xem: $32\\;795 < 45\\;728 < 73\\;353 < 78\\;000$. Số lớn nhất là $78\\;000$, ứng với chương trình Kĩ năng sống.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-2b",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2b.** Chương trình có lượt xem **ít nhất** là:",
+        "options": [
+          "Tiếng Anh lớp 3",
+          "Thủ công lớp 3",
+          "Ca nhạc thiếu nhi",
+          "Kĩ năng sống"
+        ],
+        "correct_index": 1,
+        "explanation": "Số lượt xem nhỏ nhất là $32\\;795$, ứng với chương trình Thủ công lớp 3.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-2c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2c.** Những chương trình có trên $50\\;000$ lượt xem là: \\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta tìm các số lớn hơn $50\\;000$: $73\\;353$ (Tiếng Anh lớp 3) và $78\\;000$ (Kĩ năng sống).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-3-min",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Số ki-lô-mét ba ô tô đi được lần lượt là: $42\\;857\\text{ km}$, $43\\;000\\text{ km}$, $60\\;000\\text{ km}$. Ô tô đi được số ki-lô-mét **ít nhất** (tô màu xanh) tương ứng với số:",
+        "options": [
+          "$42\\;857$",
+          "$43\\;000$",
+          "$60\\;000$"
+        ],
+        "correct_index": 0,
+        "explanation": "So sánh các số: $42\\;857 < 43\\;000 < 60\\;000$. Số nhỏ nhất là $42\\;857$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-3-max",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3 (tiếp).** Ô tô đi được số ki-lô-mét **nhiều nhất** (tô màu vàng) tương ứng với số:",
+        "options": [
+          "$42\\;857$",
+          "$43\\;000$",
+          "$60\\;000$"
+        ],
+        "correct_index": 2,
+        "explanation": "Số lớn nhất trong ba số là $60\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-4a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4a.** Điền chữ số thích hợp vào ô trống: $73\\;281 > 73\\;2\\dots$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Để $73\\;281 > 73\\;2\\dots$, chữ số hàng đơn vị ở ô trống phải bé hơn $1$. Chữ số thỏa mãn là $0$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-60-4b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4b.** Điền chữ số thích hợp vào ô trống: $62\\;874 < 62\\dots 74$",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Để $62\\;874 < 62\\dots 74$, so sánh hàng trăm ta thấy $8$ phải bé hơn chữ số ở ô trống. Các chữ số có thể điền là $9$ (vì $8 < 9$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-60",
+          "tiet-2"
+        ]
+      }
+    ]
+  }
+]

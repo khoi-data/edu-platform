@@ -1,0 +1,557 @@
+[
+  {
+    "bai": 57,
+    "title": "Bài 57: Chia số có bốn chữ số cho số có một chữ số",
+    "book_pages": "46 - 48",
+    "topic": "Chủ đề 10: Phép cộng, phép trừ, phép nhân, phép chia trong phạm vi 10 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-57-t1-b1a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1 (Phần 1).** Tính: $4\\;088 : 4$",
+        "options": [
+          "$1\\;022$",
+          "$1\\;202$",
+          "$1\\;020$",
+          "$1\\;002$"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính từ trái sang phải:\n- $4 : 4 = 1$\n- $0 : 4 = 0$\n- $8 : 4 = 2$\n- $8 : 4 = 2$\nVậy $4\\;088 : 4 = 1\\;022$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t1-b1b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1 (Phần 2).** Tính: $7\\;707 : 7$",
+        "options": [
+          "$1\\;010$",
+          "$1\\;101$",
+          "$1\\;110$",
+          "$1\\;111$"
+        ],
+        "correct_index": 1,
+        "explanation": "Ta đặt tính và tính từ trái sang phải:\n- $7 : 7 = 1$\n- $7 : 7 = 1$\n- $0 : 7 = 0$\n- $7 : 7 = 1$\nVậy $7\\;707 : 7 = 1\\;101$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t1-b1c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 1 (Phần 3).** Tính: $3\\;648 : 6$",
+        "options": [
+          "$508$",
+          "$608$",
+          "$680$",
+          "$618$"
+        ],
+        "correct_index": 1,
+        "explanation": "Ta đặt tính và tính từ trái sang phải:\n- Lấy $36 : 6 = 6$\n- Hạ $4$, $4 < 6$ nên $4 : 6 = 0$ (viết $0$, nhớ $4$ hoặc hạ tiếp $8$ thành $48$)\n- Lấy $48 : 6 = 8$\nVậy $3\\;648 : 6 = 608$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t1-b2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Một nhà máy lắp ráp được $1\\;809$ ô tô tải trong $9$ ngày. Hỏi mỗi ngày nhà máy lắp ráp được bao nhiêu ô tô tải? Biết rằng số ô tô tải nhà máy lắp ráp được trong mỗi ngày là như nhau.",
+        "options": [
+          "$201$ ô tô tải",
+          "$210$ ô tô tải",
+          "$209$ ô tô tải",
+          "$190$ ô tô tải"
+        ],
+        "correct_index": 0,
+        "explanation": "Số ô tô tải mỗi ngày nhà máy lắp ráp được là:\n$1\\;809 : 9 = 201$ (ô tô tải).\nĐáp số: $201$ ô tô tải.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t1-b3a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3 (Ý 1).** Có hai trang trại nuôi lợn. Trang trại thứ nhất có $3\\;600$ con lợn. Số con lợn ở trang trại thứ hai bằng số con lợn ở trang trại thứ nhất giảm đi $4$ lần. Trang trại thứ hai có ...... con lợn.",
+        "options": [
+          "900"
+        ],
+        "correct_index": 0,
+        "explanation": "Số con lợn ở trang trại thứ hai là:\n$3\\;600 : 4 = 900$ (con lợn).\nĐiền số: $900$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t1-b3b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3 (Ý 2).** Cả hai trang trại có ...... con lợn.",
+        "options": [
+          "4500"
+        ],
+        "correct_index": 0,
+        "explanation": "Số con lợn ở trang trại thứ hai là $900$ con.\nSố con lợn ở cả hai trang trại là:\n$3\\;600 + 900 = 4\\;500$ (con lợn).\nĐiền số: $4\\;500$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t1-b4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4.** Khoanh vào chữ đặt trước câu trả lời đúng. Chia đều $8\\;640$ bút chì vào $8$ hộp. Mỗi hộp có bao nhiêu bút chì?",
+        "options": [
+          "1 604 bút chì",
+          "1 085 bút chì",
+          "1 080 bút chì",
+          "1 008 bút chì"
+        ],
+        "correct_index": 2,
+        "explanation": "Số bút chì trong mỗi hộp là:\n$8\\;640 : 8 = 1\\;080$ (bút chì).\nVậy đáp án đúng là C.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t2-b1a1",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1a (Phần 1).** Tính: $5\\;607 : 5$",
+        "options": [
+          "$1\\;121$ (dư $2$)",
+          "$1\\;120$ (dư $7$)",
+          "$1\\;102$ (dư $1$)",
+          "$1\\;121$ (dư $1$)"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính:\n- $5 : 5 = 1$\n- Hạ $6$, $6 : 5 = 1$ (dư $1$)\n- Hạ $0$, được $10$, $10 : 5 = 2$\n- Hạ $7$, $7 : 5 = 1$ (dư $2$)\nVậy $5\\;607 : 5 = 1\\;121$ (dư $2$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t2-b1a2",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 1a (Phần 2).** Tính: $2\\;854 : 3$",
+        "options": [
+          "$951$ (dư $1$)",
+          "$951$ (dư $2$)",
+          "$950$ (dư $4$)",
+          "$952$ (dư $1$)"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta đặt tính và tính:\n- $28 : 3 = 9$ (dư $1$)\n- Hạ $5$, được $15$, $15 : 3 = 5$\n- Hạ $4$, $4 : 3 = 1$ (dư $1$)\nVậy $2\\;854 : 3 = 951$ (dư $1$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t2-b1b1",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1b (Phần 1).** Số dư của phép chia $5\\;847 : 2$ là:",
+        "options": [
+          "1"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện phép chia $5\\;847 : 2$:\n- $5 : 2 = 2$ (dư $1$)\n- Hạ $8$, được $18$, $18 : 2 = 9$\n- Hạ $4$, $4 : 2 = 2$\n- Hạ $7$, $7 : 2 = 3$ (dư $1$)\nThương là $2\\;923$, số dư là $1$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t2-b1b2",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1b (Phần 2).** Số dư của phép chia $8\\;219 : 4$ là:",
+        "options": [
+          "3"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện phép chia $8\\;219 : 4$:\n- $8 : 4 = 2$\n- Hạ $2$, $2 < 4$ nên $2 : 4 = 0$ (dư $2$)\n- Hạ $1$, được $21$, $21 : 4 = 5$ (dư $1$)\n- Hạ $9$, được $19$, $19 : 4 = 4$ (dư $3$)\nThương là $2\\;054$, số dư là $3$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t2-b2",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 2.** Một đội quân kiến có $5\\;603$ kiến thợ. Cứ $7$ kiến thợ khiêng một hạt lạc. Vậy cả đội quân khiêng được ...... hạt lạc và còn thừa ...... kiến thợ.",
+        "options": [
+          "800 hạt lạc và còn thừa 3 kiến thợ",
+          "801 hạt lạc và còn thừa 2 kiến thợ",
+          "799 hạt lạc và còn thừa 0 kiến thợ",
+          "800 hạt lạc và còn thừa 4 kiến thợ"
+        ],
+        "correct_index": 0,
+        "explanation": "Thực hiện phép chia: $5\\;603 : 7 = 800$ (dư $3$).\nVậy khiêng được $800$ hạt lạc và còn thừa $3$ kiến thợ.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t2-b3",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3.** Tuổi thọ của gián là $4\\;200$ giờ và nhiều gấp $6$ lần tuổi thọ của muỗi. Vậy muỗi có tuổi thọ là ...... giờ.",
+        "options": [
+          "700"
+        ],
+        "correct_index": 0,
+        "explanation": "Tuổi thọ của muỗi là:\n$4\\;200 : 6 = 700$ (giờ).\nĐiền số: $700$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t2-b4a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4a.** Viết chữ số thích hợp vào ô trống: $\\square 400 : 3 = 800$",
+        "options": [
+          "2"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có: $\\square 400 = 800 \\times 3 = 2\\;400$.\nVậy chữ số cần điền vào ô trống là $2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t2-b4b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4b.** Viết chữ số thích hợp vào ô trống: $\\square \\square 00 : 6 = 500$",
+        "options": [
+          "3",
+          "0"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có: $\\square \\square 00 = 500 \\times 6 = 3\\;000$.\nVậy số cần điền là $3\\;000$, tức là điền các chữ số $3$ và $0$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t2-b4c",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 4c.** Viết chữ số thích hợp vào ô trống: $3 \\square 00 : 4 = 800$",
+        "options": [
+          "2"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta có: $3 \\square 00 = 800 \\times 4 = 3\\;200$.\nVậy chữ số cần điền vào ô trống là $2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t3-b1a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1 (Phần 1).** Đặt tính rồi tính: $4\\;436 : 4$",
+        "options": [
+          "$1\\;109$",
+          "$1\\;190$",
+          "$1\\;019$",
+          "$1\\;119$"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện phép chia:\n- $4 : 4 = 1$\n- $4 : 4 = 1$\n- $3 : 4 = 0$ (dư $3$)\n- $36 : 4 = 9$\nVậy $4\\;436 : 4 = 1\\;109$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t3-b1b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1 (Phần 2).** Đặt tính rồi tính: $2\\;590 : 5$",
+        "options": [
+          "$518$",
+          "$508$",
+          "$581$",
+          "$510$"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện phép chia:\n- $25 : 5 = 5$\n- $9 : 5 = 1$ (dư $4$)\n- $40 : 5 = 8$\nVậy $2\\;590 : 5 = 518$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t3-b1c",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1 (Phần 3).** Đặt tính rồi tính: $8\\;007 : 8$",
+        "options": [
+          "$1\\;000$ (dư $7$)",
+          "$1\\;001$ (dư $7$)",
+          "$1\\;000$ (dư $1$)",
+          "$1\\;001$ (dư $1$)"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện phép chia:\n- $8 : 8 = 1$\n- $0 : 8 = 0$\n- $0 : 8 = 0$\n- $7 : 8 = 0$ (dư $7$)\nVậy $8\\;007 : 8 = 1\\;000$ (dư $7$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t3-b1d",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 1 (Phần 4).** Đặt tính rồi tính: $1\\;928 : 6$",
+        "options": [
+          "$321$ (dư $2$)",
+          "$321$ (dư $1$)",
+          "$320$ (dư $8$)",
+          "$322$ (dư $4$)"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta thực hiện phép chia:\n- $19 : 6 = 3$ (dư $1$)\n- $12 : 6 = 2$\n- $8 : 6 = 1$ (dư $2$)\nVậy $1\\;928 : 6 = 321$ (dư $2$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t3-b2a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2 (Phần 1).** Tính nhẩm: $6\\;000 : 3 = \\dots$",
+        "options": [
+          "2000"
+        ],
+        "correct_index": 0,
+        "explanation": "Nhẩm: $6$ nghìn $: 3 = 2$ nghìn, vậy $6\\;000 : 3 = 2\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t3-b2b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2 (Phần 2).** Tính nhẩm: $4\\;000 : 2 = \\dots$",
+        "options": [
+          "2000"
+        ],
+        "correct_index": 0,
+        "explanation": "Nhẩm: $4$ nghìn $: 2 = 2$ nghìn, vậy $4\\;000 : 2 = 2\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t3-b2c",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2 (Phần 3).** Tính nhẩm: $8\\;000 : 8 = \\dots$",
+        "options": [
+          "1000"
+        ],
+        "correct_index": 0,
+        "explanation": "Nhẩm: $8$ nghìn $: 8 = 1$ nghìn, vậy $8\\;000 : 8 = 1\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t3-b3a",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3a.** Điền dấu thích hợp ($>; <; =$) vào chỗ chấm: $4\\;500 : 9 \\dots 8\\;000 : 4$",
+        "options": [
+          "<",
+          ">",
+          "="
+        ],
+        "correct_index": 0,
+        "explanation": "Ta tính giá trị hai vế:\n- $4\\;500 : 9 = 500$\n- $8\\;000 : 4 = 2\\;000$\nVì $500 < 2\\;000$ nên $4\\;500 : 9 < 8\\;000 : 4$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t3-b3b",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3b.** Điền dấu thích hợp ($>; <; =$) vào chỗ chấm: $9\\;000 : 3 \\dots 300 \\times 8$",
+        "options": [
+          ">",
+          "<",
+          "="
+        ],
+        "correct_index": 0,
+        "explanation": "Ta tính giá trị hai vế:\n- $9\\;000 : 3 = 3\\;000$\n- $300 \\times 8 = 2\\;400$\nVì $3\\;000 > 2\\;400$ nên $9\\;000 : 3 > 300 \\times 8$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t3-b3c",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3c.** Điền dấu thích hợp ($>; <; =$) vào chỗ chấm: $5\\;600 : 8 \\dots 350 \\times 2$",
+        "options": [
+          "=",
+          ">",
+          "<"
+        ],
+        "correct_index": 0,
+        "explanation": "Ta tính giá trị hai vế:\n- $5\\;600 : 8 = 700$\n- $350 \\times 2 = 700$\nVì $700 = 700$ nên $5\\;600 : 8 = 350 \\times 2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t3-b4a",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 4a.** Kiến C bò một vòng được $9\\;327$ mm, dài gấp $3$ lần một vòng của kiến A. Kiến A bò một vòng được ...... mm.",
+        "options": [
+          "3109"
+        ],
+        "correct_index": 0,
+        "explanation": "Độ dài một vòng của kiến A là:\n$9\\;327 : 3 = 3\\;109$ (mm).\nĐiền số: $3\\;109$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-3"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-57-t3-b4b",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 4b.** Kiến B bò một vòng dài gấp $2$ lần một vòng của kiến A. Kiến B bò một vòng được ...... mm.",
+        "options": [
+          "6218"
+        ],
+        "correct_index": 0,
+        "explanation": "Độ dài một vòng của kiến A là $3\\;109$ mm.\nĐộ dài một vòng của kiến B là:\n$3\\;109 \\times 2 = 6\\;218$ (mm).\nĐiền số: $6\\;218$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-57",
+          "tiet-3"
+        ]
+      }
+    ]
+  }
+]

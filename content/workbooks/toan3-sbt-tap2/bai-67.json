@@ -1,0 +1,240 @@
+[
+  {
+    "bai": 67,
+    "title": "Bài 67: Thực hành xem đồng hồ, xem lịch",
+    "book_pages": "78 - 81",
+    "topic": "Chủ đề 13: Đồng hồ. Tháng – năm. Tiền Việt Nam",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-67-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Vào sáng thứ Bảy, Rô-bốt thức dậy, đi xe đạp một vòng quanh công viên rồi về nhà cùng cả gia đình ăn bữa sáng. Những chiếc đồng hồ dưới đây hiển thị thời gian khi Rô-bốt bắt đầu thực hiện các hoạt động: thức dậy, đi xe đạp và ăn sáng. Dựa vào trình tự kể trên, viết hoạt động thích hợp vào chỗ chấm theo thứ tự từ trái sang phải.\\n\\n- Đồng hồ 1 (chỉ 6 giờ): \\\\ldots\\n- Đồng hồ 2 (chỉ 6 giờ 15 phút): \\\\ldots\\n- Đồng hồ 3 (chỉ 6 giờ 45 phút): \\\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Theo trình tự các hoạt động vào buổi sáng: Rô-bốt thức dậy trước tiên (lúc 6 giờ), sau đó đi xe đạp quanh công viên (lúc 6 giờ 15 phút) và cuối cùng là về ăn sáng cùng gia đình (lúc 6 giờ 45 phút).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-67-2-a",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2a.** Rô-bốt bắt đầu trộn bột vào lúc $7$ giờ $40$ phút rồi tiến hành nhào bột. Công đoàn này kéo dài $20$ phút. Hỏi đồng hồ nào dưới đây chỉ lúc Rô-bốt nhào bột xong?",
+        "options": [
+          "Đồng hồ A",
+          "Đồng hồ B",
+          "Đồng hồ C",
+          "Đồng hồ D"
+        ],
+        "correct_index": 1,
+        "explanation": "Thời điểm Rô-bốt nhào bột xong là: $7$ giờ $40$ phút $+ 20$ phút = $7$ giờ $60$ phút hay $8$ giờ đúng. Quan sát các đồng hồ ta thấy Đồng hồ B chỉ $8$ giờ đúng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-67-2-b",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2b.** Thời gian ủ bột là $50$ phút. Rô-bốt bắt đầu cho bột vào lò ủ lúc $8$ giờ. Hỏi khi Rô-bốt lấy bột ra khỏi lò ủ thì đồng hồ chỉ thời gian nào?",
+        "options": [
+          "Đồng hồ A",
+          "Đồng hồ B",
+          "Đồng hồ C",
+          "Đồng hồ D"
+        ],
+        "correct_index": 2,
+        "explanation": "Thời điểm lấy bột ra khỏi lò ủ là: $8$ giờ $+ 50$ phút = $8$ giờ $50$ phút. Quan sát các đồng hồ ta thấy Đồng hồ C chỉ $8$ giờ $50$ phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-67-2-c",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2c.** Rô-bốt đã nhờ mẹ tạo hình cho chiếc bánh. Thời gian bắt đầu và kết thúc như hình bên (Bắt đầu lúc $9$ giờ $10$ phút, kết thúc lúc $9$ giờ $13$ phút). Hỏi mẹ tạo hình bánh trong bao nhiêu phút?",
+        "options": [
+          "A. $5$ phút",
+          "B. $4$ phút",
+          "C. $3$ phút",
+          "D. $2$ phút"
+        ],
+        "correct_index": 2,
+        "explanation": "Thời gian mẹ tạo hình bánh là: $9$ giờ $13$ phút $- 9$ giờ $10$ phút = $3$ phút. Chọn đáp án C.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-67-2-d",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2d.** Rô-bốt nướng bánh trong $20$ phút. Bánh nướng xong lúc $9$ giờ $25$ phút. Hỏi đồng hồ nào dưới đây chỉ lúc Rô-bốt bắt đầu nướng bánh?",
+        "options": [
+          "Đồng hồ A",
+          "Đồng hồ B",
+          "Đồng hồ C",
+          "Đồng hồ D"
+        ],
+        "correct_index": 0,
+        "explanation": "Thời điểm Rô-bốt bắt đầu nướng bánh là: $9$ giờ $25$ phút $- 20$ phút = $9$ giờ $5$ phút. Quan sát các đồng hồ ta thấy Đồng hồ A chỉ $9$ giờ $5$ phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-67-3",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Vào buổi chiều, mẹ đi chợ và Rô-bốt ở nhà dọn dẹp nhà cửa cùng bố. Hai bố con dự định làm $3$ việc trong thời gian như sau:\\n- Hút bụi, lau nhà trước $4$ giờ $30$ phút chiều.\\n- Cắt cỏ ở vườn từ $4$ giờ đến $5$ giờ chiều.\\n- Sắp xếp lại giá sách ở phòng làm việc trước $3$ giờ chiều.\\n\\nHỏi bố và Rô-bốt nên thực hiện những công việc đó theo thứ tự thế nào?\\nTrả lời: Bố và Rô-bốt nên \\\\ldots, sau đó \\\\ldots, rồi cuối cùng \\\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Dựa vào các mốc thời gian của từng việc:\\n1. Sắp xếp lại giá sách trước $3$ giờ chiều (làm đầu tiên).\\n2. Hút bụi, lau nhà trước $4$ giờ $30$ phút chiều (làm thứ hai).\\n3. Cắt cỏ ở vườn từ $4$ giờ đến $5$ giờ chiều (làm cuối cùng).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-67-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4.** Vào buổi tối, gia đình Rô-bốt dự định đi cắm trại vào ngày hôm sau. Nhưng lúc $11$ giờ đêm hôm đó, trời bắt đầu mưa. May sao, đến lúc $3$ giờ sáng ngày hôm sau, trời tạnh mưa. Hỏi cơn mưa đó kéo dài bao lâu?",
+        "options": [
+          "A. $3$ giờ",
+          "B. $4$ giờ",
+          "C. $5$ giờ",
+          "D. $6$ giờ"
+        ],
+        "correct_index": 1,
+        "explanation": "Từ $11$ giờ đêm hôm trước đến $12$ giờ đêm là $1$ giờ. Từ $12$ giờ đêm đến $3$ giờ sáng hôm sau là $3$ giờ. Tổng thời gian mưa là: $1$ giờ $+ 3$ giờ = $4$ giờ. Chọn đáp án B.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-67-5",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1.** Kì nghỉ của gia đình Rô-bốt bắt đầu từ ngày $1$ tháng $1$ đến hết ngày $3$ tháng $1$. Kì nghỉ đó kéo dài \\\\ldots ngày.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Kì nghỉ kéo dài từ ngày $1$ đến hết ngày $3$ tháng $1$, gồm các ngày: ngày $1$, ngày $2$ và ngày $3$. Vậy kì nghỉ kéo dài $3$ ngày.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-67-6-a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2a.** Gia đình Rô-bốt sẽ đi máy bay sáng ngày $1$ tháng $1$ từ Hà Nội vào Đà Lạt. Họ cần thuê xe ở Đà Lạt trước chuyến đi $3$ ngày để chắc chắn có xe. Vậy gia đình Rô-bốt cần đặt xe vào ngày \\\\ldots tháng \\\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Đếm lùi lại $3$ ngày trước ngày $1$ tháng $1$: ngày $31$ tháng $12$ (năm trước), ngày $30$ tháng $12$, ngày $29$ tháng $12$. Vậy gia đình Rô-bốt cần đặt xe vào ngày $29$ tháng $12$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-67-6-b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2b.** Ngoài ra, gia đình Rô-bốt muốn chuẩn bị một số món quà cho những người bạn ở Đà Lạt. Họ dự định đi mua quà vào Chủ nhật của tuần trước đó. Quan sát lịch tháng $1$ (ngày $1$ tháng $1$ là thứ Sáu), Chủ nhật tuần trước đó là ngày \\\\ldots tháng \\\\ldots",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ngày $1$ tháng $1$ là thứ Sáu. Chủ nhật của tuần đó là ngày $3$ tháng $1$. Chủ nhật của tuần trước đó là ngày $27$ tháng $12$ (hoặc lùi lại $7$ ngày từ ngày $3$ tháng $1$ là ngày $27$ tháng $12$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-67-7",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 3a.** Trong lúc mẹ chuẩn bị bữa tối, bố và Rô-bốt cùng nhau sắp xếp vào va li những đồ dùng cần thiết cho chuyến đi. Đồng hồ bắt đầu chỉ $7$ giờ $5$ phút, đồng hồ kết thúc chỉ $7$ giờ $35$ phút. Hai bố con Rô-bốt đã sắp xếp đồ trong \\\\ldots phút.",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Thời gian hai bố con sắp xếp đồ là: $7$ giờ $35$ phút $- 7$ giờ $5$ phút = $30$ phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-67-8",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3b.** Sau bữa cơm, cả gia đình cùng nhau dọn dẹp nhà cửa để chào đón năm mới. Họ đã bắt đầu hoạt động này vào lúc $8$ giờ $10$ phút và kết thúc sau $43$ phút. Hỏi khi đó, đồng hồ chỉ thời gian nào?",
+        "options": [
+          "Đồng hồ A",
+          "Đồng hồ B",
+          "Đồng hồ C",
+          "Đồng hồ D"
+        ],
+        "correct_index": 3,
+        "explanation": "Thời điểm kết thúc dọn dẹp là: $8$ giờ $10$ phút $+ 43$ phút = $8$ giờ $53$ phút. Quan sát các đồng hồ ta thấy Đồng hồ D chỉ $8$ giờ $53$ phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-67-9",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4.** Gia đình Rô-bốt đã lên máy bay $25$ phút trước thời điểm máy bay cất cánh. Đó là lúc $6$ giờ $40$ phút sáng. Hỏi đồng hồ nào chỉ thời điểm máy bay cất cánh?",
+        "options": [
+          "Đồng hồ A",
+          "Đồng hồ B",
+          "Đồng hồ C",
+          "Đồng hồ D"
+        ],
+        "correct_index": 2,
+        "explanation": "Thời điểm máy bay cất cánh là: $6$ giờ $40$ phút $+ 25$ phút = $6$ giờ $65$ phút hay $7$ giờ $5$ phút. Quan sát các đồng hồ ta thấy Đồng hồ C chỉ $7$ giờ $5$ phút.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-67"
+        ]
+      }
+    ]
+  }
+]

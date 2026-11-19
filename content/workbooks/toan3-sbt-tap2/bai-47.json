@@ -1,0 +1,378 @@
+[
+  {
+    "bai": 47,
+    "title": "Bài 47: Làm quen với chữ số La Mã",
+    "book_pages": "10 - 12",
+    "topic": "Chủ đề 8: Các số đến 10 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-47-1-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Quan sát các đồng hồ sau và điền số thích hợp vào chỗ trống (theo mẫu):\n\nCác đồng hồ đều chỉ $\\ldots$ giờ.",
+        "correct_answer": "3",
+        "explanation": "Quan sát hình ảnh, các đồng hồ đều có kim giờ chỉ vào số $3$ và kim phút chỉ vào số $12$. Điều này có nghĩa là các đồng hồ đều chỉ $3$ giờ. Chúng ta sẽ điền '3' vào chỗ trống.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "thoi-gian"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-2-1",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Nối số $10$ với chữ số La Mã tương ứng.",
+        "options": [
+          "IX",
+          "XX",
+          "X",
+          "V"
+        ],
+        "correct_index": 2,
+        "explanation": "Chữ số La Mã $X$ biểu diễn cho số $10$. Vì vậy, chúng ta nối số $10$ với $X$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "noi"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-2-2",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Nối số $5$ với chữ số La Mã tương ứng.",
+        "options": [
+          "IX",
+          "XX",
+          "X",
+          "V"
+        ],
+        "correct_index": 3,
+        "explanation": "Chữ số La Mã $V$ biểu diễn cho số $5$. Vì vậy, chúng ta nối số $5$ với $V$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "noi"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-2-3",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Nối số $9$ với chữ số La Mã tương ứng.",
+        "options": [
+          "IX",
+          "XX",
+          "X",
+          "V"
+        ],
+        "correct_index": 0,
+        "explanation": "Chữ số La Mã $IX$ biểu diễn cho số $9$. (Đây là quy tắc số nhỏ đứng trước số lớn: $X-I = 10-1 = 9$). Vì vậy, chúng ta nối số $9$ với $IX$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "noi"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-2-4",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 2.** Nối số $20$ với chữ số La Mã tương ứng.",
+        "options": [
+          "IX",
+          "XX",
+          "X",
+          "V"
+        ],
+        "correct_index": 1,
+        "explanation": "Chữ số La Mã $XX$ biểu diễn cho số $20$. ($X+X = 10+10 = 20$). Vì vậy, chúng ta nối số $20$ với $XX$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "noi"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-3a-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Viết cách đọc số La Mã $VII$: $\\ldots$",
+        "correct_answer": "bảy",
+        "explanation": "Chữ số La Mã $V$ là $5$, $I$ là $1$. $VII$ là $V + I + I = 5 + 1 + 1 = 7$. Vậy $VII$ đọc là 'bảy'.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "doc-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-3a-2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Viết cách đọc số La Mã $XIII$: $\\ldots$",
+        "correct_answer": "mười ba",
+        "explanation": "Chữ số La Mã $X$ là $10$, $I$ là $1$. $XIII$ là $X + I + I + I = 10 + 1 + 1 + 1 = 13$. Vậy $XIII$ đọc là 'mười ba'.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "doc-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-3a-3",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3a.** Viết cách đọc số La Mã $XIX$: $\\ldots$",
+        "correct_answer": "mười chín",
+        "explanation": "Chữ số La Mã $X$ là $10$, $I$ là $1$, $X$ là $10$. $IX$ là $10 - 1 = 9$. Vậy $XIX$ là $10 + 9 = 19$. Số $XIX$ đọc là 'mười chín'.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "doc-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-3b-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3b.** Viết số $16$ bằng chữ số La Mã: $\\ldots$",
+        "correct_answer": "XVI",
+        "explanation": "Số $16$ được viết bằng chữ số La Mã là $XVI$. ($X = 10$, $VI = 6$, vậy $10 + 6 = 16$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "viet-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-3b-2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3b.** Viết số $19$ bằng chữ số La Mã: $\\ldots$",
+        "correct_answer": "XIX",
+        "explanation": "Số $19$ được viết bằng chữ số La Mã là $XIX$. ($X = 10$, $IX = 9$, vậy $10 + 9 = 19$).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "viet-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-4",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 4.** Một cuốn sách bị mất một tờ (như hình bên). Các trang sách được ghi bằng số La Mã. Các trang bị mất được ghi số $\\ldots$ và $\\ldots$. (Thứ tự tăng dần)",
+        "correct_answer": "XII,XIII",
+        "explanation": "Các trang sách được ghi bằng số La Mã. Chúng ta thấy trang $XI$ và trang $XIV$. Các trang bị mất nằm giữa trang $XI$ và $XIV$. Sau $XI$ là $XII$ và tiếp theo là $XIII$. Sau $XIII$ là $XIV$. Vậy các trang bị mất được ghi số $XII$ và $XIII$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "dien-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-t2-1a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1a.** Để xếp cả số $3$ và số $6$ bằng chữ số La Mã thì dùng hết $\\ldots$ que tính.",
+        "correct_answer": "5",
+        "explanation": "Để xếp số $3$ bằng chữ số La Mã, chúng ta cần $3$ que tính ($III$).\nĐể xếp số $6$ bằng chữ số La Mã, chúng ta cần $2$ que tính ($VI$).\nTổng số que tính cần dùng là $3 + 2 = 5$ que tính.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "que-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-t2-1b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1b.** Để xếp ba số $12$ bằng chữ số La Mã thì dùng hết $\\ldots$ que tính.",
+        "correct_answer": "12",
+        "explanation": "Để xếp số $12$ bằng chữ số La Mã, chúng ta cần $4$ que tính ($XII$).\nĐể xếp ba số $12$ như vậy, tổng số que tính cần dùng là $4 \\times 3 = 12$ que tính.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "que-tinh"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-t2-2-1",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Viết số La Mã thích hợp vào thùng hàng còn trống thứ nhất (sau $VII$): $\\ldots$",
+        "correct_answer": "VIII",
+        "explanation": "Dãy số La Mã liên tiếp là $V, VI, VII, \\ldots, IX, \\ldots, \\ldots$. Số đứng sau $VII$ và trước $IX$ là $VIII$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "dien-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-t2-2-2",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Viết số La Mã thích hợp vào thùng hàng còn trống thứ hai (sau $IX$): $\\ldots$",
+        "correct_answer": "X",
+        "explanation": "Dãy số La Mã liên tiếp là $V, VI, VII, VIII, IX, \\ldots, \\ldots$. Số đứng sau $IX$ là $X$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "dien-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-t2-2-3",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Viết số La Mã thích hợp vào thùng hàng còn trống thứ ba (sau $X$): $\\ldots$",
+        "correct_answer": "XI",
+        "explanation": "Dãy số La Mã liên tiếp là $V, VI, VII, VIII, IX, X, \\ldots$. Số đứng sau $X$ là $XI$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "dien-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-t2-3-1",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Đồng hồ kim loại C chỉ mấy giờ? Chọn đồng hồ điện tử tương ứng.",
+        "options": [
+          "E (15:00)",
+          "G (23:00)",
+          "H (8:00)",
+          "I (12:00)"
+        ],
+        "correct_index": 2,
+        "explanation": "Đồng hồ kim loại C có kim giờ chỉ số $VIII$ (số $8$) và kim phút chỉ số $XII$ (số $12$). Vậy đồng hồ C chỉ $8$ giờ. Trong các đồng hồ điện tử, đồng hồ H chỉ $8:00$. Do đó, đồng hồ C và H chỉ cùng giờ.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "dong-ho",
+          "thoi-gian"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-t2-3-2",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 3.** Đồng hồ kim loại D chỉ mấy giờ (theo biểu tượng ban đêm)? Chọn đồng hồ điện tử tương ứng.",
+        "options": [
+          "E (15:00)",
+          "G (23:00)",
+          "H (8:00)",
+          "I (12:00)"
+        ],
+        "correct_index": 3,
+        "explanation": "Đồng hồ kim loại D có kim giờ và kim phút cùng chỉ số $XII$ (số $12$). Kèm theo biểu tượng mặt trăng, điều này có nghĩa là đồng hồ D chỉ $12$ giờ đêm (hay $0:00$ sáng). Trong các đồng hồ điện tử, đồng hồ I chỉ $12:00$. Do đó, đồng hồ D và I chỉ cùng giờ ($12:00$ có thể là trưa hoặc đêm, nhưng với biểu tượng mặt trăng thì là đêm).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "dong-ho",
+          "thoi-gian"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-t2-4-1",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4.** Trong dãy số La Mã từ $I$ đến $XX$, số nào liền sau $XV$?",
+        "options": [
+          "XIV",
+          "XVI",
+          "XVII",
+          "XIX"
+        ],
+        "correct_index": 1,
+        "explanation": "Dãy số La Mã từ $I$ đến $XX$ là $I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX$. Số liền sau $XV$ là $XVI$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-47-t2-4-2",
+        "tiet": 2,
+        "type": "multiple_choice",
+        "question": "**Tiết 2 - Bài 4.** Trong dãy số La Mã từ $I$ đến $XX$, số nào liền trước $XX$?",
+        "options": [
+          "XVII",
+          "XVIII",
+          "XIX",
+          "XVI"
+        ],
+        "correct_index": 2,
+        "explanation": "Dãy số La Mã từ $I$ đến $XX$ là $I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX$. Số liền trước $XX$ là $XIX$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-47",
+          "la-ma",
+          "day-so"
+        ]
+      }
+    ]
+  }
+]

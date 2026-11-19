@@ -1,0 +1,930 @@
+[
+  {
+    "bai": 45,
+    "title": "Bài 45: Các số có bốn chữ số. Số 10 000",
+    "book_pages": "3 - 6",
+    "topic": "Chủ đề 8: Các số đến 10 000",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-45-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1a.** Viết số thích hợp lên tấm bìa tương ứng với cách đọc số \"Hai nghìn một trăm chín mươi mốt\".",
+        "correct_answer": "2191",
+        "explanation": "Số \"Hai nghìn một trăm chín mươi mốt\" được viết là $2\\;191$. Chữ số $2$ ở hàng nghìn, chữ số $1$ ở hàng trăm, chữ số $9$ ở hàng chục, chữ số $1$ ở hàng đơn vị.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "doc-viet-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-2",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1b.** Viết số thích hợp lên tấm bìa tương ứng với cách đọc số \"Năm nghìn không trăm linh sáu\".",
+        "correct_answer": "5006",
+        "explanation": "Số \"Năm nghìn không trăm linh sáu\" được viết là $5\\;006$. Chữ số $5$ ở hàng nghìn, chữ số $0$ ở hàng trăm, chữ số $0$ ở hàng chục, chữ số $6$ ở hàng đơn vị.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "doc-viet-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-3",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1c.** Viết số thích hợp lên tấm bìa tương ứng với cách đọc số \"Sáu nghìn ba trăm năm mươi\".",
+        "correct_answer": "6350",
+        "explanation": "Số \"Sáu nghìn ba trăm năm mươi\" được viết là $6\\;350$. Chữ số $6$ ở hàng nghìn, chữ số $3$ ở hàng trăm, chữ số $5$ ở hàng chục, chữ số $0$ ở hàng đơn vị.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "doc-viet-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-4",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1d.** Viết số thích hợp lên tấm bìa tương ứng với cách đọc số \"Tám nghìn bảy trăm linh năm\".",
+        "correct_answer": "8705",
+        "explanation": "Số \"Tám nghìn bảy trăm linh năm\" được viết là $8\\;705$. Chữ số $8$ ở hàng nghìn, chữ số $7$ ở hàng trăm, chữ số $0$ ở hàng chục, chữ số $5$ ở hàng đơn vị.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "doc-viet-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-5",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2a.** Điền số thích hợp vào chỗ chấm thứ nhất trong dãy số: $2\\;995$, $2\\;996$, $2\\;997$, $\\ldots$, $\\ldots$, $\\ldots$, $3\\;001$, $3\\;002$.",
+        "correct_answer": "2998",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $2\\;997$ là $2\\;998$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-6",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2a.** Điền số thích hợp vào chỗ chấm thứ hai trong dãy số: $2\\;995$, $2\\;996$, $2\\;997$, $2\\;998$, $\\ldots$, $\\ldots$, $3\\;001$, $3\\;002$.",
+        "correct_answer": "2999",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $2\\;998$ là $2\\;999$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-7",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2a.** Điền số thích hợp vào chỗ chấm thứ ba trong dãy số: $2\\;995$, $2\\;996$, $2\\;997$, $2\\;998$, $2\\;999$, $\\ldots$, $3\\;001$, $3\\;002$.",
+        "correct_answer": "3000",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $2\\;999$ là $3\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-8",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2b.** Điền số thích hợp vào chỗ chấm thứ nhất trong dãy số: $\\ldots$, $\\ldots$, $2\\;701$, $2\\;702$, $2\\;703$, $\\ldots$, $\\ldots$, $2\\;705$.",
+        "correct_answer": "2699",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Để tìm số đứng trước $2\\;701$, ta lấy $2\\;701 - 1 = 2\\;700$. Tiếp tục lấy $2\\;700 - 1 = 2\\;699$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-9",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2b.** Điền số thích hợp vào chỗ chấm thứ hai trong dãy số: $2\\;699$, $\\ldots$, $2\\;701$, $2\\;702$, $2\\;703$, $\\ldots$, $\\ldots$, $2\\;705$.",
+        "correct_answer": "2700",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $2\\;699$ là $2\\;700$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-10",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2b.** Điền số thích hợp vào chỗ chấm thứ ba trong dãy số: $2\\;699$, $2\\;700$, $2\\;701$, $2\\;702$, $2\\;703$, $\\ldots$, $\\ldots$, $2\\;705$.",
+        "correct_answer": "2704",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $2\\;703$ là $2\\;704$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-11",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2b.** Điền số thích hợp vào chỗ chấm thứ tư trong dãy số: $2\\;699$, $2\\;700$, $2\\;701$, $2\\;702$, $2\\;703$, $2\\;704$, $\\ldots$, $2\\;705$.",
+        "correct_answer": "2705",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $2\\;704$ là $2\\;705$. Hoặc, ta có thể thấy số cuối cùng của dãy là $2\\;705$, vậy số cần điền chính là $2\\;705$ (đề bài yêu cầu điền vào chỗ chấm thứ tư, mà đây là số cuối cùng của dãy).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-12",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2c.** Điền số thích hợp vào chỗ chấm thứ nhất trong dãy số: $1\\;138$, $1\\;139$, $\\ldots$, $1\\;141$, $1\\;142$, $\\ldots$, $\\ldots$, $1\\;145$.",
+        "correct_answer": "1140",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $1\\;139$ là $1\\;140$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-13",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2c.** Điền số thích hợp vào chỗ chấm thứ hai trong dãy số: $1\\;138$, $1\\;139$, $1\\;140$, $1\\;141$, $1\\;142$, $\\ldots$, $\\ldots$, $1\\;145$.",
+        "correct_answer": "1143",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $1\\;142$ là $1\\;143$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-14",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2c.** Điền số thích hợp vào chỗ chấm thứ ba trong dãy số: $1\\;138$, $1\\;139$, $1\\;140$, $1\\;141$, $1\\;142$, $1\\;143$, $\\ldots$, $1\\;145$.",
+        "correct_answer": "1144",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $1\\;143$ là $1\\;144$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-15",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Điền số thích hợp vào ô trống \"Viết số\" của hàng thứ nhất trong bảng sau, biết số đó có hàng nghìn là $1$, hàng trăm là $8$, hàng chục là $2$, hàng đơn vị là $0$ và đọc là \"một nghìn tám trăm hai mươi\".",
+        "correct_answer": "1820",
+        "explanation": "Dựa vào các chữ số ở các hàng: $1$ nghìn, $8$ trăm, $2$ chục, $0$ đơn vị, ta viết được số là $1\\;820$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so",
+          "doc-viet-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-16",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Điền số thích hợp vào ô trống \"Hàng nghìn\" của hàng thứ hai trong bảng sau, biết số đó có hàng trăm là $6$, hàng chục là $5$, hàng đơn vị là $5$ và đọc là \"bốn nghìn sáu trăm năm mươi lăm\".",
+        "correct_answer": "4",
+        "explanation": "Số \"bốn nghìn sáu trăm năm mươi lăm\" được viết là $4\\;655$. Vậy chữ số ở hàng nghìn là $4$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so",
+          "doc-viet-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-17",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Điền số thích hợp vào ô trống \"Viết số\" của hàng thứ ba trong bảng sau, biết số đó có hàng nghìn là $5$, hàng trăm là $9$, hàng chục là $0$, hàng đơn vị là $0$ và đọc là \"năm nghìn chín trăm\".",
+        "correct_answer": "5900",
+        "explanation": "Dựa vào các chữ số ở các hàng: $5$ nghìn, $9$ trăm, $0$ chục, $0$ đơn vị, ta viết được số là $5\\;900$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so",
+          "doc-viet-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-18",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 3.** Điền số thích hợp vào ô trống \"Hàng chục\" của hàng thứ tư trong bảng sau, biết số đó có hàng nghìn là $7$, hàng trăm là $8$, hàng đơn vị là $4$ và đọc là \"bảy nghìn tám trăm linh tư\".",
+        "correct_answer": "0",
+        "explanation": "Số \"bảy nghìn tám trăm linh tư\" được viết là $7\\;804$. Vậy chữ số ở hàng chục là $0$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so",
+          "doc-viet-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-19",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4.** Trong các số dưới đây, số nào là số tròn trăm (nhưng không phải số tròn nghìn)?\n$2\\;100$, $3\\;200$, $8\\;000$, $4\\;000$, $9\\;000$, $5\\;400$, $7\\;800$, $6\\;720$.",
+        "options": [
+          "$2\\;100$",
+          "$8\\;000$",
+          "$9\\;000$",
+          "$6\\;720$"
+        ],
+        "correct_index": 0,
+        "explanation": "Số tròn trăm là số có hai chữ số tận cùng là $00$. Các số tròn trăm trong dãy là $2\\;100$, $3\\;200$, $8\\;000$, $4\\;000$, $9\\;000$, $5\\;400$, $7\\;800$.\nSố tròn nghìn là số có ba chữ số tận cùng là $000$. Các số tròn nghìn trong dãy là $8\\;000$, $4\\;000$, $9\\;000$.\nSố là số tròn trăm nhưng không phải số tròn nghìn là $2\\;100$, $3\\;200$, $5\\;400$, $7\\;800$. Trong các lựa chọn, $2\\;100$ thỏa mãn.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "so-tron-tram",
+          "so-tron-nghin"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-20",
+        "tiet": 1,
+        "type": "multiple_choice",
+        "question": "**Tiết 1 - Bài 4.** Trong các số dưới đây, số nào là số tròn nghìn?\n$2\\;100$, $3\\;200$, $8\\;000$, $4\\;000$, $9\\;000$, $5\\;400$, $7\\;800$, $6\\;720$.",
+        "options": [
+          "$2\\;100$",
+          "$5\\;400$",
+          "$8\\;000$",
+          "$6\\;720$"
+        ],
+        "correct_index": 2,
+        "explanation": "Số tròn nghìn là số có ba chữ số tận cùng là $000$. Trong các số đã cho, $8\\;000$, $4\\;000$, $9\\;000$ là các số tròn nghìn. Trong các lựa chọn, $8\\;000$ thỏa mãn.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "so-tron-tram",
+          "so-tron-nghin"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-21",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1a.** Viết số thích hợp vào chỗ chấm: Số $\\ldots$ gồm $3$ nghìn, $6$ trăm, $9$ chục và $0$ đơn vị.",
+        "correct_answer": "3690",
+        "explanation": "Số gồm $3$ nghìn, $6$ trăm, $9$ chục và $0$ đơn vị được viết là $3\\;690$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-22",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1b.** Viết số thích hợp vào chỗ chấm: Số $\\ldots$ gồm $6$ nghìn, $4$ trăm, $2$ chục và $8$ đơn vị.",
+        "correct_answer": "6428",
+        "explanation": "Số gồm $6$ nghìn, $4$ trăm, $2$ chục và $8$ đơn vị được viết là $6\\;428$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-23",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1c.** Viết số thích hợp vào chỗ chấm: Số $\\ldots$ gồm $9$ nghìn, $7$ trăm, $1$ chục và $3$ đơn vị.",
+        "correct_answer": "9713",
+        "explanation": "Số gồm $9$ nghìn, $7$ trăm, $1$ chục và $3$ đơn vị được viết là $9\\;713$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-24",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1d.** Viết số thích hợp vào chỗ chấm: Số $\\ldots$ gồm $8$ nghìn, $0$ trăm, $3$ chục và $0$ đơn vị.",
+        "correct_answer": "8030",
+        "explanation": "Số gồm $8$ nghìn, $0$ trăm, $3$ chục và $0$ đơn vị được viết là $8\\;030$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-25",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Điền số thích hợp vào toa tàu còn trống thứ nhất của dãy số: $2\\;999 \\to 3\\;000 \\to \\ldots \\to \\ldots$.",
+        "correct_answer": "3001",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $3\\;000$ là $3\\;001$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-26",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Điền số thích hợp vào toa tàu còn trống thứ hai của dãy số: $2\\;999 \\to 3\\;000 \\to 3\\;001 \\to \\ldots$.",
+        "correct_answer": "3002",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $3\\;001$ là $3\\;002$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-27",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Điền số thích hợp vào toa tàu còn trống thứ nhất của dãy số: $\\ldots \\to \\ldots \\to 4\\;890$.",
+        "correct_answer": "4888",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Để tìm số đứng trước $4\\;890$, ta lấy $4\\;890 - 1 = 4\\;889$. Để tìm số đứng trước $4\\;889$, ta lấy $4\\;889 - 1 = 4\\;888$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-28",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Điền số thích hợp vào toa tàu còn trống thứ hai của dãy số: $4\\;888 \\to \\ldots \\to 4\\;890$.",
+        "correct_answer": "4889",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $4\\;888$ là $4\\;889$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-29",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Điền số thích hợp vào toa tàu còn trống thứ nhất của dãy số: $\\ldots \\to \\ldots \\to 3\\;785$.",
+        "correct_answer": "3783",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Để tìm số đứng trước $3\\;785$, ta lấy $3\\;785 - 1 = 3\\;784$. Để tìm số đứng trước $3\\;784$, ta lấy $3\\;784 - 1 = 3\\;783$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-30",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Điền số thích hợp vào toa tàu còn trống thứ hai của dãy số: $3\\;783 \\to \\ldots \\to 3\\;785$.",
+        "correct_answer": "3784",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $3\\;783$ là $3\\;784$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-31",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Điền số thích hợp vào toa tàu còn trống thứ nhất của dãy số: $\\ldots \\to \\ldots \\to 7\\;000$.",
+        "correct_answer": "6998",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Để tìm số đứng trước $7\\;000$, ta lấy $7\\;000 - 1 = 6\\;999$. Để tìm số đứng trước $6\\;999$, ta lấy $6\\;999 - 1 = 6\\;998$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-32",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2.** Điền số thích hợp vào toa tàu còn trống thứ hai của dãy số: $6\\;998 \\to \\ldots \\to 7\\;000$.",
+        "correct_answer": "6999",
+        "explanation": "Đây là dãy số tăng dần $1$ đơn vị. Sau $6\\;998$ là $6\\;999$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-33",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3a.** Chọn số có bốn chữ số thích hợp mà có chữ số hàng đơn vị là $8$.",
+        "options": [
+          "$1\\;238$",
+          "$4\\;582$",
+          "$9\\;870$",
+          "$3\\;005$"
+        ],
+        "correct_index": 0,
+        "explanation": "Số có chữ số hàng đơn vị là $8$ là số có chữ số cuối cùng (ngoài cùng bên phải) là $8$. Trong các lựa chọn, số $1\\;238$ có chữ số hàng đơn vị là $8$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-34",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3b.** Chọn số có bốn chữ số thích hợp mà có chữ số hàng chục là $7$.",
+        "options": [
+          "$2\\;017$",
+          "$5\\;789$",
+          "$6\\;271$",
+          "$8\\;703$"
+        ],
+        "correct_index": 2,
+        "explanation": "Số có chữ số hàng chục là $7$ là số có chữ số thứ hai từ phải sang trái là $7$. Trong các lựa chọn, số $6\\;271$ có chữ số hàng chục là $7$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-35",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3c.** Chọn số có bốn chữ số thích hợp mà có chữ số hàng trăm là $0$.",
+        "options": [
+          "$7\\;045$",
+          "$1\\;203$",
+          "$4\\;560$",
+          "$9\\;123$"
+        ],
+        "correct_index": 0,
+        "explanation": "Số có chữ số hàng trăm là $0$ là số có chữ số thứ ba từ phải sang trái là $0$. Trong các lựa chọn, số $7\\;045$ có chữ số hàng trăm là $0$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-36",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 3d.** Chọn số có bốn chữ số thích hợp mà có chữ số hàng nghìn là $2$.",
+        "options": [
+          "$1\\;254$",
+          "$2\\;890$",
+          "$3\\;210$",
+          "$5\\;002$"
+        ],
+        "correct_index": 1,
+        "explanation": "Số có chữ số hàng nghìn là $2$ là số có chữ số đầu tiên (ngoài cùng bên trái) là $2$. Trong các lựa chọn, số $2\\;890$ có chữ số hàng nghìn là $2$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-37",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 4.** Mã số mở cửa nhà của Rô-bốt là một số có bốn chữ số gồm các chữ số $0$, $3$, $5$, $8$. Biết chữ số hàng chục là $3$ và chữ số hàng nghìn lớn hơn $5$. Hỏi số nào dưới đây có thể là mã số mở cửa nhà của Rô-bốt?",
+        "options": [
+          "A. $3\\;508$",
+          "B. $5\\;038$",
+          "C. $5\\;083$",
+          "D. $8\\;530$"
+        ],
+        "correct_index": 3,
+        "explanation": "Chúng ta cần tìm số có bốn chữ số được tạo từ các chữ số $0, 3, 5, 8$.\n- Điều kiện thứ nhất: chữ số hàng chục là $3$.\n  - Loại A ($3\\;508$) vì hàng chục là $0$.\n  - Loại C ($5\\;083$) vì hàng chục là $8$.\n  - Còn lại B ($5\\;038$) và D ($8\\;530$) có hàng chục là $3$.\n- Điều kiện thứ hai: chữ số hàng nghìn lớn hơn $5$.\n  - Số B ($5\\;038$) có hàng nghìn là $5$, không lớn hơn $5$.\n  - Số D ($8\\;530$) có hàng nghìn là $8$, $8$ lớn hơn $5$. Ngoài ra, các chữ số $8, 5, 3, 0$ đều là các chữ số cho sẵn.\nVậy, số $8\\;530$ là mã số đúng.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "giai-toan",
+          "logic"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-38",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 1a.** Viết số thích hợp vào chỗ chấm: Số gồm $4$ nghìn, $2$ trăm, $8$ chục và $3$ đơn vị là $\\ldots$.",
+        "correct_answer": "4283",
+        "explanation": "Số gồm $4$ nghìn, $2$ trăm, $8$ chục và $3$ đơn vị được viết là $4\\;283$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-39",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 1b.** Viết số thích hợp vào chỗ chấm: Số gồm $5$ nghìn, $7$ chục và $1$ đơn vị là $\\ldots$.",
+        "correct_answer": "5071",
+        "explanation": "Số gồm $5$ nghìn, $0$ trăm (vì không nhắc đến hàng trăm), $7$ chục và $1$ đơn vị được viết là $5\\;071$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-40",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 1c.** Viết số thích hợp vào chỗ chấm: Số gồm $9$ nghìn, $2$ trăm và $3$ chục là $\\ldots$.",
+        "correct_answer": "9230",
+        "explanation": "Số gồm $9$ nghìn, $2$ trăm, $3$ chục và $0$ đơn vị (vì không nhắc đến hàng đơn vị) được viết là $9\\;230$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-41",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 1d.** Viết số thích hợp vào chỗ chấm: Số gồm $2$ nghìn, $8$ trăm, $4$ chục và $2$ đơn vị là $\\ldots$.",
+        "correct_answer": "2842",
+        "explanation": "Số gồm $2$ nghìn, $8$ trăm, $4$ chục và $2$ đơn vị được viết là $2\\;842$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-42",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2a.** Điền số thích hợp vào ô trống thứ nhất của dãy số: $3\\;000 \\to 4\\;000 \\to \\ldots \\to \\ldots \\to 7\\;000$.",
+        "correct_answer": "5000",
+        "explanation": "Đây là dãy số tăng dần $1\\;000$ đơn vị. Sau $4\\;000$ là $4\\;000 + 1\\;000 = 5\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-43",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2a.** Điền số thích hợp vào ô trống thứ hai của dãy số: $3\\;000 \\to 4\\;000 \\to 5\\;000 \\to \\ldots \\to 7\\;000$.",
+        "correct_answer": "6000",
+        "explanation": "Đây là dãy số tăng dần $1\\;000$ đơn vị. Sau $5\\;000$ là $5\\;000 + 1\\;000 = 6\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-44",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2b.** Điền số thích hợp vào ô trống thứ nhất của dãy số: $5\\;800 \\to 5\\;900 \\to \\ldots \\to 6\\;100 \\to \\ldots$.",
+        "correct_answer": "6000",
+        "explanation": "Đây là dãy số tăng dần $100$ đơn vị. Sau $5\\;900$ là $5\\;900 + 100 = 6\\;000$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-45",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2b.** Điền số thích hợp vào ô trống thứ hai của dãy số: $5\\;800 \\to 5\\;900 \\to 6\\;000 \\to 6\\;100 \\to \\ldots$.",
+        "correct_answer": "6200",
+        "explanation": "Đây là dãy số tăng dần $100$ đơn vị. Sau $6\\;100$ là $6\\;100 + 100 = 6\\;200$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-46",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2c.** Điền số thích hợp vào ô trống thứ nhất của dãy số: $4\\;000 \\to 4\\;010 \\to \\ldots \\to \\ldots \\to 4\\;040$.",
+        "correct_answer": "4020",
+        "explanation": "Đây là dãy số tăng dần $10$ đơn vị. Sau $4\\;010$ là $4\\;010 + 10 = 4\\;020$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-47",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 2c.** Điền số thích hợp vào ô trống thứ hai của dãy số: $4\\;000 \\to 4\\;010 \\to 4\\;020 \\to \\ldots \\to 4\\;040$.",
+        "correct_answer": "4030",
+        "explanation": "Đây là dãy số tăng dần $10$ đơn vị. Sau $4\\;020$ là $4\\;020 + 10 = 4\\;030$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "day-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-48",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3a.** Điền số thích hợp vào chỗ chấm thứ nhất để phân tích cấu tạo số $6\\;728$: $6\\;728 = 6\\;000 + \\ldots + \\ldots + 8$.",
+        "correct_answer": "700",
+        "explanation": "Số $6\\;728$ gồm $6$ nghìn, $7$ trăm, $2$ chục và $8$ đơn vị. Vậy $6\\;728 = 6\\;000 + 700 + 20 + 8$. Chỗ chấm thứ nhất là $700$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so",
+          "phan-tich-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-49",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3a.** Điền số thích hợp vào chỗ chấm thứ hai để phân tích cấu tạo số $6\\;728$: $6\\;728 = 6\\;000 + 700 + \\ldots + 8$.",
+        "correct_answer": "20",
+        "explanation": "Số $6\\;728$ gồm $6$ nghìn, $7$ trăm, $2$ chục và $8$ đơn vị. Vậy $6\\;728 = 6\\;000 + 700 + 20 + 8$. Chỗ chấm thứ hai là $20$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so",
+          "phan-tich-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-50",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3b.** Điền số thích hợp vào chỗ chấm thứ nhất để phân tích cấu tạo số $9\\;170$: $9\\;170 = 9\\;000 + \\ldots + \\ldots$.",
+        "correct_answer": "100",
+        "explanation": "Số $9\\;170$ gồm $9$ nghìn, $1$ trăm, $7$ chục và $0$ đơn vị. Vậy $9\\;170 = 9\\;000 + 100 + 70$. Chỗ chấm thứ nhất là $100$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so",
+          "phan-tich-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-51",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3b.** Điền số thích hợp vào chỗ chấm thứ hai để phân tích cấu tạo số $9\\;170$: $9\\;170 = 9\\;000 + 100 + \\ldots$.",
+        "correct_answer": "70",
+        "explanation": "Số $9\\;170$ gồm $9$ nghìn, $1$ trăm, $7$ chục và $0$ đơn vị. Vậy $9\\;170 = 9\\;000 + 100 + 70$. Chỗ chấm thứ hai là $70$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so",
+          "phan-tich-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-52",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3c.** Điền số thích hợp vào chỗ chấm thứ nhất để phân tích cấu tạo số $2\\;089$: $2\\;089 = 2\\;000 + \\ldots + \\ldots$.",
+        "correct_answer": "80",
+        "explanation": "Số $2\\;089$ gồm $2$ nghìn, $0$ trăm, $8$ chục và $9$ đơn vị. Vậy $2\\;089 = 2\\;000 + 80 + 9$. Chỗ chấm thứ nhất là $80$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so",
+          "phan-tich-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-53",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3c.** Điền số thích hợp vào chỗ chấm thứ hai để phân tích cấu tạo số $2\\;089$: $2\\;089 = 2\\;000 + 80 + \\ldots$.",
+        "correct_answer": "9",
+        "explanation": "Số $2\\;089$ gồm $2$ nghìn, $0$ trăm, $8$ chục và $9$ đơn vị. Vậy $2\\;089 = 2\\;000 + 80 + 9$. Chỗ chấm thứ hai là $9$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so",
+          "phan-tich-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-54",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3d.** Điền số thích hợp vào chỗ chấm thứ nhất để phân tích cấu tạo số $4\\;650$: $4\\;650 = 4\\;000 + \\ldots + \\ldots$.",
+        "correct_answer": "600",
+        "explanation": "Số $4\\;650$ gồm $4$ nghìn, $6$ trăm, $5$ chục và $0$ đơn vị. Vậy $4\\;650 = 4\\;000 + 600 + 50$. Chỗ chấm thứ nhất là $600$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so",
+          "phan-tich-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-55",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 3d.** Điền số thích hợp vào chỗ chấm thứ hai để phân tích cấu tạo số $4\\;650$: $4\\;650 = 4\\;000 + 600 + \\ldots$.",
+        "correct_answer": "50",
+        "explanation": "Số $4\\;650$ gồm $4$ nghìn, $6$ trăm, $5$ chục và $0$ đơn vị. Vậy $4\\;650 = 4\\;000 + 600 + 50$. Chỗ chấm thứ hai là $50$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "cau-tao-so",
+          "phan-tich-so"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-56",
+        "tiet": 3,
+        "type": "multiple_choice",
+        "question": "**Tiết 3 - Bài 4.** Một con kiến bò từ điểm A đến điểm B theo hướng mũi tên. Trong suốt thời gian di chuyển, nó chỉ đọc các số ở bên phải của nó. Hỏi số cuối cùng mà kiến đọc được là số nào?\nCác lựa chọn:\nA. $3\\;286$\nB. $2\\;638$\nC. $3\\;862$\nD. $2\\;623$",
+        "options": [
+          "A. $3\\;286$",
+          "B. $2\\;638$",
+          "C. $3\\;862$",
+          "D. $2\\;623$"
+        ],
+        "correct_index": 0,
+        "explanation": "Quan sát đường đi của kiến theo mũi tên từ A đến B: \nA $\\to 3\\;286 \\to 2\\;368 \\to 2\\;623 \\to 3\\;862 \\to$ B.\nLời giải thích: \"Trong suốt thời gian di chuyển, nó chỉ đọc các số ở bên phải của nó.\" \nTrong hình vẽ, số $3\\;286$ là số duy nhất nằm ở phía bên phải của hướng di chuyển chung (từ phải sang trái và xuống dưới) của kiến hoặc phía bên phải của đường thẳng mà kiến đi qua so với các số khác. Khi kiến đi từ A lên $3\\;286$, sau đó rẽ trái và đi xuống, tất cả các số khác ($2\\;368$, $2\\;623$, $3\\;862$, $2\\;638$) đều nằm ở phía bên trái hoặc phía dưới của $3\\;286$ hoặc đường đi tiếp theo của kiến. Do đó, $3\\;286$ là số duy nhất mà kiến \"đọc\" được theo điều kiện này, và vì vậy, nó cũng là số cuối cùng kiến đọc được.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "giai-toan",
+          "hinh-hoc"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-45-57",
+        "tiet": 3,
+        "type": "fill_blank",
+        "question": "**Tiết 3 - Bài 5.** Từ các thẻ số như ở hình bên ($5, 0, 2, 0, 7$), Mai có thể lập được các số tròn trăm có bốn chữ số là: $\\ldots$. (Liệt kê tất cả các số, cách nhau bởi dấu phẩy và khoảng trắng).",
+        "correct_answer": "2500, 2700, 5200, 5700, 7200, 7500",
+        "explanation": "Để lập được số tròn trăm có bốn chữ số, số đó phải có hai chữ số tận cùng là $00$. Các thẻ số đã cho là $5, 0, 2, 0, 7$. Chúng ta có hai chữ số $0$ có thể dùng cho hàng chục và hàng đơn vị.\nCác chữ số còn lại là $5, 2, 7$.\nVì là số có bốn chữ số nên chữ số hàng nghìn không thể là $0$. Do đó, chữ số hàng nghìn có thể là $2, 5, 7$.\n- Nếu chữ số hàng nghìn là $2$: Các chữ số còn lại cho hàng trăm là $5, 7$. Ta có $2\\;500$, $2\\;700$.\n- Nếu chữ số hàng nghìn là $5$: Các chữ số còn lại cho hàng trăm là $2, 7$. Ta có $5\\;200$, $5\\;700$.\n- Nếu chữ số hàng nghìn là $7$: Các chữ số còn lại cho hàng trăm là $2, 5$. Ta có $7\\;200$, $7\\;500$.\nVậy, Mai có thể lập được các số tròn trăm có bốn chữ số là: $2\\;500, 2\\;700, 5\\;200, 5\\;700, 7\\;200, 7\\;500$.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-45",
+          "lap-so",
+          "so-tron-tram"
+        ]
+      }
+    ]
+  }
+]

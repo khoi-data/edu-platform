@@ -1,0 +1,122 @@
+[
+  {
+    "bai": 75,
+    "title": "Bài 75: Thực hành và trải nghiệm thu thập, phân loại, ghi chép số liệu, đọc bảng số liệu",
+    "book_pages": "105 - 106",
+    "topic": "Chủ đề 15: Làm quen với yếu tố thống kê, xác suất",
+    "questions": [
+      {
+        "id": "toan3-sbt-t2-75-1",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 1.** Giả sử trong một cuộc khảo sát về loại quả yêu thích của các bạn trong nhóm, kết quả thu được như sau: quả Cam có $5$ bạn thích, quả Táo có $3$ bạn thích, quả Chuối có $4$ bạn thích. Dựa vào bảng số liệu đó, loại quả được yêu thích nhất của các bạn trong nhóm em là gì?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Ta so sánh số bạn yêu thích các loại quả: $5 > 4 > 3$. Vậy loại quả có nhiều bạn thích nhất là quả Cam.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-75",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-75-2-a",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2 (ý a).** Giả sử trong một cuộc khảo sát về môn học yêu thích của lớp, kết quả kiểm đếm cho thấy: Môn Toán: $12$ bạn, Tiếng Việt: $10$ bạn, Tiếng Anh: $8$ bạn, Giáo dục thể chất: $15$ bạn. Hỏi có tất cả bao nhiêu bạn tham gia cuộc khảo sát?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "Tổng số bạn tham gia khảo sát là tổng số bạn yêu thích các môn học:\n$12 + 10 + 8 + 15 = 45$ (bạn).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-75",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-75-2-b",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2 (ý b).** Dựa vào số liệu ở câu trên (Toán: $12$, Tiếng Việt: $10$, Tiếng Anh: $8$, Giáo dục thể chất: $15$), môn học được nhiều bạn yêu thích nhất là môn nào?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "So sánh các số liệu: $15 > 12 > 10 > 8$. Số lớn nhất ứng với môn Giáo dục thể chất ($15$ bạn).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-75",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-75-2-c",
+        "tiet": 1,
+        "type": "fill_blank",
+        "question": "**Tiết 1 - Bài 2 (ý c).** Dựa vào số liệu ở câu trên, môn học được ít bạn yêu thích nhất là môn nào?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "So sánh các số liệu: $8 < 10 < 12 < 15$. Số nhỏ nhất ứng với môn Tiếng Anh ($8$ bạn).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-75",
+          "tiet-1"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-75-t2-1",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 1.** Giả sử kết quả khảo sát màu sắc yêu thích của những người thân trong gia đình như sau: Màu Xanh: $4$ người, Màu Đỏ: $3$ người, Màu Vàng: $2$ người, Màu Tím: $1$ người. Trong số $4$ màu sắc đó, màu nào được nhiều người yêu thích nhất?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "So sánh số lượng người yêu thích các màu: $4 > 3 > 2 > 1$. Vậy màu được nhiều người yêu thích nhất là màu Xanh.",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-75",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-75-t2-2-a",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2 (ý a).** Giả sử kết quả khảo sát loài động vật nuôi trong nhà của những người xung quanh như sau: Chó: $14$ người, Mèo: $10$ người, Chim: $5$ người, Cá: $3$ người. Loài động vật được nhiều người nuôi nhất là loài nào?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "So sánh số lượng người nuôi các loài động vật: $14 > 10 > 5 > 3$. Số lớn nhất ứng với con Chó ($14$ người).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-75",
+          "tiet-2"
+        ]
+      },
+      {
+        "id": "toan3-sbt-t2-75-t2-2-b",
+        "tiet": 2,
+        "type": "fill_blank",
+        "question": "**Tiết 2 - Bài 2 (ý b).** Dựa vào số liệu ở câu trên (Chó: $14$, Mèo: $10$, Chim: $5$, Cá: $3$), loài động vật được ít người nuôi nhất là loài nào?",
+        "options": [],
+        "correct_index": 0,
+        "explanation": "So sánh số lượng người nuôi: $3 < 5 < 10 < 14$. Số nhỏ nhất ứng với con Cá ($3$ người).",
+        "tags": [
+          "toan3",
+          "sbt",
+          "tap-2",
+          "bai-75",
+          "tiet-2"
+        ]
+      }
+    ]
+  }
+]
